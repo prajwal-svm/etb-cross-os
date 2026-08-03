@@ -29,18 +29,9 @@ jobs:
   compile:
     strategy:
       fail-fast: false
+      # Dynamic matrix so we can re-run Windows alone without redoing Ubuntu.
       matrix:
-        include:
-          - os: ubuntu-latest
-            label: ubuntu-x64
-            key: ubuntu
-          - os: windows-latest
-            label: windows-x64
-            key: windows
-    # target_os lets us re-run Windows without redoing Ubuntu
-    if: >-
-      inputs.target_os == 'both' ||
-      inputs.target_os == matrix.key
+        include: ${{ fromJSON(inputs.target_os == 'ubuntu' && '[{"os":"ubuntu-latest","label":"ubuntu-x64"}]' || (inputs.target_os == 'windows' && '[{"os":"windows-latest","label":"windows-x64"}]' || '[{"os":"ubuntu-latest","label":"ubuntu-x64"},{"os":"windows-latest","label":"windows-x64"}]')) }}
     runs-on: ${{ matrix.os }}
     timeout-minutes: 360
 
