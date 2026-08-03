@@ -1,0 +1,22 @@
+{
+  "id": "github-latex/gh-lkedward-latex-github-collab-paper",
+  "source": "github-latex",
+  "format": "latex",
+  "category": "report",
+  "license": "MIT",
+  "source_url": "https://github.com/LKedward/latex-github-collab",
+  "original_author": "LKedward",
+  "stars": 26,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-latex/gh-lkedward-latex-github-collab-paper/paper.tex",
+  "relative_path": "raw/github-latex/gh-lkedward-latex-github-collab-paper/paper.tex",
+  "main_doc": "paper.tex",
+  "sha256": "c66d74856fcaa821790626a8072c067f362be4fba25c5e400daa1d7c28a1817b",
+  "size_bytes": 2663,
+  "document_class": "article",
+  "uses_packages": [
+    "hyperref",
+    "listings"
+  ],
+  "repo_path": "tex/paper.tex",
+  "downloaded_at": "2026-08-02T13:16:27.497Z"
+}

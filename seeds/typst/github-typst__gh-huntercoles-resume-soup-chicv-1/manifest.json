@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-huntercoles-resume-soup-chicv-1",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "cv",
+  "license": "MIT",
+  "source_url": "https://github.com/HunterColes/resume_soup",
+  "original_author": "HunterColes",
+  "stars": 0,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-huntercoles-resume-soup-chicv-1/chicv.typ",
+  "relative_path": "raw/github-typst/gh-huntercoles-resume-soup-chicv-1/chicv.typ",
+  "main_doc": "chicv.typ",
+  "sha256": "4fe4d0f6b8e1594b0f83e7ec4ba372a98e28160752b2e9c7ca25cb47ee6f0bcb",
+  "size_bytes": 5345,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "src/chicv.typ",
+  "downloaded_at": "2026-08-02T14:21:40.728Z"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "overleaf/ol-xjtlu-poster-template-jftxgnqrpxps",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "beamer",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/xjtlu-poster-template/jftxgnqrpxps",
+  "original_author": "Shanliang Yao",
+  "title": "XJTLU Poster Template",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/overleaf/ol-xjtlu-poster-template-jftxgnqrpxps/HeaderGradient.tex",
+  "relative_path": "raw/overleaf/ol-xjtlu-poster-template-jftxgnqrpxps/HeaderGradient.tex",
+  "main_doc": "HeaderGradient.tex",
+  "sha256": "343dc70a14de52b370f5f5d61c84abbb417137e5bc2dcb86d0fa1a2abbc69f30",
+  "size_bytes": 731,
+  "document_class": "article",
+  "uses_packages": [
+    "geometry",
+    "tikz",
+    "xcolor"
+  ],
+  "download_method": "github:https://github.com/yaoshanliang/XJTLU-Poster-Template",
+  "github_url": "https://github.com/yaoshanliang/XJTLU-Poster-Template",
+  "downloaded_at": "2026-08-02T15:09:22.200Z"
+}

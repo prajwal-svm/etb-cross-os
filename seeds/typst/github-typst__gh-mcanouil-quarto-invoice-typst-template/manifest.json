@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-mcanouil-quarto-invoice-typst-template",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "business",
+  "license": "MIT",
+  "source_url": "https://github.com/mcanouil/quarto-invoice",
+  "original_author": "mcanouil",
+  "stars": 48,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-mcanouil-quarto-invoice-typst-template/typst-template.typ",
+  "relative_path": "raw/github-typst/gh-mcanouil-quarto-invoice-typst-template/typst-template.typ",
+  "main_doc": "typst-template.typ",
+  "sha256": "65fd792fa187de04e7ce1c79ab52c618672260066b760d3caa11dc189dc0b648",
+  "size_bytes": 7098,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "_extensions/invoice/typst-template.typ",
+  "downloaded_at": "2026-08-02T14:03:56.014Z"
+}

@@ -1,0 +1,40 @@
+{
+  "id": "overleaf/ol-relatorio-ufpa-v-dot-1-0-gprwmyqtskfc",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "misc",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/relatorio-ufpa-v-dot-1-0/gprwmyqtskfc",
+  "original_author": "Matheus da Cunha Brito",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/engine-specific/overleaf__ol-relatorio-ufpa-v-dot-1-0-gprwmyqtskfc/main.tex",
+  "relative_path": "processed/latex/engine-specific/overleaf__ol-relatorio-ufpa-v-dot-1-0-gprwmyqtskfc/main.tex",
+  "sha256": "54a79f72cd60ef5df4c080684f8d376db8bb175ecb12acbf86b728af88a8cbc5",
+  "size_bytes": 1494,
+  "document_class": "article",
+  "uses_packages": [
+    "abntex2cite",
+    "amsfonts",
+    "amsmath",
+    "amssymb",
+    "amsthm",
+    "babel",
+    "float",
+    "geometry",
+    "graphicx",
+    "indentfirst",
+    "inputenc",
+    "rotating",
+    "setspace"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": false
+  },
+  "engine_class": "engine-specific",
+  "compile_time_ms": 768,
+  "downloaded_at": "2026-08-02T13:39:15.263Z",
+  "filtered_at": "2026-08-02T17:34:41.745Z"
+}

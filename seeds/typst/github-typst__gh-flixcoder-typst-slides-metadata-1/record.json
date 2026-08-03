@@ -1,0 +1,26 @@
+{
+  "id": "github-typst/gh-flixcoder-typst-slides-metadata-1",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "beamer",
+  "license": "MIT",
+  "source_url": "https://github.com/FlixCoder/typst-slides",
+  "original_author": "FlixCoder",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/github-typst__gh-flixcoder-typst-slides-metadata-1/metadata.typ",
+  "relative_path": "processed/typst/github-typst__gh-flixcoder-typst-slides-metadata-1/metadata.typ",
+  "sha256": "6cf56a6319843802860152f5dce176b579ba15bce7f13ac273c3891f2dfc1eb3",
+  "size_bytes": 283,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 9,
+  "downloaded_at": "2026-08-02T14:04:05.173Z",
+  "filtered_at": "2026-08-02T17:34:44.844Z"
+}

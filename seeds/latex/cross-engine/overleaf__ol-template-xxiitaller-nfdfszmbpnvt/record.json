@@ -1,0 +1,34 @@
+{
+  "id": "overleaf/ol-template-xxiitaller-nfdfszmbpnvt",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "misc",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/template-xxiitaller/nfdfszmbpnvt",
+  "original_author": "XXII Taller - LOC",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/overleaf__ol-template-xxiitaller-nfdfszmbpnvt/main.tex",
+  "relative_path": "processed/latex/cross-engine/overleaf__ol-template-xxiitaller-nfdfszmbpnvt/main.tex",
+  "sha256": "5755d475256a0c22c66d467d48f8f597929658069eb02d7410c8ac2eabd54172",
+  "size_bytes": 4094,
+  "document_class": "article",
+  "uses_packages": [
+    "babel",
+    "fontenc",
+    "geometry",
+    "hyperref",
+    "inputenc",
+    "newtxmath",
+    "newtxtext"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 661,
+  "downloaded_at": "2026-08-02T13:39:13.957Z",
+  "filtered_at": "2026-08-02T17:34:41.967Z"
+}

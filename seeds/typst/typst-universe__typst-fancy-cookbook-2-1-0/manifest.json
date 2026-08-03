@@ -1,0 +1,23 @@
+{
+  "id": "typst-universe/typst-fancy-cookbook-2-1-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "creative",
+  "license": "MIT",
+  "source_url": "https://github.com/Ajrarn/fancy-cookbook",
+  "original_author": "Christophe Dos Santos",
+  "package_name": "fancy-cookbook",
+  "package_version": "2.1.0",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/typst-universe/typst-fancy-cookbook-2-1-0/main.typ",
+  "relative_path": "raw/typst-universe/typst-fancy-cookbook-2-1-0/main.typ",
+  "main_doc": "main.typ",
+  "sha256": "5f60aaf62ddfbd772c52744d667b64f7511eef943b6dbb5098f3eb7f1f3846b0",
+  "size_bytes": 1284,
+  "document_class": null,
+  "uses_packages": [],
+  "downloaded_at": "2026-08-02T13:08:21.848Z",
+  "categories": [
+    "layout"
+  ],
+  "description": "Create simple recipe collections and cookbooks in color and your language."
+}

@@ -1,0 +1,27 @@
+{
+  "id": "overleaf/ol-cs109-pset-template-mnrbzkmhnbfx",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "misc",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/cs109-pset-template/mnrbzkmhnbfx",
+  "original_author": "Jacqueline Ennis",
+  "title": "CS109 PSET Template",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/overleaf/ol-cs109-pset-template-mnrbzkmhnbfx/main.tex",
+  "relative_path": "raw/overleaf/ol-cs109-pset-template-mnrbzkmhnbfx/main.tex",
+  "main_doc": "main.tex",
+  "sha256": "3654d97fa0418b31bb93a53ba9a94870a11ed7a1ca524433089c64ed32c10304",
+  "size_bytes": 1411,
+  "document_class": "article",
+  "uses_packages": [
+    "amsmath",
+    "amssymb",
+    "fancyhdr",
+    "geometry",
+    "graphicx",
+    "relsize"
+  ],
+  "download_method": "view-source-modal",
+  "github_url": null,
+  "downloaded_at": "2026-08-02T13:45:10.086Z"
+}

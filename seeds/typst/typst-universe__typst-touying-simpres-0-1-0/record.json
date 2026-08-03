@@ -1,0 +1,26 @@
+{
+  "id": "typst-universe/typst-touying-simpres-0-1-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "beamer",
+  "license": "MIT",
+  "source_url": "https://github.com/thy0s/touying-simpres",
+  "original_author": "thy0s",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/typst-universe__typst-touying-simpres-0-1-0/main.typ",
+  "relative_path": "processed/typst/typst-universe__typst-touying-simpres-0-1-0/main.typ",
+  "sha256": "2849ce3ead6b83b1df5cdfb85ff7a60c0dbee4fae3fb38982ca27b69a433f848",
+  "size_bytes": 4060,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 382,
+  "downloaded_at": "2026-08-02T13:14:26.114Z",
+  "filtered_at": "2026-08-02T17:34:44.308Z"
+}

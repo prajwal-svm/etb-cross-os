@@ -1,0 +1,23 @@
+{
+  "id": "typst-universe/typst-unequivocal-ams-0-1-2",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "venue",
+  "license": "MIT-0",
+  "source_url": "https://github.com/typst/templates",
+  "original_author": "Typst GmbH",
+  "package_name": "unequivocal-ams",
+  "package_version": "0.1.2",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/typst-universe/typst-unequivocal-ams-0-1-2/main.typ",
+  "relative_path": "raw/typst-universe/typst-unequivocal-ams-0-1-2/main.typ",
+  "main_doc": "main.typ",
+  "sha256": "012b1b632088389e802d907cad6394cd82c6aed4d01a9c94f5de205b7c52db41",
+  "size_bytes": 3350,
+  "document_class": null,
+  "uses_packages": [],
+  "downloaded_at": "2026-08-02T13:14:59.313Z",
+  "categories": [
+    "paper"
+  ],
+  "description": "An AMS-style paper template to publish at conferences and journals for mathematicians"
+}

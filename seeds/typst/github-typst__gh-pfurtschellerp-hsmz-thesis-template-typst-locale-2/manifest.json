@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-pfurtschellerp-hsmz-thesis-template-typst-locale-2",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "thesis",
+  "license": "MIT",
+  "source_url": "https://github.com/PfurtschellerP/hsmz-thesis-template-typst",
+  "original_author": "PfurtschellerP",
+  "stars": 0,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-pfurtschellerp-hsmz-thesis-template-typst-locale-2/locale.typ",
+  "relative_path": "raw/github-typst/gh-pfurtschellerp-hsmz-thesis-template-typst-locale-2/locale.typ",
+  "main_doc": "locale.typ",
+  "sha256": "3f20e807693b91efea972864d00a8fac9c8d36f5e2a4220c3ff32026ea80fbcf",
+  "size_bytes": 1008,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "locale.typ",
+  "downloaded_at": "2026-08-02T14:16:22.289Z"
+}

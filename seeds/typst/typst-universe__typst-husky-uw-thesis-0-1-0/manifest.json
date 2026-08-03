@@ -1,0 +1,23 @@
+{
+  "id": "typst-universe/typst-husky-uw-thesis-0-1-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "thesis",
+  "license": "Apache-2.0",
+  "source_url": "https://github.com/Yuan-Ru-Lin/husky-uw-thesis",
+  "original_author": "Yuan-Ru Lin",
+  "package_name": "husky-uw-thesis",
+  "package_version": "0.1.0",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/typst-universe/typst-husky-uw-thesis-0-1-0/main.typ",
+  "relative_path": "raw/typst-universe/typst-husky-uw-thesis-0-1-0/main.typ",
+  "main_doc": "main.typ",
+  "sha256": "a17741aded55af89a586cc1d10f8d04bbe4f91d67deae5bac6f0a2fbc4fda3b2",
+  "size_bytes": 1477,
+  "document_class": null,
+  "uses_packages": [],
+  "downloaded_at": "2026-08-02T13:09:10.299Z",
+  "categories": [
+    "thesis"
+  ],
+  "description": "Doctoral dissertation and master's thesis template for the University of Washington, Seattle."
+}

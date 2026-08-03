@@ -1,0 +1,24 @@
+{
+  "id": "typst-universe/typst-inboisu-0-1-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "business",
+  "license": "MIT-0",
+  "source_url": "https://github.com/mkpoli/typst-inboisu",
+  "original_author": "mkpoli",
+  "package_name": "inboisu",
+  "package_version": "0.1.0",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/typst-universe/typst-inboisu-0-1-0/invoice.typ",
+  "relative_path": "raw/typst-universe/typst-inboisu-0-1-0/invoice.typ",
+  "main_doc": "invoice.typ",
+  "sha256": "2f1d87e672972e080430116b9eb90d8fa218ac947683493b3b6f5d0ecc422724",
+  "size_bytes": 1754,
+  "document_class": null,
+  "uses_packages": [],
+  "downloaded_at": "2026-08-02T13:09:19.901Z",
+  "categories": [
+    "layout",
+    "office"
+  ],
+  "description": "Inboisu is a tool for creating Japanese invoices."
+}

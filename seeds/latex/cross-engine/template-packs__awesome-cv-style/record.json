@@ -1,0 +1,31 @@
+{
+  "id": "template-packs/awesome-cv-style",
+  "source": "template-packs",
+  "format": "latex",
+  "category": "cv",
+  "license": "CC0-1.0",
+  "source_url": "https://github.com/Oleafly/template-packs",
+  "original_author": "Oleafly",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/template-packs__awesome-cv-style/main.tex",
+  "relative_path": "processed/latex/cross-engine/template-packs__awesome-cv-style/main.tex",
+  "sha256": "32eff23a8349fc48134d21bf07a663f3efb6495022084a5b4d8a6e96f673db22",
+  "size_bytes": 2110,
+  "document_class": "article",
+  "uses_packages": [
+    "enumitem",
+    "geometry",
+    "hyperref",
+    "xcolor"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 427,
+  "downloaded_at": "2026-08-02T13:05:15.841Z",
+  "filtered_at": "2026-08-02T17:34:40.721Z"
+}

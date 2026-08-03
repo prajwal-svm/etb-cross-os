@@ -1,0 +1,31 @@
+{
+  "id": "github-latex/gh-buddhilw-autopdf-main-1",
+  "source": "github-latex",
+  "format": "latex",
+  "category": "misc",
+  "license": "Apache-2.0",
+  "source_url": "https://github.com/BuddhiLW/AutoPDF",
+  "original_author": "BuddhiLW",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/github-latex__gh-buddhilw-autopdf-main-1/main.tex",
+  "relative_path": "processed/latex/cross-engine/github-latex__gh-buddhilw-autopdf-main-1/main.tex",
+  "sha256": "44615d8528f9c5d46e43b05fd29e3bf2677f30ced5ca19dd7b2e8569d3ac5018",
+  "size_bytes": 1086,
+  "document_class": "scrartcl",
+  "uses_packages": [
+    "fontenc",
+    "inputenc",
+    "pgfornament",
+    "xcolor"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 1021,
+  "downloaded_at": "2026-08-02T13:33:17.625Z",
+  "filtered_at": "2026-08-02T17:34:42.546Z"
+}

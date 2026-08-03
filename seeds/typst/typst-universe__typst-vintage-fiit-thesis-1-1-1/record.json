@@ -1,0 +1,26 @@
+{
+  "id": "typst-universe/typst-vintage-fiit-thesis-1-1-1",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "thesis",
+  "license": "MIT-0",
+  "source_url": "https://github.com/sasetz/fiit_template",
+  "original_author": "Sasetz",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/typst-universe__typst-vintage-fiit-thesis-1-1-1/main.typ",
+  "relative_path": "processed/typst/typst-universe__typst-vintage-fiit-thesis-1-1-1/main.typ",
+  "sha256": "4af54d03ba68fa993c5707ecaa51281665409b693eb90bb68f298783991ac887",
+  "size_bytes": 2326,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 291,
+  "downloaded_at": "2026-08-02T13:15:47.664Z",
+  "filtered_at": "2026-08-02T17:34:44.400Z"
+}

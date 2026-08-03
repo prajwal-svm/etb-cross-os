@@ -1,0 +1,10 @@
+{
+  "source": "CTAN / TeX Live",
+  "source_url": "https://ctan.org/pkg/beamer",
+  "original_author": "CTAN package: beamer",
+  "license": "LPPL-1.3c",
+  "license_url": "https://www.latex-project.org/lppl/lppl-1-3c/",
+  "downloaded_at": "2026-08-02T13:04:46.013Z",
+  "package": "beamer",
+  "original_path": "/usr/local/texlive/2025/texmf-dist/tex/latex/beamer/beamericonbook.tex"
+}

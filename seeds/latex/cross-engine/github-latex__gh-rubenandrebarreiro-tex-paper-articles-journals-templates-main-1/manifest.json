@@ -1,0 +1,27 @@
+{
+  "id": "github-latex/gh-rubenandrebarreiro-tex-paper-articles-journals-templates-main-1",
+  "source": "github-latex",
+  "format": "latex",
+  "category": "beamer",
+  "license": "MIT",
+  "source_url": "https://github.com/rubenandrebarreiro/tex-paper-articles-journals-templates",
+  "original_author": "rubenandrebarreiro",
+  "stars": 8,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-latex/gh-rubenandrebarreiro-tex-paper-articles-journals-templates-main-1/main.tex",
+  "relative_path": "raw/github-latex/gh-rubenandrebarreiro-tex-paper-articles-journals-templates-main-1/main.tex",
+  "main_doc": "main.tex",
+  "sha256": "368f709f1fa1dd9995d99b5b95efcbef0de51834f76331f173773c6706285345",
+  "size_bytes": 1550,
+  "document_class": "article",
+  "uses_packages": [
+    "amssymb",
+    "enumitem",
+    "geometry",
+    "inputenc",
+    "pifont",
+    "ragged2e",
+    "times"
+  ],
+  "repo_path": "LaTeX/Overleaf/Academic Journals and Articles/Astro2020-Decadal-Science-White-Paper/Files/main.tex",
+  "downloaded_at": "2026-08-02T13:23:08.415Z"
+}

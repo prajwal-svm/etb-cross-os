@@ -1,0 +1,31 @@
+{
+  "id": "github-latex/gh-ravby-eswa-template-template",
+  "source": "github-latex",
+  "format": "latex",
+  "category": "misc",
+  "license": "MIT",
+  "source_url": "https://github.com/Ravby/eswa-template",
+  "original_author": "Ravby",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/github-latex__gh-ravby-eswa-template-template/template.tex",
+  "relative_path": "processed/latex/cross-engine/github-latex__gh-ravby-eswa-template-template/template.tex",
+  "sha256": "45793f461e0ac79ebdcb10c7c10175b313d2c0c21c23f8e2cf2d1632975f3854",
+  "size_bytes": 9997,
+  "document_class": "elsarticle",
+  "uses_packages": [
+    "apalike",
+    "float",
+    "hyperref",
+    "verbatim"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 469,
+  "downloaded_at": "2026-08-02T13:13:13.177Z",
+  "filtered_at": "2026-08-02T17:34:43.267Z"
+}

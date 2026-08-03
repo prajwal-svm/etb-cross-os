@@ -1,0 +1,29 @@
+{
+  "id": "overleaf/ol-differentiable-programming-workshop-at-ppopp24-template-fqvftgxzvgvd",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "misc",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/differentiable-programming-workshop-at-ppopp24-template/fqvftgxzvgvd",
+  "original_author": "Ludger Paehler, Jan Hueckelheim",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/engine-specific/overleaf__ol-differentiable-programming-workshop-at-ppopp24-template-fqvftgxzvgvd/main.tex",
+  "relative_path": "processed/latex/engine-specific/overleaf__ol-differentiable-programming-workshop-at-ppopp24-template-fqvftgxzvgvd/main.tex",
+  "sha256": "c94cc741187b96465ae50525ca25ffc7aa193c4599f8489056637700824be89d",
+  "size_bytes": 7753,
+  "document_class": "acmart",
+  "uses_packages": [
+    "booktabs",
+    "subcaption"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": false,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "engine-specific",
+  "compile_time_ms": 6159,
+  "downloaded_at": "2026-08-02T15:28:09.072Z",
+  "filtered_at": "2026-08-02T17:34:41.078Z"
+}

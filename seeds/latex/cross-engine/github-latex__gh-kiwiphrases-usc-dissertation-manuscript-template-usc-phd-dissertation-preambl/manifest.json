@@ -1,0 +1,22 @@
+{
+  "id": "github-latex/gh-kiwiphrases-usc-dissertation-manuscript-template-usc-phd-dissertation-preambl",
+  "source": "github-latex",
+  "format": "latex",
+  "category": "beamer",
+  "license": "MIT",
+  "source_url": "https://github.com/kiwiPhrases/USC-Dissertation-Manuscript-Template",
+  "original_author": "kiwiPhrases",
+  "stars": 0,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-latex/gh-kiwiphrases-usc-dissertation-manuscript-template-usc-phd-dissertation-preambl/USC_PhD_dissertation_preamble.tex",
+  "relative_path": "raw/github-latex/gh-kiwiphrases-usc-dissertation-manuscript-template-usc-phd-dissertation-preambl/USC_PhD_dissertation_preamble.tex",
+  "main_doc": "USC_PhD_dissertation_preamble.tex",
+  "sha256": "a8509ec7a77ba798a9bc3a18da8761951c9f9a5fcb65b5f991014280cbe5c917",
+  "size_bytes": 2790,
+  "document_class": "article",
+  "uses_packages": [
+    "fullpage",
+    "inputenc"
+  ],
+  "repo_path": "USC_PhD_dissertation_preamble.tex",
+  "downloaded_at": "2026-08-02T13:58:07.894Z"
+}

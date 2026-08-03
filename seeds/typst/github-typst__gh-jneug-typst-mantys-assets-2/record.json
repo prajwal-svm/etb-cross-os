@@ -1,0 +1,26 @@
+{
+  "id": "github-typst/gh-jneug-typst-mantys-assets-2",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "misc",
+  "license": "MIT",
+  "source_url": "https://github.com/jneug/typst-mantys",
+  "original_author": "jneug",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/github-typst__gh-jneug-typst-mantys-assets-2/_assets.typ",
+  "relative_path": "processed/typst/github-typst__gh-jneug-typst-mantys-assets-2/_assets.typ",
+  "sha256": "91165fd1126afd99966b2453092aa8fad4d19f32c159939f4fcc5e10807e1204",
+  "size_bytes": 962,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 13,
+  "downloaded_at": "2026-08-02T14:03:45.371Z",
+  "filtered_at": "2026-08-02T17:34:45.048Z"
+}

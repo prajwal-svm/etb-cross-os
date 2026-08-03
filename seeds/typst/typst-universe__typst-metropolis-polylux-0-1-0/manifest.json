@@ -1,0 +1,23 @@
+{
+  "id": "typst-universe/typst-metropolis-polylux-0-1-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "beamer",
+  "license": "MIT",
+  "source_url": "https://github.com/polylux-typ/metropolis",
+  "original_author": "Andreas Kröpelin",
+  "package_name": "metropolis-polylux",
+  "package_version": "0.1.0",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/typst-universe/typst-metropolis-polylux-0-1-0/slides.typ",
+  "relative_path": "raw/typst-universe/typst-metropolis-polylux-0-1-0/slides.typ",
+  "main_doc": "slides.typ",
+  "sha256": "c2ee4548a03c7a863321afa39e04bcc76484956e977602c0e05a7d1dec78b92b",
+  "size_bytes": 1032,
+  "document_class": null,
+  "uses_packages": [],
+  "downloaded_at": "2026-08-02T13:10:16.548Z",
+  "categories": [
+    "presentation"
+  ],
+  "description": "Metropolis style template for Polylux"
+}

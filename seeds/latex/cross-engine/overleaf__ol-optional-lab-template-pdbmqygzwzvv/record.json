@@ -1,0 +1,34 @@
+{
+  "id": "overleaf/ol-optional-lab-template-pdbmqygzwzvv",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "report",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/optional-lab-template/pdbmqygzwzvv",
+  "original_author": "Ryan Rodriguez",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/overleaf__ol-optional-lab-template-pdbmqygzwzvv/main.tex",
+  "relative_path": "processed/latex/cross-engine/overleaf__ol-optional-lab-template-pdbmqygzwzvv/main.tex",
+  "sha256": "40d7dd02ff399678948af4785eb24f0eaeda09a1f83bf4bb946058a6f9798364",
+  "size_bytes": 5135,
+  "document_class": "article",
+  "uses_packages": [
+    "amsmath",
+    "enumitem",
+    "graphicx",
+    "mhchem",
+    "siunitx",
+    "times",
+    "verbatim"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 549,
+  "downloaded_at": "2026-08-02T14:46:52.840Z",
+  "filtered_at": "2026-08-02T17:34:41.584Z"
+}

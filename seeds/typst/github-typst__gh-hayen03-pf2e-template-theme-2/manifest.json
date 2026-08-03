@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-hayen03-pf2e-template-theme-2",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "misc",
+  "license": "MIT",
+  "source_url": "https://github.com/Hayen03/pf2e_template",
+  "original_author": "Hayen03",
+  "stars": 2,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-hayen03-pf2e-template-theme-2/theme.typ",
+  "relative_path": "raw/github-typst/gh-hayen03-pf2e-template-theme-2/theme.typ",
+  "main_doc": "theme.typ",
+  "sha256": "6128f9813b30ae5590711cc42dd999431d692e0199210635c83131af660cba41",
+  "size_bytes": 4511,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "theme.typ",
+  "downloaded_at": "2026-08-02T14:10:08.862Z"
+}

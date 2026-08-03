@@ -1,0 +1,24 @@
+{
+  "id": "ctan/ctan-datatool-sample-sort",
+  "source": "ctan",
+  "format": "latex",
+  "category": "package-example",
+  "license": "LPPL-1.3c",
+  "source_url": "https://ctan.org/pkg/datatool",
+  "original_author": "CTAN package: datatool",
+  "package": "datatool",
+  "original_path": "/usr/local/texlive/2025/texmf-dist/doc/latex/datatool/samples/sample-sort.tex",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/ctan/ctan-datatool-sample-sort/sample-sort.tex",
+  "relative_path": "raw/ctan/ctan-datatool-sample-sort/sample-sort.tex",
+  "main_doc": "sample-sort.tex",
+  "sha256": "cb480e66d4e03807ed35ef8351213606aadc8abd2cb710378aa776fa55504ff8",
+  "size_bytes": 3100,
+  "document_class": "article",
+  "uses_packages": [
+    "datatool",
+    "fontenc",
+    "geometry",
+    "inputenc"
+  ],
+  "downloaded_at": "2026-08-02T13:05:04.432Z"
+}

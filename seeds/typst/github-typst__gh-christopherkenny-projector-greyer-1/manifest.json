@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-christopherkenny-projector-greyer-1",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "beamer",
+  "license": "MIT",
+  "source_url": "https://github.com/christopherkenny/projector",
+  "original_author": "christopherkenny",
+  "stars": 12,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-christopherkenny-projector-greyer-1/greyer.typ",
+  "relative_path": "raw/github-typst/gh-christopherkenny-projector-greyer-1/greyer.typ",
+  "main_doc": "greyer.typ",
+  "sha256": "d5ec24aa80b62dd53cf0981319ce955087d741f5b5e987ff69d2f6ed72fa24cb",
+  "size_bytes": 458,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "greyer.typ",
+  "downloaded_at": "2026-08-02T14:05:56.260Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "overleaf/ol-relatorio-de-laboratorio-dfci-ufs-vwpprvbdzsfm",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "misc",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/relatorio-de-laboratorio-dfci-ufs/vwpprvbdzsfm",
+  "original_author": "Celso Viana",
+  "title": "Relatório de Laboratório DFCI-UFS",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/overleaf/ol-relatorio-de-laboratorio-dfci-ufs-vwpprvbdzsfm/main.tex",
+  "relative_path": "raw/overleaf/ol-relatorio-de-laboratorio-dfci-ufs-vwpprvbdzsfm/main.tex",
+  "main_doc": "main.tex",
+  "sha256": "b0227cf2dd86ec7d642cf3668eeee56b4e5c8270568851061b05d15ffec980c6",
+  "size_bytes": 720,
+  "document_class": "abntex2",
+  "uses_packages": [],
+  "download_method": "view-source-modal",
+  "github_url": null,
+  "downloaded_at": "2026-08-02T15:29:00.438Z"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "typst-universe/typst-noteworthy-0-4-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "report",
+  "license": "MIT",
+  "source_url": "https://github.com/tarunjana/noteworthy",
+  "original_author": "Tarun Kumar Jana",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/typst-universe__typst-noteworthy-0-4-0/main.typ",
+  "relative_path": "processed/typst/typst-universe__typst-noteworthy-0-4-0/main.typ",
+  "sha256": "1035873fa986af8b6cbc57364911e2895d205f1a53394fbb5b4d487b44f79c20",
+  "size_bytes": 629,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 298,
+  "downloaded_at": "2026-08-02T13:11:42.652Z",
+  "filtered_at": "2026-08-02T17:34:44.074Z"
+}

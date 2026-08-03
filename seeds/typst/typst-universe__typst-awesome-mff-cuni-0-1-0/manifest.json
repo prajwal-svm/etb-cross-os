@@ -1,0 +1,23 @@
+{
+  "id": "typst-universe/typst-awesome-mff-cuni-0-1-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "thesis",
+  "license": "MIT",
+  "source_url": "https://git.brloh.is/petrvel/awesome-mff-cuni",
+  "original_author": "Petr Velyčko",
+  "package_name": "awesome-mff-cuni",
+  "package_version": "0.1.0",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/typst-universe/typst-awesome-mff-cuni-0-1-0/main.typ",
+  "relative_path": "raw/typst-universe/typst-awesome-mff-cuni-0-1-0/main.typ",
+  "main_doc": "main.typ",
+  "sha256": "bccc92ee2b053200f792ef52dcf24932b05c78f72354f08edf90ccd0516cf685",
+  "size_bytes": 663,
+  "document_class": null,
+  "uses_packages": [],
+  "downloaded_at": "2026-08-02T13:05:55.031Z",
+  "categories": [
+    "thesis"
+  ],
+  "description": "Thesis at the Faculty of Mathematics and Physics, Charles University, Prague."
+}

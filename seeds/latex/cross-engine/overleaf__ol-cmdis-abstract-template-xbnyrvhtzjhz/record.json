@@ -1,0 +1,34 @@
+{
+  "id": "overleaf/ol-cmdis-abstract-template-xbnyrvhtzjhz",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "misc",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/cmdis-abstract-template/xbnyrvhtzjhz",
+  "original_author": "Colin Daniels",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/overleaf__ol-cmdis-abstract-template-xbnyrvhtzjhz/main.tex",
+  "relative_path": "processed/latex/cross-engine/overleaf__ol-cmdis-abstract-template-xbnyrvhtzjhz/main.tex",
+  "sha256": "9eb3e1a6305e65982851eb2a3ebebd88d27207168cdad70d9e0cc72b53aebfc6",
+  "size_bytes": 2961,
+  "document_class": "article",
+  "uses_packages": [
+    "authblk",
+    "geometry",
+    "graphicx",
+    "hyperref",
+    "indentfirst",
+    "inputenc",
+    "mathptmx"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 361,
+  "downloaded_at": "2026-08-02T16:04:37.755Z",
+  "filtered_at": "2026-08-02T17:34:41.010Z"
+}

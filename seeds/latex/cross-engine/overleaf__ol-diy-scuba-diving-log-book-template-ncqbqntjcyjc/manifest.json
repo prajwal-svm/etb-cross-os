@@ -1,0 +1,26 @@
+{
+  "id": "overleaf/ol-diy-scuba-diving-log-book-template-ncqbqntjcyjc",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "book",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/diy-scuba-diving-log-book-template/ncqbqntjcyjc",
+  "original_author": "Tom (texblog.org)",
+  "title": "DIY Scuba Diving Log Book Template",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/overleaf/ol-diy-scuba-diving-log-book-template-ncqbqntjcyjc/main.tex",
+  "relative_path": "raw/overleaf/ol-diy-scuba-diving-log-book-template-ncqbqntjcyjc/main.tex",
+  "main_doc": "main.tex",
+  "sha256": "bfac012d2f2c71068eef8d68f60fd1328ac287c602ef8b548f03155a5a0620f7",
+  "size_bytes": 1856,
+  "document_class": "extarticle",
+  "uses_packages": [
+    "amssymb",
+    "fancyhdr",
+    "geometry",
+    "rotating",
+    "tikz"
+  ],
+  "download_method": "view-source-modal",
+  "github_url": null,
+  "downloaded_at": "2026-08-02T14:36:29.832Z"
+}

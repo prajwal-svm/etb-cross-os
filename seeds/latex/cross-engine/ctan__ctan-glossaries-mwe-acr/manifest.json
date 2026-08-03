@@ -1,0 +1,21 @@
+{
+  "id": "ctan/ctan-glossaries-mwe-acr",
+  "source": "ctan",
+  "format": "latex",
+  "category": "package-example",
+  "license": "LPPL-1.3c",
+  "source_url": "https://ctan.org/pkg/glossaries",
+  "original_author": "CTAN package: glossaries",
+  "package": "glossaries",
+  "original_path": "/usr/local/texlive/2025/texmf-dist/doc/latex/glossaries/samples/mwe-acr.tex",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/ctan/ctan-glossaries-mwe-acr/mwe-acr.tex",
+  "relative_path": "raw/ctan/ctan-glossaries-mwe-acr/mwe-acr.tex",
+  "main_doc": "mwe-acr.tex",
+  "sha256": "db9bd1d1b4c5138ca930069659acfaca437e23ae385d403ff2dbf7e4ae291b3e",
+  "size_bytes": 551,
+  "document_class": "article",
+  "uses_packages": [
+    "glossaries"
+  ],
+  "downloaded_at": "2026-08-02T13:04:56.417Z"
+}

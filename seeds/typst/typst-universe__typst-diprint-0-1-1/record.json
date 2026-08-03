@@ -1,0 +1,26 @@
+{
+  "id": "typst-universe/typst-diprint-0-1-1",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "venue",
+  "license": "MIT",
+  "source_url": "https://git.sr.ht/~wyli/diprint",
+  "original_author": "wylited",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/typst-universe__typst-diprint-0-1-1/main.typ",
+  "relative_path": "processed/typst/typst-universe__typst-diprint-0-1-1/main.typ",
+  "sha256": "71cb473f53f41f90723bcc805e3d5af77f1e8a5f63864c30cd206d4363b88591",
+  "size_bytes": 3167,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 294,
+  "downloaded_at": "2026-08-02T13:07:45.122Z",
+  "filtered_at": "2026-08-02T17:34:43.779Z"
+}

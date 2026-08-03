@@ -1,0 +1,31 @@
+{
+  "id": "overleaf/ol-iit-kgp-mtp-thesis-template-hgprtqycxzmb",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "thesis",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/iit-kgp-mtp-thesis-template/hgprtqycxzmb",
+  "original_author": "Sayan Batabyal",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/engine-specific/overleaf__ol-iit-kgp-mtp-thesis-template-hgprtqycxzmb/main.tex",
+  "relative_path": "processed/latex/engine-specific/overleaf__ol-iit-kgp-mtp-thesis-template-hgprtqycxzmb/main.tex",
+  "sha256": "e935e20edddf355755a5d3f6b965f591b38e256acfadc12efaa49b7ed458a020",
+  "size_bytes": 1099,
+  "document_class": "report",
+  "uses_packages": [
+    "amssymb",
+    "graphicx",
+    "multicol",
+    "natbib"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": false
+  },
+  "engine_class": "engine-specific",
+  "compile_time_ms": 1401,
+  "downloaded_at": "2026-08-02T14:57:01.137Z",
+  "filtered_at": "2026-08-02T17:34:41.248Z"
+}

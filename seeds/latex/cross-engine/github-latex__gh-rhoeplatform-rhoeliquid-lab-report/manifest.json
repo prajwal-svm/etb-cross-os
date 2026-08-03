@@ -1,0 +1,23 @@
+{
+  "id": "github-latex/gh-rhoeplatform-rhoeliquid-lab-report",
+  "source": "github-latex",
+  "format": "latex",
+  "category": "report",
+  "license": "Apache-2.0",
+  "source_url": "https://github.com/RhoePlatform/RhoeLiquid",
+  "original_author": "RhoePlatform",
+  "stars": 3,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-latex/gh-rhoeplatform-rhoeliquid-lab-report/lab-report.tex",
+  "relative_path": "raw/github-latex/gh-rhoeplatform-rhoeliquid-lab-report/lab-report.tex",
+  "main_doc": "lab-report.tex",
+  "sha256": "2a05196d367d68e9429210332f861a475e0db611523dbadb9fe285c2784f151e",
+  "size_bytes": 1075,
+  "document_class": "article",
+  "uses_packages": [
+    "booktabs",
+    "geometry",
+    "hyperref"
+  ],
+  "repo_path": "Examples/outputs/lab-report.tex",
+  "downloaded_at": "2026-08-02T13:33:29.669Z"
+}

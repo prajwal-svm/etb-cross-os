@@ -1,0 +1,32 @@
+{
+  "id": "overleaf/ol-din-a4-letter-template-with-scrlttr2-tpvycrryrmrg",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "letter",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/din-a4-letter-template-with-scrlttr2/tpvycrryrmrg",
+  "original_author": "Simon Stemper",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/overleaf__ol-din-a4-letter-template-with-scrlttr2-tpvycrryrmrg/main.tex",
+  "relative_path": "processed/latex/cross-engine/overleaf__ol-din-a4-letter-template-with-scrlttr2-tpvycrryrmrg/main.tex",
+  "sha256": "0abc307f7dd2dc71cfc9aea7584e0b3bcc1eb31e0331602b4e3b9fec6dd92db3",
+  "size_bytes": 887,
+  "document_class": "scrlttr2",
+  "uses_packages": [
+    "babel",
+    "fontenc",
+    "geometry",
+    "graphicx",
+    "inputenc"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 462,
+  "downloaded_at": "2026-08-02T15:31:14.676Z",
+  "filtered_at": "2026-08-02T17:34:41.080Z"
+}

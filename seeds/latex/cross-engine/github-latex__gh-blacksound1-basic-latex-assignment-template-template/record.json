@@ -1,0 +1,33 @@
+{
+  "id": "github-latex/gh-blacksound1-basic-latex-assignment-template-template",
+  "source": "github-latex",
+  "format": "latex",
+  "category": "coursework",
+  "license": "MIT",
+  "source_url": "https://github.com/BlackSound1/Basic-Latex-Assignment-Template",
+  "original_author": "BlackSound1",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/github-latex__gh-blacksound1-basic-latex-assignment-template-template/Template.tex",
+  "relative_path": "processed/latex/cross-engine/github-latex__gh-blacksound1-basic-latex-assignment-template-template/Template.tex",
+  "sha256": "4f199146cb5d794ac2ddfa40ca4523b58caffa309357931616aa8593bb0abeb7",
+  "size_bytes": 3424,
+  "document_class": "article",
+  "uses_packages": [
+    "amsmath",
+    "amssymb",
+    "authblk",
+    "geometry",
+    "graphicx",
+    "pifont"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 258,
+  "downloaded_at": "2026-08-02T13:49:00.707Z",
+  "filtered_at": "2026-08-02T17:34:42.534Z"
+}

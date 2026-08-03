@@ -1,0 +1,31 @@
+{
+  "id": "github-latex/gh-roym899-latex-templates-main-1",
+  "source": "github-latex",
+  "format": "latex",
+  "category": "misc",
+  "license": "MIT",
+  "source_url": "https://github.com/roym899/latex_templates",
+  "original_author": "roym899",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/github-latex__gh-roym899-latex-templates-main-1/main.tex",
+  "relative_path": "processed/latex/cross-engine/github-latex__gh-roym899-latex-templates-main-1/main.tex",
+  "sha256": "76f5f920f3cc3dc91855b631429583c671386a06a33180a18c77297af829b4cc",
+  "size_bytes": 625,
+  "document_class": "scrlttr2",
+  "uses_packages": [
+    "amsfonts",
+    "amsmath",
+    "amssymb",
+    "babel"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 482,
+  "downloaded_at": "2026-08-02T13:30:48.920Z",
+  "filtered_at": "2026-08-02T17:34:43.296Z"
+}

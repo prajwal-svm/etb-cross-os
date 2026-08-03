@@ -1,0 +1,30 @@
+{
+  "id": "overleaf/ol-ece-100-template-pjrrfybfggqt",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "misc",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/ece-100-template/pjrrfybfggqt",
+  "original_author": "Patrick Bartman",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/overleaf__ol-ece-100-template-pjrrfybfggqt/main.tex",
+  "relative_path": "processed/latex/cross-engine/overleaf__ol-ece-100-template-pjrrfybfggqt/main.tex",
+  "sha256": "7c813368a9e86990c30f522d23743a9a95dde359afe13f976a91501c0591a0a5",
+  "size_bytes": 1739,
+  "document_class": "article",
+  "uses_packages": [
+    "comment",
+    "fullpage",
+    "lipsum"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 266,
+  "downloaded_at": "2026-08-02T14:52:05.303Z",
+  "filtered_at": "2026-08-02T17:34:41.098Z"
+}

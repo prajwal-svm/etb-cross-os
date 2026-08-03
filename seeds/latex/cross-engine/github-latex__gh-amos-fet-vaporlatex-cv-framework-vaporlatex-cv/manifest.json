@@ -1,0 +1,32 @@
+{
+  "id": "github-latex/gh-amos-fet-vaporlatex-cv-framework-vaporlatex-cv",
+  "source": "github-latex",
+  "format": "latex",
+  "category": "cv",
+  "license": "MIT",
+  "source_url": "https://github.com/AMOS-fet/VaporLaTeX-CV-Framework",
+  "original_author": "AMOS-fet",
+  "stars": 1,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-latex/gh-amos-fet-vaporlatex-cv-framework-vaporlatex-cv/VaporLaTeX_CV.tex",
+  "relative_path": "raw/github-latex/gh-amos-fet-vaporlatex-cv-framework-vaporlatex-cv/VaporLaTeX_CV.tex",
+  "main_doc": "VaporLaTeX_CV.tex",
+  "sha256": "2205e35675c6c5697a7fb3f2eb5350f0d93b5394f22c74c8a43bcf164e2586cc",
+  "size_bytes": 15774,
+  "document_class": "article",
+  "uses_packages": [
+    "babel",
+    "etoolbox",
+    "fontawesome5",
+    "fontenc",
+    "geometry",
+    "hyperref",
+    "inputenc",
+    "lipsum",
+    "ragged2e",
+    "raleway",
+    "tcolorbox",
+    "xcolor"
+  ],
+  "repo_path": "VaporLaTeX_CV.tex",
+  "downloaded_at": "2026-08-02T13:39:15.922Z"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "ctan/ctan-setspace-setspace-doc",
+  "source": "ctan",
+  "format": "latex",
+  "category": "package-example",
+  "license": "LPPL-1.3c",
+  "source_url": "https://ctan.org/pkg/setspace",
+  "original_author": "CTAN package: setspace",
+  "package": "setspace",
+  "original_path": "/usr/local/texlive/2025/texmf-dist/doc/latex/setspace/setspace-doc.tex",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/ctan/ctan-setspace-setspace-doc/setspace-doc.tex",
+  "relative_path": "raw/ctan/ctan-setspace-setspace-doc/setspace-doc.tex",
+  "main_doc": "setspace-doc.tex",
+  "sha256": "b01be955478c4ec46ed406617915343a723ec7d1931c10f33b6071bc2d69d771",
+  "size_bytes": 2354,
+  "document_class": "article",
+  "uses_packages": [
+    "lmodern",
+    "setspace",
+    "verbatim"
+  ],
+  "downloaded_at": "2026-08-02T13:04:59.739Z"
+}

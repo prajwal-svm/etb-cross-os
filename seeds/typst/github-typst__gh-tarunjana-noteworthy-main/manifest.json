@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-tarunjana-noteworthy-main",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "misc",
+  "license": "MIT",
+  "source_url": "https://github.com/tarunjana/noteworthy",
+  "original_author": "tarunjana",
+  "stars": 6,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-tarunjana-noteworthy-main/main.typ",
+  "relative_path": "raw/github-typst/gh-tarunjana-noteworthy-main/main.typ",
+  "main_doc": "main.typ",
+  "sha256": "18d2b4ccedb6731f5e5fd11dd4a4304c03a8eeb0767ce2f760216b1fdba7080f",
+  "size_bytes": 612,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "template/main.typ",
+  "downloaded_at": "2026-08-02T14:06:55.606Z"
+}

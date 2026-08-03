@@ -1,0 +1,23 @@
+{
+  "id": "ctan/ctan-glossaries-samplecustomacr",
+  "source": "ctan",
+  "format": "latex",
+  "category": "package-example",
+  "license": "LPPL-1.3c",
+  "source_url": "https://ctan.org/pkg/glossaries",
+  "original_author": "CTAN package: glossaries",
+  "package": "glossaries",
+  "original_path": "/usr/local/texlive/2025/texmf-dist/doc/latex/glossaries/samples/sampleCustomAcr.tex",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/ctan/ctan-glossaries-samplecustomacr/sampleCustomAcr.tex",
+  "relative_path": "raw/ctan/ctan-glossaries-samplecustomacr/sampleCustomAcr.tex",
+  "main_doc": "sampleCustomAcr.tex",
+  "sha256": "6c794ee5b575eb6148e3d91806669aa412708b214501d821cf12ef6292c25e4b",
+  "size_bytes": 3724,
+  "document_class": "report",
+  "uses_packages": [
+    "fontenc",
+    "glossaries",
+    "hyperref"
+  ],
+  "downloaded_at": "2026-08-02T13:04:56.438Z"
+}

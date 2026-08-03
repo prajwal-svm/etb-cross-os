@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-gwynspring-bulme-thesis-template-metadata-1",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "thesis",
+  "license": "MIT",
+  "source_url": "https://github.com/Gwynspring/Bulme-Thesis-Template",
+  "original_author": "Gwynspring",
+  "stars": 0,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-gwynspring-bulme-thesis-template-metadata-1/metadata.typ",
+  "relative_path": "raw/github-typst/gh-gwynspring-bulme-thesis-template-metadata-1/metadata.typ",
+  "main_doc": "metadata.typ",
+  "sha256": "d1c7aade1607d1c477f6c7e352086290d55cce2c7f0cf1d8c713d7f27ec0d086",
+  "size_bytes": 1160,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "metadata.typ",
+  "downloaded_at": "2026-08-02T14:17:06.853Z"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "typst-universe/typst-touying-ppt-hustvn-0-1-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "beamer",
+  "license": "MIT-0",
+  "source_url": "https://github.com/btmxh/touying-ppt-hustvn",
+  "original_author": "btmxh",
+  "package_name": "touying-ppt-hustvn",
+  "package_version": "0.1.0",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/typst-universe/typst-touying-ppt-hustvn-0-1-0/main.typ",
+  "relative_path": "raw/typst-universe/typst-touying-ppt-hustvn-0-1-0/main.typ",
+  "main_doc": "main.typ",
+  "sha256": "40c345b5852f07e02d3f6277470d5b1adc292df91ae09c417383d2fcac695dca",
+  "size_bytes": 431,
+  "document_class": null,
+  "uses_packages": [],
+  "downloaded_at": "2026-08-02T13:14:11.626Z",
+  "categories": [
+    "presentation"
+  ],
+  "description": "Touying Slide Theme for HUST (Hanoi University of Science and Technology)"
+}

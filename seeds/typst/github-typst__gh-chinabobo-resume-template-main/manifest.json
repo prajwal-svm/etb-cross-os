@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-chinabobo-resume-template-main",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "cv",
+  "license": "MIT",
+  "source_url": "https://github.com/chinabobo/resume-template",
+  "original_author": "chinabobo",
+  "stars": 0,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-chinabobo-resume-template-main/main.typ",
+  "relative_path": "raw/github-typst/gh-chinabobo-resume-template-main/main.typ",
+  "main_doc": "main.typ",
+  "sha256": "2bdeaf1961a264de0a197afeb6bc7c76aa5a1d06928d6a168b6abecf828092a6",
+  "size_bytes": 1058,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "main.typ",
+  "downloaded_at": "2026-08-02T14:14:41.434Z"
+}

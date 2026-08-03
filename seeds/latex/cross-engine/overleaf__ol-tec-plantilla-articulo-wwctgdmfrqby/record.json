@@ -1,0 +1,30 @@
+{
+  "id": "overleaf/ol-tec-plantilla-articulo-wwctgdmfrqby",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "misc",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/tec-plantilla-articulo/wwctgdmfrqby",
+  "original_author": "Danilo Yánez",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/overleaf__ol-tec-plantilla-articulo-wwctgdmfrqby/main.tex",
+  "relative_path": "processed/latex/cross-engine/overleaf__ol-tec-plantilla-articulo-wwctgdmfrqby/main.tex",
+  "sha256": "75f82384f4651f9db5b66d737dcb6f3c5681b15526c3d9e7f16559662c4b11b1",
+  "size_bytes": 8137,
+  "document_class": "llncs",
+  "uses_packages": [
+    "fancyhdr",
+    "graphicx",
+    "inputenc"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 247,
+  "downloaded_at": "2026-08-02T14:31:16.683Z",
+  "filtered_at": "2026-08-02T17:34:41.877Z"
+}

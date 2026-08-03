@@ -1,0 +1,26 @@
+{
+  "id": "typst-universe/typst-superb-pci-0-2-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "venue",
+  "license": "MIT-0",
+  "source_url": "https://codeberg.org/alxsim/superb-pci",
+  "original_author": "Alexis Simon",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/typst-universe__typst-superb-pci-0-2-0/main.typ",
+  "relative_path": "processed/typst/typst-universe__typst-superb-pci-0-2-0/main.typ",
+  "sha256": "791c59f3b639b24f99982d6fe35c47827bd494fd286c06b9f0a193eeb1fc0503",
+  "size_bytes": 6501,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 345,
+  "downloaded_at": "2026-08-02T13:13:36.301Z",
+  "filtered_at": "2026-08-02T17:34:44.237Z"
+}

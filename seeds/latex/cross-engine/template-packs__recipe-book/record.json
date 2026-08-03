@@ -1,0 +1,34 @@
+{
+  "id": "template-packs/recipe-book",
+  "source": "template-packs",
+  "format": "latex",
+  "category": "creative",
+  "license": "CC0-1.0",
+  "source_url": "https://github.com/Oleafly/template-packs",
+  "original_author": "Oleafly",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/template-packs__recipe-book/main.tex",
+  "relative_path": "processed/latex/cross-engine/template-packs__recipe-book/main.tex",
+  "sha256": "7a584e6d5df13ca2c70bc6c22833abfa880ff786e09ce469b30314bf5f01b99a",
+  "size_bytes": 3409,
+  "document_class": "article",
+  "uses_packages": [
+    "enumitem",
+    "geometry",
+    "parskip",
+    "sourcesanspro",
+    "tcolorbox",
+    "tikz",
+    "xcolor"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 787,
+  "downloaded_at": "2026-08-02T13:05:15.836Z",
+  "filtered_at": "2026-08-02T17:34:40.839Z"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "github-typst/gh-skylee03-skylee-homework-typst-skylee-hw-1",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "coursework",
+  "license": "MIT",
+  "source_url": "https://github.com/skylee03/skylee-homework-typst",
+  "original_author": "skylee03",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/github-typst__gh-skylee03-skylee-homework-typst-skylee-hw-1/skylee-hw.typ",
+  "relative_path": "processed/typst/github-typst__gh-skylee03-skylee-homework-typst-skylee-hw-1/skylee-hw.typ",
+  "sha256": "5261069de6935719bbee2dbb45e58d7e5d46334f21eced448917bfa6f2ffb9b2",
+  "size_bytes": 1578,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 10,
+  "downloaded_at": "2026-08-02T14:08:09.632Z",
+  "filtered_at": "2026-08-02T17:34:45.667Z"
+}

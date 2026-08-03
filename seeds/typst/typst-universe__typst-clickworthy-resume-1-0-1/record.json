@@ -1,0 +1,26 @@
+{
+  "id": "typst-universe/typst-clickworthy-resume-1-0-1",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "cv",
+  "license": "MIT",
+  "source_url": "https://github.com/AbdullahHendy/clickworthy-resume",
+  "original_author": "Abdullah Hendy",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/typst-universe__typst-clickworthy-resume-1-0-1/resume.typ",
+  "relative_path": "processed/typst/typst-universe__typst-clickworthy-resume-1-0-1/resume.typ",
+  "sha256": "974c8c9df93f9bfae99562b91be6aaed823ac12172f40cfe2bfee167ad29361d",
+  "size_bytes": 5255,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 181,
+  "downloaded_at": "2026-08-02T13:07:12.792Z",
+  "filtered_at": "2026-08-02T17:34:43.737Z"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "typst-universe/typst-tieflied-0-2-2",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "book",
+  "license": "MIT",
+  "source_url": "https://github.com/Tiefseetauchner/TiefLied",
+  "original_author": "Lena Tauchner",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/typst-universe__typst-tieflied-0-2-2/main.typ",
+  "relative_path": "processed/typst/typst-universe__typst-tieflied-0-2-2/main.typ",
+  "sha256": "62b0902504d52cc94334088f3cb3bc41edd4ab5c9e4ab546238f01d1058475ed",
+  "size_bytes": 1687,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 217,
+  "downloaded_at": "2026-08-02T13:13:53.259Z",
+  "filtered_at": "2026-08-02T17:34:44.262Z"
+}

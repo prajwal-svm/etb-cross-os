@@ -1,0 +1,29 @@
+{
+  "id": "overleaf/ol-yqis-2021-template-sjwbtrwfkzxb",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "misc",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/yqis-2021-template/sjwbtrwfkzxb",
+  "original_author": "YQIS 2021 Local Organizing Committee",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/overleaf__ol-yqis-2021-template-sjwbtrwfkzxb/main.tex",
+  "relative_path": "processed/latex/cross-engine/overleaf__ol-yqis-2021-template-sjwbtrwfkzxb/main.tex",
+  "sha256": "a4a5101aa094d64067ae58ab35f6a751c5d6de45c976bd8ed8b7a1aeafd0c481",
+  "size_bytes": 3917,
+  "document_class": "article",
+  "uses_packages": [
+    "amsmath",
+    "hyperref"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 493,
+  "downloaded_at": "2026-08-02T14:21:02.091Z",
+  "filtered_at": "2026-08-02T17:34:42.179Z"
+}

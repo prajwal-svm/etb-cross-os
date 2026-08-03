@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-andrewzn69-templates-template",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "misc",
+  "license": "MIT",
+  "source_url": "https://github.com/andrewzn69/templates",
+  "original_author": "andrewzn69",
+  "stars": 2,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-andrewzn69-templates-template/template.typ",
+  "relative_path": "raw/github-typst/gh-andrewzn69-templates-template/template.typ",
+  "main_doc": "template.typ",
+  "sha256": "042b92f42cb7e0bac7fb0b9eaa8128eca6a82d23335bfbc25edf074d00f44d96",
+  "size_bytes": 5770,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "templates/Typst/project-report/template.typ",
+  "downloaded_at": "2026-08-02T14:10:41.303Z"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "typst-universe/typst-tracl-0-8-1",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "venue",
+  "license": "Apache-2.0",
+  "source_url": "https://github.com/coli-saar/tracl",
+  "original_author": "Alexander Koller",
+  "package_name": "tracl",
+  "package_version": "0.8.1",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/typst-universe/typst-tracl-0-8-1/main.typ",
+  "relative_path": "raw/typst-universe/typst-tracl-0-8-1/main.typ",
+  "main_doc": "main.typ",
+  "sha256": "8508469e4f2ed659754967740c59dfab9c1647e7d756b14830975752d98aaa73",
+  "size_bytes": 619,
+  "document_class": null,
+  "uses_packages": [],
+  "downloaded_at": "2026-08-02T13:14:30.284Z",
+  "categories": [
+    "paper"
+  ],
+  "description": "Template for papers at *ACL conferences."
+}

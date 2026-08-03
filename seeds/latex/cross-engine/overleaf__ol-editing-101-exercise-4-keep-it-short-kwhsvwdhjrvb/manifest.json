@@ -1,0 +1,22 @@
+{
+  "id": "overleaf/ol-editing-101-exercise-4-keep-it-short-kwhsvwdhjrvb",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "misc",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/editing-101-exercise-4-keep-it-short/kwhsvwdhjrvb",
+  "original_author": "Farah Qaiser",
+  "title": "Editing 101: Exercise 4 - Keep It Short",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/overleaf/ol-editing-101-exercise-4-keep-it-short-kwhsvwdhjrvb/main.tex",
+  "relative_path": "raw/overleaf/ol-editing-101-exercise-4-keep-it-short-kwhsvwdhjrvb/main.tex",
+  "main_doc": "main.tex",
+  "sha256": "6343f4201e7375f4fd4a0af415f60dc10a9568dbf6ccd198c63c50cda5d6cabc",
+  "size_bytes": 3680,
+  "document_class": "article",
+  "uses_packages": [
+    "inputenc"
+  ],
+  "download_method": "view-source-modal",
+  "github_url": null,
+  "downloaded_at": "2026-08-02T15:01:30.733Z"
+}

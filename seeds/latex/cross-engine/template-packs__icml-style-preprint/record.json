@@ -1,0 +1,32 @@
+{
+  "id": "template-packs/icml-style-preprint",
+  "source": "template-packs",
+  "format": "latex",
+  "category": "venue",
+  "license": "CC0-1.0",
+  "source_url": "https://github.com/Oleafly/template-packs",
+  "original_author": "Oleafly",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/template-packs__icml-style-preprint/main.tex",
+  "relative_path": "processed/latex/cross-engine/template-packs__icml-style-preprint/main.tex",
+  "sha256": "6c9554a5ea0a090636b481febcacdbac4b8b37abc45fe30c71f0661321b12884",
+  "size_bytes": 3988,
+  "document_class": "article",
+  "uses_packages": [
+    "amsmath",
+    "fancyhdr",
+    "geometry",
+    "mathptmx",
+    "titlesec"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 280,
+  "downloaded_at": "2026-08-02T13:05:15.802Z",
+  "filtered_at": "2026-08-02T17:34:40.791Z"
+}

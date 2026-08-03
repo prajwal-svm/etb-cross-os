@@ -1,0 +1,26 @@
+{
+  "id": "typst-universe/typst-touying-dids-0-1-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "beamer",
+  "license": "MIT",
+  "source_url": "https://github.com/RaVincentHuang/touying-dids",
+  "original_author": "Zixiao Huang",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/typst-universe__typst-touying-dids-0-1-0/main.typ",
+  "relative_path": "processed/typst/typst-universe__typst-touying-dids-0-1-0/main.typ",
+  "sha256": "d8eaeec05a76cd4de1669a60f0dbb1127ccb3e3b0cab857bd2fa8ae2a2483a52",
+  "size_bytes": 577,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 428,
+  "downloaded_at": "2026-08-02T13:14:02.572Z",
+  "filtered_at": "2026-08-02T17:34:44.279Z"
+}

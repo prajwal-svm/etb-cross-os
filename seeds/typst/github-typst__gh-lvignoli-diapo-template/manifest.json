@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-lvignoli-diapo-template",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "beamer",
+  "license": "MIT",
+  "source_url": "https://github.com/lvignoli/diapo",
+  "original_author": "lvignoli",
+  "stars": 55,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-lvignoli-diapo-template/template.typ",
+  "relative_path": "raw/github-typst/gh-lvignoli-diapo-template/template.typ",
+  "main_doc": "template.typ",
+  "sha256": "c3f9a0822747d4ab6fb9b8cbc07621e21e197d2e618d61d30f052df0b5c2564d",
+  "size_bytes": 2476,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "template.typ",
+  "downloaded_at": "2026-08-02T14:03:50.072Z"
+}

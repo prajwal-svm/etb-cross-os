@@ -1,0 +1,39 @@
+{
+  "id": "overleaf/ol-sop-template-fbmzvfzqfvnv",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "misc",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/sop-template/fbmzvfzqfvnv",
+  "original_author": "Mayukh Chakrabarty",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/overleaf__ol-sop-template-fbmzvfzqfvnv/main.tex",
+  "relative_path": "processed/latex/cross-engine/overleaf__ol-sop-template-fbmzvfzqfvnv/main.tex",
+  "sha256": "9f2b521ceeb1f6b758926d8272430be42141ff1b3cf0ee31dff8d882dc97332a",
+  "size_bytes": 1664,
+  "document_class": "article",
+  "uses_packages": [
+    "blindtext",
+    "fontawesome5",
+    "fontenc",
+    "geometry",
+    "graphicx",
+    "hyperref",
+    "multirow",
+    "parskip",
+    "tabularx",
+    "tabulary",
+    "tgbonum",
+    "xcolor"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 2496,
+  "downloaded_at": "2026-08-02T15:30:54.011Z",
+  "filtered_at": "2026-08-02T17:34:41.840Z"
+}

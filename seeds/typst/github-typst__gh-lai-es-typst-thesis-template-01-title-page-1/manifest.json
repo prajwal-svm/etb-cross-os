@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-lai-es-typst-thesis-template-01-title-page-1",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "thesis",
+  "license": "MIT",
+  "source_url": "https://github.com/Lai-es/typst-thesis-template",
+  "original_author": "Lai-es",
+  "stars": 0,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-lai-es-typst-thesis-template-01-title-page-1/01 title page.typ",
+  "relative_path": "raw/github-typst/gh-lai-es-typst-thesis-template-01-title-page-1/01 title page.typ",
+  "main_doc": "01 title page.typ",
+  "sha256": "38319718ab7518fbb98fb351638c8c93ad02ef78e01dc20a5878d1a218196ac3",
+  "size_bytes": 640,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "template/chapters/01 title page.typ",
+  "downloaded_at": "2026-08-02T14:15:23.085Z"
+}

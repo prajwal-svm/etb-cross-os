@@ -1,0 +1,26 @@
+{
+  "id": "github-typst/gh-gl-eb-minimal-doc-typst-template",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "misc",
+  "license": "MIT",
+  "source_url": "https://github.com/gl-eb/minimal-doc",
+  "original_author": "gl-eb",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/github-typst__gh-gl-eb-minimal-doc-typst-template/typst-template.typ",
+  "relative_path": "processed/typst/github-typst__gh-gl-eb-minimal-doc-typst-template/typst-template.typ",
+  "sha256": "02ccc30873db82f91d7d7e00413bbb7435933f064c22b3231a17efceed6e1fbb",
+  "size_bytes": 3996,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 9,
+  "downloaded_at": "2026-08-02T14:08:11.436Z",
+  "filtered_at": "2026-08-02T17:34:44.918Z"
+}

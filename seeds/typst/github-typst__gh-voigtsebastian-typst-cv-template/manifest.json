@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-voigtsebastian-typst-cv-template",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "cv",
+  "license": "MIT",
+  "source_url": "https://github.com/VoigtSebastian/typst-CV",
+  "original_author": "VoigtSebastian",
+  "stars": 0,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-voigtsebastian-typst-cv-template/template.typ",
+  "relative_path": "raw/github-typst/gh-voigtsebastian-typst-cv-template/template.typ",
+  "main_doc": "template.typ",
+  "sha256": "e1acadc26334f4d028847b3af345d470cb296d38dacb1480485e557b8216b2e1",
+  "size_bytes": 2763,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "template.typ",
+  "downloaded_at": "2026-08-02T14:21:24.635Z"
+}

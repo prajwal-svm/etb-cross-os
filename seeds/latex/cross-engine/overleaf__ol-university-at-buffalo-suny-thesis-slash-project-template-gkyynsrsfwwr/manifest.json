@@ -1,0 +1,27 @@
+{
+  "id": "overleaf/ol-university-at-buffalo-suny-thesis-slash-project-template-gkyynsrsfwwr",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "thesis",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/university-at-buffalo-suny-thesis-slash-project-template/gkyynsrsfwwr",
+  "original_author": "Yon-Chien Huang (Yvonne)",
+  "title": "University at Buffalo, SUNY. Thesis/project template",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/overleaf/ol-university-at-buffalo-suny-thesis-slash-project-template-gkyynsrsfwwr/main.tex",
+  "relative_path": "raw/overleaf/ol-university-at-buffalo-suny-thesis-slash-project-template-gkyynsrsfwwr/main.tex",
+  "main_doc": "main.tex",
+  "sha256": "1034d7a5a1d230774667498134fb5c19a9cf71201655bd4b57d151df23c2d6d1",
+  "size_bytes": 1627,
+  "document_class": "article",
+  "uses_packages": [
+    "array",
+    "blindtext",
+    "graphicx",
+    "setspace",
+    "times",
+    "titlesec"
+  ],
+  "download_method": "view-source-modal",
+  "github_url": null,
+  "downloaded_at": "2026-08-02T15:37:00.706Z"
+}

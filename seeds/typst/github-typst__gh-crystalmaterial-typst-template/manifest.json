@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-crystalmaterial-typst-template",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "misc",
+  "license": "CC0-1.0",
+  "source_url": "https://github.com/crystalmaterial/typst",
+  "original_author": "crystalmaterial",
+  "stars": 0,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-crystalmaterial-typst-template/template.typ",
+  "relative_path": "raw/github-typst/gh-crystalmaterial-typst-template/template.typ",
+  "main_doc": "template.typ",
+  "sha256": "7edd746e14f901ffb9a25f10c7213732be9d9f935665778dc725c1a8d9b5ccdd",
+  "size_bytes": 6628,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "template.typ",
+  "downloaded_at": "2026-08-02T14:20:48.139Z"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "typst-universe/typst-ethz-iis-assignment-1-0-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "report",
+  "license": "Apache-2.0",
+  "source_url": "https://github.com/pulp-platform/iis-typst",
+  "original_author": "Tim Fischer",
+  "package_name": "ethz-iis-assignment",
+  "package_version": "1.0.0",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/typst-universe/typst-ethz-iis-assignment-1-0-0/main.typ",
+  "relative_path": "raw/typst-universe/typst-ethz-iis-assignment-1-0-0/main.typ",
+  "main_doc": "main.typ",
+  "sha256": "ab08b0ea55136835c1031b5c60a6b6ab7f663f3feca1306d569add13c620ec59",
+  "size_bytes": 2919,
+  "document_class": null,
+  "uses_packages": [],
+  "downloaded_at": "2026-08-02T13:08:12.602Z",
+  "categories": [
+    "report"
+  ],
+  "description": "ETH Zurich IIS thesis assignment sheet template"
+}

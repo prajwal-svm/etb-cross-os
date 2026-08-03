@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-dawnever-csee-typst-template-template",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "misc",
+  "license": "MIT",
+  "source_url": "https://github.com/DawnEver/csee-typst-template",
+  "original_author": "DawnEver",
+  "stars": 2,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-dawnever-csee-typst-template-template/template.typ",
+  "relative_path": "raw/github-typst/gh-dawnever-csee-typst-template-template/template.typ",
+  "main_doc": "template.typ",
+  "sha256": "0fa486850f21b82ecef7a98637aace9e232bbea329cb00b51980f09534a2b8d1",
+  "size_bytes": 6020,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "template.typ",
+  "downloaded_at": "2026-08-02T14:09:44.174Z"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "github-typst/gh-abhinandh-s-typst-template-main",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "misc",
+  "license": "CC0-1.0",
+  "source_url": "https://github.com/abhinandh-s/typst_template",
+  "original_author": "abhinandh-s",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/github-typst__gh-abhinandh-s-typst-template-main/main.typ",
+  "relative_path": "processed/typst/github-typst__gh-abhinandh-s-typst-template-main/main.typ",
+  "sha256": "42f6d252d768db472b9f345b1605ea4ac60e70b4ef7c85f3811c653f2bbe057c",
+  "size_bytes": 454,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 199,
+  "downloaded_at": "2026-08-02T14:13:22.992Z",
+  "filtered_at": "2026-08-02T17:34:44.454Z"
+}

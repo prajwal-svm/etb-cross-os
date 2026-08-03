@@ -1,0 +1,28 @@
+{
+  "id": "github-latex/gh-kutaycoskuner-latex-templates-main-1",
+  "source": "github-latex",
+  "format": "latex",
+  "category": "misc",
+  "license": "CC0-1.0",
+  "source_url": "https://github.com/kutaycoskuner/latex-templates",
+  "original_author": "kutaycoskuner",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/github-latex__gh-kutaycoskuner-latex-templates-main-1/main.tex",
+  "relative_path": "processed/latex/cross-engine/github-latex__gh-kutaycoskuner-latex-templates-main-1/main.tex",
+  "sha256": "9b39cab1ad01ee0ef12d31cebf885efcaea30e4ab7354998bc081801f53c5881",
+  "size_bytes": 212,
+  "document_class": "standalone",
+  "uses_packages": [
+    "amsmath"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 228,
+  "downloaded_at": "2026-08-02T13:46:25.532Z",
+  "filtered_at": "2026-08-02T17:34:43.025Z"
+}

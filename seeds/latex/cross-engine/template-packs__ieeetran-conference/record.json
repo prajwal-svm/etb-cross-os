@@ -1,0 +1,31 @@
+{
+  "id": "template-packs/ieeetran-conference",
+  "source": "template-packs",
+  "format": "latex",
+  "category": "venue",
+  "license": "CC0-1.0",
+  "source_url": "https://github.com/Oleafly/template-packs",
+  "original_author": "Oleafly",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/template-packs__ieeetran-conference/main.tex",
+  "relative_path": "processed/latex/cross-engine/template-packs__ieeetran-conference/main.tex",
+  "sha256": "faaeb7c92c620c89edffc4654b0324c313ca45c7e1e9552ec21d030dd2efc1ee",
+  "size_bytes": 3945,
+  "document_class": "IEEEtran",
+  "uses_packages": [
+    "amsmath",
+    "amssymb",
+    "booktabs",
+    "hyperref"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 419,
+  "downloaded_at": "2026-08-02T13:05:15.880Z",
+  "filtered_at": "2026-08-02T17:34:40.794Z"
+}

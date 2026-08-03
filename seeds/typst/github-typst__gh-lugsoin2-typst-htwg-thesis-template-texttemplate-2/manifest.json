@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-lugsoin2-typst-htwg-thesis-template-texttemplate-2",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "thesis",
+  "license": "MIT",
+  "source_url": "https://github.com/LugsoIn2/typst-htwg-thesis-template",
+  "original_author": "LugsoIn2",
+  "stars": 6,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-lugsoin2-typst-htwg-thesis-template-texttemplate-2/textTemplate.typ",
+  "relative_path": "raw/github-typst/gh-lugsoin2-typst-htwg-thesis-template-texttemplate-2/textTemplate.typ",
+  "main_doc": "textTemplate.typ",
+  "sha256": "4e13a94c7de49f1a447610f5d7953fce0d10ef93fb76c2de5f1ef7ce2f787529",
+  "size_bytes": 5655,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "lib/textTemplate.typ",
+  "downloaded_at": "2026-08-02T14:06:52.486Z"
+}

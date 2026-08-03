@@ -1,0 +1,26 @@
+{
+  "id": "typst-universe/typst-gzu-thesis-unofficial-0-1-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "thesis",
+  "license": "MIT",
+  "source_url": "https://github.com/chengwu26/gzu-thesis-unofficial.git",
+  "original_author": "chengwu",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/typst-universe__typst-gzu-thesis-unofficial-0-1-0/main.typ",
+  "relative_path": "processed/typst/typst-universe__typst-gzu-thesis-unofficial-0-1-0/main.typ",
+  "sha256": "ef421d6f21b8766deb3ab92cb395fa063fdf5e7d081b00800b1b45aae285606f",
+  "size_bytes": 3422,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 449,
+  "downloaded_at": "2026-08-02T13:08:49.913Z",
+  "filtered_at": "2026-08-02T17:34:43.856Z"
+}

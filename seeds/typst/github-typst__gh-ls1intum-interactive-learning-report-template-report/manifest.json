@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-ls1intum-interactive-learning-report-template-report",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "report",
+  "license": "MIT",
+  "source_url": "https://github.com/ls1intum/interactive-learning-report-template",
+  "original_author": "ls1intum",
+  "stars": 0,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-ls1intum-interactive-learning-report-template-report/report.typ",
+  "relative_path": "raw/github-typst/gh-ls1intum-interactive-learning-report-template-report/report.typ",
+  "main_doc": "report.typ",
+  "sha256": "d029e51432b83fbb9f2745b400dac6f7855bfa18f83a64b9e0eccf509fe759c2",
+  "size_bytes": 1226,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "report.typ",
+  "downloaded_at": "2026-08-02T14:18:11.938Z"
+}

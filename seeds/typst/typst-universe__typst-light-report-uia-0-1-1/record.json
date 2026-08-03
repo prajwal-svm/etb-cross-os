@@ -1,0 +1,26 @@
+{
+  "id": "typst-universe/typst-light-report-uia-0-1-1",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "report",
+  "license": "MIT",
+  "source_url": "https://github.com/sebastos1/light-report-uia",
+  "original_author": "Sebastian Dalheim Knudsen",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/typst-universe__typst-light-report-uia-0-1-1/main.typ",
+  "relative_path": "processed/typst/typst-universe__typst-light-report-uia-0-1-1/main.typ",
+  "sha256": "06e79d1f9fab8f755a9209fa077bb5fe2363738512bdf79d5802cc8f705e9ce2",
+  "size_bytes": 1124,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 302,
+  "downloaded_at": "2026-08-02T13:09:59.784Z",
+  "filtered_at": "2026-08-02T17:34:43.956Z"
+}

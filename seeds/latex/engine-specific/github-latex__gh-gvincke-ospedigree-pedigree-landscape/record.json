@@ -1,0 +1,38 @@
+{
+  "id": "github-latex/gh-gvincke-ospedigree-pedigree-landscape",
+  "source": "github-latex",
+  "format": "latex",
+  "category": "misc",
+  "license": "Apache-2.0",
+  "source_url": "https://github.com/gvincke/ospedigree",
+  "original_author": "gvincke",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/engine-specific/github-latex__gh-gvincke-ospedigree-pedigree-landscape/pedigree-landscape.tex",
+  "relative_path": "processed/latex/engine-specific/github-latex__gh-gvincke-ospedigree-pedigree-landscape/pedigree-landscape.tex",
+  "sha256": "f1c35b53d804947a75630268d658553ebf7d9db7ec8f1975337972f7cd21a110",
+  "size_bytes": 7237,
+  "document_class": "article",
+  "uses_packages": [
+    "babel",
+    "ccicons",
+    "cclicenses",
+    "fontawesome",
+    "fontenc",
+    "geometry",
+    "hyperref",
+    "inputenc",
+    "lmodern",
+    "tikz",
+    "xcolor"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": false,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "engine-specific",
+  "compile_time_ms": 1027,
+  "downloaded_at": "2026-08-02T13:45:19.816Z",
+  "filtered_at": "2026-08-02T17:34:42.827Z"
+}

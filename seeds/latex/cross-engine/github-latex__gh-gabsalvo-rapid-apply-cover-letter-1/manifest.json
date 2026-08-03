@@ -1,0 +1,25 @@
+{
+  "id": "github-latex/gh-gabsalvo-rapid-apply-cover-letter-1",
+  "source": "github-latex",
+  "format": "latex",
+  "category": "cv",
+  "license": "MIT",
+  "source_url": "https://github.com/gabsalvo/rapid_apply",
+  "original_author": "gabsalvo",
+  "stars": 0,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-latex/gh-gabsalvo-rapid-apply-cover-letter-1/cover_letter.tex",
+  "relative_path": "raw/github-latex/gh-gabsalvo-rapid-apply-cover-letter-1/cover_letter.tex",
+  "main_doc": "cover_letter.tex",
+  "sha256": "2157fb9346bcf4521d1b38a22c7219aca2f000e06ed73f32d4e949ed534186f2",
+  "size_bytes": 856,
+  "document_class": "article",
+  "uses_packages": [
+    "fontenc",
+    "geometry",
+    "hyperref",
+    "inputenc",
+    "parskip"
+  ],
+  "repo_path": "templates/cover_letter.tex",
+  "downloaded_at": "2026-08-02T13:51:35.398Z"
+}

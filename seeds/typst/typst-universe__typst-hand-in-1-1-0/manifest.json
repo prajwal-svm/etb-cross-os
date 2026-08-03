@@ -1,0 +1,23 @@
+{
+  "id": "typst-universe/typst-hand-in-1-1-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "report",
+  "license": "MIT-0",
+  "source_url": "https://github.com/mkorje/typst-hand-in",
+  "original_author": "mkorje",
+  "package_name": "hand-in",
+  "package_version": "1.1.0",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/typst-universe/typst-hand-in-1-1-0/main.typ",
+  "relative_path": "raw/typst-universe/typst-hand-in-1-1-0/main.typ",
+  "main_doc": "main.typ",
+  "sha256": "49ad27672fa1ab8ad97c74e4838c8d7dcb6132c482dd057e6ca6f4b5b0f0e15f",
+  "size_bytes": 540,
+  "document_class": null,
+  "uses_packages": [],
+  "downloaded_at": "2026-08-02T13:08:52.411Z",
+  "categories": [
+    "report"
+  ],
+  "description": "Clean and minimalist assignment."
+}

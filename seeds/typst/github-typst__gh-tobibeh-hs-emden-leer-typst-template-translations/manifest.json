@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-tobibeh-hs-emden-leer-typst-template-translations",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "misc",
+  "license": "MIT",
+  "source_url": "https://github.com/TobiBeh/HS-Emden-Leer-Typst-Template",
+  "original_author": "TobiBeh",
+  "stars": 0,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-tobibeh-hs-emden-leer-typst-template-translations/translations.typ",
+  "relative_path": "raw/github-typst/gh-tobibeh-hs-emden-leer-typst-template-translations/translations.typ",
+  "main_doc": "translations.typ",
+  "sha256": "af9c715261490cb4f63132fb990327407ae5cb163bbdf04c9bdaf4f9cd8fa63b",
+  "size_bytes": 5334,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "lib/translations.typ",
+  "downloaded_at": "2026-08-02T14:17:30.271Z"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "typst-universe/typst-golixp-resume-zh-cn-0-1-2",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "cv",
+  "license": "MIT",
+  "source_url": "https://github.com/golixp/typst-resume-zh-cn",
+  "original_author": "lixp",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/typst-universe__typst-golixp-resume-zh-cn-0-1-2/main.typ",
+  "relative_path": "processed/typst/typst-universe__typst-golixp-resume-zh-cn-0-1-2/main.typ",
+  "sha256": "d78215557d2050c34629fe8c9dbf6249f7da2112e37659e427ae5870b1ee8e2a",
+  "size_bytes": 10142,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 340,
+  "downloaded_at": "2026-08-02T13:08:43.725Z",
+  "filtered_at": "2026-08-02T17:34:43.849Z"
+}

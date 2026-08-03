@@ -1,0 +1,27 @@
+{
+  "id": "github-latex/gh-star1327p-moderncv-template-moderncv-app-stmt-1",
+  "source": "github-latex",
+  "format": "latex",
+  "category": "cv",
+  "license": "MIT",
+  "source_url": "https://github.com/star1327p/moderncv-template",
+  "original_author": "star1327p",
+  "stars": 19,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-latex/gh-star1327p-moderncv-template-moderncv-app-stmt-1/moderncv-app-stmt.tex",
+  "relative_path": "raw/github-latex/gh-star1327p-moderncv-template-moderncv-app-stmt-1/moderncv-app-stmt.tex",
+  "main_doc": "moderncv-app-stmt.tex",
+  "sha256": "637b34ace8d576f0b24596ae38de4919222beaa4edf6e6d0902446d532d65c89",
+  "size_bytes": 5963,
+  "document_class": "moderncv",
+  "uses_packages": [
+    "amsmath",
+    "fontawesome5",
+    "footmisc",
+    "geometry",
+    "lipsum",
+    "multicol",
+    "url"
+  ],
+  "repo_path": "moderncv-app-stmt.tex",
+  "downloaded_at": "2026-08-02T13:17:42.133Z"
+}

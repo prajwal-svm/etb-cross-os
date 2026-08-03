@@ -1,0 +1,25 @@
+{
+  "id": "overleaf/ol-derivative-flashcards-pzfkwqtskpzm",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "misc",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/derivative-flashcards/pzfkwqtskpzm",
+  "original_author": "Caleb McWhorter",
+  "title": "Derivative Flashcards",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/overleaf/ol-derivative-flashcards-pzfkwqtskpzm/main.tex",
+  "relative_path": "raw/overleaf/ol-derivative-flashcards-pzfkwqtskpzm/main.tex",
+  "main_doc": "main.tex",
+  "sha256": "c51dce1406c9547cb9aea8be58a07323c2040c11ca7339ccedb0149b0b1f30e5",
+  "size_bytes": 4037,
+  "document_class": "flashcards",
+  "uses_packages": [
+    "amsmath",
+    "fontenc",
+    "geometry",
+    "mathdesign"
+  ],
+  "download_method": "view-source-modal",
+  "github_url": null,
+  "downloaded_at": "2026-08-02T13:46:57.828Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-detiuaveiro-ua-thesis-template-typst-chapter-conclusions",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "thesis",
+  "license": "MIT",
+  "source_url": "https://github.com/detiuaveiro/ua-thesis-template-typst",
+  "original_author": "detiuaveiro",
+  "stars": 0,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-detiuaveiro-ua-thesis-template-typst-chapter-conclusions/chapter-conclusions.typ",
+  "relative_path": "raw/github-typst/gh-detiuaveiro-ua-thesis-template-typst-chapter-conclusions/chapter-conclusions.typ",
+  "main_doc": "chapter-conclusions.typ",
+  "sha256": "3e02637e2914d081ae621baa8ae20a3552c7c4a71ee1d0f68a9b54f5db2b31e5",
+  "size_bytes": 1004,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "chapters/chapter-conclusions.typ",
+  "downloaded_at": "2026-08-02T14:16:23.324Z"
+}

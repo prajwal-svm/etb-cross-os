@@ -1,0 +1,23 @@
+{
+  "id": "typst-universe/typst-definitely-not-isec-slides-1-1-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "beamer",
+  "license": "MIT",
+  "source_url": "https://github.com/ecomaikgolf/typst-isec-slides-template",
+  "original_author": "Ernesto Martínez",
+  "package_name": "definitely-not-isec-slides",
+  "package_version": "1.1.0",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/typst-universe/typst-definitely-not-isec-slides-1-1-0/slides.typ",
+  "relative_path": "raw/typst-universe/typst-definitely-not-isec-slides-1-1-0/slides.typ",
+  "main_doc": "slides.typ",
+  "sha256": "88d66d11c06682e6a25f1ca5fe41f85fd9a4bf4b384dd1b1cc889eed7415ab72",
+  "size_bytes": 2255,
+  "document_class": null,
+  "uses_packages": [],
+  "downloaded_at": "2026-08-02T13:07:39.761Z",
+  "categories": [
+    "presentation"
+  ],
+  "description": "An unofficial ISEC TUGraz slides template"
+}

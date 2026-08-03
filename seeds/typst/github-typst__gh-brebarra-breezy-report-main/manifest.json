@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-brebarra-breezy-report-main",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "report",
+  "license": "MIT",
+  "source_url": "https://github.com/brebarra/breezy-report",
+  "original_author": "brebarra",
+  "stars": 0,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-brebarra-breezy-report-main/main.typ",
+  "relative_path": "raw/github-typst/gh-brebarra-breezy-report-main/main.typ",
+  "main_doc": "main.typ",
+  "sha256": "d650b84cdddb1f6fb362adb27d2b0beda9d1d05db7f526f36de3555684119496",
+  "size_bytes": 712,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "template/main.typ",
+  "downloaded_at": "2026-08-02T14:19:43.262Z"
+}

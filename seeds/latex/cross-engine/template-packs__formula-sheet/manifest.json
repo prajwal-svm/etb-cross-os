@@ -1,0 +1,27 @@
+{
+  "id": "template-packs/formula-sheet",
+  "source": "template-packs",
+  "format": "latex",
+  "category": "coursework",
+  "category_raw": "Assignments",
+  "license": "CC0-1.0",
+  "source_url": "https://github.com/Oleafly/template-packs",
+  "original_author": "Oleafly",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/template-packs/formula-sheet/main.tex",
+  "relative_path": "raw/template-packs/formula-sheet/main.tex",
+  "main_doc": "main.tex",
+  "sha256": "5dc3c494a4dedf1e6d5bf04995c98ff0f791c45294e726502138159e3b59ad79",
+  "size_bytes": 3140,
+  "document_class": "article",
+  "uses_packages": [
+    "amsmath",
+    "amssymb",
+    "geometry",
+    "lmodern",
+    "multicol",
+    "tcolorbox",
+    "xcolor"
+  ],
+  "engine_hint": "xetex",
+  "downloaded_at": "2026-08-02T13:05:15.819Z"
+}

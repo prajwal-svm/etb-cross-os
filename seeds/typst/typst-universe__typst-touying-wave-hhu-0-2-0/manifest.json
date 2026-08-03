@@ -1,0 +1,23 @@
+{
+  "id": "typst-universe/typst-touying-wave-hhu-0-2-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "beamer",
+  "license": "MIT",
+  "source_url": "https://github.com/HPDell/touying-wave-hhu",
+  "original_author": "HPDell",
+  "package_name": "touying-wave-hhu",
+  "package_version": "0.2.0",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/typst-universe/typst-touying-wave-hhu-0-2-0/main.typ",
+  "relative_path": "raw/typst-universe/typst-touying-wave-hhu-0-2-0/main.typ",
+  "main_doc": "main.typ",
+  "sha256": "c0967429500fe6bcd1dc5a4ec8fbb6ff9b1b4e2b8c8544c8b3433f6a876e3b0d",
+  "size_bytes": 330,
+  "document_class": null,
+  "uses_packages": [],
+  "downloaded_at": "2026-08-02T13:14:27.972Z",
+  "categories": [
+    "presentation"
+  ],
+  "description": "Touying Slide Theme for Hohai University"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "typst-universe/typst-silky-report-insa-0-5-3",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "report",
+  "license": "MIT",
+  "source_url": "https://github.com/SkytAsul/INSA-Typst-Template",
+  "original_author": "SkytAsul",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/typst-universe__typst-silky-report-insa-0-5-3/main.typ",
+  "relative_path": "processed/typst/typst-universe__typst-silky-report-insa-0-5-3/main.typ",
+  "sha256": "b5d49cbbb795c453303335985e453bbf8dbdaabdf7312efe001a5e835122eec3",
+  "size_bytes": 263,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 266,
+  "downloaded_at": "2026-08-02T13:12:52.096Z",
+  "filtered_at": "2026-08-02T17:34:44.174Z"
+}

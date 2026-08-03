@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-kamack38-cram-snap-lib-1",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "misc",
+  "license": "MIT",
+  "source_url": "https://github.com/kamack38/cram-snap",
+  "original_author": "kamack38",
+  "stars": 25,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-kamack38-cram-snap-lib-1/lib.typ",
+  "relative_path": "raw/github-typst/gh-kamack38-cram-snap-lib-1/lib.typ",
+  "main_doc": "lib.typ",
+  "sha256": "dc9ad26259d3e8036c1dcca7c87f1c8099e677ce55b3248f3b272406d652e16a",
+  "size_bytes": 1199,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "lib.typ",
+  "downloaded_at": "2026-08-02T14:04:33.429Z"
+}

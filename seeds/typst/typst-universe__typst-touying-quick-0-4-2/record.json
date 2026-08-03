@@ -1,0 +1,26 @@
+{
+  "id": "typst-universe/typst-touying-quick-0-4-2",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "beamer",
+  "license": "MIT",
+  "source_url": "https://github.com/ivaquero/touying-quick.git",
+  "original_author": "ivaquero",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/typst-universe__typst-touying-quick-0-4-2/main.typ",
+  "relative_path": "processed/typst/typst-universe__typst-touying-quick-0-4-2/main.typ",
+  "sha256": "f0fb94c5006e53a57eaf4bd4c581a904379f58363fcd8cc9a9caf30381fddfe9",
+  "size_bytes": 241,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 360,
+  "downloaded_at": "2026-08-02T13:14:15.229Z",
+  "filtered_at": "2026-08-02T17:34:44.293Z"
+}

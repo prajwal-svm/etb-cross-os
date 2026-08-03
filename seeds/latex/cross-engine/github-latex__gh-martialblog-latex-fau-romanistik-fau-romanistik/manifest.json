@@ -1,0 +1,29 @@
+{
+  "id": "github-latex/gh-martialblog-latex-fau-romanistik-fau-romanistik",
+  "source": "github-latex",
+  "format": "latex",
+  "category": "misc",
+  "license": "Apache-2.0",
+  "source_url": "https://github.com/martialblog/latex-fau-romanistik",
+  "original_author": "martialblog",
+  "stars": 0,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-latex/gh-martialblog-latex-fau-romanistik-fau-romanistik/fau-romanistik.tex",
+  "relative_path": "raw/github-latex/gh-martialblog-latex-fau-romanistik-fau-romanistik/fau-romanistik.tex",
+  "main_doc": "fau-romanistik.tex",
+  "sha256": "1539a5f7c1cbafbd912b00072184d3c4c78280906022440a9f17bbb119c4d2cb",
+  "size_bytes": 2033,
+  "document_class": "article",
+  "uses_packages": [
+    "babel",
+    "bibentry",
+    "color",
+    "geometry",
+    "graphicx",
+    "inputenc",
+    "natbib",
+    "parskip",
+    "setspace"
+  ],
+  "repo_path": "fau-romanistik.tex",
+  "downloaded_at": "2026-08-02T13:44:39.414Z"
+}

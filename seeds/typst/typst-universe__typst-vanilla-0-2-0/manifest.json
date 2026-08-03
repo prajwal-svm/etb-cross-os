@@ -1,0 +1,23 @@
+{
+  "id": "typst-universe/typst-vanilla-0-2-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "venue",
+  "license": "MIT",
+  "source_url": "https://github.com/juristack/typst-vanilla",
+  "original_author": "David Conrad",
+  "package_name": "vanilla",
+  "package_version": "0.2.0",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/typst-universe/typst-vanilla-0-2-0/main.typ",
+  "relative_path": "raw/typst-universe/typst-vanilla-0-2-0/main.typ",
+  "main_doc": "main.typ",
+  "sha256": "8e69dd8bc037b126a4688163e5c54be4d1e1415d7668a5c0e9e1a00c9df257a6",
+  "size_bytes": 982,
+  "document_class": null,
+  "uses_packages": [],
+  "downloaded_at": "2026-08-02T13:15:40.324Z",
+  "categories": [
+    "paper"
+  ],
+  "description": "A vanilla Typst package. Aims for minimilist styling fimilar to classic MS Word defaults."
+}

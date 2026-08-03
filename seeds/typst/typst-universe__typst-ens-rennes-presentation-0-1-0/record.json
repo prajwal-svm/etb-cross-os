@@ -1,0 +1,26 @@
+{
+  "id": "typst-universe/typst-ens-rennes-presentation-0-1-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "beamer",
+  "license": "MIT",
+  "source_url": "https://github.com/zacharie-moughanim/ens-rennes-presentation",
+  "original_author": "Zacharie",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/typst-universe__typst-ens-rennes-presentation-0-1-0/main.typ",
+  "relative_path": "processed/typst/typst-universe__typst-ens-rennes-presentation-0-1-0/main.typ",
+  "sha256": "a41572ef895e74ec13d310d249e2d0fefb14058d63fad1df3ed976a9eaffe561",
+  "size_bytes": 594,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 209,
+  "downloaded_at": "2026-08-02T13:08:05.834Z",
+  "filtered_at": "2026-08-02T17:34:43.793Z"
+}

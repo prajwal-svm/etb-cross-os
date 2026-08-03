@@ -1,0 +1,25 @@
+{
+  "id": "overleaf/ol-tarea-mfm-ii-rkqcbsjyyksm",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "misc",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/tarea-mfm-ii/rkqcbsjyyksm",
+  "original_author": "AntonY eMeSe",
+  "title": "Tarea MFM II",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/overleaf/ol-tarea-mfm-ii-rkqcbsjyyksm/main.tex",
+  "relative_path": "raw/overleaf/ol-tarea-mfm-ii-rkqcbsjyyksm/main.tex",
+  "main_doc": "main.tex",
+  "sha256": "704b60772869cdcd5aed21459819f5a0ff832bf351bb604efc73a7d8abf0d96e",
+  "size_bytes": 712,
+  "document_class": "article",
+  "uses_packages": [
+    "babel",
+    "comment",
+    "fullpage",
+    "inputenc"
+  ],
+  "download_method": "view-source-modal",
+  "github_url": null,
+  "downloaded_at": "2026-08-02T13:45:14.023Z"
+}

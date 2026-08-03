@@ -1,0 +1,32 @@
+{
+  "id": "template-packs/conference-program",
+  "source": "template-packs",
+  "format": "latex",
+  "category": "business",
+  "license": "CC0-1.0",
+  "source_url": "https://github.com/Oleafly/template-packs",
+  "original_author": "Oleafly",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/template-packs__conference-program/main.tex",
+  "relative_path": "processed/latex/cross-engine/template-packs__conference-program/main.tex",
+  "sha256": "cf90ba3dd1312c83d688f36e934c501887f24a3c97e040001e2dc145d04a94f7",
+  "size_bytes": 3646,
+  "document_class": "article",
+  "uses_packages": [
+    "booktabs",
+    "geometry",
+    "sourcesanspro",
+    "tabularx",
+    "xcolor"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 577,
+  "downloaded_at": "2026-08-02T13:05:15.786Z",
+  "filtered_at": "2026-08-02T17:34:40.757Z"
+}

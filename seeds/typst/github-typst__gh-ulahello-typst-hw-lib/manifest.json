@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-ulahello-typst-hw-lib",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "coursework",
+  "license": "MIT",
+  "source_url": "https://github.com/ulahello/typst-hw",
+  "original_author": "ulahello",
+  "stars": 0,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-ulahello-typst-hw-lib/lib.typ",
+  "relative_path": "raw/github-typst/gh-ulahello-typst-hw-lib/lib.typ",
+  "main_doc": "lib.typ",
+  "sha256": "5fa0668bb89342d943a95a2ec63eaf70188c62a87f63a61f347d92b54d36ab55",
+  "size_bytes": 701,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "lib.typ",
+  "downloaded_at": "2026-08-02T14:14:54.551Z"
+}

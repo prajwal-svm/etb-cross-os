@@ -1,0 +1,28 @@
+{
+  "id": "overleaf/ol-industrial-placement-report-vcjymrgmcpzh",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "report",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/industrial-placement-report/vcjymrgmcpzh",
+  "original_author": "Duncan Hull",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/overleaf__ol-industrial-placement-report-vcjymrgmcpzh/main.tex",
+  "relative_path": "processed/latex/cross-engine/overleaf__ol-industrial-placement-report-vcjymrgmcpzh/main.tex",
+  "sha256": "d60dcf3ee98c6ab78bf016266ad3d64ed1f3e8d91af391aa01794dd48d356b7d",
+  "size_bytes": 979,
+  "document_class": "article",
+  "uses_packages": [
+    "graphicx"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 259,
+  "downloaded_at": "2026-08-02T13:44:55.276Z",
+  "filtered_at": "2026-08-02T17:34:41.258Z"
+}

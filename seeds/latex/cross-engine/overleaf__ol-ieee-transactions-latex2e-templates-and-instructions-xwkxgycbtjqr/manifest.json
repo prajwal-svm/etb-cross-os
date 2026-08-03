@@ -1,0 +1,32 @@
+{
+  "id": "overleaf/ol-ieee-transactions-latex2e-templates-and-instructions-xwkxgycbtjqr",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "venue",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/ieee-transactions-latex2e-templates-and-instructions/xwkxgycbtjqr",
+  "original_author": "D. Amendola",
+  "title": "IEEE Transactions LaTeX2e templates and instructions",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/overleaf/ol-ieee-transactions-latex2e-templates-and-instructions-xwkxgycbtjqr/main.tex",
+  "relative_path": "raw/overleaf/ol-ieee-transactions-latex2e-templates-and-instructions-xwkxgycbtjqr/main.tex",
+  "main_doc": "main.tex",
+  "sha256": "e5b503ede2db4d0f615b91ba82b648d30f4070d257c52c624e4ed04dba7edf4e",
+  "size_bytes": 20925,
+  "document_class": "IEEEtran",
+  "uses_packages": [
+    "algorithmic",
+    "amsmath",
+    "array",
+    "cite",
+    "dblfloatfix",
+    "fixltx2e",
+    "graphicx",
+    "ifpdf",
+    "stfloats",
+    "subfig",
+    "url"
+  ],
+  "download_method": "view-source-modal",
+  "github_url": null,
+  "downloaded_at": "2026-08-02T13:44:39.062Z"
+}

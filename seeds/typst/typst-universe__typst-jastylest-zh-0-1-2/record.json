@@ -1,0 +1,26 @@
+{
+  "id": "typst-universe/typst-jastylest-zh-0-1-2",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "report",
+  "license": "MIT",
+  "source_url": "https://github.com/mike-unk/jastylest-zh.git",
+  "original_author": "mike-unk",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/typst-universe__typst-jastylest-zh-0-1-2/document.typ",
+  "relative_path": "processed/typst/typst-universe__typst-jastylest-zh-0-1-2/document.typ",
+  "sha256": "171d8bc70713129ddf3027d6f4af8a3fb4c876060eb242f633f3ba7fcbdc0c3b",
+  "size_bytes": 2930,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 314,
+  "downloaded_at": "2026-08-02T13:09:38.804Z",
+  "filtered_at": "2026-08-02T17:34:43.926Z"
+}

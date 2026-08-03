@@ -1,0 +1,37 @@
+{
+  "id": "github-latex/gh-achepurnoi-resume-resume",
+  "source": "github-latex",
+  "format": "latex",
+  "category": "cv",
+  "license": "MIT",
+  "source_url": "https://github.com/AChepurnoi/resume",
+  "original_author": "AChepurnoi",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/github-latex__gh-achepurnoi-resume-resume/resume.tex",
+  "relative_path": "processed/latex/cross-engine/github-latex__gh-achepurnoi-resume-resume/resume.tex",
+  "sha256": "94ae63feec85f4ad9195b82a9627470459bb1a3999febb8665186e4ec3711532",
+  "size_bytes": 6520,
+  "document_class": "article",
+  "uses_packages": [
+    "babel",
+    "color",
+    "enumitem",
+    "fancyhdr",
+    "fullpage",
+    "hyperref",
+    "latexsym",
+    "marvosym",
+    "titlesec",
+    "verbatim"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 375,
+  "downloaded_at": "2026-08-02T13:20:25.287Z",
+  "filtered_at": "2026-08-02T17:34:42.396Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-qqkdegit-bupt-typst-template",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "thesis",
+  "license": "MIT",
+  "source_url": "https://github.com/QQKdeGit/bupt-typst",
+  "original_author": "QQKdeGit",
+  "stars": 97,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-qqkdegit-bupt-typst-template/template.typ",
+  "relative_path": "raw/github-typst/gh-qqkdegit-bupt-typst-template/template.typ",
+  "main_doc": "template.typ",
+  "sha256": "9b1825eca32b40d9d3f39262bc6711c30246bed478c0b8fa1782540fb14ba1ef",
+  "size_bytes": 8955,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "template.typ",
+  "downloaded_at": "2026-08-02T14:03:34.233Z"
+}

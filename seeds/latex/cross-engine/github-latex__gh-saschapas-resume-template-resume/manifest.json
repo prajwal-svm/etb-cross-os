@@ -1,0 +1,26 @@
+{
+  "id": "github-latex/gh-saschapas-resume-template-resume",
+  "source": "github-latex",
+  "format": "latex",
+  "category": "cv",
+  "license": "Apache-2.0",
+  "source_url": "https://github.com/saschapas/resume_template",
+  "original_author": "saschapas",
+  "stars": 0,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-latex/gh-saschapas-resume-template-resume/resume.tex",
+  "relative_path": "raw/github-latex/gh-saschapas-resume-template-resume/resume.tex",
+  "main_doc": "resume.tex",
+  "sha256": "42830b206008bb08058c1410c4dc875e9f320fafd510c0ea6fcc819209df69b5",
+  "size_bytes": 5181,
+  "document_class": "article",
+  "uses_packages": [
+    "geometry",
+    "hyperref",
+    "needspace",
+    "scrextend",
+    "titlesec",
+    "titling"
+  ],
+  "repo_path": "resume.tex",
+  "downloaded_at": "2026-08-02T13:44:38.370Z"
+}

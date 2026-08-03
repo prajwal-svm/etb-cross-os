@@ -1,0 +1,30 @@
+{
+  "id": "overleaf/ol-phys-228-template-vkmhvpzpvvtq",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "misc",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/phys-228-template/vkmhvpzpvvtq",
+  "original_author": "Marty Baylor",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/engine-specific/overleaf__ol-phys-228-template-vkmhvpzpvvtq/main.tex",
+  "relative_path": "processed/latex/engine-specific/overleaf__ol-phys-228-template-vkmhvpzpvvtq/main.tex",
+  "sha256": "3a51dd84dcbf1e7ec59c899cf7b6c60ad9579a7b7fd3cb9844ad45d856ebe429",
+  "size_bytes": 2146,
+  "document_class": "revtex4-1",
+  "uses_packages": [
+    "bm",
+    "dcolumn",
+    "graphicx"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": false,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "engine-specific",
+  "compile_time_ms": 767,
+  "downloaded_at": "2026-08-02T16:54:55.752Z",
+  "filtered_at": "2026-08-02T17:34:41.626Z"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "github-typst/gh-indicatelovelace-typsttemplates-utils-1",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "beamer",
+  "license": "MIT",
+  "source_url": "https://github.com/indicatelovelace/typstTemplates",
+  "original_author": "indicatelovelace",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/github-typst__gh-indicatelovelace-typsttemplates-utils-1/utils.typ",
+  "relative_path": "processed/typst/github-typst__gh-indicatelovelace-typsttemplates-utils-1/utils.typ",
+  "sha256": "5b1f02e0eecf33995865408c881360ab7460e12d75ba65dede0ba65da7fc85c5",
+  "size_bytes": 2317,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 11,
+  "downloaded_at": "2026-08-02T14:06:41.690Z",
+  "filtered_at": "2026-08-02T17:34:45.009Z"
+}

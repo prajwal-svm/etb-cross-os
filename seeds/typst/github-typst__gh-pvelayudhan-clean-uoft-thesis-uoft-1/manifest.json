@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-pvelayudhan-clean-uoft-thesis-uoft-1",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "thesis",
+  "license": "MIT",
+  "source_url": "https://github.com/pvelayudhan/clean-uoft-thesis",
+  "original_author": "pvelayudhan",
+  "stars": 1,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-pvelayudhan-clean-uoft-thesis-uoft-1/uoft.typ",
+  "relative_path": "raw/github-typst/gh-pvelayudhan-clean-uoft-thesis-uoft-1/uoft.typ",
+  "main_doc": "uoft.typ",
+  "sha256": "b0fd4ab60da407d14c036a9428db953f636b21d5b9137208b913ae33c151ab67",
+  "size_bytes": 10082,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "uoft.typ",
+  "downloaded_at": "2026-08-02T14:13:08.486Z"
+}

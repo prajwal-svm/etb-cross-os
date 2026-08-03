@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-tenyoru-cv-typst-cv",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "cv",
+  "license": "MIT",
+  "source_url": "https://github.com/tenyoru/cv-typst",
+  "original_author": "tenyoru",
+  "stars": 0,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-tenyoru-cv-typst-cv/cv.typ",
+  "relative_path": "raw/github-typst/gh-tenyoru-cv-typst-cv/cv.typ",
+  "main_doc": "cv.typ",
+  "sha256": "33420b7e2006f973b9c9f9fecebc72bef0f46c56aa189dd023219e4a30406d60",
+  "size_bytes": 6421,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "cv.typ",
+  "downloaded_at": "2026-08-02T14:21:27.075Z"
+}

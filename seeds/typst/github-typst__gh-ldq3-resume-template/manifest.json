@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-ldq3-resume-template",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "cv",
+  "license": "MIT",
+  "source_url": "https://github.com/ldq3/resume",
+  "original_author": "ldq3",
+  "stars": 0,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-ldq3-resume-template/template.typ",
+  "relative_path": "raw/github-typst/gh-ldq3-resume-template/template.typ",
+  "main_doc": "template.typ",
+  "sha256": "d2a0c8eb69fd7f42016351b3d4b6af7f8951f9dfbb5ac6cddf26421deb783cf1",
+  "size_bytes": 5754,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "src/template.typ",
+  "downloaded_at": "2026-08-02T14:16:51.996Z"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "typst-universe/typst-rectangles-polylux-0-1-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "beamer",
+  "license": "MIT",
+  "source_url": "https://github.com/felsenhower/rectangles-polylux.git",
+  "original_author": "Ruben Felgenhauer",
+  "package_name": "rectangles-polylux",
+  "package_version": "0.1.0",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/typst-universe/typst-rectangles-polylux-0-1-0/main.typ",
+  "relative_path": "raw/typst-universe/typst-rectangles-polylux-0-1-0/main.typ",
+  "main_doc": "main.typ",
+  "sha256": "93153fccdc7332e211d0952e10a4158e904223d98aeab0612d7be936bf5e1ccc",
+  "size_bytes": 1101,
+  "document_class": null,
+  "uses_packages": [],
+  "downloaded_at": "2026-08-02T13:12:25.797Z",
+  "categories": [
+    "presentation"
+  ],
+  "description": "LaTeX Beamer-inspired template for Polylux"
+}

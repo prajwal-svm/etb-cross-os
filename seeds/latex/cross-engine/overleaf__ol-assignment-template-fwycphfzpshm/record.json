@@ -1,0 +1,29 @@
+{
+  "id": "overleaf/ol-assignment-template-fwycphfzpshm",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "coursework",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/assignment-template/fwycphfzpshm",
+  "original_author": "Barbara Plank",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/overleaf__ol-assignment-template-fwycphfzpshm/main.tex",
+  "relative_path": "processed/latex/cross-engine/overleaf__ol-assignment-template-fwycphfzpshm/main.tex",
+  "sha256": "abf1c5adba33865178598809e20d395d8cd6409d08254190506fc68ce18c6948",
+  "size_bytes": 735,
+  "document_class": "article",
+  "uses_packages": [
+    "natbib",
+    "url"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 717,
+  "downloaded_at": "2026-08-02T15:09:55.153Z",
+  "filtered_at": "2026-08-02T17:34:40.947Z"
+}

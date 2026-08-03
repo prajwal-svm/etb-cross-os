@@ -1,0 +1,23 @@
+{
+  "id": "typst-universe/typst-stv-vub-huisstijl-0-1-1",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "thesis",
+  "license": "MIT",
+  "source_url": "https://github.com/WannesMalfait/vub-huisstijl-typst/",
+  "original_author": "Wannes Malfait",
+  "package_name": "stv-vub-huisstijl",
+  "package_version": "0.1.1",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/typst-universe/typst-stv-vub-huisstijl-0-1-1/main.typ",
+  "relative_path": "raw/typst-universe/typst-stv-vub-huisstijl-0-1-1/main.typ",
+  "main_doc": "main.typ",
+  "sha256": "dffb9f0cfb9001473b45f68f932059a8498f28dad7d7081398e77bcf9335dd18",
+  "size_bytes": 505,
+  "document_class": null,
+  "uses_packages": [],
+  "downloaded_at": "2026-08-02T13:13:33.437Z",
+  "categories": [
+    "thesis"
+  ],
+  "description": "An unofficial template to get the look of the Vrije Universiteit Brussel (VUB) huisstijl in Typst."
+}

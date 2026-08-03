@@ -1,0 +1,29 @@
+{
+  "id": "overleaf/ol-cover-letter-simple-xccnpvnxqbcp",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "letter",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/cover-letter-simple/xccnpvnxqbcp",
+  "original_author": "Aswath Subramanian",
+  "title": "Cover Letter Simple",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/overleaf/ol-cover-letter-simple-xccnpvnxqbcp/main.tex",
+  "relative_path": "raw/overleaf/ol-cover-letter-simple-xccnpvnxqbcp/main.tex",
+  "main_doc": "main.tex",
+  "sha256": "e4a8c86cc59da0776f7c833b18d7936c1abccbd464fc69597055c3ef14ec480c",
+  "size_bytes": 2253,
+  "document_class": "letter",
+  "uses_packages": [
+    "fancyhdr",
+    "fontawesome",
+    "geometry",
+    "graphicx",
+    "hyperref",
+    "inputenc",
+    "setspace",
+    "sourcesanspro"
+  ],
+  "download_method": "view-source-modal",
+  "github_url": null,
+  "downloaded_at": "2026-08-02T16:34:40.319Z"
+}

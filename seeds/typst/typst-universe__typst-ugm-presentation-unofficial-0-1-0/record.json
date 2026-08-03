@@ -1,0 +1,26 @@
+{
+  "id": "typst-universe/typst-ugm-presentation-unofficial-0-1-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "beamer",
+  "license": "MIT",
+  "source_url": "https://github.com/fepfitra/ugm-presentation-unofficial",
+  "original_author": "Fitrafep",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/typst-universe__typst-ugm-presentation-unofficial-0-1-0/main.typ",
+  "relative_path": "processed/typst/typst-universe__typst-ugm-presentation-unofficial-0-1-0/main.typ",
+  "sha256": "32e4bee69e17f355b9f8c2567790136b19cd75cc778eaca80ab0e1059a766c72",
+  "size_bytes": 1142,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 247,
+  "downloaded_at": "2026-08-02T13:14:58.502Z",
+  "filtered_at": "2026-08-02T17:34:44.341Z"
+}

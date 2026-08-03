@@ -1,0 +1,21 @@
+{
+  "id": "github-latex/gh-imashnake0-latexplates-assignments",
+  "source": "github-latex",
+  "format": "latex",
+  "category": "coursework",
+  "license": "Apache-2.0",
+  "source_url": "https://github.com/imashnake0/LaTeXplates",
+  "original_author": "imashnake0",
+  "stars": 0,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-latex/gh-imashnake0-latexplates-assignments/Assignments.tex",
+  "relative_path": "raw/github-latex/gh-imashnake0-latexplates-assignments/Assignments.tex",
+  "main_doc": "Assignments.tex",
+  "sha256": "cb5611872252949844f952b15e85052d725942040d7342cdd88da0a0660d6a33",
+  "size_bytes": 444,
+  "document_class": "article",
+  "uses_packages": [
+    "geometry"
+  ],
+  "repo_path": "Assignments/Assignments.tex",
+  "downloaded_at": "2026-08-02T13:43:15.191Z"
+}

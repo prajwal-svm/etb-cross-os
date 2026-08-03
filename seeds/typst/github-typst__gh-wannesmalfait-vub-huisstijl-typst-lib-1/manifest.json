@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-wannesmalfait-vub-huisstijl-typst-lib-1",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "misc",
+  "license": "MIT",
+  "source_url": "https://github.com/WannesMalfait/vub-huisstijl-typst",
+  "original_author": "WannesMalfait",
+  "stars": 0,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-wannesmalfait-vub-huisstijl-typst-lib-1/lib.typ",
+  "relative_path": "raw/github-typst/gh-wannesmalfait-vub-huisstijl-typst-lib-1/lib.typ",
+  "main_doc": "lib.typ",
+  "sha256": "68ea426a7f65c91b311e04bbcfa2b2cea1a95f9a79bd81d445a6d4d968a562e0",
+  "size_bytes": 2361,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "src/lib.typ",
+  "downloaded_at": "2026-08-02T14:17:38.960Z"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "typst-universe/typst-kunskap-0-1-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "report",
+  "license": "MIT-0",
+  "source_url": "https://github.com/mbollmann/typst-kunskap",
+  "original_author": "Marcel Bollmann",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/typst-universe__typst-kunskap-0-1-0/main.typ",
+  "relative_path": "processed/typst/typst-universe__typst-kunskap-0-1-0/main.typ",
+  "sha256": "425541a8b2387accacf724877112456f255b84abafc7a0453a7ac809f8e863f5",
+  "size_bytes": 832,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 203,
+  "downloaded_at": "2026-08-02T13:09:49.444Z",
+  "filtered_at": "2026-08-02T17:34:43.939Z"
+}

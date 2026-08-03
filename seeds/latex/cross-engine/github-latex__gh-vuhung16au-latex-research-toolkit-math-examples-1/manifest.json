@@ -1,0 +1,24 @@
+{
+  "id": "github-latex/gh-vuhung16au-latex-research-toolkit-math-examples-1",
+  "source": "github-latex",
+  "format": "latex",
+  "category": "coursework",
+  "license": "MIT",
+  "source_url": "https://github.com/vuhung16au/LaTeX-Research-Toolkit",
+  "original_author": "vuhung16au",
+  "stars": 6,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-latex/gh-vuhung16au-latex-research-toolkit-math-examples-1/math-examples.tex",
+  "relative_path": "raw/github-latex/gh-vuhung16au-latex-research-toolkit-math-examples-1/math-examples.tex",
+  "main_doc": "math-examples.tex",
+  "sha256": "837e1ad532b4febd87500549c8338425f16ad1c84e78ee06a2cf29de771a51cb",
+  "size_bytes": 1685,
+  "document_class": "article",
+  "uses_packages": [
+    "amsfonts",
+    "amsmath",
+    "amssymb",
+    "inputenc"
+  ],
+  "repo_path": "examples/basic/math-examples.tex",
+  "downloaded_at": "2026-08-02T13:25:54.827Z"
+}

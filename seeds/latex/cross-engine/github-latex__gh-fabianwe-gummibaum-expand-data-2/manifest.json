@@ -1,0 +1,23 @@
+{
+  "id": "github-latex/gh-fabianwe-gummibaum-expand-data-2",
+  "source": "github-latex",
+  "format": "latex",
+  "category": "misc",
+  "license": "Apache-2.0",
+  "source_url": "https://github.com/FabianWe/gummibaum",
+  "original_author": "FabianWe",
+  "stars": 1,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-latex/gh-fabianwe-gummibaum-expand-data-2/expand_data.tex",
+  "relative_path": "raw/github-latex/gh-fabianwe-gummibaum-expand-data-2/expand_data.tex",
+  "main_doc": "expand_data.tex",
+  "sha256": "3f731bf44c312e1cad812c0cd454761bcbf59a481309d42157a5d4e84b6eeb6b",
+  "size_bytes": 381,
+  "document_class": "scrartcl",
+  "uses_packages": [
+    "babel",
+    "fontenc",
+    "inputenc"
+  ],
+  "repo_path": "examples/expand_data.tex",
+  "downloaded_at": "2026-08-02T13:37:26.395Z"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "template-packs/greeting-card",
+  "source": "template-packs",
+  "format": "latex",
+  "category": "creative",
+  "license": "CC0-1.0",
+  "source_url": "https://github.com/Oleafly/template-packs",
+  "original_author": "Oleafly",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/template-packs__greeting-card/main.tex",
+  "relative_path": "processed/latex/cross-engine/template-packs__greeting-card/main.tex",
+  "sha256": "edbc05c7287b1a991e34e398e66c9b254490d24481d57e04b6219464eb590221",
+  "size_bytes": 3323,
+  "document_class": "article",
+  "uses_packages": [
+    "geometry",
+    "sourcesanspro",
+    "tikz",
+    "xcolor"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 767,
+  "downloaded_at": "2026-08-02T13:05:15.833Z",
+  "filtered_at": "2026-08-02T17:34:40.783Z"
+}

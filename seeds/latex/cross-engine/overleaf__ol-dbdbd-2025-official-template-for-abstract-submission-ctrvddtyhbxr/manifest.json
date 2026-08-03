@@ -1,0 +1,27 @@
+{
+  "id": "overleaf/ol-dbdbd-2025-official-template-for-abstract-submission-ctrvddtyhbxr",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "misc",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/dbdbd-2025-official-template-for-abstract-submission/ctrvddtyhbxr",
+  "original_author": "Tamara Cucumides, Floris Geerts",
+  "title": "DBDBD 2025 - Official Template for Abstract Submission",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/overleaf/ol-dbdbd-2025-official-template-for-abstract-submission-ctrvddtyhbxr/main.tex",
+  "relative_path": "raw/overleaf/ol-dbdbd-2025-official-template-for-abstract-submission-ctrvddtyhbxr/main.tex",
+  "main_doc": "main.tex",
+  "sha256": "b3d5bb7444952aa8b2f92f495472d5c874b7a1dd2c9d3e4981b803e63461c36b",
+  "size_bytes": 1827,
+  "document_class": "article",
+  "uses_packages": [
+    "amsfonts",
+    "amsmath",
+    "amssymb",
+    "geometry",
+    "graphicx",
+    "latexsym"
+  ],
+  "download_method": "view-source-modal",
+  "github_url": null,
+  "downloaded_at": "2026-08-02T16:07:00.636Z"
+}

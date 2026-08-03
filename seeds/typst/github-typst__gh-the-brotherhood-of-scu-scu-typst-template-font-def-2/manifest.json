@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-the-brotherhood-of-scu-scu-typst-template-font-def-2",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "misc",
+  "license": "MIT",
+  "source_url": "https://github.com/The-Brotherhood-of-SCU/SCU-typst-template",
+  "original_author": "The-Brotherhood-of-SCU",
+  "stars": 15,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-the-brotherhood-of-scu-scu-typst-template-font-def-2/font-def.typ",
+  "relative_path": "raw/github-typst/gh-the-brotherhood-of-scu-scu-typst-template-font-def-2/font-def.typ",
+  "main_doc": "font-def.typ",
+  "sha256": "5755778be82d0e4988d71e271f108f70e4a6a2d526a653a9c20d77f30dbd76b7",
+  "size_bytes": 289,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "fonts/font-def.typ",
+  "downloaded_at": "2026-08-02T14:05:35.128Z"
+}

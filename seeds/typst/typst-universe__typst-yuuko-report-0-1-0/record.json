@@ -1,0 +1,26 @@
+{
+  "id": "typst-universe/typst-yuuko-report-0-1-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "report",
+  "license": "MIT",
+  "source_url": "https://typst.app/universe/package/yuuko-report",
+  "original_author": "Yuuko",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/typst-universe__typst-yuuko-report-0-1-0/main.typ",
+  "relative_path": "processed/typst/typst-universe__typst-yuuko-report-0-1-0/main.typ",
+  "sha256": "3fc1489f14c49947a151f47df0a794d8a162e371ebd3c1e8edf7563dee669895",
+  "size_bytes": 894,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 239,
+  "downloaded_at": "2026-08-02T13:15:59.511Z",
+  "filtered_at": "2026-08-02T17:34:44.418Z"
+}

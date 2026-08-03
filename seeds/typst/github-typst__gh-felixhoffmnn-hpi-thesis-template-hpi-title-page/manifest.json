@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-felixhoffmnn-hpi-thesis-template-hpi-title-page",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "thesis",
+  "license": "MIT",
+  "source_url": "https://github.com/felixhoffmnn/hpi-thesis-template",
+  "original_author": "felixhoffmnn",
+  "stars": 0,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-felixhoffmnn-hpi-thesis-template-hpi-title-page/hpi-title-page.typ",
+  "relative_path": "raw/github-typst/gh-felixhoffmnn-hpi-thesis-template-hpi-title-page/hpi-title-page.typ",
+  "main_doc": "hpi-title-page.typ",
+  "sha256": "aeb1719f28a5fd65b2486374474827bf1aad8736ef49ce6225ed82029f06f310",
+  "size_bytes": 2109,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "template/hpi-title-page.typ",
+  "downloaded_at": "2026-08-02T14:14:04.916Z"
+}

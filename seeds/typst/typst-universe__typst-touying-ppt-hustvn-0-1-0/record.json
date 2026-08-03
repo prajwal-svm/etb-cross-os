@@ -1,0 +1,26 @@
+{
+  "id": "typst-universe/typst-touying-ppt-hustvn-0-1-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "beamer",
+  "license": "MIT-0",
+  "source_url": "https://github.com/btmxh/touying-ppt-hustvn",
+  "original_author": "btmxh",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/typst-universe__typst-touying-ppt-hustvn-0-1-0/main.typ",
+  "relative_path": "processed/typst/typst-universe__typst-touying-ppt-hustvn-0-1-0/main.typ",
+  "sha256": "40c345b5852f07e02d3f6277470d5b1adc292df91ae09c417383d2fcac695dca",
+  "size_bytes": 431,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 775,
+  "downloaded_at": "2026-08-02T13:14:11.626Z",
+  "filtered_at": "2026-08-02T17:34:44.290Z"
+}

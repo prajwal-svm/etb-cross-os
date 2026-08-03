@@ -1,0 +1,28 @@
+{
+  "id": "github-latex/gh-qzed-latex-ci-template-main",
+  "source": "github-latex",
+  "format": "latex",
+  "category": "misc",
+  "license": "CC0-1.0",
+  "source_url": "https://github.com/qzed/latex-ci-template",
+  "original_author": "qzed",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/github-latex__gh-qzed-latex-ci-template-main/main.tex",
+  "relative_path": "processed/latex/cross-engine/github-latex__gh-qzed-latex-ci-template-main/main.tex",
+  "sha256": "a866997cc932e755f5cc9abccf64e773bdd2093b185dc7a1e097bb5f30f0080b",
+  "size_bytes": 707,
+  "document_class": "article",
+  "uses_packages": [
+    "hyperref"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 326,
+  "downloaded_at": "2026-08-02T13:47:07.447Z",
+  "filtered_at": "2026-08-02T17:34:43.262Z"
+}

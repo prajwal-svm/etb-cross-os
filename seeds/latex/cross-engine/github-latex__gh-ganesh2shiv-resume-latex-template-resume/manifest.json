@@ -1,0 +1,26 @@
+{
+  "id": "github-latex/gh-ganesh2shiv-resume-latex-template-resume",
+  "source": "github-latex",
+  "format": "latex",
+  "category": "cv",
+  "license": "Apache-2.0",
+  "source_url": "https://github.com/ganesh2shiv/resume-latex-template",
+  "original_author": "ganesh2shiv",
+  "stars": 49,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-latex/gh-ganesh2shiv-resume-latex-template-resume/resume.tex",
+  "relative_path": "raw/github-latex/gh-ganesh2shiv-resume-latex-template-resume/resume.tex",
+  "main_doc": "resume.tex",
+  "sha256": "1bccaf53ba6d0773245c8410dcb87c4c8cf254f60e29d91a7a032fd01a134805",
+  "size_bytes": 9411,
+  "document_class": "article",
+  "uses_packages": [
+    "amsmath",
+    "amssymb",
+    "fancyhdr",
+    "fontenc",
+    "fullpage",
+    "lastpage"
+  ],
+  "repo_path": "code/resume.tex",
+  "downloaded_at": "2026-08-02T13:14:09.257Z"
+}

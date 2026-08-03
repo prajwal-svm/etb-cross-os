@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-atareao-typst-templates-lib-2",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "misc",
+  "license": "MIT",
+  "source_url": "https://github.com/atareao/typst-templates",
+  "original_author": "atareao",
+  "stars": 2,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-atareao-typst-templates-lib-2/lib.typ",
+  "relative_path": "raw/github-typst/gh-atareao-typst-templates-lib-2/lib.typ",
+  "main_doc": "lib.typ",
+  "sha256": "bf20b2c02885e993768573ae11b33aacbef925a6723c1dde9cf184ef1ddee92b",
+  "size_bytes": 3388,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "presentacion/lib.typ",
+  "downloaded_at": "2026-08-02T14:09:40.654Z"
+}

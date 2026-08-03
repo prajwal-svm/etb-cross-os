@@ -1,0 +1,23 @@
+{
+  "id": "typst-universe/typst-catiche-0-1-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "report",
+  "license": "MIT",
+  "source_url": "https://github.com/gzordrai/catiche",
+  "original_author": "Thibault Tisserand",
+  "package_name": "catiche",
+  "package_version": "0.1.0",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/typst-universe/typst-catiche-0-1-0/main.typ",
+  "relative_path": "raw/typst-universe/typst-catiche-0-1-0/main.typ",
+  "main_doc": "main.typ",
+  "sha256": "15701e866760ad706a0c1eb1d378f601fabd18b95f9aa4183aa9aebc88e66795",
+  "size_bytes": 1289,
+  "document_class": null,
+  "uses_packages": [],
+  "downloaded_at": "2026-08-02T13:06:31.931Z",
+  "categories": [
+    "report"
+  ],
+  "description": "Unofficial template for University of Lille internship reports"
+}

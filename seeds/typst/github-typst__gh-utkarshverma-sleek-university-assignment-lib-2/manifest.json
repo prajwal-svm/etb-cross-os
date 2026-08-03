@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-utkarshverma-sleek-university-assignment-lib-2",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "coursework",
+  "license": "MIT",
+  "source_url": "https://github.com/UtkarshVerma/sleek-university-assignment",
+  "original_author": "UtkarshVerma",
+  "stars": 3,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-utkarshverma-sleek-university-assignment-lib-2/lib.typ",
+  "relative_path": "raw/github-typst/gh-utkarshverma-sleek-university-assignment-lib-2/lib.typ",
+  "main_doc": "lib.typ",
+  "sha256": "b6f27e8adb0b43a20e3ffeca4e69df535d99958c2fdcd40b8ba0197d238b9225",
+  "size_bytes": 1267,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "src/lib.typ",
+  "downloaded_at": "2026-08-02T14:08:31.673Z"
+}

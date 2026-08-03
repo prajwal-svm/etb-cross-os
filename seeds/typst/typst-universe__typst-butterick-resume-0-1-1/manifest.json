@@ -1,0 +1,23 @@
+{
+  "id": "typst-universe/typst-butterick-resume-0-1-1",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "cv",
+  "license": "Apache-2.0",
+  "source_url": "https://github.com/jassielof/typst-templates",
+  "original_author": "Jassiel Ovando",
+  "package_name": "butterick-resume",
+  "package_version": "0.1.1",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/typst-universe/typst-butterick-resume-0-1-1/main.typ",
+  "relative_path": "raw/typst-universe/typst-butterick-resume-0-1-1/main.typ",
+  "main_doc": "main.typ",
+  "sha256": "88ca62bdb5ec10759deb613ff1603ae6f8e73a459495ab9bb4438a2b7841c1d0",
+  "size_bytes": 1632,
+  "document_class": null,
+  "uses_packages": [],
+  "downloaded_at": "2026-08-02T13:06:23.372Z",
+  "categories": [
+    "cv"
+  ],
+  "description": "Résumé template based on Matthew Butterick's guide."
+}

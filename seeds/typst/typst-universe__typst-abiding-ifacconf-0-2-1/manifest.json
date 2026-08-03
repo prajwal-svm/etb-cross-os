@@ -1,0 +1,23 @@
+{
+  "id": "typst-universe/typst-abiding-ifacconf-0-2-1",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "venue",
+  "license": "MIT-0",
+  "source_url": "https://github.com/avonmoll/ifacconf-typst",
+  "original_author": "Alexander Von Moll",
+  "package_name": "abiding-ifacconf",
+  "package_version": "0.2.1",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/typst-universe/typst-abiding-ifacconf-0-2-1/main.typ",
+  "relative_path": "raw/typst-universe/typst-abiding-ifacconf-0-2-1/main.typ",
+  "main_doc": "main.typ",
+  "sha256": "091ff490efd8d01200126477769da071df1ab9669a55e13c0c76de06c894feb4",
+  "size_bytes": 10557,
+  "document_class": null,
+  "uses_packages": [],
+  "downloaded_at": "2026-08-02T13:05:27.765Z",
+  "categories": [
+    "paper"
+  ],
+  "description": "An IFAC-style paper template to publish at conferences for International Federation of Automatic Control"
+}

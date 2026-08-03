@@ -1,0 +1,23 @@
+{
+  "id": "typst-universe/typst-not-tudabeamer-2023-0-2-1",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "beamer",
+  "license": "MIT",
+  "source_url": "https://github.com/JeyRunner/tuda-typst-templates",
+  "original_author": "Moritz Hedtke",
+  "package_name": "not-tudabeamer-2023",
+  "package_version": "0.2.1",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/typst-universe/typst-not-tudabeamer-2023-0-2-1/main.typ",
+  "relative_path": "raw/typst-universe/typst-not-tudabeamer-2023-0-2-1/main.typ",
+  "main_doc": "main.typ",
+  "sha256": "ae244438002e457c5ac42ba4c6d2ad21fd037d730c7026b02b98e650787d9d89",
+  "size_bytes": 854,
+  "document_class": null,
+  "uses_packages": [],
+  "downloaded_at": "2026-08-02T13:11:40.941Z",
+  "categories": [
+    "presentation"
+  ],
+  "description": "Not the TU Darmstadt Beamer 2023 template"
+}

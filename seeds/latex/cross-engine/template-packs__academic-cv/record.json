@@ -1,0 +1,30 @@
+{
+  "id": "template-packs/academic-cv",
+  "source": "template-packs",
+  "format": "latex",
+  "category": "cv",
+  "license": "CC0-1.0",
+  "source_url": "https://github.com/Oleafly/template-packs",
+  "original_author": "Oleafly",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/template-packs__academic-cv/main.tex",
+  "relative_path": "processed/latex/cross-engine/template-packs__academic-cv/main.tex",
+  "sha256": "43babb7943bd742e14f01756fd8ac789a81655e5715516b3b53b2a3e0ae5cfef",
+  "size_bytes": 1360,
+  "document_class": "article",
+  "uses_packages": [
+    "enumitem",
+    "geometry",
+    "hyperref"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 736,
+  "downloaded_at": "2026-08-02T13:05:15.857Z",
+  "filtered_at": "2026-08-02T17:34:40.704Z"
+}

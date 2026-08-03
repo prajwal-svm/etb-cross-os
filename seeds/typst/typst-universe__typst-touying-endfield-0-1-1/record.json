@@ -1,0 +1,26 @@
+{
+  "id": "typst-universe/typst-touying-endfield-0-1-1",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "beamer",
+  "license": "MIT",
+  "source_url": "https://github.com/leostudiooo/typst-touying-theme-endfield",
+  "original_author": "Leo Li",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/typst-universe__typst-touying-endfield-0-1-1/main.typ",
+  "relative_path": "processed/typst/typst-universe__typst-touying-endfield-0-1-1/main.typ",
+  "sha256": "f5a65ab25e886848578498a5e94621cabf2dbdf9da3cf0d647ce5020f60c3fcb",
+  "size_bytes": 2114,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 333,
+  "downloaded_at": "2026-08-02T13:14:03.736Z",
+  "filtered_at": "2026-08-02T17:34:44.281Z"
+}

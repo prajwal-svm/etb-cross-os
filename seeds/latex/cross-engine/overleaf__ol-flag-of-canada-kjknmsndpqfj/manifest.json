@@ -1,0 +1,24 @@
+{
+  "id": "overleaf/ol-flag-of-canada-kjknmsndpqfj",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "misc",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/flag-of-canada/kjknmsndpqfj",
+  "original_author": "Senan Sekhon",
+  "title": "Flag of Canada",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/overleaf/ol-flag-of-canada-kjknmsndpqfj/main.tex",
+  "relative_path": "raw/overleaf/ol-flag-of-canada-kjknmsndpqfj/main.tex",
+  "main_doc": "main.tex",
+  "sha256": "9fa8d2a759a648ec4e5ee492b337f4c32886cee857322812d648bc92ee9ff605",
+  "size_bytes": 3189,
+  "document_class": "article",
+  "uses_packages": [
+    "geometry",
+    "tikz",
+    "xcolor"
+  ],
+  "download_method": "view-source-modal",
+  "github_url": null,
+  "downloaded_at": "2026-08-02T15:50:21.009Z"
+}

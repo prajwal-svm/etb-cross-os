@@ -1,0 +1,28 @@
+{
+  "id": "ctan/ctan-glossaries-sampleacronyms",
+  "source": "ctan",
+  "format": "latex",
+  "category": "package-example",
+  "license": "LPPL-1.3c",
+  "source_url": "https://ctan.org/pkg/glossaries",
+  "original_author": "CTAN package: glossaries",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/ctan__ctan-glossaries-sampleacronyms/sampleacronyms.tex",
+  "relative_path": "processed/latex/cross-engine/ctan__ctan-glossaries-sampleacronyms/sampleacronyms.tex",
+  "sha256": "55da57a7f7c783e3ba224ec4777f9b2fe1460d7f6e9c7b23583d35fd28b3263e",
+  "size_bytes": 1198,
+  "document_class": "article",
+  "uses_packages": [
+    "glossaries"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 357,
+  "downloaded_at": "2026-08-02T13:04:56.429Z",
+  "filtered_at": "2026-08-02T17:34:42.329Z"
+}

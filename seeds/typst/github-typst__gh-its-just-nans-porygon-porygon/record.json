@@ -1,0 +1,26 @@
+{
+  "id": "github-typst/gh-its-just-nans-porygon-porygon",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "cv",
+  "license": "MIT",
+  "source_url": "https://github.com/Its-Just-Nans/porygon",
+  "original_author": "Its-Just-Nans",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/github-typst__gh-its-just-nans-porygon-porygon/porygon.typ",
+  "relative_path": "processed/typst/github-typst__gh-its-just-nans-porygon-porygon/porygon.typ",
+  "sha256": "b56b29eadd259ffd129389ae8da079644ae366d59ad5c75b6a9ee33751034d71",
+  "size_bytes": 9770,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 26,
+  "downloaded_at": "2026-08-02T14:17:50.194Z",
+  "filtered_at": "2026-08-02T17:34:45.022Z"
+}

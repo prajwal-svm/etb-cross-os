@@ -1,0 +1,26 @@
+{
+  "id": "github-typst/gh-isaacst08-notebook-title-page-2",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "book",
+  "license": "MIT",
+  "source_url": "https://github.com/isaacST08/notebook",
+  "original_author": "isaacST08",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/github-typst__gh-isaacst08-notebook-title-page-2/title_page.typ",
+  "relative_path": "processed/typst/github-typst__gh-isaacst08-notebook-title-page-2/title_page.typ",
+  "sha256": "d3b7bad25adb98dc1be4a12ce6f0dc6b4eb8689dd0927e3721287f5d33aaaca3",
+  "size_bytes": 1551,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 9,
+  "downloaded_at": "2026-08-02T14:14:27.457Z",
+  "filtered_at": "2026-08-02T17:34:45.014Z"
+}

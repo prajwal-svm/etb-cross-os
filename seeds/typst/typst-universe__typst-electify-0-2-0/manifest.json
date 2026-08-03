@@ -1,0 +1,24 @@
+{
+  "id": "typst-universe/typst-electify-0-2-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "venue",
+  "license": "MIT",
+  "source_url": "https://github.com/G0STG0D/electify",
+  "original_author": "Nico Haring",
+  "package_name": "electify",
+  "package_version": "0.2.0",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/typst-universe/typst-electify-0-2-0/main-de.typ",
+  "relative_path": "raw/typst-universe/typst-electify-0-2-0/main-de.typ",
+  "main_doc": "main-de.typ",
+  "sha256": "5ed21dccfa7973c3b7368739f54899f30ef3caf10ff62b4565f2be5e5736cbed",
+  "size_bytes": 4629,
+  "document_class": null,
+  "uses_packages": [],
+  "downloaded_at": "2026-08-02T13:07:57.727Z",
+  "categories": [
+    "fun",
+    "visualization"
+  ],
+  "description": "A German & Austrian Election Ballot Paper helping visualize the dual-voting system (Erststimme & Zweitstimme)."
+}

@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-tarunjana-examify-main",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "coursework",
+  "license": "MIT",
+  "source_url": "https://github.com/tarunjana/examify",
+  "original_author": "tarunjana",
+  "stars": 0,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-tarunjana-examify-main/main.typ",
+  "relative_path": "raw/github-typst/gh-tarunjana-examify-main/main.typ",
+  "main_doc": "main.typ",
+  "sha256": "ec4f3b01736c607565db56a7feac6571780f02ccf1bb9e55aa406a5e072b2cdd",
+  "size_bytes": 545,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "template/main.typ",
+  "downloaded_at": "2026-08-02T14:19:22.470Z"
+}

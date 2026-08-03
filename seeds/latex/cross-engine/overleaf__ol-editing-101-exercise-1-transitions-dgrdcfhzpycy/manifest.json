@@ -1,0 +1,22 @@
+{
+  "id": "overleaf/ol-editing-101-exercise-1-transitions-dgrdcfhzpycy",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "misc",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/editing-101-exercise-1-transitions/dgrdcfhzpycy",
+  "original_author": "Farah Qaiser",
+  "title": "Editing 101: Exercise 1 - Transitions!",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/overleaf/ol-editing-101-exercise-1-transitions-dgrdcfhzpycy/main.tex",
+  "relative_path": "raw/overleaf/ol-editing-101-exercise-1-transitions-dgrdcfhzpycy/main.tex",
+  "main_doc": "main.tex",
+  "sha256": "ea3f8d4631637072914c5e157350839dcff84a9872daf237361d1cd8f4a224b0",
+  "size_bytes": 2822,
+  "document_class": "article",
+  "uses_packages": [
+    "inputenc"
+  ],
+  "download_method": "view-source-modal",
+  "github_url": null,
+  "downloaded_at": "2026-08-02T14:32:53.291Z"
+}

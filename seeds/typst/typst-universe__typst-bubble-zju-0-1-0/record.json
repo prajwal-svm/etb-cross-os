@@ -1,0 +1,26 @@
+{
+  "id": "typst-universe/typst-bubble-zju-0-1-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "report",
+  "license": "MIT-0",
+  "source_url": "https://github.com/inuEbisu/bubble-zju",
+  "original_author": "inuEbisu",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/typst-universe__typst-bubble-zju-0-1-0/report.typ",
+  "relative_path": "processed/typst/typst-universe__typst-bubble-zju-0-1-0/report.typ",
+  "sha256": "ae967275b1356fbeb24b6f1288e6afb3e1af47b781deed1d17080cb61d19ce70",
+  "size_bytes": 3628,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 625,
+  "downloaded_at": "2026-08-02T13:06:22.711Z",
+  "filtered_at": "2026-08-02T17:34:43.665Z"
+}

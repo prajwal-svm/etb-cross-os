@@ -1,0 +1,24 @@
+{
+  "id": "overleaf/ol-flag-of-chile-fzvsgzkwstsk",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "misc",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/flag-of-chile/fzvsgzkwstsk",
+  "original_author": "Senan Sekhon",
+  "title": "Flag of Chile",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/overleaf/ol-flag-of-chile-fzvsgzkwstsk/main.tex",
+  "relative_path": "raw/overleaf/ol-flag-of-chile-fzvsgzkwstsk/main.tex",
+  "main_doc": "main.tex",
+  "sha256": "2c0bc7e47ca254c99a1647dcb055ed4ac04e83c0376bdf16c92f8956cd66d01c",
+  "size_bytes": 1615,
+  "document_class": "article",
+  "uses_packages": [
+    "geometry",
+    "tikz",
+    "xcolor"
+  ],
+  "download_method": "view-source-modal",
+  "github_url": null,
+  "downloaded_at": "2026-08-02T13:44:32.167Z"
+}

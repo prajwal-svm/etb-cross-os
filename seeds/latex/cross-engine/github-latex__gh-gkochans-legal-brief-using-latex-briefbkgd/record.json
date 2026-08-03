@@ -1,0 +1,30 @@
+{
+  "id": "github-latex/gh-gkochans-legal-brief-using-latex-briefbkgd",
+  "source": "github-latex",
+  "format": "latex",
+  "category": "misc",
+  "license": "MIT",
+  "source_url": "https://github.com/gkochans/Legal_Brief_Using_LaTeX",
+  "original_author": "gkochans",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/github-latex__gh-gkochans-legal-brief-using-latex-briefbkgd/BriefBkgd.tex",
+  "relative_path": "processed/latex/cross-engine/github-latex__gh-gkochans-legal-brief-using-latex-briefbkgd/BriefBkgd.tex",
+  "sha256": "0895e2e3406759dae7990d705d4e0c11edabbd4de4133507ee682cf70815d04e",
+  "size_bytes": 728,
+  "document_class": "article",
+  "uses_packages": [
+    "background",
+    "geometry",
+    "setspace"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 355,
+  "downloaded_at": "2026-08-02T13:14:31.281Z",
+  "filtered_at": "2026-08-02T17:34:42.815Z"
+}

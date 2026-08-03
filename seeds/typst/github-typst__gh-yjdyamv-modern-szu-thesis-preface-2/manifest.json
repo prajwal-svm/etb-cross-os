@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-yjdyamv-modern-szu-thesis-preface-2",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "thesis",
+  "license": "MIT",
+  "source_url": "https://github.com/yjdyamv/modern-szu-thesis",
+  "original_author": "yjdyamv",
+  "stars": 13,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-yjdyamv-modern-szu-thesis-preface-2/preface.typ",
+  "relative_path": "raw/github-typst/gh-yjdyamv-modern-szu-thesis-preface-2/preface.typ",
+  "main_doc": "preface.typ",
+  "sha256": "5f3db1620b0115f01d96e8551ba4f1eb4fd35377656a228d0ed6248fa01c0a0b",
+  "size_bytes": 312,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "layouts/preface.typ",
+  "downloaded_at": "2026-08-02T14:05:49.037Z"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "github-latex/gh-notori0us-latex-beamer-templates-dark",
+  "source": "github-latex",
+  "format": "latex",
+  "category": "beamer",
+  "license": "Apache-2.0",
+  "source_url": "https://github.com/notori0us/latex-beamer-templates",
+  "original_author": "notori0us",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/github-latex__gh-notori0us-latex-beamer-templates-dark/dark.tex",
+  "relative_path": "processed/latex/cross-engine/github-latex__gh-notori0us-latex-beamer-templates-dark/dark.tex",
+  "sha256": "605bf0d00f70547905a4b5cd626f3689bbf8f2069c89d186195fc495e002fdb2",
+  "size_bytes": 9441,
+  "document_class": "beamer",
+  "uses_packages": [
+    "booktabs",
+    "fontenc",
+    "listings",
+    "lmodern",
+    "textcomp",
+    "varioref",
+    "xifthen"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 781,
+  "downloaded_at": "2026-08-02T13:43:34.735Z",
+  "filtered_at": "2026-08-02T17:34:43.198Z"
+}

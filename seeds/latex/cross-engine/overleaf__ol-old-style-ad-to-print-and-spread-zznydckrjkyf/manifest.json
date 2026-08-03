@@ -1,0 +1,25 @@
+{
+  "id": "overleaf/ol-old-style-ad-to-print-and-spread-zznydckrjkyf",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "misc",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/old-style-ad-to-print-and-spread/zznydckrjkyf",
+  "original_author": "david",
+  "title": "old-style ad to print and spread",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/overleaf/ol-old-style-ad-to-print-and-spread-zznydckrjkyf/main.tex",
+  "relative_path": "raw/overleaf/ol-old-style-ad-to-print-and-spread-zznydckrjkyf/main.tex",
+  "main_doc": "main.tex",
+  "sha256": "468fa2bdf3262249b12a5ff9a53e53fede2b98588d0e4f46b1884dcf48064c2c",
+  "size_bytes": 347,
+  "document_class": "petiteannonce",
+  "uses_packages": [
+    "array",
+    "eurosym",
+    "graphicx",
+    "siunitx"
+  ],
+  "download_method": "view-source-modal",
+  "github_url": null,
+  "downloaded_at": "2026-08-02T16:05:07.168Z"
+}

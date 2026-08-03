@@ -1,0 +1,40 @@
+{
+  "id": "github-latex/gh-celiobjunior-resume-template-curriculo-1",
+  "source": "github-latex",
+  "format": "latex",
+  "category": "cv",
+  "license": "Apache-2.0",
+  "source_url": "https://github.com/celiobjunior/resume-template",
+  "original_author": "celiobjunior",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/github-latex__gh-celiobjunior-resume-template-curriculo-1/curriculo.tex",
+  "relative_path": "processed/latex/cross-engine/github-latex__gh-celiobjunior-resume-template-curriculo-1/curriculo.tex",
+  "sha256": "dc74331c27b7be9e0db7e380afe7b1844bf93f8aef7a8762d3f76a14b268a2f8",
+  "size_bytes": 6599,
+  "document_class": "article",
+  "uses_packages": [
+    "array",
+    "babel",
+    "bookmark",
+    "enumitem",
+    "fontenc",
+    "geometry",
+    "hyperref",
+    "inputenc",
+    "microtype",
+    "parskip",
+    "tabularx",
+    "titlesec",
+    "xurl"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 457,
+  "downloaded_at": "2026-08-02T13:11:33.007Z",
+  "filtered_at": "2026-08-02T17:34:42.564Z"
+}

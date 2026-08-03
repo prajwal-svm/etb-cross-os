@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-leewooqm-typstnote-temp",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "book",
+  "license": "MIT",
+  "source_url": "https://github.com/LeeWooQM/TypstNote",
+  "original_author": "LeeWooQM",
+  "stars": 1,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-leewooqm-typstnote-temp/temp.typ",
+  "relative_path": "raw/github-typst/gh-leewooqm-typstnote-temp/temp.typ",
+  "main_doc": "temp.typ",
+  "sha256": "b05139bb93c2ebe7497a29046438f08b27b58996ba06b913691c72351b81c724",
+  "size_bytes": 6602,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "temp.typ",
+  "downloaded_at": "2026-08-02T14:11:03.668Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "overleaf/ol-notes-on-paper-template-brwjdzkgfvmv",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "venue",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/notes-on-paper-template/brwjdzkgfvmv",
+  "original_author": "Luis Garcia",
+  "title": "Notes on Paper Template",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/overleaf/ol-notes-on-paper-template-brwjdzkgfvmv/main.tex",
+  "relative_path": "raw/overleaf/ol-notes-on-paper-template-brwjdzkgfvmv/main.tex",
+  "main_doc": "main.tex",
+  "sha256": "c78228252cb2012fde29d50e0723c5a78e6978ea7994f57a8ea99fe44050c1ec",
+  "size_bytes": 633,
+  "document_class": "article",
+  "uses_packages": [
+    "inputenc"
+  ],
+  "download_method": "view-source-modal",
+  "github_url": null,
+  "downloaded_at": "2026-08-02T15:43:48.517Z"
+}

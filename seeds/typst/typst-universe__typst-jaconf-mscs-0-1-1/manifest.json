@@ -1,0 +1,23 @@
+{
+  "id": "typst-universe/typst-jaconf-mscs-0-1-1",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "venue",
+  "license": "MIT-0",
+  "source_url": "https://github.com/kimushun1101/typst-jp-conf-template",
+  "original_author": "Shunsuke Kimura",
+  "package_name": "jaconf-mscs",
+  "package_version": "0.1.1",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/typst-universe/typst-jaconf-mscs-0-1-1/main.typ",
+  "relative_path": "raw/typst-universe/typst-jaconf-mscs-0-1-1/main.typ",
+  "main_doc": "main.typ",
+  "sha256": "fef54004bd5857b2b253b422b06e9526c3a1bc956f2219004f4ac97364e3f49f",
+  "size_bytes": 9228,
+  "document_class": null,
+  "uses_packages": [],
+  "downloaded_at": "2026-08-02T13:09:36.767Z",
+  "categories": [
+    "paper"
+  ],
+  "description": "Template for Japanese conference paper of engineering. 工学系の日本語学会論文テンプレート"
+}

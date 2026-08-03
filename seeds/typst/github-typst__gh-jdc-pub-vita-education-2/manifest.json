@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-jdc-pub-vita-education-2",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "cv",
+  "license": "MIT",
+  "source_url": "https://github.com/jdc-pub/vita",
+  "original_author": "jdc-pub",
+  "stars": 1,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-jdc-pub-vita-education-2/education.typ",
+  "relative_path": "raw/github-typst/gh-jdc-pub-vita-education-2/education.typ",
+  "main_doc": "education.typ",
+  "sha256": "2bd3d6c37734d7a8bb16b89fc01d4dd76fa0d57390e35c872e90ec975acad00c",
+  "size_bytes": 878,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "src/education.typ",
+  "downloaded_at": "2026-08-02T14:12:00.745Z"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "github-latex/gh-lucamezz-latex-templates-resume-1",
+  "source": "github-latex",
+  "format": "latex",
+  "category": "cv",
+  "license": "MIT",
+  "source_url": "https://github.com/LucaMezz/latex-templates",
+  "original_author": "LucaMezz",
+  "stars": 0,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-latex/gh-lucamezz-latex-templates-resume-1/resume.tex",
+  "relative_path": "raw/github-latex/gh-lucamezz-latex-templates-resume-1/resume.tex",
+  "main_doc": "resume.tex",
+  "sha256": "8586a47d0134479cac5b5b88bfc26025a60eafcc9400596b3d8762c75859bb61",
+  "size_bytes": 4360,
+  "document_class": "article",
+  "uses_packages": [
+    "enumitem",
+    "fontawesome5",
+    "fontenc",
+    "geometry",
+    "hyperref",
+    "inputenc",
+    "lmodern",
+    "microtype",
+    "titlesec",
+    "xcolor"
+  ],
+  "repo_path": "templates/professional/resume/resume.tex",
+  "downloaded_at": "2026-08-02T13:59:14.461Z"
+}

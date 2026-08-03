@@ -1,0 +1,22 @@
+{
+  "id": "overleaf/ol-mcqmc2024-abstract-template-zxqwwtdyysjg",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "misc",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/mcqmc2024-abstract-template/zxqwwtdyysjg",
+  "original_author": "Ben Feng",
+  "title": "MCQMC2024_Abstract_Template",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/overleaf/ol-mcqmc2024-abstract-template-zxqwwtdyysjg/main.tex",
+  "relative_path": "raw/overleaf/ol-mcqmc2024-abstract-template-zxqwwtdyysjg/main.tex",
+  "main_doc": "main.tex",
+  "sha256": "50937de4c2fc8da3eee56deb6c677fb364e49ba0243efed1c2c90f20108ba679",
+  "size_bytes": 2124,
+  "document_class": "standalone",
+  "uses_packages": [
+    "authblk"
+  ],
+  "download_method": "view-source-modal",
+  "github_url": null,
+  "downloaded_at": "2026-08-02T15:28:52.064Z"
+}

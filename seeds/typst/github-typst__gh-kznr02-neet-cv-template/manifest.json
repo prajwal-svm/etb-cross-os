@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-kznr02-neet-cv-template",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "cv",
+  "license": "MIT",
+  "source_url": "https://github.com/kznr02/neet-cv",
+  "original_author": "kznr02",
+  "stars": 20,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-kznr02-neet-cv-template/template.typ",
+  "relative_path": "raw/github-typst/gh-kznr02-neet-cv-template/template.typ",
+  "main_doc": "template.typ",
+  "sha256": "21f62121dfa4a4badffad6c859ab55cffcb3d3a526a65940ec8737c4ede599e6",
+  "size_bytes": 4812,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "template.typ",
+  "downloaded_at": "2026-08-02T14:05:02.603Z"
+}

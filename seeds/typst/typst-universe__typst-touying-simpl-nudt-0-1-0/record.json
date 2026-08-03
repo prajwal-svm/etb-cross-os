@@ -1,0 +1,26 @@
+{
+  "id": "typst-universe/typst-touying-simpl-nudt-0-1-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "beamer",
+  "license": "MIT",
+  "source_url": "https://github.com/yelpevade/touying-nudt",
+  "original_author": "yelpevade",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/typst-universe__typst-touying-simpl-nudt-0-1-0/main.typ",
+  "relative_path": "processed/typst/typst-universe__typst-touying-simpl-nudt-0-1-0/main.typ",
+  "sha256": "6c8da9c75d60d2833128e55518baf05dc079a0bdcd5f0bc694f8d30fd566ae61",
+  "size_bytes": 856,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 399,
+  "downloaded_at": "2026-08-02T13:14:21.911Z",
+  "filtered_at": "2026-08-02T17:34:44.302Z"
+}

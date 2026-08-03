@@ -1,0 +1,22 @@
+{
+  "id": "ctan/ctan-glossaries-sample-fndesc",
+  "source": "ctan",
+  "format": "latex",
+  "category": "package-example",
+  "license": "LPPL-1.3c",
+  "source_url": "https://ctan.org/pkg/glossaries",
+  "original_author": "CTAN package: glossaries",
+  "package": "glossaries",
+  "original_path": "/usr/local/texlive/2025/texmf-dist/doc/latex/glossaries/samples/sample-FnDesc.tex",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/ctan/ctan-glossaries-sample-fndesc/sample-FnDesc.tex",
+  "relative_path": "raw/ctan/ctan-glossaries-sample-fndesc/sample-FnDesc.tex",
+  "main_doc": "sample-FnDesc.tex",
+  "sha256": "5b5d6b56766c038782b5db2bf53b780b12d7f2d71a63819e7eac32549080f42e",
+  "size_bytes": 716,
+  "document_class": "report",
+  "uses_packages": [
+    "glossaries",
+    "hyperref"
+  ],
+  "downloaded_at": "2026-08-02T13:04:56.455Z"
+}

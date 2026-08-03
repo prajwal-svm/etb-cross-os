@@ -1,0 +1,34 @@
+{
+  "id": "overleaf/ol-pseudocode-algorithmtemplate-zrqcdnkhqvgb",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "misc",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/pseudocode-algorithmtemplate/zrqcdnkhqvgb",
+  "original_author": "SAJAD AHMAD RATHER",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/overleaf__ol-pseudocode-algorithmtemplate-zrqcdnkhqvgb/main.tex",
+  "relative_path": "processed/latex/cross-engine/overleaf__ol-pseudocode-algorithmtemplate-zrqcdnkhqvgb/main.tex",
+  "sha256": "20a6ca3751b7e00e382bc7b46e6d42fc3110f7b092827ca751fa810ed6100f29",
+  "size_bytes": 511,
+  "document_class": "article",
+  "uses_packages": [
+    "algorithm2e",
+    "amsmath",
+    "amssymb",
+    "fancyhdr",
+    "fullpage",
+    "graphicx",
+    "times"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 264,
+  "downloaded_at": "2026-08-02T15:55:01.563Z",
+  "filtered_at": "2026-08-02T17:34:41.715Z"
+}

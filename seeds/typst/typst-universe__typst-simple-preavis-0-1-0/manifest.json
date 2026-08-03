@@ -1,0 +1,23 @@
+{
+  "id": "typst-universe/typst-simple-preavis-0-1-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "business",
+  "license": "MIT",
+  "source_url": "https://github.com/mathias-aparicio/simple-preavis",
+  "original_author": "Mathias APARICIO",
+  "package_name": "simple-preavis",
+  "package_version": "0.1.0",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/typst-universe/typst-simple-preavis-0-1-0/example.typ",
+  "relative_path": "raw/typst-universe/typst-simple-preavis-0-1-0/example.typ",
+  "main_doc": "example.typ",
+  "sha256": "4781bcf73ae9aec75e8fe9e16122ab47cd0f650760fdd4ca8c13977b1132b3ef",
+  "size_bytes": 536,
+  "document_class": null,
+  "uses_packages": [],
+  "downloaded_at": "2026-08-02T13:13:01.745Z",
+  "categories": [
+    "office"
+  ],
+  "description": "📖 a french move out letter"
+}

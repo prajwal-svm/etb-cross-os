@@ -1,0 +1,35 @@
+{
+  "id": "overleaf/ol-hitsz-beamer-mo-ban-hcpkynhbqcrc",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "beamer",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/hitsz-beamer-mo-ban/hcpkynhbqcrc",
+  "original_author": "王纵北",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/engine-specific/overleaf__ol-hitsz-beamer-mo-ban-hcpkynhbqcrc/main.tex",
+  "relative_path": "processed/latex/engine-specific/overleaf__ol-hitsz-beamer-mo-ban-hcpkynhbqcrc/main.tex",
+  "sha256": "553a3edb6276da06e48edbc6fb5a5a3568be4c4d7e347458e81bcb51be104346",
+  "size_bytes": 1022,
+  "document_class": "beamer",
+  "uses_packages": [
+    "booktabs",
+    "ctex",
+    "graphicx",
+    "multicol",
+    "pgfplots",
+    "subfig",
+    "tikz",
+    "xcolor"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": false,
+    "xelatex": true,
+    "lualatex": false,
+    "typst": false
+  },
+  "engine_class": "engine-specific",
+  "compile_time_ms": 40491,
+  "downloaded_at": "2026-08-02T15:30:41.639Z",
+  "filtered_at": "2026-08-02T17:34:41.212Z"
+}

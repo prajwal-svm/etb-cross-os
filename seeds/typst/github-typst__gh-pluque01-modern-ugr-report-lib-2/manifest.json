@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-pluque01-modern-ugr-report-lib-2",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "report",
+  "license": "MIT",
+  "source_url": "https://github.com/pluque01/modern-ugr-report",
+  "original_author": "pluque01",
+  "stars": 0,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-pluque01-modern-ugr-report-lib-2/lib.typ",
+  "relative_path": "raw/github-typst/gh-pluque01-modern-ugr-report-lib-2/lib.typ",
+  "main_doc": "lib.typ",
+  "sha256": "53011f4f1a6d2103e581eb92a2ee396deff6ea8e066457dede06bc5f6a1f9e03",
+  "size_bytes": 5133,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "src/lib.typ",
+  "downloaded_at": "2026-08-02T14:18:43.744Z"
+}

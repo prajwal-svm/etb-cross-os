@@ -1,0 +1,26 @@
+{
+  "id": "typst-universe/typst-electify-0-2-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "venue",
+  "license": "MIT",
+  "source_url": "https://github.com/G0STG0D/electify",
+  "original_author": "Nico Haring",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/typst-universe__typst-electify-0-2-0/main-de.typ",
+  "relative_path": "processed/typst/typst-universe__typst-electify-0-2-0/main-de.typ",
+  "sha256": "5ed21dccfa7973c3b7368739f54899f30ef3caf10ff62b4565f2be5e5736cbed",
+  "size_bytes": 4629,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 232,
+  "downloaded_at": "2026-08-02T13:07:57.727Z",
+  "filtered_at": "2026-08-02T17:34:43.788Z"
+}

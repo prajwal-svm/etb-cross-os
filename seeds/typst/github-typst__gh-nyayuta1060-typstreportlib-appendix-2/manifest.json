@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-nyayuta1060-typstreportlib-appendix-2",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "report",
+  "license": "MIT",
+  "source_url": "https://github.com/Nyayuta1060/TypstReportLib",
+  "original_author": "Nyayuta1060",
+  "stars": 0,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-nyayuta1060-typstreportlib-appendix-2/appendix.typ",
+  "relative_path": "raw/github-typst/gh-nyayuta1060-typstreportlib-appendix-2/appendix.typ",
+  "main_doc": "appendix.typ",
+  "sha256": "5490b0cbef1ce8c9b184fd4f4743f35f2c13fb445816b433eca4a647fd05245f",
+  "size_bytes": 474,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "dev/src/appendix.typ",
+  "downloaded_at": "2026-08-02T14:20:55.449Z"
+}

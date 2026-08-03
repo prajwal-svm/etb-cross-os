@@ -1,0 +1,23 @@
+{
+  "id": "typst-universe/typst-tfguf-0-0-5",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "thesis",
+  "license": "MIT",
+  "source_url": "https://github.com/pammacdotnet/TFGUF",
+  "original_author": "Alberto Corbi (UNIR)",
+  "package_name": "tfguf",
+  "package_version": "0.0.5",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/typst-universe/typst-tfguf-0-0-5/tfg.typ",
+  "relative_path": "raw/typst-universe/typst-tfguf-0-0-5/tfg.typ",
+  "main_doc": "tfg.typ",
+  "sha256": "99f702ac404842a2a84b3eee0e9063de61effe2e7af2bdb51626cc863795381a",
+  "size_bytes": 6044,
+  "document_class": null,
+  "uses_packages": [],
+  "downloaded_at": "2026-08-02T13:13:42.258Z",
+  "categories": [
+    "thesis"
+  ],
+  "description": "This template is intended for writing Bachelor’s Degree Final Projects for the Physics Degree at UNIR University."
+}

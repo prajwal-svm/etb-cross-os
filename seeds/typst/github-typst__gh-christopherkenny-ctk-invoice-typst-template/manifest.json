@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-christopherkenny-ctk-invoice-typst-template",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "business",
+  "license": "MIT",
+  "source_url": "https://github.com/christopherkenny/ctk-invoice",
+  "original_author": "christopherkenny",
+  "stars": 0,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-christopherkenny-ctk-invoice-typst-template/typst-template.typ",
+  "relative_path": "raw/github-typst/gh-christopherkenny-ctk-invoice-typst-template/typst-template.typ",
+  "main_doc": "typst-template.typ",
+  "sha256": "0d2b0857cf09f3dcc4c0eec344d20161162e9cd8231c9dca515e3243728a05fd",
+  "size_bytes": 3011,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "_extensions/ctk-invoice/typst-template.typ",
+  "downloaded_at": "2026-08-02T14:19:20.896Z"
+}

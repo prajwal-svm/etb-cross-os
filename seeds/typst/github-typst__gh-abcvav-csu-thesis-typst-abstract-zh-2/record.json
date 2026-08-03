@@ -1,0 +1,26 @@
+{
+  "id": "github-typst/gh-abcvav-csu-thesis-typst-abstract-zh-2",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "thesis",
+  "license": "MIT",
+  "source_url": "https://github.com/abcvav/csu_thesis_typst",
+  "original_author": "abcvav",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/github-typst__gh-abcvav-csu-thesis-typst-abstract-zh-2/abstract-zh.typ",
+  "relative_path": "processed/typst/github-typst__gh-abcvav-csu-thesis-typst-abstract-zh-2/abstract-zh.typ",
+  "sha256": "a2ececadba6076f06cd816a4e06d8b81d5d4c65661715af1ab38afed49ecbb67",
+  "size_bytes": 1696,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 9,
+  "downloaded_at": "2026-08-02T14:07:49.708Z",
+  "filtered_at": "2026-08-02T17:34:44.445Z"
+}

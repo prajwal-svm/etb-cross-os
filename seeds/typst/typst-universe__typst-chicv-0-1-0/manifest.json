@@ -1,0 +1,23 @@
+{
+  "id": "typst-universe/typst-chicv-0-1-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "cv",
+  "license": "MIT",
+  "source_url": "https://github.com/skyzh/chicv",
+  "original_author": "@skyzh",
+  "package_name": "chicv",
+  "package_version": "0.1.0",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/typst-universe/typst-chicv-0-1-0/cv.typ",
+  "relative_path": "raw/typst-universe/typst-chicv-0-1-0/cv.typ",
+  "main_doc": "cv.typ",
+  "sha256": "bf808dd6b5b2f73763b9a029bd780fd610bfa4a722964fe77e93c6b0c3ea6580",
+  "size_bytes": 1369,
+  "document_class": null,
+  "uses_packages": [],
+  "downloaded_at": "2026-08-02T13:06:41.553Z",
+  "categories": [
+    "cv"
+  ],
+  "description": "A minimal and fully-customizable CV template."
+}

@@ -1,0 +1,28 @@
+{
+  "id": "ctan/ctan-glossaries-glossaries-user-example027",
+  "source": "ctan",
+  "format": "latex",
+  "category": "coursework",
+  "license": "LPPL-1.3c",
+  "source_url": "https://ctan.org/pkg/glossaries",
+  "original_author": "CTAN package: glossaries",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/ctan__ctan-glossaries-glossaries-user-example027/glossaries-user-example027.tex",
+  "relative_path": "processed/latex/cross-engine/ctan__ctan-glossaries-glossaries-user-example027/glossaries-user-example027.tex",
+  "sha256": "0b8566963bf00e6603c037975f49b279d08aab7393f9122c0b7ab4de7c407a03",
+  "size_bytes": 355,
+  "document_class": "article",
+  "uses_packages": [
+    "glossaries"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 320,
+  "downloaded_at": "2026-08-02T13:04:56.458Z",
+  "filtered_at": "2026-08-02T17:34:42.275Z"
+}

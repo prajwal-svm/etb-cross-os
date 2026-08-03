@@ -1,0 +1,23 @@
+{
+  "id": "typst-universe/typst-academicv-1-1-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "cv",
+  "license": "Apache-2.0",
+  "source_url": "https://github.com/roaldarbol/academicv",
+  "original_author": "Mikkel Roald-Arbøl",
+  "package_name": "academicv",
+  "package_version": "1.1.0",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/typst-universe/typst-academicv-1-1-0/template.typ",
+  "relative_path": "raw/typst-universe/typst-academicv-1-1-0/template.typ",
+  "main_doc": "template.typ",
+  "sha256": "f56446fcfa56d3bdee3fd9613135a06a5ce2bbc7fdb60075d5bf05276517d654",
+  "size_bytes": 5169,
+  "document_class": null,
+  "uses_packages": [],
+  "downloaded_at": "2026-08-02T13:05:33.152Z",
+  "categories": [
+    "cv"
+  ],
+  "description": "A clean, flexible curriculum vitae (CV) template using Typst and YAML"
+}

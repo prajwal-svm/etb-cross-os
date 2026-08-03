@@ -1,0 +1,19 @@
+{
+  "id": "github-latex/gh-leolavaur-latex-toolbox-document-1",
+  "source": "github-latex",
+  "format": "latex",
+  "category": "misc",
+  "license": "MIT",
+  "source_url": "https://github.com/leolavaur/latex-toolbox",
+  "original_author": "leolavaur",
+  "stars": 3,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-latex/gh-leolavaur-latex-toolbox-document-1/document.tex",
+  "relative_path": "raw/github-latex/gh-leolavaur-latex-toolbox-document-1/document.tex",
+  "main_doc": "document.tex",
+  "sha256": "80d058714eb44b8410cccaec2acf3f30e7acf191305283e83617ea283a46d61d",
+  "size_bytes": 1178,
+  "document_class": "article",
+  "uses_packages": [],
+  "repo_path": "templates/base/document.tex",
+  "downloaded_at": "2026-08-02T13:31:38.051Z"
+}

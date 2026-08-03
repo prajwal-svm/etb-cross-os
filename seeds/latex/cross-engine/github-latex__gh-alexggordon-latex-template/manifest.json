@@ -1,0 +1,27 @@
+{
+  "id": "github-latex/gh-alexggordon-latex-template",
+  "source": "github-latex",
+  "format": "latex",
+  "category": "coursework",
+  "license": "MIT",
+  "source_url": "https://github.com/alexggordon/latex",
+  "original_author": "alexggordon",
+  "stars": 0,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-latex/gh-alexggordon-latex-template/Template.tex",
+  "relative_path": "raw/github-latex/gh-alexggordon-latex-template/Template.tex",
+  "main_doc": "Template.tex",
+  "sha256": "9eca54dc9257a93c7fcb5c03ed0780b07c8ec0bb97ae2258587f4f8f0ef82985",
+  "size_bytes": 490,
+  "document_class": "scrartcl",
+  "uses_packages": [
+    "amsmath",
+    "amssymb",
+    "calc",
+    "dsfont",
+    "fullpage",
+    "gensymb",
+    "multicol"
+  ],
+  "repo_path": "LinearAlgebra/Template.tex",
+  "downloaded_at": "2026-08-02T13:48:56.338Z"
+}

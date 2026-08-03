@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-steelpancake-cv-typst-lib-2",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "cv",
+  "license": "MIT",
+  "source_url": "https://github.com/steelpancake/cv-typst",
+  "original_author": "steelpancake",
+  "stars": 0,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-steelpancake-cv-typst-lib-2/lib.typ",
+  "relative_path": "raw/github-typst/gh-steelpancake-cv-typst-lib-2/lib.typ",
+  "main_doc": "lib.typ",
+  "sha256": "1fb6903fe3c4a0760a6b0b789907ce8c1c9db3e53da3f12f551a5c381b2a432c",
+  "size_bytes": 21278,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "libmodern-cv/lib.typ",
+  "downloaded_at": "2026-08-02T14:21:26.412Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-tsx8-fengrucup-thesis-eabstract-2",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "thesis",
+  "license": "MIT",
+  "source_url": "https://github.com/tsx8/fengrucup-thesis",
+  "original_author": "tsx8",
+  "stars": 10,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-tsx8-fengrucup-thesis-eabstract-2/eabstract.typ",
+  "relative_path": "raw/github-typst/gh-tsx8-fengrucup-thesis-eabstract-2/eabstract.typ",
+  "main_doc": "eabstract.typ",
+  "sha256": "94230260958bbe7a46a3f204622beb1e94188e651040e0e996ede8aa824cf0d7",
+  "size_bytes": 1543,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "doc/eabstract.typ",
+  "downloaded_at": "2026-08-02T14:06:12.673Z"
+}

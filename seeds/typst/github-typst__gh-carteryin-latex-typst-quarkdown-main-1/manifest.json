@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-carteryin-latex-typst-quarkdown-main-1",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "misc",
+  "license": "MIT",
+  "source_url": "https://github.com/CarterYin/latex_typst_quarkdown",
+  "original_author": "CarterYin",
+  "stars": 0,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-carteryin-latex-typst-quarkdown-main-1/main.typ",
+  "relative_path": "raw/github-typst/gh-carteryin-latex-typst-quarkdown-main-1/main.typ",
+  "main_doc": "main.typ",
+  "sha256": "7bbd80adb80be2b966964b845f3c31109b52e5a2daab338f285d7fcad7e6e825",
+  "size_bytes": 4603,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "typst/template/main.typ",
+  "downloaded_at": "2026-08-02T14:16:32.969Z"
+}

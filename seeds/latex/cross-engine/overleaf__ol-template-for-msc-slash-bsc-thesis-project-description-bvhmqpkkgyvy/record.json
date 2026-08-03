@@ -1,0 +1,31 @@
+{
+  "id": "overleaf/ol-template-for-msc-slash-bsc-thesis-project-description-bvhmqpkkgyvy",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "thesis",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/template-for-msc-slash-bsc-thesis-project-description/bvhmqpkkgyvy",
+  "original_author": "Michael Behrisch",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/overleaf__ol-template-for-msc-slash-bsc-thesis-project-description-bvhmqpkkgyvy/main.tex",
+  "relative_path": "processed/latex/cross-engine/overleaf__ol-template-for-msc-slash-bsc-thesis-project-description-bvhmqpkkgyvy/main.tex",
+  "sha256": "8b93f5cdd25957f5d3076988fa3c1ebbdc1972d6360446f9d226b590a5d8e1ba",
+  "size_bytes": 3686,
+  "document_class": "article",
+  "uses_packages": [
+    "babel",
+    "fontenc",
+    "inputenc",
+    "marvosym"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 222,
+  "downloaded_at": "2026-08-02T14:41:34.701Z",
+  "filtered_at": "2026-08-02T17:34:41.921Z"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "typst-universe/typst-modern-sysu-touying-0-1-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "beamer",
+  "license": "MIT",
+  "source_url": "https://github.com/sysu/modern-sysu-touying",
+  "original_author": "Sunny Huang",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/typst-universe__typst-modern-sysu-touying-0-1-0/touying.typ",
+  "relative_path": "processed/typst/typst-universe__typst-modern-sysu-touying-0-1-0/touying.typ",
+  "sha256": "00559928fef4e82acd32ca8e8e1d4d4ec40e5d8204c68f54900ef7652c6b6c93",
+  "size_bytes": 933,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 270,
+  "downloaded_at": "2026-08-02T13:11:01.637Z",
+  "filtered_at": "2026-08-02T17:34:44.023Z"
+}

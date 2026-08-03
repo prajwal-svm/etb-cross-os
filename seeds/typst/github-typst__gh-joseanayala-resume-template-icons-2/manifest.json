@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-joseanayala-resume-template-icons-2",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "cv",
+  "license": "MIT",
+  "source_url": "https://github.com/JoseanAyala/resume-template",
+  "original_author": "JoseanAyala",
+  "stars": 0,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-joseanayala-resume-template-icons-2/icons.typ",
+  "relative_path": "raw/github-typst/gh-joseanayala-resume-template-icons-2/icons.typ",
+  "main_doc": "icons.typ",
+  "sha256": "32fa966a0910edafaf4ef5205e7dc94a4390bce8ae5768329fba69f2e002fab5",
+  "size_bytes": 359,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "lib/icons.typ",
+  "downloaded_at": "2026-08-02T14:18:26.371Z"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "typst-universe/typst-modern-project-report-0-1-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "report",
+  "license": "MIT",
+  "source_url": "https://github.com/aurghya-0/Project-Report-Typst",
+  "original_author": "Aurghyadip Kundu",
+  "package_name": "modern-project-report",
+  "package_version": "0.1.0",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/typst-universe/typst-modern-project-report-0-1-0/main.typ",
+  "relative_path": "raw/typst-universe/typst-modern-project-report-0-1-0/main.typ",
+  "main_doc": "main.typ",
+  "sha256": "b2d0b506dcce71428dc2d95a411acbc857b9cae561f525033f7d4f9ed09a3cfb",
+  "size_bytes": 1574,
+  "document_class": null,
+  "uses_packages": [],
+  "downloaded_at": "2026-08-02T13:10:54.244Z",
+  "categories": [
+    "report"
+  ],
+  "description": "A clean, modern college and university project report template with dynamic running headers, cover page, and structured outlines."
+}

@@ -1,0 +1,22 @@
+{
+  "id": "overleaf/ol-mobisys24-poster-template-authors-xbhhcpgqgdmt",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "beamer",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/mobisys24-poster-template-authors/xbhhcpgqgdmt",
+  "original_author": "Mobisys 2024 Poster Chairs",
+  "title": "mobisys24-poster-template-authors",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/overleaf/ol-mobisys24-poster-template-authors-xbhhcpgqgdmt/main.tex",
+  "relative_path": "raw/overleaf/ol-mobisys24-poster-template-authors-xbhhcpgqgdmt/main.tex",
+  "main_doc": "main.tex",
+  "sha256": "f2d11345232c50f416b26eb5253ae6f69ef15ee269ca2e49a7ba4c7f03d856eb",
+  "size_bytes": 2379,
+  "document_class": "acmart",
+  "uses_packages": [
+    "graphicx"
+  ],
+  "download_method": "view-source-modal",
+  "github_url": null,
+  "downloaded_at": "2026-08-02T16:37:33.118Z"
+}

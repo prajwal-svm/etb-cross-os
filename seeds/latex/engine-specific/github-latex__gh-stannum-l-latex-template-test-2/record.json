@@ -1,0 +1,29 @@
+{
+  "id": "github-latex/gh-stannum-l-latex-template-test-2",
+  "source": "github-latex",
+  "format": "latex",
+  "category": "coursework",
+  "license": "Apache-2.0",
+  "source_url": "https://github.com/stannum-l/latex-template",
+  "original_author": "stannum-l",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/engine-specific/github-latex__gh-stannum-l-latex-template-test-2/test.tex",
+  "relative_path": "processed/latex/engine-specific/github-latex__gh-stannum-l-latex-template-test-2/test.tex",
+  "sha256": "aa1a979329fef53a48ab43d8f3bb6a2650bf491eb6046f4af60d9aade86a9721",
+  "size_bytes": 835,
+  "document_class": "article",
+  "uses_packages": [
+    "unicode-math",
+    "xcolor"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": false,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "engine-specific",
+  "compile_time_ms": 856,
+  "downloaded_at": "2026-08-02T13:43:17.304Z",
+  "filtered_at": "2026-08-02T17:34:43.412Z"
+}

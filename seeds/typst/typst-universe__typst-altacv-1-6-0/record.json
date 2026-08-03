@@ -1,0 +1,26 @@
+{
+  "id": "typst-universe/typst-altacv-1-6-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "cv",
+  "license": "MIT",
+  "source_url": "https://github.com/smur89/alta-typst",
+  "original_author": "Shane Murphy",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/typst-universe__typst-altacv-1-6-0/cv.typ",
+  "relative_path": "processed/typst/typst-universe__typst-altacv-1-6-0/cv.typ",
+  "sha256": "4505ab258e35eb35554dbbec68b20bed1b62de2d1bf2028d574488856af3eba2",
+  "size_bytes": 5080,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 336,
+  "downloaded_at": "2026-08-02T13:05:43.790Z",
+  "filtered_at": "2026-08-02T17:34:43.607Z"
+}

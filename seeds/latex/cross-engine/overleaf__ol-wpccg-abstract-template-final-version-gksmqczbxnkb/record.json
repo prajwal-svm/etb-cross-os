@@ -1,0 +1,29 @@
+{
+  "id": "overleaf/ol-wpccg-abstract-template-final-version-gksmqczbxnkb",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "misc",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/wpccg-abstract-template-final-version/gksmqczbxnkb",
+  "original_author": "Sheila Almeida",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/overleaf__ol-wpccg-abstract-template-final-version-gksmqczbxnkb/main.tex",
+  "relative_path": "processed/latex/cross-engine/overleaf__ol-wpccg-abstract-template-final-version-gksmqczbxnkb/main.tex",
+  "sha256": "49e395b55acce00df494ebbdc208d102efaf7f646c6760c991b78df955db4d93",
+  "size_bytes": 3107,
+  "document_class": "elsarticle",
+  "uses_packages": [
+    "amssymb",
+    "geometry"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 273,
+  "downloaded_at": "2026-08-02T14:17:12.192Z",
+  "filtered_at": "2026-08-02T17:34:42.164Z"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "overleaf/ol-wildlife-management-and-tourism-conference-2024-wmtc24-xnqhhghgzfkn",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "venue",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/wildlife-management-and-tourism-conference-2024-wmtc24/xnqhhghgzfkn",
+  "original_author": "Kudakwashe Hove",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/overleaf__ol-wildlife-management-and-tourism-conference-2024-wmtc24-xnqhhghgzfkn/main.tex",
+  "relative_path": "processed/latex/cross-engine/overleaf__ol-wildlife-management-and-tourism-conference-2024-wmtc24-xnqhhghgzfkn/main.tex",
+  "sha256": "c2c451d0d1f5c7aadd93ab0c4fa1740dc80004dff9f537ad8f7a0007d1c1d6bf",
+  "size_bytes": 3477,
+  "document_class": "article",
+  "uses_packages": [
+    "geometry",
+    "inputenc",
+    "setspace",
+    "times"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 250,
+  "downloaded_at": "2026-08-02T16:23:56.993Z",
+  "filtered_at": "2026-08-02T17:34:42.158Z"
+}

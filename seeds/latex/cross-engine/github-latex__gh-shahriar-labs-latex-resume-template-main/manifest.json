@@ -1,0 +1,32 @@
+{
+  "id": "github-latex/gh-shahriar-labs-latex-resume-template-main",
+  "source": "github-latex",
+  "format": "latex",
+  "category": "cv",
+  "license": "MIT",
+  "source_url": "https://github.com/Shahriar-Labs/latex-resume-template",
+  "original_author": "Shahriar-Labs",
+  "stars": 0,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-latex/gh-shahriar-labs-latex-resume-template-main/main.tex",
+  "relative_path": "raw/github-latex/gh-shahriar-labs-latex-resume-template-main/main.tex",
+  "main_doc": "main.tex",
+  "sha256": "b86cb70b0f353a880d59e18cedc68b961c70da96ba5432019dffaccae1f78804",
+  "size_bytes": 6934,
+  "document_class": "article",
+  "uses_packages": [
+    "accsupp",
+    "babel",
+    "enumitem",
+    "fontawesome5",
+    "fontenc",
+    "geometry",
+    "hyperref",
+    "inputenc",
+    "lato",
+    "microtype",
+    "tikz",
+    "xcolor"
+  ],
+  "repo_path": "main.tex",
+  "downloaded_at": "2026-08-02T13:50:23.535Z"
+}

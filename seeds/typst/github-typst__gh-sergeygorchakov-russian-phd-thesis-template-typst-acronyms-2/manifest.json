@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-sergeygorchakov-russian-phd-thesis-template-typst-acronyms-2",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "thesis",
+  "license": "MIT",
+  "source_url": "https://github.com/SergeyGorchakov/russian-phd-thesis-template-typst",
+  "original_author": "SergeyGorchakov",
+  "stars": 46,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-sergeygorchakov-russian-phd-thesis-template-typst-acronyms-2/acronyms.typ",
+  "relative_path": "raw/github-typst/gh-sergeygorchakov-russian-phd-thesis-template-typst-acronyms-2/acronyms.typ",
+  "main_doc": "acronyms.typ",
+  "sha256": "070576dd7aee46afd6cb7ce5cc8619e20d94d6a8412fad16c367011d2da131e2",
+  "size_bytes": 263,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "common/acronyms.typ",
+  "downloaded_at": "2026-08-02T14:03:58.508Z"
+}

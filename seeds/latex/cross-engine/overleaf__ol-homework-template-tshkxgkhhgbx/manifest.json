@@ -1,0 +1,25 @@
+{
+  "id": "overleaf/ol-homework-template-tshkxgkhhgbx",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "coursework",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/homework-template/tshkxgkhhgbx",
+  "original_author": "Sayri Suarez",
+  "title": "Homework Template",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/overleaf/ol-homework-template-tshkxgkhhgbx/main.tex",
+  "relative_path": "raw/overleaf/ol-homework-template-tshkxgkhhgbx/main.tex",
+  "main_doc": "main.tex",
+  "sha256": "c1095f4d3b80dde3f008f82617b996679cdf403cbdbcc3c53d22163864d410df",
+  "size_bytes": 1139,
+  "document_class": "article",
+  "uses_packages": [
+    "amsmath",
+    "amssymb",
+    "geometry",
+    "textpos"
+  ],
+  "download_method": "view-source-modal",
+  "github_url": null,
+  "downloaded_at": "2026-08-02T14:58:31.083Z"
+}

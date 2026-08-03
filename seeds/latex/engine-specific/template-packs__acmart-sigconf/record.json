@@ -1,0 +1,28 @@
+{
+  "id": "template-packs/acmart-sigconf",
+  "source": "template-packs",
+  "format": "latex",
+  "category": "venue",
+  "license": "CC0-1.0",
+  "source_url": "https://github.com/Oleafly/template-packs",
+  "original_author": "Oleafly",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/engine-specific/template-packs__acmart-sigconf/main.tex",
+  "relative_path": "processed/latex/engine-specific/template-packs__acmart-sigconf/main.tex",
+  "sha256": "a502e6ce18a4a05a471c9196a89a73b874e7a861ff6c8feb110a10e8c291594b",
+  "size_bytes": 944,
+  "document_class": "acmart",
+  "uses_packages": [
+    "graphicx"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": false,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "engine-specific",
+  "compile_time_ms": 4419,
+  "downloaded_at": "2026-08-02T13:05:15.878Z",
+  "filtered_at": "2026-08-02T17:34:40.711Z"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "github-typst/gh-damianopellegrini-typst-unimib-template-lib-1",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "thesis",
+  "license": "MIT",
+  "source_url": "https://github.com/DamianoPellegrini/typst-unimib-template",
+  "original_author": "DamianoPellegrini",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/github-typst__gh-damianopellegrini-typst-unimib-template-lib-1/lib.typ",
+  "relative_path": "processed/typst/github-typst__gh-damianopellegrini-typst-unimib-template-lib-1/lib.typ",
+  "sha256": "b37ab58193839e8c67801e5e4651e93e690a632c5ac5f557c367b43097e45c9f",
+  "size_bytes": 12543,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 11,
+  "downloaded_at": "2026-08-02T14:11:17.863Z",
+  "filtered_at": "2026-08-02T17:34:44.712Z"
+}

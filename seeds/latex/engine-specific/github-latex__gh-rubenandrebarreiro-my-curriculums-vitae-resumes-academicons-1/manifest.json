@@ -1,0 +1,29 @@
+{
+  "id": "github-latex/gh-rubenandrebarreiro-my-curriculums-vitae-resumes-academicons-1",
+  "source": "github-latex",
+  "format": "latex",
+  "category": "cv",
+  "license": "MIT",
+  "source_url": "https://github.com/rubenandrebarreiro/my-curriculums-vitae-resumes",
+  "original_author": "rubenandrebarreiro",
+  "stars": 1,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-latex/gh-rubenandrebarreiro-my-curriculums-vitae-resumes-academicons-1/academicons.tex",
+  "relative_path": "raw/github-latex/gh-rubenandrebarreiro-my-curriculums-vitae-resumes-academicons-1/academicons.tex",
+  "main_doc": "academicons.tex",
+  "sha256": "bd31e77a3515d11dc4d392b7544a564cf8e232934c323a03dfae9fcb2364f0e2",
+  "size_bytes": 5774,
+  "document_class": "ltxdoc",
+  "uses_packages": [
+    "./academicons",
+    "\\jobname",
+    "booktabs",
+    "hologo",
+    "hypdoc",
+    "hyperref",
+    "longtable",
+    "totcount",
+    "xcolor"
+  ],
+  "repo_path": "Curriculum Vitaes/TeX/Files/academicons.tex",
+  "downloaded_at": "2026-08-02T13:39:24.703Z"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "github-latex/gh-gabsalvo-rapid-apply-cv",
+  "source": "github-latex",
+  "format": "latex",
+  "category": "cv",
+  "license": "MIT",
+  "source_url": "https://github.com/gabsalvo/rapid_apply",
+  "original_author": "gabsalvo",
+  "stars": 0,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-latex/gh-gabsalvo-rapid-apply-cv/cv.tex",
+  "relative_path": "raw/github-latex/gh-gabsalvo-rapid-apply-cv/cv.tex",
+  "main_doc": "cv.tex",
+  "sha256": "9ad8ceb7a685719112d009e4d3034f580dfbaef9f968325e9a59b1e698866aac",
+  "size_bytes": 1588,
+  "document_class": "extarticle",
+  "uses_packages": [
+    "enumitem",
+    "fontenc",
+    "geometry",
+    "hyperref",
+    "inputenc",
+    "parskip",
+    "titlesec",
+    "xcolor"
+  ],
+  "repo_path": "templates/cv.tex",
+  "downloaded_at": "2026-08-02T13:51:35.205Z"
+}

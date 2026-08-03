@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-yangwenbo99-typst-uwthesis-glossaries",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "thesis",
+  "license": "Apache-2.0",
+  "source_url": "https://github.com/yangwenbo99/typst-uwthesis",
+  "original_author": "yangwenbo99",
+  "stars": 11,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-yangwenbo99-typst-uwthesis-glossaries/glossaries.typ",
+  "relative_path": "raw/github-typst/gh-yangwenbo99-typst-uwthesis-glossaries/glossaries.typ",
+  "main_doc": "glossaries.typ",
+  "sha256": "a3186a9200bd5325a3c72854902f353a17e2dcb0426ee123ce3d0a651a645730",
+  "size_bytes": 417,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "glossaries.typ",
+  "downloaded_at": "2026-08-02T14:06:08.365Z"
+}

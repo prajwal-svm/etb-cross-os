@@ -1,0 +1,24 @@
+{
+  "id": "ctan/ctan-eso-pic-eso-article-test",
+  "source": "ctan",
+  "format": "latex",
+  "category": "venue",
+  "license": "LPPL-1.3c",
+  "source_url": "https://ctan.org/pkg/eso-pic",
+  "original_author": "CTAN package: eso-pic",
+  "package": "eso-pic",
+  "original_path": "/usr/local/texlive/2025/texmf-dist/doc/latex/eso-pic/eso-article-test.tex",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/ctan/ctan-eso-pic-eso-article-test/eso-article-test.tex",
+  "relative_path": "raw/ctan/ctan-eso-pic-eso-article-test/eso-article-test.tex",
+  "main_doc": "eso-article-test.tex",
+  "sha256": "0e1019b583ea926041d8dd8fc124312813de46c33eb5b6b8b4b35f09b590a326",
+  "size_bytes": 631,
+  "document_class": "article",
+  "uses_packages": [
+    "eso-pic",
+    "pict2e",
+    "showframe",
+    "xcolor"
+  ],
+  "downloaded_at": "2026-08-02T13:05:02.382Z"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "typst-universe/typst-primeone-1-0-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "report",
+  "license": "MIT",
+  "source_url": "https://github.com/simon-eller/primeone-typst",
+  "original_author": "Simon Eller",
+  "package_name": "primeone",
+  "package_version": "1.0.0",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/typst-universe/typst-primeone-1-0-0/main.typ",
+  "relative_path": "raw/typst-universe/typst-primeone-1-0-0/main.typ",
+  "main_doc": "main.typ",
+  "sha256": "b9bd7e24aea417799ee6c94147a79d8a5f57e1afe7ed0f4b054cbb560a4e0ddf",
+  "size_bytes": 7953,
+  "document_class": null,
+  "uses_packages": [],
+  "downloaded_at": "2026-08-02T13:12:13.100Z",
+  "categories": [
+    "report"
+  ],
+  "description": "A modern template bringing themed UI components like cards, badges, and messages to your documents."
+}

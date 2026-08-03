@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-pauladam94-agregyst-internals-1",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "beamer",
+  "license": "MIT",
+  "source_url": "https://github.com/pauladam94/agregyst",
+  "original_author": "pauladam94",
+  "stars": 2,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-pauladam94-agregyst-internals-1/internals.typ",
+  "relative_path": "raw/github-typst/gh-pauladam94-agregyst-internals-1/internals.typ",
+  "main_doc": "internals.typ",
+  "sha256": "d80cbd7548029682aad0466a6726411ffca8bac3ba46c13d45913bef6e1e7b05",
+  "size_bytes": 16650,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "internals.typ",
+  "downloaded_at": "2026-08-02T14:10:34.355Z"
+}

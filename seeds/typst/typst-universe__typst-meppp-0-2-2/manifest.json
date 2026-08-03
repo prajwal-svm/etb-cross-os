@@ -1,0 +1,23 @@
+{
+  "id": "typst-universe/typst-meppp-0-2-2",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "report",
+  "license": "MIT",
+  "source_url": "https://github.com/pku-typst/meppp",
+  "original_author": "CL4R3T",
+  "package_name": "meppp",
+  "package_version": "0.2.2",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/typst-universe/typst-meppp-0-2-2/main.typ",
+  "relative_path": "raw/typst-universe/typst-meppp-0-2-2/main.typ",
+  "main_doc": "main.typ",
+  "sha256": "b52a8d5111ff4c033905955a27114e9feffbfd9a1df45ce2a8670c6f42a23244",
+  "size_bytes": 2532,
+  "document_class": null,
+  "uses_packages": [],
+  "downloaded_at": "2026-08-02T13:10:16.303Z",
+  "categories": [
+    "report"
+  ],
+  "description": "Template for modern physics experiment reports at the Physics School of PKU."
+}

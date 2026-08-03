@@ -1,0 +1,23 @@
+{
+  "id": "typst-universe/typst-touying-quarto-clean-0-2-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "beamer",
+  "license": "MIT",
+  "source_url": "https://github.com/kazuyanagimoto/quarto-clean-typst",
+  "original_author": "Kazuharu Yanagimoto",
+  "package_name": "touying-quarto-clean",
+  "package_version": "0.2.0",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/typst-universe/typst-touying-quarto-clean-0-2-0/main.typ",
+  "relative_path": "raw/typst-universe/typst-touying-quarto-clean-0-2-0/main.typ",
+  "main_doc": "main.typ",
+  "sha256": "a3143745575f0358d4b97d0bc615ab93c60f19db6f61ac321a321eaf2b033f15",
+  "size_bytes": 1943,
+  "document_class": null,
+  "uses_packages": [],
+  "downloaded_at": "2026-08-02T13:14:13.675Z",
+  "categories": [
+    "presentation"
+  ],
+  "description": "A Clean Slide Theme for Touying"
+}

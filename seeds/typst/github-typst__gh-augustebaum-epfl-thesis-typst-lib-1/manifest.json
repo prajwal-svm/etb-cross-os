@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-augustebaum-epfl-thesis-typst-lib-1",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "thesis",
+  "license": "MIT",
+  "source_url": "https://github.com/augustebaum/epfl-thesis-typst",
+  "original_author": "augustebaum",
+  "stars": 17,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-augustebaum-epfl-thesis-typst-lib-1/lib.typ",
+  "relative_path": "raw/github-typst/gh-augustebaum-epfl-thesis-typst-lib-1/lib.typ",
+  "main_doc": "lib.typ",
+  "sha256": "5e6565d50f50585fa9c81ab721ea4adf4faff28406d2da756f923899a4e6edb2",
+  "size_bytes": 7555,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "src/lib.typ",
+  "downloaded_at": "2026-08-02T14:05:11.673Z"
+}

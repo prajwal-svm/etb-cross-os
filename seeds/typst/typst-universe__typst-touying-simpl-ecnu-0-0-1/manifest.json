@@ -1,0 +1,23 @@
+{
+  "id": "typst-universe/typst-touying-simpl-ecnu-0-0-1",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "beamer",
+  "license": "MIT",
+  "source_url": "https://github.com/ccyoung3/touying-simpl-ecnu",
+  "original_author": "Yip Coekjan",
+  "package_name": "touying-simpl-ecnu",
+  "package_version": "0.0.1",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/typst-universe/typst-touying-simpl-ecnu-0-0-1/main.typ",
+  "relative_path": "raw/typst-universe/typst-touying-simpl-ecnu-0-0-1/main.typ",
+  "main_doc": "main.typ",
+  "sha256": "3947ab5fd9a2bd0f7a51e34b8278766e52cf67464428a46ff37458bb2ecb5fb6",
+  "size_bytes": 780,
+  "document_class": null,
+  "uses_packages": [],
+  "downloaded_at": "2026-08-02T13:14:16.492Z",
+  "categories": [
+    "presentation"
+  ],
+  "description": "Touying Slide Theme for East China Normal University"
+}

@@ -1,0 +1,40 @@
+{
+  "id": "github-latex/gh-lucamezz-latex-templates-homework",
+  "source": "github-latex",
+  "format": "latex",
+  "category": "coursework",
+  "license": "MIT",
+  "source_url": "https://github.com/LucaMezz/latex-templates",
+  "original_author": "LucaMezz",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/github-latex__gh-lucamezz-latex-templates-homework/homework.tex",
+  "relative_path": "processed/latex/cross-engine/github-latex__gh-lucamezz-latex-templates-homework/homework.tex",
+  "sha256": "7d4ee955c6a79400102b0670a93a5fa0c1cd1a891c4b8608e18f5bf356e1b0cd",
+  "size_bytes": 4414,
+  "document_class": "article",
+  "uses_packages": [
+    "amsmath",
+    "amssymb",
+    "amsthm",
+    "enumitem",
+    "fancyhdr",
+    "fontenc",
+    "geometry",
+    "hyperref",
+    "inputenc",
+    "lmodern",
+    "mathtools",
+    "microtype",
+    "xcolor"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 495,
+  "downloaded_at": "2026-08-02T13:59:14.263Z",
+  "filtered_at": "2026-08-02T17:34:43.096Z"
+}

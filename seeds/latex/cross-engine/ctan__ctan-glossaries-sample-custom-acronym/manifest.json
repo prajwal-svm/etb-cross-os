@@ -1,0 +1,22 @@
+{
+  "id": "ctan/ctan-glossaries-sample-custom-acronym",
+  "source": "ctan",
+  "format": "latex",
+  "category": "package-example",
+  "license": "LPPL-1.3c",
+  "source_url": "https://ctan.org/pkg/glossaries",
+  "original_author": "CTAN package: glossaries",
+  "package": "glossaries",
+  "original_path": "/usr/local/texlive/2025/texmf-dist/doc/latex/glossaries/samples/sample-custom-acronym.tex",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/ctan/ctan-glossaries-sample-custom-acronym/sample-custom-acronym.tex",
+  "relative_path": "raw/ctan/ctan-glossaries-sample-custom-acronym/sample-custom-acronym.tex",
+  "main_doc": "sample-custom-acronym.tex",
+  "sha256": "b5ee5306067c17882a7bdd09bd8d90d49ec8dad92f9f4d1edfe432cc3918f8b3",
+  "size_bytes": 5385,
+  "document_class": "report",
+  "uses_packages": [
+    "glossaries",
+    "hyperref"
+  ],
+  "downloaded_at": "2026-08-02T13:04:56.454Z"
+}

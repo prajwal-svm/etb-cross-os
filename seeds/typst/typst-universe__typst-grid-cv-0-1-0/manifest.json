@@ -1,0 +1,23 @@
+{
+  "id": "typst-universe/typst-grid-cv-0-1-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "cv",
+  "license": "MIT",
+  "source_url": "https://github.com/davidculemann/typst-templates",
+  "original_author": "JobSprout",
+  "package_name": "grid-cv",
+  "package_version": "0.1.0",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/typst-universe/typst-grid-cv-0-1-0/main.typ",
+  "relative_path": "raw/typst-universe/typst-grid-cv-0-1-0/main.typ",
+  "main_doc": "main.typ",
+  "sha256": "706ddd16e51a94f4d58df6606479668cf7beda233ddfcaca3e242fb24151e722",
+  "size_bytes": 4044,
+  "document_class": null,
+  "uses_packages": [],
+  "downloaded_at": "2026-08-02T13:08:45.672Z",
+  "categories": [
+    "cv"
+  ],
+  "description": "Plain single-column CV with a two-column skills grid."
+}

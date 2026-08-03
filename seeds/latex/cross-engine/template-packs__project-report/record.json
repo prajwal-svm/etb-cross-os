@@ -1,0 +1,31 @@
+{
+  "id": "template-packs/project-report",
+  "source": "template-packs",
+  "format": "latex",
+  "category": "report",
+  "license": "CC0-1.0",
+  "source_url": "https://github.com/Oleafly/template-packs",
+  "original_author": "Oleafly",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/template-packs__project-report/main.tex",
+  "relative_path": "processed/latex/cross-engine/template-packs__project-report/main.tex",
+  "sha256": "ad5b167105694b62e313caaeca9c307e9b27b3147effd4804e9f31ae068a1f33",
+  "size_bytes": 2492,
+  "document_class": "article",
+  "uses_packages": [
+    "booktabs",
+    "geometry",
+    "hyperref",
+    "xcolor"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 390,
+  "downloaded_at": "2026-08-02T13:05:15.854Z",
+  "filtered_at": "2026-08-02T17:34:40.834Z"
+}

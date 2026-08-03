@@ -1,0 +1,29 @@
+{
+  "id": "ctan/ctan-datatool-datatool-user-example188",
+  "source": "ctan",
+  "format": "latex",
+  "category": "coursework",
+  "license": "LPPL-1.3c",
+  "source_url": "https://ctan.org/pkg/datatool",
+  "original_author": "CTAN package: datatool",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/ctan__ctan-datatool-datatool-user-example188/datatool-user-example188.tex",
+  "relative_path": "processed/latex/cross-engine/ctan__ctan-datatool-datatool-user-example188/datatool-user-example188.tex",
+  "sha256": "3abcf7c2c43c86daec30586f5ef6edf7104f4c47d136bc21c36c53419b04649f",
+  "size_bytes": 1077,
+  "document_class": "article",
+  "uses_packages": [
+    "datagidx",
+    "hyperref"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 748,
+  "downloaded_at": "2026-08-02T13:05:04.441Z",
+  "filtered_at": "2026-08-02T17:34:42.224Z"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "typst-universe/typst-placard-0-1-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "beamer",
+  "license": "MIT",
+  "source_url": "https://github.com/ant1isbusy/typst-placard",
+  "original_author": "Anto Dovodja @ant1isbusy",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/typst-universe__typst-placard-0-1-0/main.typ",
+  "relative_path": "processed/typst/typst-universe__typst-placard-0-1-0/main.typ",
+  "sha256": "725d8c30716d452ac2a587097c42996673fdbb4689824327b747563aa0d60f93",
+  "size_bytes": 306,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 154,
+  "downloaded_at": "2026-08-02T13:12:04.426Z",
+  "filtered_at": "2026-08-02T17:34:44.113Z"
+}

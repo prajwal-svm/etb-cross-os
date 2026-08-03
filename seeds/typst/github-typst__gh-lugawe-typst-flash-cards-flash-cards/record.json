@@ -1,0 +1,26 @@
+{
+  "id": "github-typst/gh-lugawe-typst-flash-cards-flash-cards",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "misc",
+  "license": "MIT",
+  "source_url": "https://github.com/lugawe/typst-flash-cards",
+  "original_author": "lugawe",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/github-typst__gh-lugawe-typst-flash-cards-flash-cards/flash-cards.typ",
+  "relative_path": "processed/typst/github-typst__gh-lugawe-typst-flash-cards-flash-cards/flash-cards.typ",
+  "sha256": "13417336e1f5db17ecbd9bc343ed95e1bd3f0f53b286b3bdc0887dd6a315be93",
+  "size_bytes": 4506,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 9,
+  "downloaded_at": "2026-08-02T14:16:45.177Z",
+  "filtered_at": "2026-08-02T17:34:45.264Z"
+}

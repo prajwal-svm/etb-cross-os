@@ -1,0 +1,36 @@
+{
+  "id": "overleaf/ol-research-diary-template-qpdnxkbyvxxs",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "misc",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/research-diary-template/qpdnxkbyvxxs",
+  "original_author": "Simon Haastert",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/overleaf__ol-research-diary-template-qpdnxkbyvxxs/template_en.tex",
+  "relative_path": "processed/latex/cross-engine/overleaf__ol-research-diary-template-qpdnxkbyvxxs/template_en.tex",
+  "sha256": "38937412b6a3dfc01ed0f35072c478b65dab2b9b4ae0ab649bd789b2ac8839a4",
+  "size_bytes": 3990,
+  "document_class": "article",
+  "uses_packages": [
+    "amsfonts",
+    "amsmath",
+    "booktabs",
+    "color",
+    "enumitem",
+    "geometry",
+    "hyperref",
+    "inputenc",
+    "titlesec"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 421,
+  "downloaded_at": "2026-08-02T13:45:51.352Z",
+  "filtered_at": "2026-08-02T17:34:41.755Z"
+}

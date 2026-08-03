@@ -1,0 +1,22 @@
+{
+  "id": "github-latex/gh-bitofhope-gokous-template-template",
+  "source": "github-latex",
+  "format": "latex",
+  "category": "business",
+  "license": "MIT",
+  "source_url": "https://github.com/bitofhope/Gokous-template",
+  "original_author": "bitofhope",
+  "stars": 2,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-latex/gh-bitofhope-gokous-template-template/template.tex",
+  "relative_path": "raw/github-latex/gh-bitofhope-gokous-template-template/template.tex",
+  "main_doc": "template.tex",
+  "sha256": "f09620dbdfc030467dc268cd4201e758cb22ae5640e3cf0bdf16d8a1696b7bd6",
+  "size_bytes": 1325,
+  "document_class": "article",
+  "uses_packages": [
+    "hyperref",
+    "inputenc"
+  ],
+  "repo_path": "template.tex",
+  "downloaded_at": "2026-08-02T13:34:07.447Z"
+}

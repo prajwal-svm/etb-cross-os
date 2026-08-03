@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-enib-community-enib-typst-internship-template-gls-1",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "report",
+  "license": "MIT",
+  "source_url": "https://github.com/ENIB-Community/ENIB_Typst_Internship_Template",
+  "original_author": "ENIB-Community",
+  "stars": 1,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-enib-community-enib-typst-internship-template-gls-1/gls.typ",
+  "relative_path": "raw/github-typst/gh-enib-community-enib-typst-internship-template-gls-1/gls.typ",
+  "main_doc": "gls.typ",
+  "sha256": "7acf320b649f3df9024e5bacf76417aeed4435a1fff7ed81a4c9d22547cc0380",
+  "size_bytes": 1122,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "gls.typ",
+  "downloaded_at": "2026-08-02T14:11:44.424Z"
+}

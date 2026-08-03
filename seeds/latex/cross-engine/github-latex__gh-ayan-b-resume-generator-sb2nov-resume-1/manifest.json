@@ -1,0 +1,30 @@
+{
+  "id": "github-latex/gh-ayan-b-resume-generator-sb2nov-resume-1",
+  "source": "github-latex",
+  "format": "latex",
+  "category": "cv",
+  "license": "MIT",
+  "source_url": "https://github.com/ayan-b/resume-generator",
+  "original_author": "ayan-b",
+  "stars": 5,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-latex/gh-ayan-b-resume-generator-sb2nov-resume-1/sb2nov-resume.tex",
+  "relative_path": "raw/github-latex/gh-ayan-b-resume-generator-sb2nov-resume-1/sb2nov-resume.tex",
+  "main_doc": "sb2nov-resume.tex",
+  "sha256": "9370684e347973533751ae685d15748d8ad8fccedea5cbe169cf289e73a5bb2b",
+  "size_bytes": 7826,
+  "document_class": "article",
+  "uses_packages": [
+    "babel",
+    "color",
+    "enumitem",
+    "fancyhdr",
+    "fullpage",
+    "hyperref",
+    "latexsym",
+    "marvosym",
+    "titlesec",
+    "verbatim"
+  ],
+  "repo_path": "assets/sb2nov-resume.tex",
+  "downloaded_at": "2026-08-02T13:28:14.468Z"
+}

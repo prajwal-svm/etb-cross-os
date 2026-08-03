@@ -1,0 +1,29 @@
+{
+  "id": "overleaf/ol-nyush-ds-cs-capstone-outline-template-fkknfrpxspgs",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "misc",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/nyush-ds-cs-capstone-outline-template/fkknfrpxspgs",
+  "original_author": "Promethee Spathis",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/overleaf__ol-nyush-ds-cs-capstone-outline-template-fkknfrpxspgs/main.tex",
+  "relative_path": "processed/latex/cross-engine/overleaf__ol-nyush-ds-cs-capstone-outline-template-fkknfrpxspgs/main.tex",
+  "sha256": "0b060110ae0cb6da6979ca726eb078c987688c1a717b8969ca766b0770e762ad",
+  "size_bytes": 3522,
+  "document_class": "article",
+  "uses_packages": [
+    "fancyhdr",
+    "hyperref"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 323,
+  "downloaded_at": "2026-08-02T15:33:29.569Z",
+  "filtered_at": "2026-08-02T17:34:41.571Z"
+}

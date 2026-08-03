@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-lace-wing-lacy-ubc-math-project-drawing-2",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "misc",
+  "license": "MIT",
+  "source_url": "https://github.com/lace-wing/lacy-ubc-math-project",
+  "original_author": "lace-wing",
+  "stars": 4,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-lace-wing-lacy-ubc-math-project-drawing-2/drawing.typ",
+  "relative_path": "raw/github-typst/gh-lace-wing-lacy-ubc-math-project-drawing-2/drawing.typ",
+  "main_doc": "drawing.typ",
+  "sha256": "4f27fd1a3a5221fb9ded7d9b4a93cc456f4c6b088176939e76ca47a51296f043",
+  "size_bytes": 1220,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "src/drawing.typ",
+  "downloaded_at": "2026-08-02T14:08:17.670Z"
+}

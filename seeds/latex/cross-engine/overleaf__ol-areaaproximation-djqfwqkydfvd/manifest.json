@@ -1,0 +1,22 @@
+{
+  "id": "overleaf/ol-areaaproximation-djqfwqkydfvd",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "misc",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/areaaproximation/djqfwqkydfvd",
+  "original_author": "Javi Pérez",
+  "title": "AreaAproximation",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/overleaf/ol-areaaproximation-djqfwqkydfvd/main.tex",
+  "relative_path": "raw/overleaf/ol-areaaproximation-djqfwqkydfvd/main.tex",
+  "main_doc": "main.tex",
+  "sha256": "412f6424788424e28fa7efa392fe4ba7daac076b8945b52f39b901750cfbf047",
+  "size_bytes": 1942,
+  "document_class": "beamer",
+  "uses_packages": [
+    "tikz"
+  ],
+  "download_method": "view-source-modal",
+  "github_url": null,
+  "downloaded_at": "2026-08-02T15:53:56.039Z"
+}

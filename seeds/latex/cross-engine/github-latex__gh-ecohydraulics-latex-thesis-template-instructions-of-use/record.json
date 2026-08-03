@@ -1,0 +1,29 @@
+{
+  "id": "github-latex/gh-ecohydraulics-latex-thesis-template-instructions-of-use",
+  "source": "github-latex",
+  "format": "latex",
+  "category": "thesis",
+  "license": "MIT",
+  "source_url": "https://github.com/Ecohydraulics/latex-thesis-template",
+  "original_author": "Ecohydraulics",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/github-latex__gh-ecohydraulics-latex-thesis-template-instructions-of-use/instructions-of-use.tex",
+  "relative_path": "processed/latex/cross-engine/github-latex__gh-ecohydraulics-latex-thesis-template-instructions-of-use/instructions-of-use.tex",
+  "sha256": "52d2c01f4e42cf151ced0afd7e296142e7becaf7a35ce680cf7a0d7d6bce0bac",
+  "size_bytes": 2305,
+  "document_class": "article",
+  "uses_packages": [
+    "babel",
+    "hyperref"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 378,
+  "downloaded_at": "2026-08-02T13:26:47.394Z",
+  "filtered_at": "2026-08-02T17:34:42.699Z"
+}

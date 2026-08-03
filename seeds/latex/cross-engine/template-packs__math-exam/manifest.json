@@ -1,0 +1,24 @@
+{
+  "id": "template-packs/math-exam",
+  "source": "template-packs",
+  "format": "latex",
+  "category": "coursework",
+  "category_raw": "Assignments",
+  "license": "CC0-1.0",
+  "source_url": "https://github.com/Oleafly/template-packs",
+  "original_author": "Oleafly",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/template-packs/math-exam/main.tex",
+  "relative_path": "raw/template-packs/math-exam/main.tex",
+  "main_doc": "main.tex",
+  "sha256": "c1f20002c67fb98abb1301f1e2c083e7b0d72aa7d8f78132becb79146fe6cc91",
+  "size_bytes": 2208,
+  "document_class": "exam",
+  "uses_packages": [
+    "amsmath",
+    "amssymb",
+    "geometry",
+    "lmodern"
+  ],
+  "engine_hint": "xetex",
+  "downloaded_at": "2026-08-02T13:05:15.824Z"
+}

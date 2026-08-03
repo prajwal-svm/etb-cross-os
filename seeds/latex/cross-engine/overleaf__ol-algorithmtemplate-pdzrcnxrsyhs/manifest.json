@@ -1,0 +1,28 @@
+{
+  "id": "overleaf/ol-algorithmtemplate-pdzrcnxrsyhs",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "misc",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/algorithmtemplate/pdzrcnxrsyhs",
+  "original_author": "Chris Brown",
+  "title": "AlgorithmTemplate",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/overleaf/ol-algorithmtemplate-pdzrcnxrsyhs/main.tex",
+  "relative_path": "raw/overleaf/ol-algorithmtemplate-pdzrcnxrsyhs/main.tex",
+  "main_doc": "main.tex",
+  "sha256": "4667dd40ea6ab328969b0b67084148ee1380562df2377a04b4b819f6284ab636",
+  "size_bytes": 370,
+  "document_class": "article",
+  "uses_packages": [
+    "algorithm2e",
+    "amsmath",
+    "amssymb",
+    "fancyhdr",
+    "fullpage",
+    "graphicx",
+    "times"
+  ],
+  "download_method": "view-source-modal",
+  "github_url": null,
+  "downloaded_at": "2026-08-02T14:15:06.897Z"
+}

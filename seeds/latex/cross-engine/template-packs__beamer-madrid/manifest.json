@@ -1,0 +1,21 @@
+{
+  "id": "template-packs/beamer-madrid",
+  "source": "template-packs",
+  "format": "latex",
+  "category": "beamer",
+  "category_raw": "Presentations",
+  "license": "CC0-1.0",
+  "source_url": "https://github.com/Oleafly/template-packs",
+  "original_author": "Oleafly",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/template-packs/beamer-madrid/main.tex",
+  "relative_path": "raw/template-packs/beamer-madrid/main.tex",
+  "main_doc": "main.tex",
+  "sha256": "f0ff3c418118f238de79f03181b68795642a7ece349ec31f8288852c2d71eaad",
+  "size_bytes": 1592,
+  "document_class": "beamer",
+  "uses_packages": [
+    "booktabs"
+  ],
+  "engine_hint": "xetex",
+  "downloaded_at": "2026-08-02T13:05:15.773Z"
+}

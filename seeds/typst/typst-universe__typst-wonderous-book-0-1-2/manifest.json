@@ -1,0 +1,23 @@
+{
+  "id": "typst-universe/typst-wonderous-book-0-1-2",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "book",
+  "license": "MIT-0",
+  "source_url": "https://github.com/typst/templates",
+  "original_author": "Typst GmbH",
+  "package_name": "wonderous-book",
+  "package_version": "0.1.2",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/typst-universe/typst-wonderous-book-0-1-2/main.typ",
+  "relative_path": "raw/typst-universe/typst-wonderous-book-0-1-2/main.typ",
+  "main_doc": "main.typ",
+  "sha256": "cf339e87d72ac7274c3fd7293c61f6a27fa4c8849f0deb0156c3132dc77eda29",
+  "size_bytes": 2455,
+  "document_class": null,
+  "uses_packages": [],
+  "downloaded_at": "2026-08-02T13:15:54.272Z",
+  "categories": [
+    "book"
+  ],
+  "description": "A fiction book template with running headers and serif typography"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "typst-universe/typst-unofficial-ulb-report-0-1-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "report",
+  "license": "MIT",
+  "source_url": "https://github.com/Pipcount/template-polytech-ulb",
+  "original_author": "Nico Janke",
+  "package_name": "unofficial-ulb-report",
+  "package_version": "0.1.0",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/typst-universe/typst-unofficial-ulb-report-0-1-0/main.typ",
+  "relative_path": "raw/typst-universe/typst-unofficial-ulb-report-0-1-0/main.typ",
+  "main_doc": "main.typ",
+  "sha256": "1056834fcac796edf6f8754556b1d35b817c5225e0e5b9f69af28608f2f1186d",
+  "size_bytes": 595,
+  "document_class": null,
+  "uses_packages": [],
+  "downloaded_at": "2026-08-02T13:15:31.941Z",
+  "categories": [
+    "report"
+  ],
+  "description": "Unofficial template for reports at the Ecole Polytechnique de Bruxelles (ULB)"
+}

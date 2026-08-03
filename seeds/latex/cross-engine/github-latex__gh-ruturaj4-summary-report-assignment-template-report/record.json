@@ -1,0 +1,29 @@
+{
+  "id": "github-latex/gh-ruturaj4-summary-report-assignment-template-report",
+  "source": "github-latex",
+  "format": "latex",
+  "category": "coursework",
+  "license": "MIT",
+  "source_url": "https://github.com/Ruturaj4/summary-report-assignment-template",
+  "original_author": "Ruturaj4",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/github-latex__gh-ruturaj4-summary-report-assignment-template-report/report.tex",
+  "relative_path": "processed/latex/cross-engine/github-latex__gh-ruturaj4-summary-report-assignment-template-report/report.tex",
+  "sha256": "791ba7ccb3a07625ab71a2391f767d35d01b40caca0cbcc9a2ada949d1d5fc04",
+  "size_bytes": 3404,
+  "document_class": "article",
+  "uses_packages": [
+    "geometry",
+    "layout"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 231,
+  "downloaded_at": "2026-08-02T13:23:06.688Z",
+  "filtered_at": "2026-08-02T17:34:43.313Z"
+}

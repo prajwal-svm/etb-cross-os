@@ -1,0 +1,26 @@
+{
+  "id": "typst-universe/typst-touying-simpl-ecnu-0-0-1",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "beamer",
+  "license": "MIT",
+  "source_url": "https://github.com/ccyoung3/touying-simpl-ecnu",
+  "original_author": "Yip Coekjan",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/typst-universe__typst-touying-simpl-ecnu-0-0-1/main.typ",
+  "relative_path": "processed/typst/typst-universe__typst-touying-simpl-ecnu-0-0-1/main.typ",
+  "sha256": "3947ab5fd9a2bd0f7a51e34b8278766e52cf67464428a46ff37458bb2ecb5fb6",
+  "size_bytes": 780,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 306,
+  "downloaded_at": "2026-08-02T13:14:16.492Z",
+  "filtered_at": "2026-08-02T17:34:44.297Z"
+}

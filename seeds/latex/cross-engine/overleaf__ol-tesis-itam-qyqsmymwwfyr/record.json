@@ -1,0 +1,28 @@
+{
+  "id": "overleaf/ol-tesis-itam-qyqsmymwwfyr",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "misc",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/tesis-itam/qyqsmymwwfyr",
+  "original_author": "Lorena Mejía Domenzain",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/overleaf__ol-tesis-itam-qyqsmymwwfyr/main.tex",
+  "relative_path": "processed/latex/cross-engine/overleaf__ol-tesis-itam-qyqsmymwwfyr/main.tex",
+  "sha256": "097669c6ab26fa8dcc051401eeaee5094e5723a810e695ded8f6f9baf6c991e4",
+  "size_bytes": 1191,
+  "document_class": "article",
+  "uses_packages": [
+    "inputenc"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 197,
+  "downloaded_at": "2026-08-02T13:44:56.587Z",
+  "filtered_at": "2026-08-02T17:34:41.972Z"
+}

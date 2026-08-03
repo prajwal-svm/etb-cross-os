@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-chanulee-simplethesis-typst-template",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "thesis",
+  "license": "MIT",
+  "source_url": "https://github.com/chanulee/simpleThesis-typst",
+  "original_author": "chanulee",
+  "stars": 7,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-chanulee-simplethesis-typst-template/template.typ",
+  "relative_path": "raw/github-typst/gh-chanulee-simplethesis-typst-template/template.typ",
+  "main_doc": "template.typ",
+  "sha256": "a680af0d8afe2ffd69247e7ca8a0af2339c6e6522552fb1102ba2a23b088162f",
+  "size_bytes": 3136,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "simple-thesis/template.typ",
+  "downloaded_at": "2026-08-02T14:06:38.240Z"
+}

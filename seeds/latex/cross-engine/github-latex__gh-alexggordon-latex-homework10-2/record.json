@@ -1,0 +1,34 @@
+{
+  "id": "github-latex/gh-alexggordon-latex-homework10-2",
+  "source": "github-latex",
+  "format": "latex",
+  "category": "coursework",
+  "license": "MIT",
+  "source_url": "https://github.com/alexggordon/latex",
+  "original_author": "alexggordon",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/github-latex__gh-alexggordon-latex-homework10-2/Homework10.tex",
+  "relative_path": "processed/latex/cross-engine/github-latex__gh-alexggordon-latex-homework10-2/Homework10.tex",
+  "sha256": "c8aaf34bf15718fd4ab635672f8041c003e51a2eca9dc4c35b1fdac55e532798",
+  "size_bytes": 3341,
+  "document_class": "scrartcl",
+  "uses_packages": [
+    "amsmath",
+    "amssymb",
+    "calc",
+    "dsfont",
+    "fullpage",
+    "gensymb",
+    "multicol"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 629,
+  "downloaded_at": "2026-08-02T13:48:56.843Z",
+  "filtered_at": "2026-08-02T17:34:42.426Z"
+}

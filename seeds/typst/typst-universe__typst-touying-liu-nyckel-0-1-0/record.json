@@ -1,0 +1,26 @@
+{
+  "id": "typst-universe/typst-touying-liu-nyckel-0-1-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "beamer",
+  "license": "MIT",
+  "source_url": "https://gitlab.liu.se/erifr93/touying-liu-nyckel",
+  "original_author": "Erik Frisk",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/typst-universe__typst-touying-liu-nyckel-0-1-0/main.typ",
+  "relative_path": "processed/typst/typst-universe__typst-touying-liu-nyckel-0-1-0/main.typ",
+  "sha256": "83dc392871437f2c5a6a1d020584969a97bcd47d00ac65853aae2d79972582ef",
+  "size_bytes": 10667,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 343,
+  "downloaded_at": "2026-08-02T13:14:08.732Z",
+  "filtered_at": "2026-08-02T17:34:44.286Z"
+}

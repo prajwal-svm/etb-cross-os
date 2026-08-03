@@ -1,0 +1,26 @@
+{
+  "id": "github-latex/gh-sara-venkatraman-latex-templates-cvtemplate1-2",
+  "source": "github-latex",
+  "format": "latex",
+  "category": "beamer",
+  "license": "MIT",
+  "source_url": "https://github.com/sara-venkatraman/LaTeX-Templates",
+  "original_author": "sara-venkatraman",
+  "stars": 282,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-latex/gh-sara-venkatraman-latex-templates-cvtemplate1-2/CVTemplate1.tex",
+  "relative_path": "raw/github-latex/gh-sara-venkatraman-latex-templates-cvtemplate1-2/CVTemplate1.tex",
+  "main_doc": "CVTemplate1.tex",
+  "sha256": "a05b62713988730650ef93b228aa36df7789a3225cd20c9896b043a2b985f6a0",
+  "size_bytes": 7061,
+  "document_class": "article",
+  "uses_packages": [
+    "amsmath",
+    "geometry",
+    "hyperref",
+    "marginnote",
+    "palatino",
+    "xcolor"
+  ],
+  "repo_path": "CV - Version 1/CVTemplate1.tex",
+  "downloaded_at": "2026-08-02T13:12:02.493Z"
+}

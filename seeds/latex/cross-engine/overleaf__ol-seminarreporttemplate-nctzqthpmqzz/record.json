@@ -1,0 +1,41 @@
+{
+  "id": "overleaf/ol-seminarreporttemplate-nctzqthpmqzz",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "report",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/seminarreporttemplate/nctzqthpmqzz",
+  "original_author": "Harshith D",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/overleaf__ol-seminarreporttemplate-nctzqthpmqzz/main.tex",
+  "relative_path": "processed/latex/cross-engine/overleaf__ol-seminarreporttemplate-nctzqthpmqzz/main.tex",
+  "sha256": "7b30fd0c99ee4107772f52f9799efaabd4f0b07a947c16ed01bb6d2f790960de",
+  "size_bytes": 3748,
+  "document_class": "report",
+  "uses_packages": [
+    "a4wide",
+    "amsmath",
+    "babel",
+    "cite",
+    "fancyhdr",
+    "float",
+    "framed",
+    "geometry",
+    "graphicx",
+    "inputenc",
+    "lipsum",
+    "mathptmx",
+    "ragged2e",
+    "xcolor"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 355,
+  "downloaded_at": "2026-08-02T14:23:42.095Z",
+  "filtered_at": "2026-08-02T17:34:41.811Z"
+}

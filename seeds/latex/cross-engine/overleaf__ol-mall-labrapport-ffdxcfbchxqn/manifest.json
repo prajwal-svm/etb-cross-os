@@ -1,0 +1,30 @@
+{
+  "id": "overleaf/ol-mall-labrapport-ffdxcfbchxqn",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "misc",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/mall-labrapport/ffdxcfbchxqn",
+  "original_author": "Tomas",
+  "title": "Mall: Labrapport",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/overleaf/ol-mall-labrapport-ffdxcfbchxqn/main.tex",
+  "relative_path": "raw/overleaf/ol-mall-labrapport-ffdxcfbchxqn/main.tex",
+  "main_doc": "main.tex",
+  "sha256": "3d581930bba611b21eef50d9082d6c5d45e6555905aa33ee20c7d150c6086f61",
+  "size_bytes": 886,
+  "document_class": "article",
+  "uses_packages": [
+    "amsmath",
+    "babel",
+    "float",
+    "graphicx",
+    "inputenc",
+    "pmgraph",
+    "tikz",
+    "txfonts",
+    "ulem"
+  ],
+  "download_method": "view-source-modal",
+  "github_url": null,
+  "downloaded_at": "2026-08-02T14:42:58.595Z"
+}

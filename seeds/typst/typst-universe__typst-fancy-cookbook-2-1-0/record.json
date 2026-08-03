@@ -1,0 +1,26 @@
+{
+  "id": "typst-universe/typst-fancy-cookbook-2-1-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "creative",
+  "license": "MIT",
+  "source_url": "https://github.com/Ajrarn/fancy-cookbook",
+  "original_author": "Christophe Dos Santos",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/typst-universe__typst-fancy-cookbook-2-1-0/main.typ",
+  "relative_path": "processed/typst/typst-universe__typst-fancy-cookbook-2-1-0/main.typ",
+  "sha256": "5f60aaf62ddfbd772c52744d667b64f7511eef943b6dbb5098f3eb7f1f3846b0",
+  "size_bytes": 1284,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 307,
+  "downloaded_at": "2026-08-02T13:08:21.848Z",
+  "filtered_at": "2026-08-02T17:34:43.819Z"
+}

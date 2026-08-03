@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-engboris-cv-template-cv-1",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "cv",
+  "license": "MIT",
+  "source_url": "https://github.com/engboris/cv-template",
+  "original_author": "engboris",
+  "stars": 0,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-engboris-cv-template-cv-1/cv.typ",
+  "relative_path": "raw/github-typst/gh-engboris-cv-template-cv-1/cv.typ",
+  "main_doc": "cv.typ",
+  "sha256": "23b6396a44e8c0118868272be7c47a1731327c103bc5d74de5e74b5e2bbd5b01",
+  "size_bytes": 2858,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "cv.typ",
+  "downloaded_at": "2026-08-02T14:16:54.620Z"
+}

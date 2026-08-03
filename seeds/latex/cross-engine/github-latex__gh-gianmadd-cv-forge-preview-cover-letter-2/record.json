@@ -1,0 +1,39 @@
+{
+  "id": "github-latex/gh-gianmadd-cv-forge-preview-cover-letter-2",
+  "source": "github-latex",
+  "format": "latex",
+  "category": "cv",
+  "license": "MIT",
+  "source_url": "https://github.com/gianmadd/cv-forge",
+  "original_author": "gianmadd",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/github-latex__gh-gianmadd-cv-forge-preview-cover-letter-2/preview-cover-letter.tex",
+  "relative_path": "processed/latex/cross-engine/github-latex__gh-gianmadd-cv-forge-preview-cover-letter-2/preview-cover-letter.tex",
+  "sha256": "37d67f86fe7633429d107275a55b748827d44ac1e477d3e084a281686347623c",
+  "size_bytes": 2621,
+  "document_class": "article",
+  "uses_packages": [
+    "CormorantGaramond",
+    "babel",
+    "charter",
+    "fontawesome5",
+    "fontenc",
+    "geometry",
+    "hyperref",
+    "inputenc",
+    "microtype",
+    "ragged2e",
+    "textcomp",
+    "xcolor"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 1504,
+  "downloaded_at": "2026-08-02T13:35:25.045Z",
+  "filtered_at": "2026-08-02T17:34:42.807Z"
+}

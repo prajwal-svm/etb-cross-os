@@ -1,0 +1,23 @@
+{
+  "id": "typst-universe/typst-mythographer-5e-0-0-2",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "book",
+  "license": "MIT",
+  "source_url": "https://github.com/sa1g/dnd-typst-template",
+  "original_author": "sa1g",
+  "package_name": "mythographer-5e",
+  "package_version": "0.0.2",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/typst-universe/typst-mythographer-5e-0-0-2/TheDarkTypst.typ",
+  "relative_path": "raw/typst-universe/typst-mythographer-5e-0-0-2/TheDarkTypst.typ",
+  "main_doc": "TheDarkTypst.typ",
+  "sha256": "2170dcd6c625e9b4bf5e3848d04856ae0bd6a149268fef9b40cad58874f00cc7",
+  "size_bytes": 9885,
+  "document_class": null,
+  "uses_packages": [],
+  "downloaded_at": "2026-08-02T13:11:29.893Z",
+  "categories": [
+    "book"
+  ],
+  "description": "Unofficial template for typsetting documents in the style of the fifth edition of Dungeon&Dragons"
+}

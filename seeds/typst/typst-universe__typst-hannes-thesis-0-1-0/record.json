@@ -1,0 +1,26 @@
+{
+  "id": "typst-universe/typst-hannes-thesis-0-1-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "thesis",
+  "license": "MIT-0",
+  "source_url": "https://codeberg.org/hannesknoll/hannes-thesis",
+  "original_author": "Johannes Knoll",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/typst-universe__typst-hannes-thesis-0-1-0/main.typ",
+  "relative_path": "processed/typst/typst-universe__typst-hannes-thesis-0-1-0/main.typ",
+  "sha256": "15825af989285622df3298715cbaf396c14d1e9199030658c70d2a4b8099bc4c",
+  "size_bytes": 5504,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 279,
+  "downloaded_at": "2026-08-02T13:08:53.141Z",
+  "filtered_at": "2026-08-02T17:34:43.862Z"
+}

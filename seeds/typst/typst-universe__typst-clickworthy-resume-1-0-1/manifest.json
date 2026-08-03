@@ -1,0 +1,23 @@
+{
+  "id": "typst-universe/typst-clickworthy-resume-1-0-1",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "cv",
+  "license": "MIT",
+  "source_url": "https://github.com/AbdullahHendy/clickworthy-resume",
+  "original_author": "Abdullah Hendy",
+  "package_name": "clickworthy-resume",
+  "package_version": "1.0.1",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/typst-universe/typst-clickworthy-resume-1-0-1/resume.typ",
+  "relative_path": "raw/typst-universe/typst-clickworthy-resume-1-0-1/resume.typ",
+  "main_doc": "resume.typ",
+  "sha256": "974c8c9df93f9bfae99562b91be6aaed823ac12172f40cfe2bfee167ad29361d",
+  "size_bytes": 5255,
+  "document_class": null,
+  "uses_packages": [],
+  "downloaded_at": "2026-08-02T13:07:12.792Z",
+  "categories": [
+    "cv"
+  ],
+  "description": "A simple, flexible, responsive, ATS-friendly, and click-worthy resume. Extra cover letter and extendable to a CV."
+}

@@ -1,0 +1,26 @@
+{
+  "id": "typst-universe/typst-acadennial-cv-0-1-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "cv",
+  "license": "MIT",
+  "source_url": "https://github.com/whliao5am/acadennial-cv-typst-template",
+  "original_author": "Wenhao Liao",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/typst-universe__typst-acadennial-cv-0-1-0/cv.typ",
+  "relative_path": "processed/typst/typst-universe__typst-acadennial-cv-0-1-0/cv.typ",
+  "sha256": "3c5b3e4a1881eb8c05fa465659674003777b0167fa87ccbcdd1e7bbffecd063b",
+  "size_bytes": 11058,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 211,
+  "downloaded_at": "2026-08-02T13:05:33.867Z",
+  "filtered_at": "2026-08-02T17:34:43.594Z"
+}

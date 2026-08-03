@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-orangex4-typst-ori-lib-1",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "report",
+  "license": "MIT",
+  "source_url": "https://github.com/OrangeX4/typst-ori",
+  "original_author": "OrangeX4",
+  "stars": 45,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-orangex4-typst-ori-lib-1/lib.typ",
+  "relative_path": "raw/github-typst/gh-orangex4-typst-ori-lib-1/lib.typ",
+  "main_doc": "lib.typ",
+  "sha256": "d285ae1e4b89fa72a41b6f9ff15ca2ceeb07af3ba5d1bd09d026a0a6090e73a3",
+  "size_bytes": 5573,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "lib.typ",
+  "downloaded_at": "2026-08-02T14:04:00.922Z"
+}

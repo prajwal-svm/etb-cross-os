@@ -1,0 +1,31 @@
+{
+  "id": "template-packs/manuscript-submission",
+  "source": "template-packs",
+  "format": "latex",
+  "category": "venue",
+  "license": "CC0-1.0",
+  "source_url": "https://github.com/Oleafly/template-packs",
+  "original_author": "Oleafly",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/template-packs__manuscript-submission/main.tex",
+  "relative_path": "processed/latex/cross-engine/template-packs__manuscript-submission/main.tex",
+  "sha256": "90fc01ca7306f8ae5f354da2a78cda2ceb6b05f660f09b22a9c4411691f387f7",
+  "size_bytes": 2941,
+  "document_class": "article",
+  "uses_packages": [
+    "geometry",
+    "hyperref",
+    "lineno",
+    "setspace"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 372,
+  "downloaded_at": "2026-08-02T13:05:15.750Z",
+  "filtered_at": "2026-08-02T17:34:40.810Z"
+}

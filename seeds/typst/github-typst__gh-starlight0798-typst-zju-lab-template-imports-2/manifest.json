@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-starlight0798-typst-zju-lab-template-imports-2",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "report",
+  "license": "MIT",
+  "source_url": "https://github.com/Starlight0798/typst-zju-lab-template",
+  "original_author": "Starlight0798",
+  "stars": 49,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-starlight0798-typst-zju-lab-template-imports-2/imports.typ",
+  "relative_path": "raw/github-typst/gh-starlight0798-typst-zju-lab-template-imports-2/imports.typ",
+  "main_doc": "imports.typ",
+  "sha256": "00211ab0b01af18ca374b0c98e041342772a7e97061c0e65dad80ecc32266899",
+  "size_bytes": 2073,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "imports.typ",
+  "downloaded_at": "2026-08-02T14:03:53.917Z"
+}

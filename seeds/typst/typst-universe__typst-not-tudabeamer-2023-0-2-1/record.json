@@ -1,0 +1,26 @@
+{
+  "id": "typst-universe/typst-not-tudabeamer-2023-0-2-1",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "beamer",
+  "license": "MIT",
+  "source_url": "https://github.com/JeyRunner/tuda-typst-templates",
+  "original_author": "Moritz Hedtke",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/typst-universe__typst-not-tudabeamer-2023-0-2-1/main.typ",
+  "relative_path": "processed/typst/typst-universe__typst-not-tudabeamer-2023-0-2-1/main.typ",
+  "sha256": "ae244438002e457c5ac42ba4c6d2ad21fd037d730c7026b02b98e650787d9d89",
+  "size_bytes": 854,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 354,
+  "downloaded_at": "2026-08-02T13:11:40.941Z",
+  "filtered_at": "2026-08-02T17:34:44.070Z"
+}

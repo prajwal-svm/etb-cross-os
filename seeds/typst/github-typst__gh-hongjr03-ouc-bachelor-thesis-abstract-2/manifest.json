@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-hongjr03-ouc-bachelor-thesis-abstract-2",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "thesis",
+  "license": "MIT",
+  "source_url": "https://github.com/hongjr03/ouc-bachelor-thesis",
+  "original_author": "hongjr03",
+  "stars": 16,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-hongjr03-ouc-bachelor-thesis-abstract-2/abstract.typ",
+  "relative_path": "raw/github-typst/gh-hongjr03-ouc-bachelor-thesis-abstract-2/abstract.typ",
+  "main_doc": "abstract.typ",
+  "sha256": "4cdd76593372d91a5379480521446f2826d89e168f48953f36ca9b34a7c87d29",
+  "size_bytes": 714,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "components/abstract.typ",
+  "downloaded_at": "2026-08-02T14:05:28.290Z"
+}

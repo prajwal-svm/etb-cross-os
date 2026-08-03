@@ -1,0 +1,20 @@
+{
+  "id": "overleaf/ol-mnpef-projeto-de-qualificacao-ufsc-vxrzhrgvmvrr",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "misc",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/mnpef-projeto-de-qualificacao-ufsc/vxrzhrgvmvrr",
+  "original_author": "Daniel Girardi",
+  "title": "MNPEF Projeto de Qualificação - UFSC",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/overleaf/ol-mnpef-projeto-de-qualificacao-ufsc-vxrzhrgvmvrr/main.tex",
+  "relative_path": "raw/overleaf/ol-mnpef-projeto-de-qualificacao-ufsc-vxrzhrgvmvrr/main.tex",
+  "main_doc": "main.tex",
+  "sha256": "562090e7aa6e9c5b391d25d0a398ff0bf2f43c60dfc1f39b437cda98429fdd56",
+  "size_bytes": 1529,
+  "document_class": "abntex2",
+  "uses_packages": [],
+  "download_method": "view-source-modal",
+  "github_url": null,
+  "downloaded_at": "2026-08-02T13:58:28.428Z"
+}

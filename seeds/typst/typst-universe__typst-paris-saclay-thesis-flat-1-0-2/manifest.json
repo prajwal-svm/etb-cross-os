@@ -1,0 +1,23 @@
+{
+  "id": "typst-universe/typst-paris-saclay-thesis-flat-1-0-2",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "thesis",
+  "license": "MIT-0",
+  "source_url": "https://github.com/sebmestrallet/typst-paris-saclay-thesis-flat",
+  "original_author": "Sébastien Mestrallet",
+  "package_name": "paris-saclay-thesis-flat",
+  "package_version": "1.0.2",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/typst-universe/typst-paris-saclay-thesis-flat-1-0-2/main.typ",
+  "relative_path": "raw/typst-universe/typst-paris-saclay-thesis-flat-1-0-2/main.typ",
+  "main_doc": "main.typ",
+  "sha256": "2e1526ad8b311dd6c9524234a1bd7bf81e993aa7c78ffb9f800554b3ac131137",
+  "size_bytes": 7045,
+  "document_class": null,
+  "uses_packages": [],
+  "downloaded_at": "2026-08-02T13:11:57.745Z",
+  "categories": [
+    "thesis"
+  ],
+  "description": "An unofficial, flat-design template for Paris-Saclay University theses"
+}

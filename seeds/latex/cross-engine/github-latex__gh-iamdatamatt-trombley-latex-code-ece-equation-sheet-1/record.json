@@ -1,0 +1,31 @@
+{
+  "id": "github-latex/gh-iamdatamatt-trombley-latex-code-ece-equation-sheet-1",
+  "source": "github-latex",
+  "format": "latex",
+  "category": "misc",
+  "license": "MIT",
+  "source_url": "https://github.com/iamdatamatt/trombley-latex-code",
+  "original_author": "iamdatamatt",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/github-latex__gh-iamdatamatt-trombley-latex-code-ece-equation-sheet-1/ECE Equation Sheet.tex",
+  "relative_path": "processed/latex/cross-engine/github-latex__gh-iamdatamatt-trombley-latex-code-ece-equation-sheet-1/ECE Equation Sheet.tex",
+  "sha256": "91ae6a2a8e56682bd9a81011753705f380d44555a1e1399719f5e136e5c618ac",
+  "size_bytes": 16452,
+  "document_class": null,
+  "uses_packages": [
+    "amsmath",
+    "gensymb",
+    "graphicx",
+    "multicol"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 280,
+  "downloaded_at": "2026-08-02T13:23:33.249Z",
+  "filtered_at": "2026-08-02T17:34:42.876Z"
+}

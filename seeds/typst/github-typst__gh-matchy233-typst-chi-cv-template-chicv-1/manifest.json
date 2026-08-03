@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-matchy233-typst-chi-cv-template-chicv-1",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "cv",
+  "license": "MIT",
+  "source_url": "https://github.com/matchy233/typst-chi-cv-template",
+  "original_author": "matchy233",
+  "stars": 157,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-matchy233-typst-chi-cv-template-chicv-1/chicv.typ",
+  "relative_path": "raw/github-typst/gh-matchy233-typst-chi-cv-template-chicv-1/chicv.typ",
+  "main_doc": "chicv.typ",
+  "sha256": "be13b37ada2309324263bf828c9357c1034776e5e97674bc347d4e9008cd864d",
+  "size_bytes": 5266,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "src/chicv.typ",
+  "downloaded_at": "2026-08-02T14:03:19.508Z"
+}

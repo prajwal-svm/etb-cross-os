@@ -1,0 +1,23 @@
+{
+  "id": "typst-universe/typst-peace-of-posters-0-6-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "beamer",
+  "license": "MIT",
+  "source_url": "https://github.com/jonaspleyer/peace-of-posters",
+  "original_author": "Jonas Pleyer",
+  "package_name": "peace-of-posters",
+  "package_version": "0.6.0",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/typst-universe/typst-peace-of-posters-0-6-0/main.typ",
+  "relative_path": "raw/typst-universe/typst-peace-of-posters-0-6-0/main.typ",
+  "main_doc": "main.typ",
+  "sha256": "df811f35f11a445a95a88cdaf9ce286d3d71b64923133087212bb023d78aa62c",
+  "size_bytes": 3980,
+  "document_class": null,
+  "uses_packages": [],
+  "downloaded_at": "2026-08-02T13:12:00.638Z",
+  "categories": [
+    "poster"
+  ],
+  "description": "Create scientific posters in Typst."
+}

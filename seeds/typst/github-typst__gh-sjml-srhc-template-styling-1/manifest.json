@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-sjml-srhc-template-styling-1",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "book",
+  "license": "MIT",
+  "source_url": "https://github.com/sjml/srhc-template",
+  "original_author": "sjml",
+  "stars": 0,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-sjml-srhc-template-styling-1/styling.typ",
+  "relative_path": "raw/github-typst/gh-sjml-srhc-template-styling-1/styling.typ",
+  "main_doc": "styling.typ",
+  "sha256": "7e8056f516cf5186e87f53c45926be531ac41aa3f45353a878b11f0914f92d60",
+  "size_bytes": 3202,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "pubs/pdf/config/styling.typ",
+  "downloaded_at": "2026-08-02T14:19:37.676Z"
+}

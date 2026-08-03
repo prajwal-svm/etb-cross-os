@@ -1,0 +1,35 @@
+{
+  "id": "github-latex/gh-jmafoster1-academic-cv-cv",
+  "source": "github-latex",
+  "format": "latex",
+  "category": "cv",
+  "license": "CC0-1.0",
+  "source_url": "https://github.com/jmafoster1/academic-cv",
+  "original_author": "jmafoster1",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/github-latex__gh-jmafoster1-academic-cv-cv/cv.tex",
+  "relative_path": "processed/latex/cross-engine/github-latex__gh-jmafoster1-academic-cv-cv/cv.tex",
+  "sha256": "fb177b6558977a4a1d3ce2de3de6f7dcca0c0e1257f8a685b4fbef29efb70666",
+  "size_bytes": 5172,
+  "document_class": "article",
+  "uses_packages": [
+    "enumitem",
+    "etoolbox",
+    "geometry",
+    "helvet",
+    "hyperref",
+    "multicol",
+    "tabularx",
+    "titlesec"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 418,
+  "downloaded_at": "2026-08-02T13:34:58.223Z",
+  "filtered_at": "2026-08-02T17:34:42.954Z"
+}

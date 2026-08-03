@@ -1,0 +1,33 @@
+{
+  "id": "github-latex/gh-lyh543-uestc-latex-template-main-2",
+  "source": "github-latex",
+  "format": "latex",
+  "category": "misc",
+  "license": "MIT",
+  "source_url": "https://github.com/lyh543/UESTC_LaTeX_Template",
+  "original_author": "lyh543",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/engine-specific/github-latex__gh-lyh543-uestc-latex-template-main-2/main.tex",
+  "relative_path": "processed/latex/engine-specific/github-latex__gh-lyh543-uestc-latex-template-main-2/main.tex",
+  "sha256": "a2e2465a854ce42c13fa346a645840b469ef7c60aa4673e3bd2c70d3ae53715e",
+  "size_bytes": 2233,
+  "document_class": "ctexart",
+  "uses_packages": [
+    "fancyhdr",
+    "geometry",
+    "multicol",
+    "mwe",
+    "xeCJK",
+    "zhnumber"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": false,
+    "xelatex": true,
+    "lualatex": false,
+    "typst": false
+  },
+  "engine_class": "engine-specific",
+  "compile_time_ms": 2838,
+  "downloaded_at": "2026-08-02T13:13:22.181Z",
+  "filtered_at": "2026-08-02T17:34:43.113Z"
+}

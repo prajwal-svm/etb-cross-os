@@ -1,0 +1,23 @@
+{
+  "id": "typst-universe/typst-unofficial-sdu-lab-report-0-1-1",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "report",
+  "license": "MIT",
+  "source_url": "https://github.com/Arshtyi/SDU-Lab-Report",
+  "original_author": "Arshtyi",
+  "package_name": "unofficial-sdu-lab-report",
+  "package_version": "0.1.1",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/typst-universe/typst-unofficial-sdu-lab-report-0-1-1/main.typ",
+  "relative_path": "raw/typst-universe/typst-unofficial-sdu-lab-report-0-1-1/main.typ",
+  "main_doc": "main.typ",
+  "sha256": "1f6606fbd8dfc2ad84a6c96074155b541b456bf5ecd2ce94243ff68e3906a41c",
+  "size_bytes": 295,
+  "document_class": null,
+  "uses_packages": [],
+  "downloaded_at": "2026-08-02T13:15:22.159Z",
+  "categories": [
+    "report"
+  ],
+  "description": "A unofficial SDU common lab report."
+}

@@ -1,0 +1,23 @@
+{
+  "id": "overleaf/ol-pmat418-assignment-yktpwqkvxpmg",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "coursework",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/pmat418-assignment/yktpwqkvxpmg",
+  "original_author": "Steven Walker",
+  "title": "PMAT418 Assignment",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/overleaf/ol-pmat418-assignment-yktpwqkvxpmg/main.tex",
+  "relative_path": "raw/overleaf/ol-pmat418-assignment-yktpwqkvxpmg/main.tex",
+  "main_doc": "main.tex",
+  "sha256": "5865dd357d92c138cfc6692e3fbfa9397992c7585fb9137eef6818c6538afe0e",
+  "size_bytes": 614,
+  "document_class": "assignment",
+  "uses_packages": [
+    "graphicx",
+    "subfigure"
+  ],
+  "download_method": "view-source-modal",
+  "github_url": null,
+  "downloaded_at": "2026-08-02T14:32:33.105Z"
+}

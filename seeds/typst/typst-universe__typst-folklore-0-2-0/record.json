@@ -1,0 +1,26 @@
+{
+  "id": "typst-universe/typst-folklore-0-2-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "book",
+  "license": "MIT",
+  "source_url": "https://github.com/wade-cheng/folklore",
+  "original_author": null,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/typst-universe__typst-folklore-0-2-0/main.typ",
+  "relative_path": "processed/typst/typst-universe__typst-folklore-0-2-0/main.typ",
+  "sha256": "d634882aa2c836673a1fcb8abef1323d96f5606d84d9e1892b1cc9deec618277",
+  "size_bytes": 1229,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 205,
+  "downloaded_at": "2026-08-02T13:08:30.596Z",
+  "filtered_at": "2026-08-02T17:34:43.829Z"
+}

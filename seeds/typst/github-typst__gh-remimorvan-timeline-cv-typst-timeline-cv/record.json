@@ -1,0 +1,26 @@
+{
+  "id": "github-typst/gh-remimorvan-timeline-cv-typst-timeline-cv",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "cv",
+  "license": "Apache-2.0",
+  "source_url": "https://github.com/remimorvan/timeline-cv-typst",
+  "original_author": "remimorvan",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/github-typst__gh-remimorvan-timeline-cv-typst-timeline-cv/timeline-cv.typ",
+  "relative_path": "processed/typst/github-typst__gh-remimorvan-timeline-cv-typst-timeline-cv/timeline-cv.typ",
+  "sha256": "85b485680e2f607d1f75b3bcd6d7d425555c278cea5596be84fee29af72f4fe4",
+  "size_bytes": 5094,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 29,
+  "downloaded_at": "2026-08-02T14:09:32.324Z",
+  "filtered_at": "2026-08-02T17:34:45.565Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "ctan/ctan-natbib-natnotes",
+  "source": "ctan",
+  "format": "latex",
+  "category": "package-example",
+  "license": "LPPL-1.3c",
+  "source_url": "https://ctan.org/pkg/natbib",
+  "original_author": "CTAN package: natbib",
+  "package": "natbib",
+  "original_path": "/usr/local/texlive/2025/texmf-dist/doc/latex/natbib/natnotes.tex",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/ctan/ctan-natbib-natnotes/natnotes.tex",
+  "relative_path": "raw/ctan/ctan-natbib-natnotes/natnotes.tex",
+  "main_doc": "natnotes.tex",
+  "sha256": "f77de61139ecede61a8bcd2bc6dd313fc927d82a5c8538300617d48e3faca7d8",
+  "size_bytes": 15408,
+  "document_class": "article",
+  "uses_packages": [
+    "shortvrb",
+    "|\\thestyle|"
+  ],
+  "downloaded_at": "2026-08-02T13:04:53.168Z"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "typst-universe/typst-campanile-0-1-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "thesis",
+  "license": "MIT-0",
+  "source_url": "https://github.com/buggy213/campanile",
+  "original_author": "Joshua You",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/typst-universe__typst-campanile-0-1-0/main.typ",
+  "relative_path": "processed/typst/typst-universe__typst-campanile-0-1-0/main.typ",
+  "sha256": "7edae8e3ef9c37ff8005c9f8cc2952e31816246b501b760c29dca2373ee8095b",
+  "size_bytes": 7041,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 245,
+  "downloaded_at": "2026-08-02T13:06:28.755Z",
+  "filtered_at": "2026-08-02T17:34:43.676Z"
+}

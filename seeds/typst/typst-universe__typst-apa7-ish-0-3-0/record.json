@@ -1,0 +1,26 @@
+{
+  "id": "typst-universe/typst-apa7-ish-0-3-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "venue",
+  "license": "MIT",
+  "source_url": "https://github.com/mrwunderbar666/typst-apa7ish",
+  "original_author": "MrWunderbar",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/typst-universe__typst-apa7-ish-0-3-0/main.typ",
+  "relative_path": "processed/typst/typst-universe__typst-apa7-ish-0-3-0/main.typ",
+  "sha256": "d35f5f9a1d1bb6217e731ace084925ac700d02e7592ed39891da2cad1c2d4307",
+  "size_bytes": 951,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 215,
+  "downloaded_at": "2026-08-02T13:05:45.676Z",
+  "filtered_at": "2026-08-02T17:34:43.609Z"
+}

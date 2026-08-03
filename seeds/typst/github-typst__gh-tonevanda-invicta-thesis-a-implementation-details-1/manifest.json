@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-tonevanda-invicta-thesis-a-implementation-details-1",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "thesis",
+  "license": "MIT",
+  "source_url": "https://github.com/Tonevanda/invicta-thesis",
+  "original_author": "Tonevanda",
+  "stars": 3,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-tonevanda-invicta-thesis-a-implementation-details-1/A-implementation-details.typ",
+  "relative_path": "raw/github-typst/gh-tonevanda-invicta-thesis-a-implementation-details-1/A-implementation-details.typ",
+  "main_doc": "A-implementation-details.typ",
+  "sha256": "d92d2bc122847c0f9dc8f81986fb7e5a4946134cda9eb71710eed132e9f372fa",
+  "size_bytes": 1272,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "template/appendixes/A-implementation-details.typ",
+  "downloaded_at": "2026-08-02T14:08:44.382Z"
+}

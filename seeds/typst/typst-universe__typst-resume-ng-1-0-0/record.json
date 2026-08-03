@@ -1,0 +1,26 @@
+{
+  "id": "typst-universe/typst-resume-ng-1-0-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "cv",
+  "license": "MIT",
+  "source_url": "https://github.com/fky2015/resume-ng-typst",
+  "original_author": "FengKaiyu",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/typst-universe__typst-resume-ng-1-0-0/main.typ",
+  "relative_path": "processed/typst/typst-universe__typst-resume-ng-1-0-0/main.typ",
+  "sha256": "ed40e96022d66025889056ba5051afa3509f93bbaf102415dc5fd973d3274797",
+  "size_bytes": 4442,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 364,
+  "downloaded_at": "2026-08-02T13:12:31.173Z",
+  "filtered_at": "2026-08-02T17:34:44.147Z"
+}

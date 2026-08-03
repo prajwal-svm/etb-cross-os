@@ -1,0 +1,25 @@
+{
+  "id": "template-packs/deedy-style-resume",
+  "source": "template-packs",
+  "format": "latex",
+  "category": "cv",
+  "category_raw": "CVs & Resumes",
+  "license": "CC0-1.0",
+  "source_url": "https://github.com/Oleafly/template-packs",
+  "original_author": "Oleafly",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/template-packs/deedy-style-resume/main.tex",
+  "relative_path": "raw/template-packs/deedy-style-resume/main.tex",
+  "main_doc": "main.tex",
+  "sha256": "ebfcbeb6bb5cd5db1c9ddf188ea0b7d693d3be7174a83b7996025d273d33dd34",
+  "size_bytes": 1690,
+  "document_class": "article",
+  "uses_packages": [
+    "enumitem",
+    "geometry",
+    "hyperref",
+    "paracol",
+    "xcolor"
+  ],
+  "engine_hint": "xetex",
+  "downloaded_at": "2026-08-02T13:05:15.859Z"
+}

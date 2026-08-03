@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-brainworkup-neurotyp-adult-typst-template",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "report",
+  "license": "MIT",
+  "source_url": "https://github.com/brainworkup/neurotyp-adult",
+  "original_author": "brainworkup",
+  "stars": 1,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-brainworkup-neurotyp-adult-typst-template/typst-template.typ",
+  "relative_path": "raw/github-typst/gh-brainworkup-neurotyp-adult-typst-template/typst-template.typ",
+  "main_doc": "typst-template.typ",
+  "sha256": "655d9248b92a4b947af278d0161eacdb42695281f586460e39fe1e303b4d2f75",
+  "size_bytes": 2322,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "_extensions/neurotyp-adult/typst-template.typ",
+  "downloaded_at": "2026-08-02T14:12:59.614Z"
+}

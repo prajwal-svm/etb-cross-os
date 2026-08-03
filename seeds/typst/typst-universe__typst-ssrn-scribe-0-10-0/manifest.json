@@ -1,0 +1,23 @@
+{
+  "id": "typst-universe/typst-ssrn-scribe-0-10-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "venue",
+  "license": "MIT",
+  "source_url": "https://typst.app/universe/package/ssrn-scribe",
+  "original_author": "Academic Template Collective",
+  "package_name": "ssrn-scribe",
+  "package_version": "0.10.0",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/typst-universe/typst-ssrn-scribe-0-10-0/main.typ",
+  "relative_path": "raw/typst-universe/typst-ssrn-scribe-0-10-0/main.typ",
+  "main_doc": "main.typ",
+  "sha256": "cf9c903ed418af6438acdc887948a4503f38102219a449c98dbe54d7996c4481",
+  "size_bytes": 810,
+  "document_class": null,
+  "uses_packages": [],
+  "downloaded_at": "2026-08-02T13:13:13.192Z",
+  "categories": [
+    "paper"
+  ],
+  "description": "A clean, modern academic working-paper template for SSRN and general research drafts."
+}

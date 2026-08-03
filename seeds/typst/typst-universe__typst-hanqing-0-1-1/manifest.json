@@ -1,0 +1,23 @@
+{
+  "id": "typst-universe/typst-hanqing-0-1-1",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "book",
+  "license": "MIT",
+  "source_url": "https://codeberg.org/songwupei/hanqing",
+  "original_author": "songwupei",
+  "package_name": "hanqing",
+  "package_version": "0.1.1",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/typst-universe/typst-hanqing-0-1-1/main.typ",
+  "relative_path": "raw/typst-universe/typst-hanqing-0-1-1/main.typ",
+  "main_doc": "main.typ",
+  "sha256": "de2d696037065fe75d6333fe07adbbc48d0e2f8ad85e7cc5e17e47d3970119ad",
+  "size_bytes": 3791,
+  "document_class": null,
+  "uses_packages": [],
+  "downloaded_at": "2026-08-02T13:08:53.845Z",
+  "categories": [
+    "layout"
+  ],
+  "description": "A manual/handbook template with full Chinese typography support (CJK fonts, custom cover pages, flexible TOC styles)."
+}

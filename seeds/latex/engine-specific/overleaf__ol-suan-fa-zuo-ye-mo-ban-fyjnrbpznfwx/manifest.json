@@ -1,0 +1,33 @@
+{
+  "id": "overleaf/ol-suan-fa-zuo-ye-mo-ban-fyjnrbpznfwx",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "misc",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/suan-fa-zuo-ye-mo-ban/fyjnrbpznfwx",
+  "original_author": "葛嘉玮",
+  "title": "算法作业模板",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/overleaf/ol-suan-fa-zuo-ye-mo-ban-fyjnrbpznfwx/main.tex",
+  "relative_path": "raw/overleaf/ol-suan-fa-zuo-ye-mo-ban-fyjnrbpznfwx/main.tex",
+  "main_doc": "main.tex",
+  "sha256": "7611182ba9cd6a281a7d60a3f4d672dd83f7337cc0d382420b1bee9c78d81ad0",
+  "size_bytes": 2505,
+  "document_class": "article",
+  "uses_packages": [
+    "algorithm2e",
+    "amsfonts",
+    "amsmath",
+    "amsthm",
+    "array",
+    "babel",
+    "color",
+    "ctex",
+    "fancyhdr",
+    "geometry",
+    "graphicx",
+    "listings"
+  ],
+  "download_method": "view-source-modal",
+  "github_url": null,
+  "downloaded_at": "2026-08-02T15:48:57.746Z"
+}

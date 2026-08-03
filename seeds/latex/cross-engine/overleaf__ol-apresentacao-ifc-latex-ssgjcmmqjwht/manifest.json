@@ -1,0 +1,24 @@
+{
+  "id": "overleaf/ol-apresentacao-ifc-latex-ssgjcmmqjwht",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "misc",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/apresentacao-ifc-latex/ssgjcmmqjwht",
+  "original_author": "felipe volpato",
+  "title": "Apresentação IFC latex",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/overleaf/ol-apresentacao-ifc-latex-ssgjcmmqjwht/example.tex",
+  "relative_path": "raw/overleaf/ol-apresentacao-ifc-latex-ssgjcmmqjwht/example.tex",
+  "main_doc": "example.tex",
+  "sha256": "ea1f0883d3753153b426daa88d175a19387d149db0ab1ee06ef6f46b196f59a0",
+  "size_bytes": 1504,
+  "document_class": "beamer",
+  "uses_packages": [
+    "fontenc",
+    "helvet",
+    "inputenc"
+  ],
+  "download_method": "github:https://github.com/liantze/beamer-gelugor",
+  "github_url": "https://github.com/liantze/beamer-gelugor",
+  "downloaded_at": "2026-08-02T16:53:12.322Z"
+}

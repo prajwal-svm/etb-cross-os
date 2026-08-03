@@ -1,0 +1,22 @@
+{
+  "id": "overleaf/ol-title-czqzpgzpmxjs",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "misc",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/title/czqzpgzpmxjs",
+  "original_author": "Christopher Bell II",
+  "title": "Title",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/overleaf/ol-title-czqzpgzpmxjs/main.tex",
+  "relative_path": "raw/overleaf/ol-title-czqzpgzpmxjs/main.tex",
+  "main_doc": "main.tex",
+  "sha256": "292a511dc865a6d9f8d042c72a2f1e774694c7399602c943d6b17fc0520975ca",
+  "size_bytes": 314,
+  "document_class": "article",
+  "uses_packages": [
+    "amssymb"
+  ],
+  "download_method": "view-source-modal",
+  "github_url": null,
+  "downloaded_at": "2026-08-02T15:56:09.396Z"
+}

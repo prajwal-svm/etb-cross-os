@@ -1,0 +1,26 @@
+{
+  "id": "github-typst/gh-pdcxs-unofficial-tyut-thesis-appendix-2",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "thesis",
+  "license": "MIT",
+  "source_url": "https://github.com/pdcxs/unofficial-tyut-thesis",
+  "original_author": "pdcxs",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/github-typst__gh-pdcxs-unofficial-tyut-thesis-appendix-2/appendix.typ",
+  "relative_path": "processed/typst/github-typst__gh-pdcxs-unofficial-tyut-thesis-appendix-2/appendix.typ",
+  "sha256": "ef7a079ab4a88718ec4f02f49cfdd8692efaefb12c326ac17488c8dd9921117e",
+  "size_bytes": 766,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 11,
+  "downloaded_at": "2026-08-02T14:07:10.827Z",
+  "filtered_at": "2026-08-02T17:34:45.485Z"
+}

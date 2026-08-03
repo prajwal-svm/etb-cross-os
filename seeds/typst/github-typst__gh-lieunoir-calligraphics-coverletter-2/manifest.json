@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-lieunoir-calligraphics-coverletter-2",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "cv",
+  "license": "MIT",
+  "source_url": "https://github.com/Lieunoir/calligraphics",
+  "original_author": "Lieunoir",
+  "stars": 0,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-lieunoir-calligraphics-coverletter-2/coverletter.typ",
+  "relative_path": "raw/github-typst/gh-lieunoir-calligraphics-coverletter-2/coverletter.typ",
+  "main_doc": "coverletter.typ",
+  "sha256": "4a30c23c98a8e6be9ccd1897ebc6fb62f2b37171c27cc635d6ed7180886e23b9",
+  "size_bytes": 613,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "template/coverletter.typ",
+  "downloaded_at": "2026-08-02T14:18:22.487Z"
+}

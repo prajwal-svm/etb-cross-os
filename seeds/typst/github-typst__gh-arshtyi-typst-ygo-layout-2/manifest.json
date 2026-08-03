@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-arshtyi-typst-ygo-layout-2",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "misc",
+  "license": "MIT",
+  "source_url": "https://github.com/arshtyi/typst-ygo",
+  "original_author": "arshtyi",
+  "stars": 0,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-arshtyi-typst-ygo-layout-2/layout.typ",
+  "relative_path": "raw/github-typst/gh-arshtyi-typst-ygo-layout-2/layout.typ",
+  "main_doc": "layout.typ",
+  "sha256": "b990a04cf4fd285d9ebf956dfdd347663132331afd380102039a15a00c121a6a",
+  "size_bytes": 2489,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "lib/ot/layout.typ",
+  "downloaded_at": "2026-08-02T14:18:03.306Z"
+}

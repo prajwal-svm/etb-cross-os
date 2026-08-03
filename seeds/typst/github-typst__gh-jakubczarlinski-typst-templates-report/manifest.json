@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-jakubczarlinski-typst-templates-report",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "report",
+  "license": "CC0-1.0",
+  "source_url": "https://github.com/JakubCzarlinski/typst-templates",
+  "original_author": "JakubCzarlinski",
+  "stars": 0,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-jakubczarlinski-typst-templates-report/report.typ",
+  "relative_path": "raw/github-typst/gh-jakubczarlinski-typst-templates-report/report.typ",
+  "main_doc": "report.typ",
+  "sha256": "b0cc519f0505d30280a91590df1600642be1469aca009f8dcdae04af60d5b192",
+  "size_bytes": 1267,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "report.typ",
+  "downloaded_at": "2026-08-02T14:20:46.881Z"
+}

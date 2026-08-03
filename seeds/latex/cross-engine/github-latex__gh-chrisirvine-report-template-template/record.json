@@ -1,0 +1,29 @@
+{
+  "id": "github-latex/gh-chrisirvine-report-template-template",
+  "source": "github-latex",
+  "format": "latex",
+  "category": "report",
+  "license": "MIT",
+  "source_url": "https://github.com/ChrisIrvine/Report_Template",
+  "original_author": "ChrisIrvine",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/github-latex__gh-chrisirvine-report-template-template/template.tex",
+  "relative_path": "processed/latex/cross-engine/github-latex__gh-chrisirvine-report-template-template/template.tex",
+  "sha256": "fbccdd00e1f4b8c7628b207a6884166f17cab632981f82cb1c83db7440e079da",
+  "size_bytes": 586,
+  "document_class": "report",
+  "uses_packages": [
+    "csquotes",
+    "fancyhdr"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 247,
+  "downloaded_at": "2026-08-02T13:42:51.415Z",
+  "filtered_at": "2026-08-02T17:34:42.584Z"
+}

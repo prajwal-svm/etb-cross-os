@@ -1,0 +1,28 @@
+{
+  "id": "ctan/ctan-glossaries-mwe-gls",
+  "source": "ctan",
+  "format": "latex",
+  "category": "package-example",
+  "license": "LPPL-1.3c",
+  "source_url": "https://ctan.org/pkg/glossaries",
+  "original_author": "CTAN package: glossaries",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/ctan__ctan-glossaries-mwe-gls/mwe-gls.tex",
+  "relative_path": "processed/latex/cross-engine/ctan__ctan-glossaries-mwe-gls/mwe-gls.tex",
+  "sha256": "1acfd9999b0a53760f7f30f8add76526f360bdcc3a50a007510daac668bf0bd4",
+  "size_bytes": 479,
+  "document_class": "article",
+  "uses_packages": [
+    "glossaries"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 368,
+  "downloaded_at": "2026-08-02T13:04:56.416Z",
+  "filtered_at": "2026-08-02T17:34:42.284Z"
+}

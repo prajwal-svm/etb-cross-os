@@ -1,0 +1,31 @@
+{
+  "id": "template-packs/two-column-paper",
+  "source": "template-packs",
+  "format": "latex",
+  "category": "venue",
+  "license": "CC0-1.0",
+  "source_url": "https://github.com/Oleafly/template-packs",
+  "original_author": "Oleafly",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/template-packs__two-column-paper/main.tex",
+  "relative_path": "processed/latex/cross-engine/template-packs__two-column-paper/main.tex",
+  "sha256": "5bf16a60390cf0d6f36bb54b13cd1aee3886fcb2cde16716978cc62a041a4ed0",
+  "size_bytes": 3584,
+  "document_class": "article",
+  "uses_packages": [
+    "amsmath",
+    "geometry",
+    "lmodern",
+    "titlesec"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 267,
+  "downloaded_at": "2026-08-02T13:05:15.813Z",
+  "filtered_at": "2026-08-02T17:34:40.867Z"
+}

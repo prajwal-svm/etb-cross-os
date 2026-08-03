@@ -1,0 +1,26 @@
+{
+  "id": "typst-universe/typst-approximate-acmsmall-0-2-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "venue",
+  "license": "MIT",
+  "source_url": "https://codeberg.org/gasche/approximate-acmsmall-typst-template",
+  "original_author": "Gabriel Scherer",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/typst-universe__typst-approximate-acmsmall-0-2-0/example.typ",
+  "relative_path": "processed/typst/typst-universe__typst-approximate-acmsmall-0-2-0/example.typ",
+  "sha256": "879f33568ac905bbd2204b3245689fbe3576c2c89eed86cd3ca0b2c9d4ab961b",
+  "size_bytes": 1915,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 185,
+  "downloaded_at": "2026-08-02T13:05:48.009Z",
+  "filtered_at": "2026-08-02T17:34:43.614Z"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "github-typst/gh-tomowang-typst-twentysecondcv-twentysecondcv-1",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "cv",
+  "license": "MIT",
+  "source_url": "https://github.com/tomowang/typst-twentysecondcv",
+  "original_author": "tomowang",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/github-typst__gh-tomowang-typst-twentysecondcv-twentysecondcv-1/twentysecondcv.typ",
+  "relative_path": "processed/typst/github-typst__gh-tomowang-typst-twentysecondcv-twentysecondcv-1/twentysecondcv.typ",
+  "sha256": "c3cdc3ffb1748446586a716df13c8e674d78623db54a436549d45e1d2a93ddc5",
+  "size_bytes": 3393,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 17,
+  "downloaded_at": "2026-08-02T14:04:22.289Z",
+  "filtered_at": "2026-08-02T17:34:45.801Z"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "typst-universe/typst-obelisk-0-2-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "book",
+  "license": "MIT",
+  "source_url": "https://github.com/atzlt/obelisk-template",
+  "original_author": "atzlt",
+  "package_name": "obelisk",
+  "package_version": "0.2.0",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/typst-universe/typst-obelisk-0-2-0/main.typ",
+  "relative_path": "raw/typst-universe/typst-obelisk-0-2-0/main.typ",
+  "main_doc": "main.typ",
+  "sha256": "e06d422b8fe7ff1ca288b1263cc0e2fcf4cc825de28ea173f41a969c422d313b",
+  "size_bytes": 671,
+  "document_class": null,
+  "uses_packages": [],
+  "downloaded_at": "2026-08-02T13:11:44.904Z",
+  "categories": [
+    "book",
+    "layout"
+  ],
+  "description": "A high-precision, print-ready, Bauhaus-inspired note-taking template."
+}

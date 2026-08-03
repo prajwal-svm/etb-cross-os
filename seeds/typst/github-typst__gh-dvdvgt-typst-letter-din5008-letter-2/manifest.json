@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-dvdvgt-typst-letter-din5008-letter-2",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "letter",
+  "license": "MIT",
+  "source_url": "https://github.com/dvdvgt/typst-letter",
+  "original_author": "dvdvgt",
+  "stars": 28,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-dvdvgt-typst-letter-din5008-letter-2/din5008-letter.typ",
+  "relative_path": "raw/github-typst/gh-dvdvgt-typst-letter-din5008-letter-2/din5008-letter.typ",
+  "main_doc": "din5008-letter.typ",
+  "sha256": "805f79cd7a6c96800e31e49d45231e4995a5687b8b5cb506eba2069492b600ca",
+  "size_bytes": 2768,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "din5008-letter.typ",
+  "downloaded_at": "2026-08-02T14:04:26.776Z"
+}

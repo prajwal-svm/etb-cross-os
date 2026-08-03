@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-jorgenhost-typst-templates-for-ucph-lit-review-template-2",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "misc",
+  "license": "MIT",
+  "source_url": "https://github.com/jorgenhost/Typst-templates-for-UCPH",
+  "original_author": "jorgenhost",
+  "stars": 1,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-jorgenhost-typst-templates-for-ucph-lit-review-template-2/lit_review_template.typ",
+  "relative_path": "raw/github-typst/gh-jorgenhost-typst-templates-for-ucph-lit-review-template-2/lit_review_template.typ",
+  "main_doc": "lit_review_template.typ",
+  "sha256": "c8b57bba91e335518e8c7db43f34d9b3380e72f2de69a589d633e98d4d523c3c",
+  "size_bytes": 806,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "lit_review/lit_review_template.typ",
+  "downloaded_at": "2026-08-02T14:11:46.504Z"
+}

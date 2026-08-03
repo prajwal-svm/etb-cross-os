@@ -1,0 +1,28 @@
+{
+  "id": "overleaf/ol-symbol-table-fhqmttqvrnhk",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "misc",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/symbol-table/fhqmttqvrnhk",
+  "original_author": "anchiang",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/overleaf__ol-symbol-table-fhqmttqvrnhk/main.tex",
+  "relative_path": "processed/latex/cross-engine/overleaf__ol-symbol-table-fhqmttqvrnhk/main.tex",
+  "sha256": "18ba263646e20231b7c43e1fa15c2a69c2d95e46b6532fee932e56a8007bc86b",
+  "size_bytes": 4293,
+  "document_class": "beamer",
+  "uses_packages": [
+    "beamerposter"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 1404,
+  "downloaded_at": "2026-08-02T15:59:11.117Z",
+  "filtered_at": "2026-08-02T17:34:41.859Z"
+}

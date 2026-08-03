@@ -1,0 +1,23 @@
+{
+  "id": "typst-universe/typst-clean-agh-thesis-0-1-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "thesis",
+  "license": "MIT-0",
+  "source_url": "https://github.com/matisiekpl/agh-typst",
+  "original_author": "Mateusz Woźniak",
+  "package_name": "clean-agh-thesis",
+  "package_version": "0.1.0",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/typst-universe/typst-clean-agh-thesis-0-1-0/main.typ",
+  "relative_path": "raw/typst-universe/typst-clean-agh-thesis-0-1-0/main.typ",
+  "main_doc": "main.typ",
+  "sha256": "04b1272d2fa1d91bad93ba39d238e4062fd4c31725e6ef30f4546026d557cf0b",
+  "size_bytes": 1899,
+  "document_class": null,
+  "uses_packages": [],
+  "downloaded_at": "2026-08-02T13:06:58.115Z",
+  "categories": [
+    "thesis"
+  ],
+  "description": "AGH-compliant thesis template"
+}

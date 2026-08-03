@@ -1,0 +1,26 @@
+{
+  "id": "github-latex/gh-hmolhem-engineering-latex-templates-main-2",
+  "source": "github-latex",
+  "format": "latex",
+  "category": "beamer",
+  "license": "MIT",
+  "source_url": "https://github.com/hmolhem/engineering-latex-templates",
+  "original_author": "hmolhem",
+  "stars": 0,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-latex/gh-hmolhem-engineering-latex-templates-main-2/main.tex",
+  "relative_path": "raw/github-latex/gh-hmolhem-engineering-latex-templates-main-2/main.tex",
+  "main_doc": "main.tex",
+  "sha256": "380c491ebe71723312806c94ab98ff7ce3075054ffc35bb38c60eb74340c987f",
+  "size_bytes": 3074,
+  "document_class": "beamer",
+  "uses_packages": [
+    "amsmath",
+    "amssymb",
+    "booktabs",
+    "graphicx",
+    "pgfpages",
+    "siunitx"
+  ],
+  "repo_path": "presentation-template/main.tex",
+  "downloaded_at": "2026-08-02T13:59:35.092Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-nack098-note-template-chapter-template-1",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "book",
+  "license": "MIT",
+  "source_url": "https://github.com/nack098/note-template",
+  "original_author": "nack098",
+  "stars": 0,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-nack098-note-template-chapter-template-1/chapter_template.typ",
+  "relative_path": "raw/github-typst/gh-nack098-note-template-chapter-template-1/chapter_template.typ",
+  "main_doc": "chapter_template.typ",
+  "sha256": "c0cfdfb55fe844fc640764d0d60d483eca8ff1d174fec7fe24e812a510c9141e",
+  "size_bytes": 5699,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "templates/chapter_template.typ",
+  "downloaded_at": "2026-08-02T14:18:06.852Z"
+}

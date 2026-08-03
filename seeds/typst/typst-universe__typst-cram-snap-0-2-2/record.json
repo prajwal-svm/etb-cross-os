@@ -1,0 +1,26 @@
+{
+  "id": "typst-universe/typst-cram-snap-0-2-2",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "creative",
+  "license": "MIT",
+  "source_url": "https://github.com/kamack38/cram-snap",
+  "original_author": "kamack38",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/typst-universe__typst-cram-snap-0-2-2/main.typ",
+  "relative_path": "processed/typst/typst-universe__typst-cram-snap-0-2-2/main.typ",
+  "sha256": "e790286730d48a637f6303ed40a5a725a1ca2202c554d2a8f8eb5a22e6b391ff",
+  "size_bytes": 3038,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 190,
+  "downloaded_at": "2026-08-02T13:07:29.852Z",
+  "filtered_at": "2026-08-02T17:34:43.759Z"
+}

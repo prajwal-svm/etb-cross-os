@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-urimtzf-uaemex-typst-template-template",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "misc",
+  "license": "Apache-2.0",
+  "source_url": "https://github.com/UriMtzF/uaemex-typst-template",
+  "original_author": "UriMtzF",
+  "stars": 0,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-urimtzf-uaemex-typst-template-template/template.typ",
+  "relative_path": "raw/github-typst/gh-urimtzf-uaemex-typst-template-template/template.typ",
+  "main_doc": "template.typ",
+  "sha256": "2293997301036f616e27bdad305fbea40ab57abebfffc200beb650a61dcae589",
+  "size_bytes": 1567,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "template.typ",
+  "downloaded_at": "2026-08-02T14:20:29.246Z"
+}

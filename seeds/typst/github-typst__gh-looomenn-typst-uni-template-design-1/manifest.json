@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-looomenn-typst-uni-template-design-1",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "report",
+  "license": "MIT",
+  "source_url": "https://github.com/looomenn/typst-uni-template",
+  "original_author": "looomenn",
+  "stars": 0,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-looomenn-typst-uni-template-design-1/design.typ",
+  "relative_path": "raw/github-typst/gh-looomenn-typst-uni-template-design-1/design.typ",
+  "main_doc": "design.typ",
+  "sha256": "85656e7796917798a6419f2605ee98889f2206efe6393a019ceadff16fc8bc9d",
+  "size_bytes": 2565,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "src/design.typ",
+  "downloaded_at": "2026-08-02T14:15:15.688Z"
+}

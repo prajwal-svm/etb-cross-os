@@ -1,0 +1,23 @@
+{
+  "id": "typst-universe/typst-celluloid-0-1-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "book",
+  "license": "Apache-2.0",
+  "source_url": "https://typst.app/universe/package/celluloid",
+  "original_author": "Casey Dahlin",
+  "package_name": "celluloid",
+  "package_version": "0.1.0",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/typst-universe/typst-celluloid-0-1-0/main.typ",
+  "relative_path": "raw/typst-universe/typst-celluloid-0-1-0/main.typ",
+  "main_doc": "main.typ",
+  "sha256": "df571e4e64c595aa60b344a265998b50aed73fdfe182775566622c6abe41d506",
+  "size_bytes": 1283,
+  "document_class": null,
+  "uses_packages": [],
+  "downloaded_at": "2026-08-02T13:06:32.601Z",
+  "categories": [
+    "book"
+  ],
+  "description": "A template for writting screenplays based on AMPAS guidelines"
+}

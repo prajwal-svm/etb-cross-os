@@ -1,0 +1,24 @@
+{
+  "id": "typst-universe/typst-wired-ieee-1-0-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "report",
+  "license": "MIT",
+  "source_url": "https://github.com/hugoocoto/wired-ieee",
+  "original_author": "Hugo Coto Flórez",
+  "package_name": "wired-ieee",
+  "package_version": "1.0.0",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/typst-universe/typst-wired-ieee-1-0-0/main.typ",
+  "relative_path": "raw/typst-universe/typst-wired-ieee-1-0-0/main.typ",
+  "main_doc": "main.typ",
+  "sha256": "df0d49bfae7e1d84c2f1219cce149e095f8a2c57e59e53ba7bdd9b59f0bc5c39",
+  "size_bytes": 316,
+  "document_class": null,
+  "uses_packages": [],
+  "downloaded_at": "2026-08-02T13:15:53.595Z",
+  "categories": [
+    "report",
+    "paper"
+  ],
+  "description": "A multilanguage template for writing academic papers in the IEEE style."
+}

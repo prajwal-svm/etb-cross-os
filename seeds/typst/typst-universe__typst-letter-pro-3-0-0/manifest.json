@@ -1,0 +1,23 @@
+{
+  "id": "typst-universe/typst-letter-pro-3-0-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "business",
+  "license": "MIT",
+  "source_url": "https://github.com/Sematre/typst-letter-pro",
+  "original_author": "Sematre",
+  "package_name": "letter-pro",
+  "package_version": "3.0.0",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/typst-universe/typst-letter-pro-3-0-0/main.typ",
+  "relative_path": "raw/typst-universe/typst-letter-pro-3-0-0/main.typ",
+  "main_doc": "main.typ",
+  "sha256": "0492c665e55126fbc120bba0a7bde5fbd043ac4f9cd935b15bb83afd091f065b",
+  "size_bytes": 1225,
+  "document_class": null,
+  "uses_packages": [],
+  "downloaded_at": "2026-08-02T13:09:57.633Z",
+  "categories": [
+    "office"
+  ],
+  "description": "DIN 5008 letter template for Typst."
+}

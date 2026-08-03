@@ -1,0 +1,26 @@
+{
+  "id": "github-latex/gh-pedrohcgs-claude-code-my-workflow-helloworld",
+  "source": "github-latex",
+  "format": "latex",
+  "category": "beamer",
+  "license": "MIT",
+  "source_url": "https://github.com/pedrohcgs/claude-code-my-workflow",
+  "original_author": "pedrohcgs",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/github-latex__gh-pedrohcgs-claude-code-my-workflow-helloworld/HelloWorld.tex",
+  "relative_path": "processed/latex/cross-engine/github-latex__gh-pedrohcgs-claude-code-my-workflow-helloworld/HelloWorld.tex",
+  "sha256": "8998458d3f853dbb06d33da4de34c37de263aa4d943407cd3c6bf635aa03525b",
+  "size_bytes": 1571,
+  "document_class": "beamer",
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 934,
+  "downloaded_at": "2026-08-02T13:11:31.974Z",
+  "filtered_at": "2026-08-02T17:34:43.232Z"
+}

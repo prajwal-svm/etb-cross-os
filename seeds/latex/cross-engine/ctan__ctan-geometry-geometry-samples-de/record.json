@@ -1,0 +1,29 @@
+{
+  "id": "ctan/ctan-geometry-geometry-samples-de",
+  "source": "ctan",
+  "format": "latex",
+  "category": "package-example",
+  "license": "LPPL-1.3c",
+  "source_url": "https://ctan.org/pkg/geometry",
+  "original_author": "CTAN package: geometry",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/ctan__ctan-geometry-geometry-samples-de/geometry-samples-de.tex",
+  "relative_path": "processed/latex/cross-engine/ctan__ctan-geometry-geometry-samples-de/geometry-samples-de.tex",
+  "sha256": "affe13e3c0d01154ab5c9f8308dc8012a07dfa7f64c559014c7c48d6295c04a3",
+  "size_bytes": 3248,
+  "document_class": "article",
+  "uses_packages": [
+    "geometry",
+    "lipsum"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 273,
+  "downloaded_at": "2026-08-02T13:04:45.328Z",
+  "filtered_at": "2026-08-02T17:34:42.252Z"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "github-latex/gh-jsoberg-latex-resume-template-resume",
+  "source": "github-latex",
+  "format": "latex",
+  "category": "cv",
+  "license": "MIT",
+  "source_url": "https://github.com/jsoberg/LaTeX-Resume-Template",
+  "original_author": "jsoberg",
+  "stars": 5,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-latex/gh-jsoberg-latex-resume-template-resume/Resume.tex",
+  "relative_path": "raw/github-latex/gh-jsoberg-latex-resume-template-resume/Resume.tex",
+  "main_doc": "Resume.tex",
+  "sha256": "56d2ba496352ce6b4629eab04bcb459a05dd1b91a79896b8568c9fb606791ee1",
+  "size_bytes": 6718,
+  "document_class": "article",
+  "uses_packages": [
+    "ClearSans",
+    "GoSans",
+    "fontawesome5",
+    "hyperref",
+    "nopageno",
+    "roboto"
+  ],
+  "repo_path": "Resume.tex",
+  "downloaded_at": "2026-08-02T13:27:03.258Z"
+}

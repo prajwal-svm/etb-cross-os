@@ -1,0 +1,31 @@
+{
+  "id": "overleaf/ol-uncg-phy-419-f19-proposal-template-mkzbzxjzysty",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "misc",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/uncg-phy-419-f19-proposal-template/mkzbzxjzysty",
+  "original_author": "Ian D. Beatty",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/overleaf__ol-uncg-phy-419-f19-proposal-template-mkzbzxjzysty/main.tex",
+  "relative_path": "processed/latex/cross-engine/overleaf__ol-uncg-phy-419-f19-proposal-template-mkzbzxjzysty/main.tex",
+  "sha256": "357533f6e168a599d9efd108a06da2ad15399b089d153de6787d136ea7378585",
+  "size_bytes": 7691,
+  "document_class": "revtex4-2",
+  "uses_packages": [
+    "bm",
+    "dcolumn",
+    "graphicx",
+    "hyperref"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 599,
+  "downloaded_at": "2026-08-02T16:50:24.723Z",
+  "filtered_at": "2026-08-02T17:34:42.077Z"
+}

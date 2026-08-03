@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-thatfloflo-typst-pc-letter-example-cy-1",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "coursework",
+  "license": "MIT",
+  "source_url": "https://github.com/thatfloflo/typst-pc-letter",
+  "original_author": "thatfloflo",
+  "stars": 7,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-thatfloflo-typst-pc-letter-example-cy-1/example-cy.typ",
+  "relative_path": "raw/github-typst/gh-thatfloflo-typst-pc-letter-example-cy-1/example-cy.typ",
+  "main_doc": "example-cy.typ",
+  "sha256": "ba52ee40185b7fb2857b50dec2612c66e2fe84827d735f075dbe39b6c684d5b5",
+  "size_bytes": 2048,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "examples/example-cy.typ",
+  "downloaded_at": "2026-08-02T14:06:37.639Z"
+}

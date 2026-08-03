@@ -1,0 +1,26 @@
+{
+  "id": "github-latex/gh-finnholzgrabe-applicator-cover-letter-de",
+  "source": "github-latex",
+  "format": "latex",
+  "category": "cv",
+  "license": "MIT",
+  "source_url": "https://github.com/finnholzgrabe/applicator",
+  "original_author": "finnholzgrabe",
+  "stars": 1,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-latex/gh-finnholzgrabe-applicator-cover-letter-de/cover-letter.de.tex",
+  "relative_path": "raw/github-latex/gh-finnholzgrabe-applicator-cover-letter-de/cover-letter.de.tex",
+  "main_doc": "cover-letter.de.tex",
+  "sha256": "a34c1e42c9485219866e865f55afaed9284797c6351f0c38e374bddeaade32bd",
+  "size_bytes": 987,
+  "document_class": "article",
+  "uses_packages": [
+    "babel",
+    "fontenc",
+    "geometry",
+    "hyperref",
+    "inputenc",
+    "parskip"
+  ],
+  "repo_path": "user/files/cover-letter/cover-letter.de.tex",
+  "downloaded_at": "2026-08-02T13:39:26.404Z"
+}

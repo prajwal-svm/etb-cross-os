@@ -1,0 +1,26 @@
+{
+  "id": "github-typst/gh-whliao5am-pro-academic-cv-typst-template-lib-1",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "cv",
+  "license": "MIT",
+  "source_url": "https://github.com/whliao5am/pro-academic-cv-typst-template",
+  "original_author": "whliao5am",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/github-typst__gh-whliao5am-pro-academic-cv-typst-template-lib-1/lib.typ",
+  "relative_path": "processed/typst/github-typst__gh-whliao5am-pro-academic-cv-typst-template-lib-1/lib.typ",
+  "sha256": "45acf2e56300e84e97d35c0ca5b80113feef1c0c6983cce371ebdeddf2b7de4a",
+  "size_bytes": 10170,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 8,
+  "downloaded_at": "2026-08-02T14:10:00.775Z",
+  "filtered_at": "2026-08-02T17:34:45.933Z"
+}

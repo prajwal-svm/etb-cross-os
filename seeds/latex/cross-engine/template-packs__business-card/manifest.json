@@ -1,0 +1,23 @@
+{
+  "id": "template-packs/business-card",
+  "source": "template-packs",
+  "format": "latex",
+  "category": "business",
+  "category_raw": "Business",
+  "license": "CC0-1.0",
+  "source_url": "https://github.com/Oleafly/template-packs",
+  "original_author": "Oleafly",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/template-packs/business-card/main.tex",
+  "relative_path": "raw/template-packs/business-card/main.tex",
+  "main_doc": "main.tex",
+  "sha256": "8f48b25f7360f4200b0592589b1eb62014faf00bde327dd9383b2f7cef493d6b",
+  "size_bytes": 2151,
+  "document_class": "article",
+  "uses_packages": [
+    "geometry",
+    "sourcesanspro",
+    "tikz"
+  ],
+  "engine_hint": "xetex",
+  "downloaded_at": "2026-08-02T13:05:15.780Z"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "overleaf/ol-uno-lesson-plan-template-zrdctzqntrvg",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "misc",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/uno-lesson-plan-template/zrdctzqntrvg",
+  "original_author": "Courtney Cutler and Evie Harvey",
+  "title": "UNO Lesson Plan Template",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/overleaf/ol-uno-lesson-plan-template-zrdctzqntrvg/main.tex",
+  "relative_path": "raw/overleaf/ol-uno-lesson-plan-template-zrdctzqntrvg/main.tex",
+  "main_doc": "main.tex",
+  "sha256": "6a528c7f0358c0bc201c8279181b7f4043f8f8af15d08bd369d810dd52483812",
+  "size_bytes": 7976,
+  "document_class": "article",
+  "uses_packages": [
+    "array",
+    "geometry",
+    "longtable",
+    "titlesec",
+    "ulem"
+  ],
+  "download_method": "view-source-modal",
+  "github_url": null,
+  "downloaded_at": "2026-08-02T15:25:26.048Z"
+}

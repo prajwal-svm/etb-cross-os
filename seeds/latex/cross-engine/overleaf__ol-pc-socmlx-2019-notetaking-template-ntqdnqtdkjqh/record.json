@@ -1,0 +1,30 @@
+{
+  "id": "overleaf/ol-pc-socmlx-2019-notetaking-template-ntqdnqtdkjqh",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "misc",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/pc-socmlx-2019-notetaking-template/ntqdnqtdkjqh",
+  "original_author": "David Madras",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/overleaf__ol-pc-socmlx-2019-notetaking-template-ntqdnqtdkjqh/main.tex",
+  "relative_path": "processed/latex/cross-engine/overleaf__ol-pc-socmlx-2019-notetaking-template-ntqdnqtdkjqh/main.tex",
+  "sha256": "8b477dad9d8491a0b7758a967b56ec44b0262ca3f9e8ddb0934c6700005080c6",
+  "size_bytes": 1588,
+  "document_class": "article",
+  "uses_packages": [
+    "dsfont",
+    "enumitem",
+    "inputenc"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 211,
+  "downloaded_at": "2026-08-02T13:33:40.366Z",
+  "filtered_at": "2026-08-02T17:34:41.609Z"
+}

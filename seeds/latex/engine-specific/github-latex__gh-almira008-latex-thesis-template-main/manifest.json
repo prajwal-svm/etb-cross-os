@@ -1,0 +1,28 @@
+{
+  "id": "github-latex/gh-almira008-latex-thesis-template-main",
+  "source": "github-latex",
+  "format": "latex",
+  "category": "thesis",
+  "license": "MIT",
+  "source_url": "https://github.com/almira008/latex_thesis_template",
+  "original_author": "almira008",
+  "stars": 0,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-latex/gh-almira008-latex-thesis-template-main/main.tex",
+  "relative_path": "raw/github-latex/gh-almira008-latex-thesis-template-main/main.tex",
+  "main_doc": "main.tex",
+  "sha256": "d0e154fc9d905c32a6f0caf5272a265c76795ecd464aaff1b2aa20722ff9339e",
+  "size_bytes": 1596,
+  "document_class": "report",
+  "uses_packages": [
+    "amsmath",
+    "geometry",
+    "graphicx",
+    "hyperref",
+    "inputenc",
+    "lipsum",
+    "natbib",
+    "setspace"
+  ],
+  "repo_path": "main.tex",
+  "downloaded_at": "2026-08-02T13:53:14.508Z"
+}

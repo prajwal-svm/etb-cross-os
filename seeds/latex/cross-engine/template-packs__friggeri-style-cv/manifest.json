@@ -1,0 +1,26 @@
+{
+  "id": "template-packs/friggeri-style-cv",
+  "source": "template-packs",
+  "format": "latex",
+  "category": "cv",
+  "category_raw": "CVs & Resumes",
+  "license": "CC0-1.0",
+  "source_url": "https://github.com/Oleafly/template-packs",
+  "original_author": "Oleafly",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/template-packs/friggeri-style-cv/main.tex",
+  "relative_path": "raw/template-packs/friggeri-style-cv/main.tex",
+  "main_doc": "main.tex",
+  "sha256": "8b2d5d94b8f76024ebb01abe03d488fd5ae25f443246b54db9b35fa2af9be831",
+  "size_bytes": 2013,
+  "document_class": "article",
+  "uses_packages": [
+    "enumitem",
+    "geometry",
+    "hyperref",
+    "paracol",
+    "tikz",
+    "xcolor"
+  ],
+  "engine_hint": "xetex",
+  "downloaded_at": "2026-08-02T13:05:15.843Z"
+}

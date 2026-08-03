@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-ralphmb-typst-template-stats-dissertation-template",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "thesis",
+  "license": "Apache-2.0",
+  "source_url": "https://github.com/ralphmb/typst-template-stats-dissertation",
+  "original_author": "ralphmb",
+  "stars": 5,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-ralphmb-typst-template-stats-dissertation-template/template.typ",
+  "relative_path": "raw/github-typst/gh-ralphmb-typst-template-stats-dissertation-template/template.typ",
+  "main_doc": "template.typ",
+  "sha256": "1317adf78d0a904c4e81f29097b16f04377bc39e060bc32a2fe6175b539712a4",
+  "size_bytes": 1955,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "writeup/other/template.typ",
+  "downloaded_at": "2026-08-02T14:07:43.228Z"
+}

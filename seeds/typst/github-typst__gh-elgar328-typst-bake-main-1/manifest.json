@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-elgar328-typst-bake-main-1",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "misc",
+  "license": "Apache-2.0",
+  "source_url": "https://github.com/elgar328/typst-bake",
+  "original_author": "elgar328",
+  "stars": 19,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-elgar328-typst-bake-main-1/main.typ",
+  "relative_path": "raw/github-typst/gh-elgar328-typst-bake-main-1/main.typ",
+  "main_doc": "main.typ",
+  "sha256": "0a1b8e9e6ed84bb225212ba81245b6520abd4e5ece0c2464417bfcc50318219f",
+  "size_bytes": 1510,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "examples/font-guide/templates/main.typ",
+  "downloaded_at": "2026-08-02T14:05:08.561Z"
+}

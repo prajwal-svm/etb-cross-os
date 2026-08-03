@@ -1,0 +1,23 @@
+{
+  "id": "typst-universe/typst-pepentation-0-2-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "beamer",
+  "license": "MIT",
+  "source_url": "https://github.com/pepengu/pepentation",
+  "original_author": "Pepengu",
+  "package_name": "pepentation",
+  "package_version": "0.2.0",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/typst-universe/typst-pepentation-0-2-0/main.typ",
+  "relative_path": "raw/typst-universe/typst-pepentation-0-2-0/main.typ",
+  "main_doc": "main.typ",
+  "sha256": "da0df89cdf585659adeaefcf8c6162dc6288c26fc5784a16ab0076818cb5006a",
+  "size_bytes": 1289,
+  "document_class": null,
+  "uses_packages": [],
+  "downloaded_at": "2026-08-02T13:12:01.301Z",
+  "categories": [
+    "presentation"
+  ],
+  "description": "Convenient slides for your university's presentations"
+}

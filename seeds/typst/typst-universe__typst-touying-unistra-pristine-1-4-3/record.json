@@ -1,0 +1,26 @@
+{
+  "id": "typst-universe/typst-touying-unistra-pristine-1-4-3",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "beamer",
+  "license": "MIT",
+  "source_url": "https://github.com/spidersouris/touying-unistra-pristine",
+  "original_author": "Enzo Doyen",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/typst-universe__typst-touying-unistra-pristine-1-4-3/template.typ",
+  "relative_path": "processed/typst/typst-universe__typst-touying-unistra-pristine-1-4-3/template.typ",
+  "sha256": "a5bf76a81f827871d6042fd51013dbfb974453d90241d747e7774f7231843c9a",
+  "size_bytes": 537,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 222,
+  "downloaded_at": "2026-08-02T13:14:26.983Z",
+  "filtered_at": "2026-08-02T17:34:44.309Z"
+}

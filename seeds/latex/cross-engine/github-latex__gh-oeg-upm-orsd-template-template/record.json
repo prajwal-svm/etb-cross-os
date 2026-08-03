@@ -1,0 +1,30 @@
+{
+  "id": "github-latex/gh-oeg-upm-orsd-template-template",
+  "source": "github-latex",
+  "format": "latex",
+  "category": "misc",
+  "license": "Apache-2.0",
+  "source_url": "https://github.com/oeg-upm/ORSD-template",
+  "original_author": "oeg-upm",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/github-latex__gh-oeg-upm-orsd-template-template/template.tex",
+  "relative_path": "processed/latex/cross-engine/github-latex__gh-oeg-upm-orsd-template-template/template.tex",
+  "sha256": "d2ddff73a3f331081cd2d6fd8c9a0fd14ee5f89844184351da1390c407ba63a8",
+  "size_bytes": 9877,
+  "document_class": "article",
+  "uses_packages": [
+    "graphicx",
+    "multirow",
+    "xcolor"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 255,
+  "downloaded_at": "2026-08-02T13:37:34.513Z",
+  "filtered_at": "2026-08-02T17:34:43.203Z"
+}

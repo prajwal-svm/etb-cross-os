@@ -1,0 +1,26 @@
+{
+  "id": "github-typst/gh-rabuu-sheetstorm-appendix-1",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "coursework",
+  "license": "MIT",
+  "source_url": "https://github.com/rabuu/sheetstorm",
+  "original_author": "rabuu",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/github-typst__gh-rabuu-sheetstorm-appendix-1/appendix.typ",
+  "relative_path": "processed/typst/github-typst__gh-rabuu-sheetstorm-appendix-1/appendix.typ",
+  "sha256": "be851be41a2a37e4eba1706cf15ace5d5cc9670c1f826043e853f313793f1094",
+  "size_bytes": 529,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 225,
+  "downloaded_at": "2026-08-02T14:04:39.552Z",
+  "filtered_at": "2026-08-02T17:34:45.536Z"
+}

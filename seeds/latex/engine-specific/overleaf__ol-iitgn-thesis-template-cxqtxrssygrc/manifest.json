@@ -1,0 +1,27 @@
+{
+  "id": "overleaf/ol-iitgn-thesis-template-cxqtxrssygrc",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "thesis",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/iitgn-thesis-template/cxqtxrssygrc",
+  "original_author": "Shivam Chaudhary",
+  "title": "IITGN_Thesis_Template",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/overleaf/ol-iitgn-thesis-template-cxqtxrssygrc/main.tex",
+  "relative_path": "raw/overleaf/ol-iitgn-thesis-template-cxqtxrssygrc/main.tex",
+  "main_doc": "main.tex",
+  "sha256": "7788b2aeec8d79fc43a1c67c567a3611f2fe0994183743695e684ecd59a633d8",
+  "size_bytes": 1475,
+  "document_class": "report",
+  "uses_packages": [
+    "geometry",
+    "graphicx",
+    "hyperref",
+    "lipsum",
+    "setspace",
+    "titlesec"
+  ],
+  "download_method": "view-source-modal",
+  "github_url": null,
+  "downloaded_at": "2026-08-02T14:45:08.773Z"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "github-latex/gh-antsfamily-latextemplates-elsarticle-template-2",
+  "source": "github-latex",
+  "format": "latex",
+  "category": "venue",
+  "license": "MIT",
+  "source_url": "https://github.com/antsfamily/LatexTemplates",
+  "original_author": "antsfamily",
+  "stars": 3,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-latex/gh-antsfamily-latextemplates-elsarticle-template-2/elsarticle-template.tex",
+  "relative_path": "raw/github-latex/gh-antsfamily-latextemplates-elsarticle-template-2/elsarticle-template.tex",
+  "main_doc": "elsarticle-template.tex",
+  "sha256": "29886cc399956d4ffc6f7b9b98917525b51476d204e10265355e19cbbcc4fbb5",
+  "size_bytes": 4103,
+  "document_class": "elsarticle",
+  "uses_packages": [
+    "hyperref",
+    "lineno",
+    "numcompress"
+  ],
+  "repo_path": "elsevier/manuscript/elsarticle-template/elsarticle-template.tex",
+  "downloaded_at": "2026-08-02T13:30:45.521Z"
+}

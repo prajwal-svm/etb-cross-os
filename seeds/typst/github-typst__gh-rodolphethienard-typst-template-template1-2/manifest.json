@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-rodolphethienard-typst-template-template1-2",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "beamer",
+  "license": "MIT",
+  "source_url": "https://github.com/RodolpheThienard/typst-template",
+  "original_author": "RodolpheThienard",
+  "stars": 1,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-rodolphethienard-typst-template-template1-2/template1.typ",
+  "relative_path": "raw/github-typst/gh-rodolphethienard-typst-template-template1-2/template1.typ",
+  "main_doc": "template1.typ",
+  "sha256": "956131493bd4a3ce7077c0ece4e03d46f00b01ae63cd3f76d4ab002c0a33adce",
+  "size_bytes": 1359,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "reports/1/template1.typ",
+  "downloaded_at": "2026-08-02T14:11:08.567Z"
+}

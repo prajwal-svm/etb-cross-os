@@ -1,0 +1,23 @@
+{
+  "id": "overleaf/ol-introduction-to-using-latex-in-lab-reports-krvvhmtvfxyt",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "report",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/introduction-to-using-latex-in-lab-reports/krvvhmtvfxyt",
+  "original_author": "Teigan O'Carroll",
+  "title": "Introduction to using LaTeX in lab reports",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/overleaf/ol-introduction-to-using-latex-in-lab-reports-krvvhmtvfxyt/main.tex",
+  "relative_path": "raw/overleaf/ol-introduction-to-using-latex-in-lab-reports-krvvhmtvfxyt/main.tex",
+  "main_doc": "main.tex",
+  "sha256": "b42cfc3d014027c796509de59680d27e0eb33bf84fb608d96d00235f975d245f",
+  "size_bytes": 2181,
+  "document_class": "report",
+  "uses_packages": [
+    "color",
+    "graphicx"
+  ],
+  "download_method": "view-source-modal",
+  "github_url": null,
+  "downloaded_at": "2026-08-02T14:22:27.790Z"
+}

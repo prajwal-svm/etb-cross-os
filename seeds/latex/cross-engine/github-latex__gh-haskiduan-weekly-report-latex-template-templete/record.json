@@ -1,0 +1,34 @@
+{
+  "id": "github-latex/gh-haskiduan-weekly-report-latex-template-templete",
+  "source": "github-latex",
+  "format": "latex",
+  "category": "report",
+  "license": "MIT",
+  "source_url": "https://github.com/HaskiDuan/weekly-report-latex-template",
+  "original_author": "HaskiDuan",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/github-latex__gh-haskiduan-weekly-report-latex-template-templete/templete.tex",
+  "relative_path": "processed/latex/cross-engine/github-latex__gh-haskiduan-weekly-report-latex-template-templete/templete.tex",
+  "sha256": "05dc0eb8bb49fed590badfe390fb8e7df15dfef38568ce6481f44d3b3e90ec51",
+  "size_bytes": 16826,
+  "document_class": "article",
+  "uses_packages": [
+    "amsfonts",
+    "amsmath",
+    "amssymb",
+    "array",
+    "geometry",
+    "graphicx",
+    "times"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 257,
+  "downloaded_at": "2026-08-02T13:59:09.219Z",
+  "filtered_at": "2026-08-02T17:34:42.850Z"
+}

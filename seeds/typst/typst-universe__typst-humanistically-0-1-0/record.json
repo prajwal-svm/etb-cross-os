@@ -1,0 +1,26 @@
+{
+  "id": "typst-universe/typst-humanistically-0-1-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "cv",
+  "license": "MIT-0",
+  "source_url": "https://github.com/breezykermo/humanistically",
+  "original_author": "Lachlan Kermode",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/typst-universe__typst-humanistically-0-1-0/main.typ",
+  "relative_path": "processed/typst/typst-universe__typst-humanistically-0-1-0/main.typ",
+  "sha256": "e4c6267ea13ce1a9330ed0ee617b455e8137a3020130946f52e05cea0a52ab3c",
+  "size_bytes": 5427,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 205,
+  "downloaded_at": "2026-08-02T13:09:08.000Z",
+  "filtered_at": "2026-08-02T17:34:43.879Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-sysu-better-thesis-style-2",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "thesis",
+  "license": "MIT",
+  "source_url": "https://github.com/sysu/better-thesis",
+  "original_author": "sysu",
+  "stars": 35,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-sysu-better-thesis-style-2/style.typ",
+  "relative_path": "raw/github-typst/gh-sysu-better-thesis-style-2/style.typ",
+  "main_doc": "style.typ",
+  "sha256": "c7ba17cfc53c096facfdf6ce2fb887037a2becde659b510d7c0337799783e014",
+  "size_bytes": 1723,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "others/style.typ",
+  "downloaded_at": "2026-08-02T14:04:14.901Z"
+}

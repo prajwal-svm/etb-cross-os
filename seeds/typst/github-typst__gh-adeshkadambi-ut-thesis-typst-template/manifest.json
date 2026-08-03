@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-adeshkadambi-ut-thesis-typst-template",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "thesis",
+  "license": "MIT",
+  "source_url": "https://github.com/adeshkadambi/ut-thesis-typst",
+  "original_author": "adeshkadambi",
+  "stars": 0,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-adeshkadambi-ut-thesis-typst-template/template.typ",
+  "relative_path": "raw/github-typst/gh-adeshkadambi-ut-thesis-typst-template/template.typ",
+  "main_doc": "template.typ",
+  "sha256": "a0a1f6b46267f8fa73a7df29a9ceccb32fd1ee1a262cf916aed0dfb0af689025",
+  "size_bytes": 4392,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "template.typ",
+  "downloaded_at": "2026-08-02T14:17:58.626Z"
+}

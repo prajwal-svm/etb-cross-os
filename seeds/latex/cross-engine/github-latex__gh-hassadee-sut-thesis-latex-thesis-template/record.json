@@ -1,0 +1,31 @@
+{
+  "id": "github-latex/gh-hassadee-sut-thesis-latex-thesis-template",
+  "source": "github-latex",
+  "format": "latex",
+  "category": "thesis",
+  "license": "MIT",
+  "source_url": "https://github.com/hassadee/SUT-Thesis-LaTeX",
+  "original_author": "hassadee",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/github-latex__gh-hassadee-sut-thesis-latex-thesis-template/thesis-template.tex",
+  "relative_path": "processed/latex/cross-engine/github-latex__gh-hassadee-sut-thesis-latex-thesis-template/thesis-template.tex",
+  "sha256": "fb2e2c641325e3aca183b717565a7aefa1f37bf64fb33005de674f4ec373762b",
+  "size_bytes": 1544,
+  "document_class": "article",
+  "uses_packages": [
+    "amsmath",
+    "amssymb",
+    "color",
+    "inputenc"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 234,
+  "downloaded_at": "2026-08-02T13:39:57.867Z",
+  "filtered_at": "2026-08-02T17:34:42.852Z"
+}

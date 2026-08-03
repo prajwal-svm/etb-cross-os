@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-carreter-problemst-pset-1",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "coursework",
+  "license": "MIT",
+  "source_url": "https://github.com/carreter/problemst",
+  "original_author": "carreter",
+  "stars": 11,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-carreter-problemst-pset-1/pset.typ",
+  "relative_path": "raw/github-typst/gh-carreter-problemst-pset-1/pset.typ",
+  "main_doc": "pset.typ",
+  "sha256": "4d6dda14c3c0f8260ca91d262cea39dc960342b8b90a36cd35646ea922b6722a",
+  "size_bytes": 1980,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "pset.typ",
+  "downloaded_at": "2026-08-02T14:06:03.321Z"
+}

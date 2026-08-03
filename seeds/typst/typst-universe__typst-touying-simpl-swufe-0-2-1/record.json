@@ -1,0 +1,26 @@
+{
+  "id": "typst-universe/typst-touying-simpl-swufe-0-2-1",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "beamer",
+  "license": "MIT",
+  "source_url": "https://github.com/leichaol/touying-simpl-swufe",
+  "original_author": "leichao",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/typst-universe__typst-touying-simpl-swufe-0-2-1/main.typ",
+  "relative_path": "processed/typst/typst-universe__typst-touying-simpl-swufe-0-2-1/main.typ",
+  "sha256": "50584744682f6dfc356ff2e1024cda22070b7c0b8b2a1d246ba3200e57c2aae2",
+  "size_bytes": 1651,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 460,
+  "downloaded_at": "2026-08-02T13:14:25.402Z",
+  "filtered_at": "2026-08-02T17:34:44.306Z"
+}

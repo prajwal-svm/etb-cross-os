@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-jianwenshaw-wut-lab-report-typst-template-wut-1",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "report",
+  "license": "MIT",
+  "source_url": "https://github.com/JianwenShaw/WUT-LAB-Report-Typst-Template",
+  "original_author": "JianwenShaw",
+  "stars": 0,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-jianwenshaw-wut-lab-report-typst-template-wut-1/wut.typ",
+  "relative_path": "raw/github-typst/gh-jianwenshaw-wut-lab-report-typst-template-wut-1/wut.typ",
+  "main_doc": "wut.typ",
+  "sha256": "79901cb510cfa80802a6c734834516450b39c0b689b9fde946eab301547c9400",
+  "size_bytes": 4121,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "wut.typ",
+  "downloaded_at": "2026-08-02T14:17:31.228Z"
+}

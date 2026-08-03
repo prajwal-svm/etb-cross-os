@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-face0xff-lavandula-lavandula-1",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "cv",
+  "license": "MIT",
+  "source_url": "https://github.com/face0xff/lavandula",
+  "original_author": "face0xff",
+  "stars": 11,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-face0xff-lavandula-lavandula-1/lavandula.typ",
+  "relative_path": "raw/github-typst/gh-face0xff-lavandula-lavandula-1/lavandula.typ",
+  "main_doc": "lavandula.typ",
+  "sha256": "ac835f62feb3de3db17ed0363cf1e87a41573e5e1f8166e72793580742cc2b71",
+  "size_bytes": 7506,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "src/lavandula.typ",
+  "downloaded_at": "2026-08-02T14:06:04.013Z"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "overleaf/ol-bloomberg-data-science-ph-dot-d-slash-postdoc-fellowship-application-template",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "misc",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/bloomberg-data-science-ph-dot-d-slash-postdoc-fellowship-application-template/qjdwbtnrdkvx",
+  "original_author": "Bloomberg",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/overleaf__ol-bloomberg-data-science-ph-dot-d-slash-postdoc-fellowship-application-template/main.tex",
+  "relative_path": "processed/latex/cross-engine/overleaf__ol-bloomberg-data-science-ph-dot-d-slash-postdoc-fellowship-application-template/main.tex",
+  "sha256": "cf932c2eb9a4c38a2a07bbac399e1b0801cd152386e35b2ef5eed855e1e79a1a",
+  "size_bytes": 5402,
+  "document_class": "article",
+  "uses_packages": [
+    "amsfonts",
+    "amsmath",
+    "amssymb",
+    "caption",
+    "float",
+    "geometry",
+    "graphicx",
+    "hyperref",
+    "inputenc",
+    "lipsum",
+    "multicol",
+    "natbib",
+    "url",
+    "xcolor"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 604,
+  "downloaded_at": "2026-08-02T13:42:08.422Z",
+  "filtered_at": "2026-08-02T17:34:40.978Z"
+}

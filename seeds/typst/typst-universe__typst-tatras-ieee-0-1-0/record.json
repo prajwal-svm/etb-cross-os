@@ -1,0 +1,26 @@
+{
+  "id": "typst-universe/typst-tatras-ieee-0-1-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "venue",
+  "license": "MIT",
+  "source_url": "https://github.com/MeheheCedy22/tatras-ieee",
+  "original_author": "Marek Čederle",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/typst-universe__typst-tatras-ieee-0-1-0/main.typ",
+  "relative_path": "processed/typst/typst-universe__typst-tatras-ieee-0-1-0/main.typ",
+  "sha256": "c2365d2f657fdff73011bb865cfc56073b5abfb62790559b8b7de1ac97bfafb4",
+  "size_bytes": 2310,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 242,
+  "downloaded_at": "2026-08-02T13:13:39.741Z",
+  "filtered_at": "2026-08-02T17:34:44.244Z"
+}

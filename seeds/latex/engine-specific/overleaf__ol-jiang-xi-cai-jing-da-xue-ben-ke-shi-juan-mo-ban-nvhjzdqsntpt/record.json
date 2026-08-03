@@ -1,0 +1,37 @@
+{
+  "id": "overleaf/ol-jiang-xi-cai-jing-da-xue-ben-ke-shi-juan-mo-ban-nvhjzdqsntpt",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "misc",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/jiang-xi-cai-jing-da-xue-ben-ke-shi-juan-mo-ban/nvhjzdqsntpt",
+  "original_author": "吴燕丰",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/engine-specific/overleaf__ol-jiang-xi-cai-jing-da-xue-ben-ke-shi-juan-mo-ban-nvhjzdqsntpt/main.tex",
+  "relative_path": "processed/latex/engine-specific/overleaf__ol-jiang-xi-cai-jing-da-xue-ben-ke-shi-juan-mo-ban-nvhjzdqsntpt/main.tex",
+  "sha256": "42ceb35a348b563f98c8fe5fe66967fd195859752444ab22c0d84999df49c107",
+  "size_bytes": 2175,
+  "document_class": "ctexart",
+  "uses_packages": [
+    "amsfonts",
+    "amsmath",
+    "amssymb",
+    "amsthm",
+    "array",
+    "fancyhdr",
+    "geometry",
+    "lastpage",
+    "multirow",
+    "tikz"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": false,
+    "xelatex": true,
+    "lualatex": false,
+    "typst": false
+  },
+  "engine_class": "engine-specific",
+  "compile_time_ms": 3014,
+  "downloaded_at": "2026-08-02T14:57:41.779Z",
+  "filtered_at": "2026-08-02T17:34:41.283Z"
+}

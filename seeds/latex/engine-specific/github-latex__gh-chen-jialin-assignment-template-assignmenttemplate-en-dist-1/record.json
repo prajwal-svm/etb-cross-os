@@ -1,0 +1,37 @@
+{
+  "id": "github-latex/gh-chen-jialin-assignment-template-assignmenttemplate-en-dist-1",
+  "source": "github-latex",
+  "format": "latex",
+  "category": "coursework",
+  "license": "MIT",
+  "source_url": "https://github.com/Chen-Jialin/Assignment-Template",
+  "original_author": "Chen-Jialin",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/engine-specific/github-latex__gh-chen-jialin-assignment-template-assignmenttemplate-en-dist-1/AssignmentTemplate(En-dist).tex",
+  "relative_path": "processed/latex/engine-specific/github-latex__gh-chen-jialin-assignment-template-assignmenttemplate-en-dist-1/AssignmentTemplate(En-dist).tex",
+  "sha256": "e0f8b5d1ec26bea82736fb879dc7b2dbeed5224eb94208ece85b1a9e76ab6a66",
+  "size_bytes": 1895,
+  "document_class": "article",
+  "uses_packages": [
+    "amsmath",
+    "amssymb",
+    "amsthm",
+    "bm",
+    "calc",
+    "ctex",
+    "fancyhdr",
+    "geometry",
+    "graphicx",
+    "lastpage"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": false,
+    "xelatex": true,
+    "lualatex": false,
+    "typst": false
+  },
+  "engine_class": "engine-specific",
+  "compile_time_ms": 2643,
+  "downloaded_at": "2026-08-02T13:15:18.685Z",
+  "filtered_at": "2026-08-02T17:34:42.578Z"
+}

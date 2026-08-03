@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-ultimateboomer-simple-cs-resume-template",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "cv",
+  "license": "MIT",
+  "source_url": "https://github.com/UltimateBoomer/simple-cs-resume",
+  "original_author": "UltimateBoomer",
+  "stars": 0,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-ultimateboomer-simple-cs-resume-template/template.typ",
+  "relative_path": "raw/github-typst/gh-ultimateboomer-simple-cs-resume-template/template.typ",
+  "main_doc": "template.typ",
+  "sha256": "3fe5fcdd76e601c5a3fb54769ecc7f2a38a95b5584d3f41500d0ba75728a92df",
+  "size_bytes": 7893,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "template.typ",
+  "downloaded_at": "2026-08-02T14:19:32.746Z"
+}

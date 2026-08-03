@@ -1,0 +1,24 @@
+{
+  "id": "github-latex/gh-psvenk-hwgrid-template",
+  "source": "github-latex",
+  "format": "latex",
+  "category": "coursework",
+  "license": "MIT",
+  "source_url": "https://github.com/psvenk/hwgrid",
+  "original_author": "psvenk",
+  "stars": 0,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-latex/gh-psvenk-hwgrid-template/template.tex",
+  "relative_path": "raw/github-latex/gh-psvenk-hwgrid-template/template.tex",
+  "main_doc": "template.tex",
+  "sha256": "1506b78f431930d34d9f1bed0240dda003e676998533f7903d95f274d9824b85",
+  "size_bytes": 3189,
+  "document_class": "article",
+  "uses_packages": [
+    "booktabs",
+    "geometry",
+    "tabularx",
+    "xparse"
+  ],
+  "repo_path": "0.1/template.tex",
+  "downloaded_at": "2026-08-02T13:49:15.906Z"
+}

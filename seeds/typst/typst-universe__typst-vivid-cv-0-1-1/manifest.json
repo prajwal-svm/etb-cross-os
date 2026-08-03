@@ -1,0 +1,23 @@
+{
+  "id": "typst-universe/typst-vivid-cv-0-1-1",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "cv",
+  "license": "MIT",
+  "source_url": "https://github.com/loicfontaine/vivid-cv",
+  "original_author": "Loïc Fontaine",
+  "package_name": "vivid-cv",
+  "package_version": "0.1.1",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/typst-universe/typst-vivid-cv-0-1-1/main.typ",
+  "relative_path": "raw/typst-universe/typst-vivid-cv-0-1-1/main.typ",
+  "main_doc": "main.typ",
+  "sha256": "528ac93d525082361db331e2306b056c0abfcb5e894f6675fba086e406dffaba",
+  "size_bytes": 6487,
+  "document_class": null,
+  "uses_packages": [],
+  "downloaded_at": "2026-08-02T13:15:48.710Z",
+  "categories": [
+    "cv"
+  ],
+  "description": "A colourful, ATS friendly, design-forward resume template with a profile picture."
+}

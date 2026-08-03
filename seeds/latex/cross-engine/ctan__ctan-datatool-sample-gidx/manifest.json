@@ -1,0 +1,21 @@
+{
+  "id": "ctan/ctan-datatool-sample-gidx",
+  "source": "ctan",
+  "format": "latex",
+  "category": "package-example",
+  "license": "LPPL-1.3c",
+  "source_url": "https://ctan.org/pkg/datatool",
+  "original_author": "CTAN package: datatool",
+  "package": "datatool",
+  "original_path": "/usr/local/texlive/2025/texmf-dist/doc/latex/datatool/samples/sample-gidx.tex",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/ctan/ctan-datatool-sample-gidx/sample-gidx.tex",
+  "relative_path": "raw/ctan/ctan-datatool-sample-gidx/sample-gidx.tex",
+  "main_doc": "sample-gidx.tex",
+  "sha256": "75523a817bbc133310dfeb5816e4675679df056b2594bff8498228eda011e1b9",
+  "size_bytes": 16592,
+  "document_class": "book",
+  "uses_packages": [
+    "hyperref"
+  ],
+  "downloaded_at": "2026-08-02T13:05:04.435Z"
+}

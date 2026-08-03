@@ -1,0 +1,33 @@
+{
+  "id": "github-latex/gh-vasi786-phd-thesis-latex-template-rug-propositions-1",
+  "source": "github-latex",
+  "format": "latex",
+  "category": "thesis",
+  "license": "Apache-2.0",
+  "source_url": "https://github.com/vasi786/PhD-thesis-LaTeX-template-RUG",
+  "original_author": "vasi786",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/github-latex__gh-vasi786-phd-thesis-latex-template-rug-propositions-1/propositions.tex",
+  "relative_path": "processed/latex/cross-engine/github-latex__gh-vasi786-phd-thesis-latex-template-rug-propositions-1/propositions.tex",
+  "sha256": "f65b80ba5053b04001548387e8c66b44e5d5666def66e13a7bdb0526eb8ccd46",
+  "size_bytes": 2464,
+  "document_class": "article",
+  "uses_packages": [
+    "enumitem",
+    "fontenc",
+    "geometry",
+    "inputenc",
+    "lmodern",
+    "romannum"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 261,
+  "downloaded_at": "2026-08-02T13:45:23.012Z",
+  "filtered_at": "2026-08-02T17:34:43.524Z"
+}

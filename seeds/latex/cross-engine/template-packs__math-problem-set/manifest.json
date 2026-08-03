@@ -1,0 +1,26 @@
+{
+  "id": "template-packs/math-problem-set",
+  "source": "template-packs",
+  "format": "latex",
+  "category": "coursework",
+  "category_raw": "Assignments",
+  "license": "CC0-1.0",
+  "source_url": "https://github.com/Oleafly/template-packs",
+  "original_author": "Oleafly",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/template-packs/math-problem-set/main.tex",
+  "relative_path": "raw/template-packs/math-problem-set/main.tex",
+  "main_doc": "main.tex",
+  "sha256": "1317e49e102815361678f8d96b8d90fcb90182d1f4009d4c1584b3de41de005b",
+  "size_bytes": 3226,
+  "document_class": "article",
+  "uses_packages": [
+    "amsmath",
+    "amssymb",
+    "amsthm",
+    "geometry",
+    "lmodern",
+    "xcolor"
+  ],
+  "engine_hint": "xetex",
+  "downloaded_at": "2026-08-02T13:05:15.826Z"
+}

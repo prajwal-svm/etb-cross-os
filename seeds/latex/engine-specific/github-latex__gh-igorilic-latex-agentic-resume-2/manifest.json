@@ -1,0 +1,28 @@
+{
+  "id": "github-latex/gh-igorilic-latex-agentic-resume-2",
+  "source": "github-latex",
+  "format": "latex",
+  "category": "cv",
+  "license": "MIT",
+  "source_url": "https://github.com/igorilic/latex-agentic",
+  "original_author": "igorilic",
+  "stars": 0,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-latex/gh-igorilic-latex-agentic-resume-2/resume.tex",
+  "relative_path": "raw/github-latex/gh-igorilic-latex-agentic-resume-2/resume.tex",
+  "main_doc": "resume.tex",
+  "sha256": "d2ce3f6b0b790ae485379f858dec8a9a72e0a708688db485de6f34b23de168a5",
+  "size_bytes": 8747,
+  "document_class": "article",
+  "uses_packages": [
+    "csquotes",
+    "enumitem",
+    "fontspec",
+    "geometry",
+    "hyperref",
+    "microtype",
+    "titlesec",
+    "xcolor"
+  ],
+  "repo_path": "templates/resume/resume.tex",
+  "downloaded_at": "2026-08-02T13:58:25.849Z"
+}

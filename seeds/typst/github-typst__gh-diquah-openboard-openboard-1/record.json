@@ -1,0 +1,26 @@
+{
+  "id": "github-typst/gh-diquah-openboard-openboard-1",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "coursework",
+  "license": "MIT",
+  "source_url": "https://github.com/diquah/OpenBoard",
+  "original_author": "diquah",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/github-typst__gh-diquah-openboard-openboard-1/openboard.typ",
+  "relative_path": "processed/typst/github-typst__gh-diquah-openboard-openboard-1/openboard.typ",
+  "sha256": "8800d28522c1370f75265963fd1689953bcb8db32be9d17f3c873f3153c9b524",
+  "size_bytes": 4073,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 12,
+  "downloaded_at": "2026-08-02T14:06:47.505Z",
+  "filtered_at": "2026-08-02T17:34:44.765Z"
+}

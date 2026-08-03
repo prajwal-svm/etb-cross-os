@@ -1,0 +1,42 @@
+{
+  "id": "overleaf/ol-overleaf-keyboard-shortcuts-pphdnzrwmttk",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "misc",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/overleaf-keyboard-shortcuts/pphdnzrwmttk",
+  "original_author": "Overleaf",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/overleaf__ol-overleaf-keyboard-shortcuts-pphdnzrwmttk/main.tex",
+  "relative_path": "processed/latex/cross-engine/overleaf__ol-overleaf-keyboard-shortcuts-pphdnzrwmttk/main.tex",
+  "sha256": "ac7986f31605b488077c70793386aabbe9998b838942ad7c50144f77e30a6f2f",
+  "size_bytes": 8015,
+  "document_class": "article",
+  "uses_packages": [
+    "FiraSans",
+    "booktabs",
+    "fontawesome5",
+    "fontenc",
+    "geometry",
+    "hyperref",
+    "makecell",
+    "menukeys",
+    "parskip",
+    "pgfpages",
+    "ragged2e",
+    "regexpatch",
+    "xcolor",
+    "xltabular",
+    "zi4"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 12294,
+  "downloaded_at": "2026-08-02T15:23:40.876Z",
+  "filtered_at": "2026-08-02T17:34:41.596Z"
+}

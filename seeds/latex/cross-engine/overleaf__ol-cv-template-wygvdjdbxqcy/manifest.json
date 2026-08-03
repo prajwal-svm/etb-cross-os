@@ -1,0 +1,23 @@
+{
+  "id": "overleaf/ol-cv-template-wygvdjdbxqcy",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "cv",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/cv-template/wygvdjdbxqcy",
+  "original_author": "Manuel Paul",
+  "title": "CV Template",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/overleaf/ol-cv-template-wygvdjdbxqcy/main.tex",
+  "relative_path": "raw/overleaf/ol-cv-template-wygvdjdbxqcy/main.tex",
+  "main_doc": "main.tex",
+  "sha256": "b99691762851d5a10d411ea68aa495eedbaad45fd529798b538284ea8279f224",
+  "size_bytes": 6506,
+  "document_class": "article",
+  "uses_packages": [
+    "anysize",
+    "multicol"
+  ],
+  "download_method": "view-source-modal",
+  "github_url": null,
+  "downloaded_at": "2026-08-02T14:45:42.172Z"
+}

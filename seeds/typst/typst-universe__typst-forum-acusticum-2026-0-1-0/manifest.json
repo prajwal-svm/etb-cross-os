@@ -1,0 +1,23 @@
+{
+  "id": "typst-universe/typst-forum-acusticum-2026-0-1-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "venue",
+  "license": "MIT",
+  "source_url": "https://git.iem.at/fa26-templates/fa26-typst-template",
+  "original_author": "Felix Holzmüller",
+  "package_name": "forum-acusticum-2026",
+  "package_version": "0.1.0",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/typst-universe/typst-forum-acusticum-2026-0-1-0/fa2026_template.typ",
+  "relative_path": "raw/typst-universe/typst-forum-acusticum-2026-0-1-0/fa2026_template.typ",
+  "main_doc": "fa2026_template.typ",
+  "sha256": "da497eab1eeebeb9d28af87dac2b91b0b7c9944fa8629425d0a5135886083a5f",
+  "size_bytes": 11053,
+  "document_class": null,
+  "uses_packages": [],
+  "downloaded_at": "2026-08-02T13:08:33.321Z",
+  "categories": [
+    "paper"
+  ],
+  "description": "Proceedings of the EAA Forum Acusticum 2026 conference in Graz, Austria."
+}

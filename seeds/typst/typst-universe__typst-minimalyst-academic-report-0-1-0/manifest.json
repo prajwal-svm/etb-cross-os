@@ -1,0 +1,23 @@
+{
+  "id": "typst-universe/typst-minimalyst-academic-report-0-1-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "report",
+  "license": "MIT",
+  "source_url": "https://github.com/casemiromjm/report-template",
+  "original_author": "casemiromjm",
+  "package_name": "minimalyst-academic-report",
+  "package_version": "0.1.0",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/typst-universe/typst-minimalyst-academic-report-0-1-0/main.typ",
+  "relative_path": "raw/typst-universe/typst-minimalyst-academic-report-0-1-0/main.typ",
+  "main_doc": "main.typ",
+  "sha256": "827b134e450a6e272140176eb1de0b21bd5d068e4d2b88374d667f2a46729cbe",
+  "size_bytes": 814,
+  "document_class": null,
+  "uses_packages": [],
+  "downloaded_at": "2026-08-02T13:10:32.322Z",
+  "categories": [
+    "report"
+  ],
+  "description": "A minimalyst report template for Typst"
+}

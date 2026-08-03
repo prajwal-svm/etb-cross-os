@@ -1,0 +1,26 @@
+{
+  "id": "github-typst/gh-capoo-fan-templates-lib",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "misc",
+  "license": "Apache-2.0",
+  "source_url": "https://github.com/capoo-fan/Templates",
+  "original_author": "capoo-fan",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/github-typst__gh-capoo-fan-templates-lib/lib.typ",
+  "relative_path": "processed/typst/github-typst__gh-capoo-fan-templates-lib/lib.typ",
+  "sha256": "a622ff730ea0db4a39683501de037088cea854fffbf4d861292d4f656c057ae7",
+  "size_bytes": 3357,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 11,
+  "downloaded_at": "2026-08-02T14:20:20.186Z",
+  "filtered_at": "2026-08-02T17:34:44.615Z"
+}

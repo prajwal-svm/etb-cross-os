@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-rendercv-rendercv-typst-lib",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "misc",
+  "license": "MIT",
+  "source_url": "https://github.com/rendercv/rendercv-typst",
+  "original_author": "rendercv",
+  "stars": 5,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-rendercv-rendercv-typst-lib/lib.typ",
+  "relative_path": "raw/github-typst/gh-rendercv-rendercv-typst-lib/lib.typ",
+  "main_doc": "lib.typ",
+  "sha256": "e475340481d97a7113694bcb921874e6321966a56da3c0e389db3a88e6769798",
+  "size_bytes": 26438,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "lib.typ",
+  "downloaded_at": "2026-08-02T14:07:11.632Z"
+}

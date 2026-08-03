@@ -1,0 +1,26 @@
+{
+  "id": "typst-universe/typst-simple-unibo-thesis-0-1-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "thesis",
+  "license": "MIT",
+  "source_url": "https://github.com/soliprem/unibo-thesis-template",
+  "original_author": "Francesco Prem Solidoro",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/typst-universe__typst-simple-unibo-thesis-0-1-0/main.typ",
+  "relative_path": "processed/typst/typst-universe__typst-simple-unibo-thesis-0-1-0/main.typ",
+  "sha256": "5e67f64ab974d663e433bb92af93a05c0eb8dc437d8e815317055d12d39c8dcb",
+  "size_bytes": 852,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 233,
+  "downloaded_at": "2026-08-02T13:13:05.362Z",
+  "filtered_at": "2026-08-02T17:34:44.191Z"
+}

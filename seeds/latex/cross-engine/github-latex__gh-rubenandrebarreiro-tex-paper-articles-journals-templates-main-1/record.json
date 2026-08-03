@@ -1,0 +1,34 @@
+{
+  "id": "github-latex/gh-rubenandrebarreiro-tex-paper-articles-journals-templates-main-1",
+  "source": "github-latex",
+  "format": "latex",
+  "category": "beamer",
+  "license": "MIT",
+  "source_url": "https://github.com/rubenandrebarreiro/tex-paper-articles-journals-templates",
+  "original_author": "rubenandrebarreiro",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/github-latex__gh-rubenandrebarreiro-tex-paper-articles-journals-templates-main-1/main.tex",
+  "relative_path": "processed/latex/cross-engine/github-latex__gh-rubenandrebarreiro-tex-paper-articles-journals-templates-main-1/main.tex",
+  "sha256": "368f709f1fa1dd9995d99b5b95efcbef0de51834f76331f173773c6706285345",
+  "size_bytes": 1550,
+  "document_class": "article",
+  "uses_packages": [
+    "amssymb",
+    "enumitem",
+    "geometry",
+    "inputenc",
+    "pifont",
+    "ragged2e",
+    "times"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 264,
+  "downloaded_at": "2026-08-02T13:23:08.415Z",
+  "filtered_at": "2026-08-02T17:34:43.302Z"
+}

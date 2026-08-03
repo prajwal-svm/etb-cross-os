@@ -1,0 +1,26 @@
+{
+  "id": "typst-universe/typst-pro-letter-0-1-1",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "business",
+  "license": "MIT",
+  "source_url": "https://github.com/swaits/typst-collection",
+  "original_author": "Stephen Waits",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/typst-universe__typst-pro-letter-0-1-1/main.typ",
+  "relative_path": "processed/typst/typst-universe__typst-pro-letter-0-1-1/main.typ",
+  "sha256": "62de9a02560a048e3bf9ebd3fc47e3270e31ee6ce2661533b23f65da7b5d3aa2",
+  "size_bytes": 1187,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 184,
+  "downloaded_at": "2026-08-02T13:12:15.839Z",
+  "filtered_at": "2026-08-02T17:34:44.130Z"
+}

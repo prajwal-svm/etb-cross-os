@@ -1,0 +1,26 @@
+{
+  "id": "typst-universe/typst-pesha-0-4-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "cv",
+  "license": "MIT-0",
+  "source_url": "https://github.com/talal/pesha",
+  "original_author": "Muhammad Talal Anwar",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/typst-universe__typst-pesha-0-4-0/main.typ",
+  "relative_path": "processed/typst/typst-universe__typst-pesha-0-4-0/main.typ",
+  "sha256": "95d48cba03107c6f1854c73b1f808598856b3c3a294122089692fec0dcff1951",
+  "size_bytes": 1585,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 187,
+  "downloaded_at": "2026-08-02T13:12:01.984Z",
+  "filtered_at": "2026-08-02T17:34:44.106Z"
+}

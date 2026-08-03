@@ -1,0 +1,32 @@
+{
+  "id": "overleaf/ol-uno-lesson-plan-template-zrdctzqntrvg",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "misc",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/uno-lesson-plan-template/zrdctzqntrvg",
+  "original_author": "Courtney Cutler and Evie Harvey",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/overleaf__ol-uno-lesson-plan-template-zrdctzqntrvg/main.tex",
+  "relative_path": "processed/latex/cross-engine/overleaf__ol-uno-lesson-plan-template-zrdctzqntrvg/main.tex",
+  "sha256": "6a528c7f0358c0bc201c8279181b7f4043f8f8af15d08bd369d810dd52483812",
+  "size_bytes": 7976,
+  "document_class": "article",
+  "uses_packages": [
+    "array",
+    "geometry",
+    "longtable",
+    "titlesec",
+    "ulem"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 278,
+  "downloaded_at": "2026-08-02T15:25:26.048Z",
+  "filtered_at": "2026-08-02T17:34:42.114Z"
+}

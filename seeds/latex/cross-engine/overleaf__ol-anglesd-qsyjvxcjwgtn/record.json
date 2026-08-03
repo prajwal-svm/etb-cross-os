@@ -1,0 +1,28 @@
+{
+  "id": "overleaf/ol-anglesd-qsyjvxcjwgtn",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "misc",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/anglesd/qsyjvxcjwgtn",
+  "original_author": "ImJaviPerez@gmail.com",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/overleaf__ol-anglesd-qsyjvxcjwgtn/main.tex",
+  "relative_path": "processed/latex/cross-engine/overleaf__ol-anglesd-qsyjvxcjwgtn/main.tex",
+  "sha256": "0d1d97d6a197d1ffe28d205f638d98dfb0fe3f8a30dc1d51fcaa1b89906b4b25",
+  "size_bytes": 3166,
+  "document_class": "beamer",
+  "uses_packages": [
+    "tikz"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 1547,
+  "downloaded_at": "2026-08-02T15:21:25.399Z",
+  "filtered_at": "2026-08-02T17:34:40.929Z"
+}

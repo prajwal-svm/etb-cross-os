@@ -1,0 +1,25 @@
+{
+  "id": "template-packs/invoice",
+  "source": "template-packs",
+  "format": "latex",
+  "category": "business",
+  "category_raw": "Business",
+  "license": "CC0-1.0",
+  "source_url": "https://github.com/Oleafly/template-packs",
+  "original_author": "Oleafly",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/template-packs/invoice/main.tex",
+  "relative_path": "raw/template-packs/invoice/main.tex",
+  "main_doc": "main.tex",
+  "sha256": "2548b2dae7243f05105ab98fa6dfdafeb4605301577b7738392aeaabf144f3eb",
+  "size_bytes": 2507,
+  "document_class": "article",
+  "uses_packages": [
+    "booktabs",
+    "geometry",
+    "sourcesanspro",
+    "tabularx",
+    "xcolor"
+  ],
+  "engine_hint": "xetex",
+  "downloaded_at": "2026-08-02T13:05:15.788Z"
+}

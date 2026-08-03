@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-denebium-template-typst-thesis-ed-svs-cover-bg-2",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "thesis",
+  "license": "CC0-1.0",
+  "source_url": "https://github.com/Denebium/template_typst_thesis_ED_SVS",
+  "original_author": "Denebium",
+  "stars": 0,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-denebium-template-typst-thesis-ed-svs-cover-bg-2/cover-bg.typ",
+  "relative_path": "raw/github-typst/gh-denebium-template-typst-thesis-ed-svs-cover-bg-2/cover-bg.typ",
+  "main_doc": "cover-bg.typ",
+  "sha256": "e39f40bb1ec740bfc2c4023c9b0003a87d4f0d42558d53c12ae78499c6dbac36",
+  "size_bytes": 29027,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "scripts/cover-bg.typ",
+  "downloaded_at": "2026-08-02T14:20:51.442Z"
+}

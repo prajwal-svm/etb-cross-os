@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-cocoveal-aero-dhbw-declaration-1",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "venue",
+  "license": "MIT",
+  "source_url": "https://github.com/cocoveal/aero-dhbw",
+  "original_author": "cocoveal",
+  "stars": 0,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-cocoveal-aero-dhbw-declaration-1/declaration.typ",
+  "relative_path": "raw/github-typst/gh-cocoveal-aero-dhbw-declaration-1/declaration.typ",
+  "main_doc": "declaration.typ",
+  "sha256": "5c528119754aceceb271960a517e24a3d4db7132a1b2837b303a81c625bd450c",
+  "size_bytes": 4004,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "src/declaration.typ",
+  "downloaded_at": "2026-08-02T14:14:06.311Z"
+}

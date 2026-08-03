@@ -1,0 +1,26 @@
+{
+  "id": "template-packs/hipster-style-cv",
+  "source": "template-packs",
+  "format": "latex",
+  "category": "cv",
+  "category_raw": "CVs & Resumes",
+  "license": "CC0-1.0",
+  "source_url": "https://github.com/Oleafly/template-packs",
+  "original_author": "Oleafly",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/template-packs/hipster-style-cv/main.tex",
+  "relative_path": "raw/template-packs/hipster-style-cv/main.tex",
+  "main_doc": "main.tex",
+  "sha256": "29c36251a2fe95bfbc87c00bcd78e383656f655bad8d874d8ee3feb389a86f9c",
+  "size_bytes": 2660,
+  "document_class": "article",
+  "uses_packages": [
+    "enumitem",
+    "geometry",
+    "hyperref",
+    "paracol",
+    "tikz",
+    "xcolor"
+  ],
+  "engine_hint": "xetex",
+  "downloaded_at": "2026-08-02T13:05:15.844Z"
+}

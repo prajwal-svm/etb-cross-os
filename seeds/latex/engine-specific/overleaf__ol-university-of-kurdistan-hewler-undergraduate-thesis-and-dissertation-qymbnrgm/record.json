@@ -1,0 +1,26 @@
+{
+  "id": "overleaf/ol-university-of-kurdistan-hewler-undergraduate-thesis-and-dissertation-qymbnrgm",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "thesis",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/university-of-kurdistan-hewler-undergraduate-thesis-and-dissertation/qymbnrgmvdcn",
+  "original_author": "Muhammad Nawzad",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/engine-specific/overleaf__ol-university-of-kurdistan-hewler-undergraduate-thesis-and-dissertation-qymbnrgm/main.tex",
+  "relative_path": "processed/latex/engine-specific/overleaf__ol-university-of-kurdistan-hewler-undergraduate-thesis-and-dissertation-qymbnrgm/main.tex",
+  "sha256": "8c4e9900e82717e9f56f1aa3ecc97fc5222f8c7fdc908b41327c437e8be6801e",
+  "size_bytes": 1118,
+  "document_class": "ukhthesis",
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": false
+  },
+  "engine_class": "engine-specific",
+  "compile_time_ms": 1386,
+  "downloaded_at": "2026-08-02T15:36:06.721Z",
+  "filtered_at": "2026-08-02T17:34:42.105Z"
+}

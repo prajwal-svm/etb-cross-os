@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-zagoli-simple-typst-thesis-template",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "thesis",
+  "license": "Apache-2.0",
+  "source_url": "https://github.com/zagoli/simple-typst-thesis",
+  "original_author": "zagoli",
+  "stars": 63,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-zagoli-simple-typst-thesis-template/template.typ",
+  "relative_path": "raw/github-typst/gh-zagoli-simple-typst-thesis-template/template.typ",
+  "main_doc": "template.typ",
+  "sha256": "79d78fe1fc2dda7223d462b337b3cbd1bac09d6fa71f3b09edfa972e315f8050",
+  "size_bytes": 3289,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "template.typ",
+  "downloaded_at": "2026-08-02T14:03:45.859Z"
+}

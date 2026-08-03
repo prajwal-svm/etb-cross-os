@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-birsax2-au-slides-utils-2",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "beamer",
+  "license": "MIT",
+  "source_url": "https://github.com/BIRSAx2/au-slides",
+  "original_author": "BIRSAx2",
+  "stars": 2,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-birsax2-au-slides-utils-2/utils.typ",
+  "relative_path": "raw/github-typst/gh-birsax2-au-slides-utils-2/utils.typ",
+  "main_doc": "utils.typ",
+  "sha256": "e577af0cad0b25c5c8c03ef14c6fc9331c6b3920cc6f66d4cee1901fe88da8a9",
+  "size_bytes": 4090,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "src/utils.typ",
+  "downloaded_at": "2026-08-02T14:10:43.583Z"
+}

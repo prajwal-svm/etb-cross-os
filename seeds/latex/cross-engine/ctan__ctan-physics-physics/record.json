@@ -1,0 +1,36 @@
+{
+  "id": "ctan/ctan-physics-physics",
+  "source": "ctan",
+  "format": "latex",
+  "category": "package-example",
+  "license": "LPPL-1.3c",
+  "source_url": "https://ctan.org/pkg/physics",
+  "original_author": "CTAN package: physics",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/ctan__ctan-physics-physics/physics.tex",
+  "relative_path": "processed/latex/cross-engine/ctan__ctan-physics-physics/physics.tex",
+  "sha256": "20c689af8f3ea0a8ad328946bbd9f1376fd36024271e63f6ac902f732a568e82",
+  "size_bytes": 26241,
+  "document_class": "article",
+  "uses_packages": [
+    "amssymb",
+    "array",
+    "fullpage",
+    "hyperref",
+    "longtable",
+    "multirow",
+    "parskip",
+    "physics",
+    "xcolor"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 794,
+  "downloaded_at": "2026-08-02T13:04:48.583Z",
+  "filtered_at": "2026-08-02T17:34:42.358Z"
+}

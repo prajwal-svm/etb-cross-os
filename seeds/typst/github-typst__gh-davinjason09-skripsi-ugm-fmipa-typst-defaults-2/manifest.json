@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-davinjason09-skripsi-ugm-fmipa-typst-defaults-2",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "misc",
+  "license": "MIT",
+  "source_url": "https://github.com/davinjason09/skripsi-ugm-fmipa-typst",
+  "original_author": "davinjason09",
+  "stars": 2,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-davinjason09-skripsi-ugm-fmipa-typst-defaults-2/defaults.typ",
+  "relative_path": "raw/github-typst/gh-davinjason09-skripsi-ugm-fmipa-typst-defaults-2/defaults.typ",
+  "main_doc": "defaults.typ",
+  "sha256": "d88a1e308e95e2270d9967d7f2192020393edf28a83a21a190fea525a1959521",
+  "size_bytes": 1054,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "core/defaults.typ",
+  "downloaded_at": "2026-08-02T14:10:03.227Z"
+}

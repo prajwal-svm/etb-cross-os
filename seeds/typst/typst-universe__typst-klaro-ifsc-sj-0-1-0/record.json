@@ -1,0 +1,26 @@
+{
+  "id": "typst-universe/typst-klaro-ifsc-sj-0-1-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "report",
+  "license": "MIT-0",
+  "source_url": "https://github.com/gabrielluizep/klaro-ifsc-sj",
+  "original_author": "Gabriel Luiz Espindola Pedro",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/typst-universe__typst-klaro-ifsc-sj-0-1-0/main.typ",
+  "relative_path": "processed/typst/typst-universe__typst-klaro-ifsc-sj-0-1-0/main.typ",
+  "sha256": "6203d84bba8d67d5dce14ce771377b4c9b78e41d744ddb00b504efc109fb1fbb",
+  "size_bytes": 454,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 209,
+  "downloaded_at": "2026-08-02T13:09:46.597Z",
+  "filtered_at": "2026-08-02T17:34:43.936Z"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "overleaf/ol-monografia-eca-hyycmsvqhxwp",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "misc",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/monografia-eca/hyycmsvqhxwp",
+  "original_author": "Werner Andrade",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/engine-specific/overleaf__ol-monografia-eca-hyycmsvqhxwp/main.tex",
+  "relative_path": "processed/latex/engine-specific/overleaf__ol-monografia-eca-hyycmsvqhxwp/main.tex",
+  "sha256": "3bb6e1ffbf0e446bd7ae87ee9e695696827f3f17bfb1424b843dc0d2d30b955d",
+  "size_bytes": 1544,
+  "document_class": "book",
+  "uses_packages": [
+    "abntex2abrev",
+    "amsfonts",
+    "amsmath",
+    "amsthm",
+    "babel",
+    "color",
+    "epsfig",
+    "float",
+    "fontenc",
+    "geometry",
+    "graphicx",
+    "hyperref",
+    "inputenc",
+    "latexsym",
+    "quotes",
+    "times"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": false
+  },
+  "engine_class": "engine-specific",
+  "compile_time_ms": 638,
+  "downloaded_at": "2026-08-02T15:49:58.540Z",
+  "filtered_at": "2026-08-02T17:34:41.495Z"
+}

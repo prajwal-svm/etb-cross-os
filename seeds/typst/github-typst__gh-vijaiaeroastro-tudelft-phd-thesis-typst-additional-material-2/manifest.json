@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-vijaiaeroastro-tudelft-phd-thesis-typst-additional-material-2",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "thesis",
+  "license": "MIT",
+  "source_url": "https://github.com/vijaiaeroastro/tudelft-phd-thesis-typst",
+  "original_author": "vijaiaeroastro",
+  "stars": 0,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-vijaiaeroastro-tudelft-phd-thesis-typst-additional-material-2/additional-material.typ",
+  "relative_path": "raw/github-typst/gh-vijaiaeroastro-tudelft-phd-thesis-typst-additional-material-2/additional-material.typ",
+  "main_doc": "additional-material.typ",
+  "sha256": "d89710deafb2aa2502e5ec9c23ea425be7ef232fb2eb91ab895484f11abe3762",
+  "size_bytes": 207,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "example/appendices/additional-material.typ",
+  "downloaded_at": "2026-08-02T14:19:07.844Z"
+}

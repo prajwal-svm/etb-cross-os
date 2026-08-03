@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-jcmx9-typst-din5008a-example-pandoc-2",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "coursework",
+  "license": "MIT",
+  "source_url": "https://github.com/jcmx9/typst-DIN5008a",
+  "original_author": "jcmx9",
+  "stars": 1,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-jcmx9-typst-din5008a-example-pandoc-2/example-pandoc.typ",
+  "relative_path": "raw/github-typst/gh-jcmx9-typst-din5008a-example-pandoc-2/example-pandoc.typ",
+  "main_doc": "example-pandoc.typ",
+  "sha256": "064fa733bd4390434eb3f3f0e1834bf69b9220ff74a19f3e16cff1f146f7564d",
+  "size_bytes": 2226,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "template/example-pandoc.typ",
+  "downloaded_at": "2026-08-02T14:12:22.127Z"
+}

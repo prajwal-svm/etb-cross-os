@@ -1,0 +1,26 @@
+{
+  "id": "typst-universe/typst-delegis-0-4-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "business",
+  "license": "MIT",
+  "source_url": "https://github.com/wuespace/delegis",
+  "original_author": "WüSpace e. V.",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/typst-universe__typst-delegis-0-4-0/main.typ",
+  "relative_path": "processed/typst/typst-universe__typst-delegis-0-4-0/main.typ",
+  "sha256": "02d8bba6c67eb5787a8deccd35c6a653c8f49f3aed6e9934237d6c0f48a27901",
+  "size_bytes": 1287,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 234,
+  "downloaded_at": "2026-08-02T13:07:42.579Z",
+  "filtered_at": "2026-08-02T17:34:43.775Z"
+}

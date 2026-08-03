@@ -1,0 +1,30 @@
+{
+  "id": "overleaf/ol-template-math-formulas-and-equations-bmncrnnjbbxs",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "misc",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/template-math-formulas-and-equations/bmncrnnjbbxs",
+  "original_author": "Jose Perez",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/overleaf__ol-template-math-formulas-and-equations-bmncrnnjbbxs/main.tex",
+  "relative_path": "processed/latex/cross-engine/overleaf__ol-template-math-formulas-and-equations-bmncrnnjbbxs/main.tex",
+  "sha256": "535d8aab096a000e69a10e683a5c6203e1fcb567c36a215a098e25f4d881f4eb",
+  "size_bytes": 1625,
+  "document_class": "article",
+  "uses_packages": [
+    "amsfonts",
+    "amsmath",
+    "amssymb"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 251,
+  "downloaded_at": "2026-08-02T14:58:36.874Z",
+  "filtered_at": "2026-08-02T17:34:41.938Z"
+}

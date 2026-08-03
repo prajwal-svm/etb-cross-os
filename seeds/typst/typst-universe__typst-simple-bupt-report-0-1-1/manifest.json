@@ -1,0 +1,23 @@
+{
+  "id": "typst-universe/typst-simple-bupt-report-0-1-1",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "report",
+  "license": "MIT",
+  "source_url": "https://github.com/zhao-leo/BUPT-Report-Typst",
+  "original_author": "April",
+  "package_name": "simple-bupt-report",
+  "package_version": "0.1.1",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/typst-universe/typst-simple-bupt-report-0-1-1/main.typ",
+  "relative_path": "raw/typst-universe/typst-simple-bupt-report-0-1-1/main.typ",
+  "main_doc": "main.typ",
+  "sha256": "40eaa93f96c8f879244e3ede1fcf8132f0a34c3dda3ffe96bf986e0a0e592dc0",
+  "size_bytes": 1377,
+  "document_class": null,
+  "uses_packages": [],
+  "downloaded_at": "2026-08-02T13:12:55.716Z",
+  "categories": [
+    "report"
+  ],
+  "description": "一份简单的北邮实验报告模板 Simple BUPT Report"
+}

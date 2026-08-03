@@ -1,0 +1,25 @@
+{
+  "id": "template-packs/springer-lncs-style",
+  "source": "template-packs",
+  "format": "latex",
+  "category": "venue",
+  "category_raw": "Journals & Conferences",
+  "license": "CC0-1.0",
+  "source_url": "https://github.com/Oleafly/template-packs",
+  "original_author": "Oleafly",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/template-packs/springer-lncs-style/main.tex",
+  "relative_path": "raw/template-packs/springer-lncs-style/main.tex",
+  "main_doc": "main.tex",
+  "sha256": "ec2296b23fb51b654ef122493250e74a522a98fddb8edd9d2d617e3e80d65037",
+  "size_bytes": 3875,
+  "document_class": "article",
+  "uses_packages": [
+    "amsmath",
+    "fancyhdr",
+    "geometry",
+    "lmodern",
+    "titlesec"
+  ],
+  "engine_hint": "xetex",
+  "downloaded_at": "2026-08-02T13:05:15.812Z"
+}

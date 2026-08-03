@@ -1,0 +1,35 @@
+{
+  "id": "github-latex/gh-igorilic-latex-agentic-resume-2",
+  "source": "github-latex",
+  "format": "latex",
+  "category": "cv",
+  "license": "MIT",
+  "source_url": "https://github.com/igorilic/latex-agentic",
+  "original_author": "igorilic",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/engine-specific/github-latex__gh-igorilic-latex-agentic-resume-2/resume.tex",
+  "relative_path": "processed/latex/engine-specific/github-latex__gh-igorilic-latex-agentic-resume-2/resume.tex",
+  "sha256": "d2ce3f6b0b790ae485379f858dec8a9a72e0a708688db485de6f34b23de168a5",
+  "size_bytes": 8747,
+  "document_class": "article",
+  "uses_packages": [
+    "csquotes",
+    "enumitem",
+    "fontspec",
+    "geometry",
+    "hyperref",
+    "microtype",
+    "titlesec",
+    "xcolor"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": false,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "engine-specific",
+  "compile_time_ms": 593,
+  "downloaded_at": "2026-08-02T13:58:25.849Z",
+  "filtered_at": "2026-08-02T17:34:42.889Z"
+}

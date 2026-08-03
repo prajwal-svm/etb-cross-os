@@ -1,0 +1,32 @@
+{
+  "id": "overleaf/ol-template-voor-een-onderzoeksverslag-xjswxwcttgsj",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "misc",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/template-voor-een-onderzoeksverslag/xjswxwcttgsj",
+  "original_author": "G. Bouma",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/overleaf__ol-template-voor-een-onderzoeksverslag-xjswxwcttgsj/main.tex",
+  "relative_path": "processed/latex/cross-engine/overleaf__ol-template-voor-een-onderzoeksverslag-xjswxwcttgsj/main.tex",
+  "sha256": "608fd7d9afae420902edabf80b852683a1c6c64a4b66ee6b4036059f77c9f172",
+  "size_bytes": 2808,
+  "document_class": "article",
+  "uses_packages": [
+    "a4wide",
+    "babel",
+    "booktabs",
+    "hyperref",
+    "inputenc"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 353,
+  "downloaded_at": "2026-08-02T13:34:56.052Z",
+  "filtered_at": "2026-08-02T17:34:41.962Z"
+}

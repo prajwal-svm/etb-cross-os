@@ -1,0 +1,24 @@
+{
+  "id": "typst-universe/typst-quizforge-0-1-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "coursework",
+  "license": "MIT",
+  "source_url": "https://github.com/nipunbatra/quizforge",
+  "original_author": "Nipun Batra",
+  "package_name": "quizforge",
+  "package_version": "0.1.0",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/typst-universe/typst-quizforge-0-1-0/main.typ",
+  "relative_path": "raw/typst-universe/typst-quizforge-0-1-0/main.typ",
+  "main_doc": "main.typ",
+  "sha256": "1cacaf3e7b9f60987b4e38769c4c17c6daffc620b1c0ab33f7f45ea9d66d16a0",
+  "size_bytes": 900,
+  "document_class": null,
+  "uses_packages": [],
+  "downloaded_at": "2026-08-02T13:12:23.708Z",
+  "categories": [
+    "components",
+    "utility"
+  ],
+  "description": "Randomized exam sets from one source: shuffle question and MCQ option order per set deterministically, with auto-generated answer keys and machine-readable grading metadata"
+}

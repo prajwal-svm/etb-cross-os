@@ -1,0 +1,34 @@
+{
+  "id": "overleaf/ol-kaufvertrag-qhghqwtywrsv",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "misc",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/kaufvertrag/qhghqwtywrsv",
+  "original_author": "Paul Peyrot",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/overleaf__ol-kaufvertrag-qhghqwtywrsv/main.tex",
+  "relative_path": "processed/latex/cross-engine/overleaf__ol-kaufvertrag-qhghqwtywrsv/main.tex",
+  "sha256": "ecfb00ef8920b8ffa84a21b6c0799cb96d164c392efd6f3673c5b50555971601",
+  "size_bytes": 11404,
+  "document_class": "scrreprt",
+  "uses_packages": [
+    "babel",
+    "color",
+    "fontenc",
+    "geometry",
+    "inputenc",
+    "lmodern",
+    "scrjura"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 1129,
+  "downloaded_at": "2026-08-02T15:56:45.362Z",
+  "filtered_at": "2026-08-02T17:34:41.291Z"
+}

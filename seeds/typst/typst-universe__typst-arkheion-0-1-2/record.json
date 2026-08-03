@@ -1,0 +1,26 @@
+{
+  "id": "typst-universe/typst-arkheion-0-1-2",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "venue",
+  "license": "MIT",
+  "source_url": "https://github.com/mgoulao/arkheion",
+  "original_author": "Manuel Goulão",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/typst-universe__typst-arkheion-0-1-2/main.typ",
+  "relative_path": "processed/typst/typst-universe__typst-arkheion-0-1-2/main.typ",
+  "sha256": "f7f711c546b4583e0513dcb9075612efe6eef0589a1b5928a08f84c57781661d",
+  "size_bytes": 2730,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 241,
+  "downloaded_at": "2026-08-02T13:05:48.669Z",
+  "filtered_at": "2026-08-02T17:34:43.616Z"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "github-latex/gh-bamos-latex-templates-hw-2",
+  "source": "github-latex",
+  "format": "latex",
+  "category": "misc",
+  "license": "MIT",
+  "source_url": "https://github.com/bamos/latex-templates",
+  "original_author": "bamos",
+  "stars": 368,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-latex/gh-bamos-latex-templates-hw-2/hw.tex",
+  "relative_path": "raw/github-latex/gh-bamos-latex-templates-hw-2/hw.tex",
+  "main_doc": "hw.tex",
+  "sha256": "524ad6388840347d55d262f0fc1891bedc483063633277ee3b75bfee37ba8252",
+  "size_bytes": 1069,
+  "document_class": "article",
+  "uses_packages": [
+    "color",
+    "enumitem",
+    "fancyhdr",
+    "fontenc",
+    "framed",
+    "geometry",
+    "lastpage",
+    "listings",
+    "textcomp"
+  ],
+  "repo_path": "latex-templates/hw/hw.tex",
+  "downloaded_at": "2026-08-02T13:11:54.902Z"
+}

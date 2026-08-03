@@ -1,0 +1,23 @@
+{
+  "id": "typst-universe/typst-clearly-hm-0-1-1",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "beamer",
+  "license": "MIT",
+  "source_url": "https://github.com/towoe/clearly-hm",
+  "original_author": "Tobias Wölfel",
+  "package_name": "clearly-hm",
+  "package_version": "0.1.1",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/typst-universe/typst-clearly-hm-0-1-1/slides.typ",
+  "relative_path": "raw/typst-universe/typst-clearly-hm-0-1-1/slides.typ",
+  "main_doc": "slides.typ",
+  "sha256": "cb608f168b6f58078995c696a7e3d1268d7bea2e44e3fdedb433b58a9435a10c",
+  "size_bytes": 206,
+  "document_class": null,
+  "uses_packages": [],
+  "downloaded_at": "2026-08-02T13:07:11.836Z",
+  "categories": [
+    "presentation"
+  ],
+  "description": "Unofficial Polylux theme for HM Hochschule München University of Applied Sciences."
+}

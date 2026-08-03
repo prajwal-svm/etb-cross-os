@@ -1,0 +1,26 @@
+{
+  "id": "github-typst/gh-a-kkiri-heu-report-typst-template",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "report",
+  "license": "Apache-2.0",
+  "source_url": "https://github.com/a-kkiri/HEU-Report-Typst",
+  "original_author": "a-kkiri",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/github-typst__gh-a-kkiri-heu-report-typst-template/template.typ",
+  "relative_path": "processed/typst/github-typst__gh-a-kkiri-heu-report-typst-template/template.typ",
+  "sha256": "646207d2e25f65364bca7f259b782e5c2359e42c74e5719ae82a3aea0ff71aa7",
+  "size_bytes": 4547,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 10,
+  "downloaded_at": "2026-08-02T14:07:48.308Z",
+  "filtered_at": "2026-08-02T17:34:44.443Z"
+}

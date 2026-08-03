@@ -1,0 +1,23 @@
+{
+  "id": "typst-universe/typst-simple-cheatsheet-0-1-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "creative",
+  "license": "MIT-0",
+  "source_url": "https://github.com/stanlrt/typst-simple-cheatsheet",
+  "original_author": "Stanislas Laurent",
+  "package_name": "simple-cheatsheet",
+  "package_version": "0.1.0",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/typst-universe/typst-simple-cheatsheet-0-1-0/main.typ",
+  "relative_path": "raw/typst-universe/typst-simple-cheatsheet-0-1-0/main.typ",
+  "main_doc": "main.typ",
+  "sha256": "d0cfcc6737f1388593c7bbb1707e013064676123dd85d8a62a9c273e59c76015",
+  "size_bytes": 7211,
+  "document_class": null,
+  "uses_packages": [],
+  "downloaded_at": "2026-08-02T13:12:56.421Z",
+  "categories": [
+    "flyer"
+  ],
+  "description": "Simple, customisable cheatsheet for exams and study notes."
+}

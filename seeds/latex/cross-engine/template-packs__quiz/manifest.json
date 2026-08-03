@@ -1,0 +1,27 @@
+{
+  "id": "template-packs/quiz",
+  "source": "template-packs",
+  "format": "latex",
+  "category": "coursework",
+  "category_raw": "Assignments",
+  "license": "CC0-1.0",
+  "source_url": "https://github.com/Oleafly/template-packs",
+  "original_author": "Oleafly",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/template-packs/quiz/main.tex",
+  "relative_path": "raw/template-packs/quiz/main.tex",
+  "main_doc": "main.tex",
+  "sha256": "0c3d8efd1f7679f13f620390320bfc16b01d9daeba637ad30d91e56b0094fe48",
+  "size_bytes": 2267,
+  "document_class": "article",
+  "uses_packages": [
+    "amsmath",
+    "amssymb",
+    "enumitem",
+    "geometry",
+    "lmodern",
+    "tcolorbox",
+    "xcolor"
+  ],
+  "engine_hint": "xetex",
+  "downloaded_at": "2026-08-02T13:05:15.826Z"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "github-latex/gh-kr4is-cv-cv",
+  "source": "github-latex",
+  "format": "latex",
+  "category": "cv",
+  "license": "MIT",
+  "source_url": "https://github.com/Kr4is/cv",
+  "original_author": "Kr4is",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/github-latex__gh-kr4is-cv-cv/cv.tex",
+  "relative_path": "processed/latex/cross-engine/github-latex__gh-kr4is-cv-cv/cv.tex",
+  "sha256": "e76d682ef027b1e6ebb3568e102187ec8af0c9255e07d57403a8a74933e27066",
+  "size_bytes": 7845,
+  "document_class": "article",
+  "uses_packages": [
+    "babel",
+    "color",
+    "enumitem",
+    "fancyhdr",
+    "fullpage",
+    "hyperref",
+    "latexsym",
+    "marvosym",
+    "sourcesanspro",
+    "tabularx",
+    "titlesec",
+    "verbatim"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 688,
+  "downloaded_at": "2026-08-02T13:51:00.780Z",
+  "filtered_at": "2026-08-02T17:34:43.022Z"
+}

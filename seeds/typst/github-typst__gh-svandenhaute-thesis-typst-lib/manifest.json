@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-svandenhaute-thesis-typst-lib",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "thesis",
+  "license": "MIT",
+  "source_url": "https://github.com/svandenhaute/thesis_typst",
+  "original_author": "svandenhaute",
+  "stars": 2,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-svandenhaute-thesis-typst-lib/lib.typ",
+  "relative_path": "raw/github-typst/gh-svandenhaute-thesis-typst-lib/lib.typ",
+  "main_doc": "lib.typ",
+  "sha256": "f6bfca3ddce9d1f42df06a2fcca7b1dd2dd68ede00b25c11127de6def074cd9d",
+  "size_bytes": 13438,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "lib.typ",
+  "downloaded_at": "2026-08-02T14:10:57.748Z"
+}

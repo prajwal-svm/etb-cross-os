@@ -1,0 +1,24 @@
+{
+  "id": "typst-universe/typst-touying-quick-0-4-2",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "beamer",
+  "license": "MIT",
+  "source_url": "https://github.com/ivaquero/touying-quick.git",
+  "original_author": "ivaquero",
+  "package_name": "touying-quick",
+  "package_version": "0.4.2",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/typst-universe/typst-touying-quick-0-4-2/main.typ",
+  "relative_path": "raw/typst-universe/typst-touying-quick-0-4-2/main.typ",
+  "main_doc": "main.typ",
+  "sha256": "f0fb94c5006e53a57eaf4bd4c581a904379f58363fcd8cc9a9caf30381fddfe9",
+  "size_bytes": 241,
+  "document_class": null,
+  "uses_packages": [],
+  "downloaded_at": "2026-08-02T13:14:15.229Z",
+  "categories": [
+    "presentation",
+    "layout"
+  ],
+  "description": "A quick-start template based on touying for academic reports"
+}

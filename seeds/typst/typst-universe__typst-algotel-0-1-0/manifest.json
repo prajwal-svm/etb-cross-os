@@ -1,0 +1,23 @@
+{
+  "id": "typst-universe/typst-algotel-0-1-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "venue",
+  "license": "MIT",
+  "source_url": "https://github.com/balouf/algotel",
+  "original_author": "Fabien Mathieu",
+  "package_name": "algotel",
+  "package_version": "0.1.0",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/typst-universe/typst-algotel-0-1-0/main.typ",
+  "relative_path": "raw/typst-universe/typst-algotel-0-1-0/main.typ",
+  "main_doc": "main.typ",
+  "sha256": "624b20ab3636e028e13b5d8679fe1ceae61404c6f6f9a999cfdbc8d9eaab79b9",
+  "size_bytes": 1189,
+  "document_class": null,
+  "uses_packages": [],
+  "downloaded_at": "2026-08-02T13:05:41.479Z",
+  "categories": [
+    "paper"
+  ],
+  "description": "Template for AlgoTel/CoRes conference submissions."
+}

@@ -1,0 +1,23 @@
+{
+  "id": "typst-universe/typst-simply-ysu-touying-0-1-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "beamer",
+  "license": "MIT",
+  "source_url": "https://github.com/bahayonghang/simply-ysu-touying",
+  "original_author": "Geekyhang",
+  "package_name": "simply-ysu-touying",
+  "package_version": "0.1.0",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/typst-universe/typst-simply-ysu-touying-0-1-0/main.typ",
+  "relative_path": "raw/typst-universe/typst-simply-ysu-touying-0-1-0/main.typ",
+  "main_doc": "main.typ",
+  "sha256": "13194c7c208da474d9843d712b2c71a2afa73de8d6cfd0675955b19ab37c704a",
+  "size_bytes": 961,
+  "document_class": null,
+  "uses_packages": [],
+  "downloaded_at": "2026-08-02T13:13:09.328Z",
+  "categories": [
+    "presentation"
+  ],
+  "description": "Yanshan University slides with Touying."
+}

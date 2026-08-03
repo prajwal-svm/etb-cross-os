@@ -1,0 +1,23 @@
+{
+  "id": "github-latex/gh-gkochans-legal-brief-using-latex-briefbkgd",
+  "source": "github-latex",
+  "format": "latex",
+  "category": "misc",
+  "license": "MIT",
+  "source_url": "https://github.com/gkochans/Legal_Brief_Using_LaTeX",
+  "original_author": "gkochans",
+  "stars": 45,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-latex/gh-gkochans-legal-brief-using-latex-briefbkgd/BriefBkgd.tex",
+  "relative_path": "raw/github-latex/gh-gkochans-legal-brief-using-latex-briefbkgd/BriefBkgd.tex",
+  "main_doc": "BriefBkgd.tex",
+  "sha256": "0895e2e3406759dae7990d705d4e0c11edabbd4de4133507ee682cf70815d04e",
+  "size_bytes": 728,
+  "document_class": "article",
+  "uses_packages": [
+    "background",
+    "geometry",
+    "setspace"
+  ],
+  "repo_path": "BriefBkgd.tex",
+  "downloaded_at": "2026-08-02T13:14:31.281Z"
+}

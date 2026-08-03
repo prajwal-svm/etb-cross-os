@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-kazuyanagimoto-template-research-typst-template",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "beamer",
+  "license": "MIT",
+  "source_url": "https://github.com/kazuyanagimoto/template-research",
+  "original_author": "kazuyanagimoto",
+  "stars": 0,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-kazuyanagimoto-template-research-typst-template/typst-template.typ",
+  "relative_path": "raw/github-typst/gh-kazuyanagimoto-template-research-typst-template/typst-template.typ",
+  "main_doc": "typst-template.typ",
+  "sha256": "54a9bc93637d8ca2aef83738f88970bfe2b3ca0ac1d66c0bbc4633984f6d58b8",
+  "size_bytes": 5398,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "slides/_extensions/kazuyanagimoto/touying/typst-template.typ",
+  "downloaded_at": "2026-08-02T14:19:02.333Z"
+}

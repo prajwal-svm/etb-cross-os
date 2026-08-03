@@ -1,0 +1,26 @@
+{
+  "id": "typst-universe/typst-pepentation-0-2-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "beamer",
+  "license": "MIT",
+  "source_url": "https://github.com/pepengu/pepentation",
+  "original_author": "Pepengu",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/typst-universe__typst-pepentation-0-2-0/main.typ",
+  "relative_path": "processed/typst/typst-universe__typst-pepentation-0-2-0/main.typ",
+  "sha256": "da0df89cdf585659adeaefcf8c6162dc6288c26fc5784a16ab0076818cb5006a",
+  "size_bytes": 1289,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 316,
+  "downloaded_at": "2026-08-02T13:12:01.301Z",
+  "filtered_at": "2026-08-02T17:34:44.103Z"
+}

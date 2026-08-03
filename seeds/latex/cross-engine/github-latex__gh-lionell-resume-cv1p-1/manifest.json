@@ -1,0 +1,29 @@
+{
+  "id": "github-latex/gh-lionell-resume-cv1p-1",
+  "source": "github-latex",
+  "format": "latex",
+  "category": "cv",
+  "license": "MIT",
+  "source_url": "https://github.com/lionell/resume",
+  "original_author": "lionell",
+  "stars": 0,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-latex/gh-lionell-resume-cv1p-1/cv1p.tex",
+  "relative_path": "raw/github-latex/gh-lionell-resume-cv1p-1/cv1p.tex",
+  "main_doc": "cv1p.tex",
+  "sha256": "349a87275e0c9f1882d1a21ec590060110b1130681b4d23bab1bd30ce1a36d25",
+  "size_bytes": 6983,
+  "document_class": "article",
+  "uses_packages": [
+    "color",
+    "enumitem",
+    "fancyhdr",
+    "fullpage",
+    "hyperref",
+    "latexsym",
+    "marvosym",
+    "titlesec",
+    "verbatim"
+  ],
+  "repo_path": "cv1p.tex",
+  "downloaded_at": "2026-08-02T13:50:20.756Z"
+}

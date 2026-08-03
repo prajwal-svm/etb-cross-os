@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-kanerix-typst-cv-helpers-2",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "cv",
+  "license": "Apache-2.0",
+  "source_url": "https://github.com/Kanerix/typst-cv",
+  "original_author": "Kanerix",
+  "stars": 0,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-kanerix-typst-cv-helpers-2/helpers.typ",
+  "relative_path": "raw/github-typst/gh-kanerix-typst-cv-helpers-2/helpers.typ",
+  "main_doc": "helpers.typ",
+  "sha256": "a5233b3f859c99786296d8953036e6019957b9f34f86a752bec10ff3bfcb968b",
+  "size_bytes": 1498,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "src/helpers.typ",
+  "downloaded_at": "2026-08-02T14:21:49.116Z"
+}

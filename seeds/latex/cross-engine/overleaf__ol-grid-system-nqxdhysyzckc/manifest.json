@@ -1,0 +1,32 @@
+{
+  "id": "overleaf/ol-grid-system-nqxdhysyzckc",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "misc",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/grid-system/nqxdhysyzckc",
+  "original_author": "Marcus Bitzl",
+  "title": "Grid System",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/overleaf/ol-grid-system-nqxdhysyzckc/main.tex",
+  "relative_path": "raw/overleaf/ol-grid-system-nqxdhysyzckc/main.tex",
+  "main_doc": "main.tex",
+  "sha256": "57224612e36bafb3bac15051f5f6daef31c3c4e2b33d094620f2c9afc1020b9d",
+  "size_bytes": 4782,
+  "document_class": "scrartcl",
+  "uses_packages": [
+    "babel",
+    "beramono",
+    "booktabs",
+    "fontenc",
+    "grid-system",
+    "hyperref",
+    "inputenc",
+    "listings",
+    "opensans",
+    "tabularx",
+    "xcolor"
+  ],
+  "download_method": "view-source-modal",
+  "github_url": null,
+  "downloaded_at": "2026-08-02T15:35:59.094Z"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "github-typst/gh-takeokunn-typst-resume-template-jobs-2",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "cv",
+  "license": "MIT",
+  "source_url": "https://github.com/takeokunn/typst-resume-template",
+  "original_author": "takeokunn",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/github-typst__gh-takeokunn-typst-resume-template-jobs-2/jobs.typ",
+  "relative_path": "processed/typst/github-typst__gh-takeokunn-typst-resume-template-jobs-2/jobs.typ",
+  "sha256": "0aafc50eefcd6d093457fd63c469be5ff424b2b11e95bc134548cbf67420b9e2",
+  "size_bytes": 1287,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 8,
+  "downloaded_at": "2026-08-02T14:04:35.882Z",
+  "filtered_at": "2026-08-02T17:34:45.721Z"
+}

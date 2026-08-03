@@ -1,0 +1,29 @@
+{
+  "id": "github-latex/gh-eyaab-cv-resume-builder-mcp-cv",
+  "source": "github-latex",
+  "format": "latex",
+  "category": "cv",
+  "license": "MIT",
+  "source_url": "https://github.com/eyaab/cv-resume-builder-mcp",
+  "original_author": "eyaab",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/github-latex__gh-eyaab-cv-resume-builder-mcp-cv/cv.tex",
+  "relative_path": "processed/latex/cross-engine/github-latex__gh-eyaab-cv-resume-builder-mcp-cv/cv.tex",
+  "sha256": "be10d65bcfaddd668d7fbedd8ca607dbbc9e3a5858aefe897b4ed3891b21dd9c",
+  "size_bytes": 3553,
+  "document_class": "moderncv",
+  "uses_packages": [
+    "geometry",
+    "inputenc"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 1643,
+  "downloaded_at": "2026-08-02T13:19:48.644Z",
+  "filtered_at": "2026-08-02T17:34:42.742Z"
+}

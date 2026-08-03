@@ -1,0 +1,22 @@
+{
+  "id": "overleaf/ol-national-cheng-kung-university-thesis-and-dissertation-template-xelatex-kzgwj",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "thesis",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/national-cheng-kung-university-thesis-and-dissertation-template-xelatex/kzgwjvvptktn",
+  "original_author": "Wen-Gan Li",
+  "title": "National Cheng Kung University Thesis and Dissertation Template — XeLaTeX",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/overleaf/ol-national-cheng-kung-university-thesis-and-dissertation-template-xelatex-kzgwj/921-reference-page-orientation-pdflscape.tex",
+  "relative_path": "raw/overleaf/ol-national-cheng-kung-university-thesis-and-dissertation-template-xelatex-kzgwj/921-reference-page-orientation-pdflscape.tex",
+  "main_doc": "921-reference-page-orientation-pdflscape.tex",
+  "sha256": "63d3fc74bc48b65f517218b26a8d2953c4300c2d08917230fb2449c7ca2adb53",
+  "size_bytes": 483,
+  "document_class": "article",
+  "uses_packages": [
+    "pdflscape"
+  ],
+  "download_method": "github:https://github.com/wengan-li/ncku-thesis-template-latex",
+  "github_url": "https://github.com/wengan-li/ncku-thesis-template-latex",
+  "downloaded_at": "2026-08-02T13:05:48.014Z"
+}

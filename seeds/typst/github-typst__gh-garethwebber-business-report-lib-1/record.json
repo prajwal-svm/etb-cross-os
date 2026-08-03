@@ -1,0 +1,26 @@
+{
+  "id": "github-typst/gh-garethwebber-business-report-lib-1",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "business",
+  "license": "Apache-2.0",
+  "source_url": "https://github.com/garethwebber/business-report",
+  "original_author": "garethwebber",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/github-typst__gh-garethwebber-business-report-lib-1/lib.typ",
+  "relative_path": "processed/typst/github-typst__gh-garethwebber-business-report-lib-1/lib.typ",
+  "sha256": "d0920b113f99a81e40d4fcdb2cb86ba8b41aba064517df731a8b6efdf2aa6cc0",
+  "size_bytes": 8017,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 26,
+  "downloaded_at": "2026-08-02T14:09:28.793Z",
+  "filtered_at": "2026-08-02T17:34:44.875Z"
+}

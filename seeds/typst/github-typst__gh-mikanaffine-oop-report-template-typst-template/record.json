@@ -1,0 +1,26 @@
+{
+  "id": "github-typst/gh-mikanaffine-oop-report-template-typst-template",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "coursework",
+  "license": "MIT",
+  "source_url": "https://github.com/MikanAffine/oop-report-template-typst",
+  "original_author": "MikanAffine",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/github-typst__gh-mikanaffine-oop-report-template-typst-template/template.typ",
+  "relative_path": "processed/typst/github-typst__gh-mikanaffine-oop-report-template-typst-template/template.typ",
+  "sha256": "0bd057cfebe9931a718cb9bbde19babc502c17f2e853d213814de0dbe7eb6e63",
+  "size_bytes": 2309,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 9,
+  "downloaded_at": "2026-08-02T14:11:44.940Z",
+  "filtered_at": "2026-08-02T17:34:45.319Z"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "typst-universe/typst-rut-physica-labs-0-1-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "report",
+  "license": "MIT",
+  "source_url": "https://github.com/unexpectedCoder/miit-phisica-labwork-typst",
+  "original_author": "unexpectedCoder",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/typst-universe__typst-rut-physica-labs-0-1-0/lab.typ",
+  "relative_path": "processed/typst/typst-universe__typst-rut-physica-labs-0-1-0/lab.typ",
+  "sha256": "0ae65f9dc459a387757a9fd4e48a4cd19bce550ba9361e95b02f8d1ebfaab003",
+  "size_bytes": 10705,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 218,
+  "downloaded_at": "2026-08-02T13:12:35.941Z",
+  "filtered_at": "2026-08-02T17:34:44.155Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-agarmu-typst-templates-template",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "misc",
+  "license": "MIT",
+  "source_url": "https://github.com/agarmu/typst-templates",
+  "original_author": "agarmu",
+  "stars": 1,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-agarmu-typst-templates-template/template.typ",
+  "relative_path": "raw/github-typst/gh-agarmu-typst-templates-template/template.typ",
+  "main_doc": "template.typ",
+  "sha256": "de3bb293ccfe4d64649ff1128b93f40c1173be30c8b1ef365950bdfb1a8f5df8",
+  "size_bytes": 4045,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "apa/template.typ",
+  "downloaded_at": "2026-08-02T14:11:10.804Z"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "typst-universe/typst-touying-greyc-ambrosia-0-1-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "beamer",
+  "license": "MIT",
+  "source_url": "https://github.com/inspiros/touying-greyc-ambrosia",
+  "original_author": "Hoang-Nhat Tran",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/typst-universe__typst-touying-greyc-ambrosia-0-1-0/template.typ",
+  "relative_path": "processed/typst/typst-universe__typst-touying-greyc-ambrosia-0-1-0/template.typ",
+  "sha256": "3a40a9dac44a509872a7a4d397c4596d958f74e39c44bfd72ce97c96d6e06e3f",
+  "size_bytes": 893,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 484,
+  "downloaded_at": "2026-08-02T13:14:05.608Z",
+  "filtered_at": "2026-08-02T17:34:44.283Z"
+}

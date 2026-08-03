@@ -1,0 +1,23 @@
+{
+  "id": "ctan/ctan-todonotes-externalize",
+  "source": "ctan",
+  "format": "latex",
+  "category": "package-example",
+  "license": "LPPL-1.3c",
+  "source_url": "https://ctan.org/pkg/todonotes",
+  "original_author": "CTAN package: todonotes",
+  "package": "todonotes",
+  "original_path": "/usr/local/texlive/2025/texmf-dist/doc/latex/todonotes/examples/externalize.tex",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/ctan/ctan-todonotes-externalize/externalize.tex",
+  "relative_path": "raw/ctan/ctan-todonotes-externalize/externalize.tex",
+  "main_doc": "externalize.tex",
+  "sha256": "6614ba34c36c618a42d0c73d78dad9de412bb2290c87bda5289d5a4388dd771e",
+  "size_bytes": 762,
+  "document_class": "article",
+  "uses_packages": [
+    "tikz",
+    "todonotes",
+    "xspace"
+  ],
+  "downloaded_at": "2026-08-02T13:04:56.871Z"
+}

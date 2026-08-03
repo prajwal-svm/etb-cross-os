@@ -1,0 +1,30 @@
+{
+  "id": "overleaf/ol-roll-pitch-and-yaw-myvwwrfcvjtx",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "misc",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/roll-pitch-and-yaw/myvwwrfcvjtx",
+  "original_author": "Javi Pérez",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/overleaf__ol-roll-pitch-and-yaw-myvwwrfcvjtx/main.tex",
+  "relative_path": "processed/latex/cross-engine/overleaf__ol-roll-pitch-and-yaw-myvwwrfcvjtx/main.tex",
+  "sha256": "17d278e67d75401f17c53f5634abe20512ae89ef6489c245903ed1fc54d07d71",
+  "size_bytes": 5258,
+  "document_class": "beamer",
+  "uses_packages": [
+    "pgfpages",
+    "tikz",
+    "tikz-3dplot"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 2012,
+  "downloaded_at": "2026-08-02T15:49:35.194Z",
+  "filtered_at": "2026-08-02T17:34:41.791Z"
+}

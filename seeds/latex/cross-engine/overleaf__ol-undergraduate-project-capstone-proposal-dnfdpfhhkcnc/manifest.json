@@ -1,0 +1,23 @@
+{
+  "id": "overleaf/ol-undergraduate-project-capstone-proposal-dnfdpfhhkcnc",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "misc",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/undergraduate-project-capstone-proposal/dnfdpfhhkcnc",
+  "original_author": "Joseph Eppich",
+  "title": "Undergraduate Project Capstone Proposal",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/overleaf/ol-undergraduate-project-capstone-proposal-dnfdpfhhkcnc/main.tex",
+  "relative_path": "raw/overleaf/ol-undergraduate-project-capstone-proposal-dnfdpfhhkcnc/main.tex",
+  "main_doc": "main.tex",
+  "sha256": "6e85b4473e04561747f46074a8ba589f4b65fcee7f57ad97005abd1955f97ef7",
+  "size_bytes": 2834,
+  "document_class": "article",
+  "uses_packages": [
+    "geometry",
+    "inputenc"
+  ],
+  "download_method": "view-source-modal",
+  "github_url": null,
+  "downloaded_at": "2026-08-02T14:37:42.964Z"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "github-latex/gh-devpatel123-job-application-toolkit-cv-template-1",
+  "source": "github-latex",
+  "format": "latex",
+  "category": "cv",
+  "license": "MIT",
+  "source_url": "https://github.com/devpatel123/job-application-toolkit",
+  "original_author": "devpatel123",
+  "stars": 0,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-latex/gh-devpatel123-job-application-toolkit-cv-template-1/cv_template.tex",
+  "relative_path": "raw/github-latex/gh-devpatel123-job-application-toolkit-cv-template-1/cv_template.tex",
+  "main_doc": "cv_template.tex",
+  "sha256": "5711412ca0d7585ee0df55d2ff703462964ef3217f7b2d5712463f92e89e6bfe",
+  "size_bytes": 7425,
+  "document_class": "article",
+  "uses_packages": [
+    "babel",
+    "color",
+    "enumitem",
+    "fancyhdr",
+    "fontenc",
+    "fullpage",
+    "hyperref",
+    "latexsym",
+    "libertinus",
+    "tabularx",
+    "titlesec",
+    "verbatim"
+  ],
+  "repo_path": "templates/cv_template.tex",
+  "downloaded_at": "2026-08-02T14:00:47.477Z"
+}

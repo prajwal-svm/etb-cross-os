@@ -1,0 +1,26 @@
+{
+  "id": "github-typst/gh-remigerme-typst-polytechnique-main",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "beamer",
+  "license": "MIT",
+  "source_url": "https://github.com/remigerme/typst-polytechnique",
+  "original_author": "remigerme",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/github-typst__gh-remigerme-typst-polytechnique-main/main.typ",
+  "relative_path": "processed/typst/github-typst__gh-remigerme-typst-polytechnique-main/main.typ",
+  "sha256": "a29f2a4a252e6db2e83952dd123bea4bc131d59e69f381c96542f4e57033ceb6",
+  "size_bytes": 6299,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 11,
+  "downloaded_at": "2026-08-02T14:05:59.777Z",
+  "filtered_at": "2026-08-02T17:34:45.561Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "github-latex/gh-jshiohaha-math-classes-homework-5-2",
+  "source": "github-latex",
+  "format": "latex",
+  "category": "coursework",
+  "license": "MIT",
+  "source_url": "https://github.com/jshiohaha/math-classes",
+  "original_author": "jshiohaha",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/github-latex__gh-jshiohaha-math-classes-homework-5-2/Homework 5.tex",
+  "relative_path": "processed/latex/cross-engine/github-latex__gh-jshiohaha-math-classes-homework-5-2/Homework 5.tex",
+  "sha256": "0485e029766e4910b57de41b5c0878e1e5ff99f8de568b5f465ced4ad0e24f4e",
+  "size_bytes": 15554,
+  "document_class": "article",
+  "uses_packages": [
+    "amsfonts",
+    "amsmath",
+    "amssymb",
+    "amsthm",
+    "enumitem",
+    "fixltx2e",
+    "geometry",
+    "stmaryrd",
+    "tabu",
+    "xcolor"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 319,
+  "downloaded_at": "2026-08-02T13:38:34.896Z",
+  "filtered_at": "2026-08-02T17:34:42.971Z"
+}

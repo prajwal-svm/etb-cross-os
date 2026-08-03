@@ -1,0 +1,26 @@
+{
+  "id": "typst-universe/typst-grape-suite-4-0-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "venue",
+  "license": "MIT",
+  "source_url": "https://github.com/piepert/grape-suite",
+  "original_author": "Tristan Pieper",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/typst-universe__typst-grape-suite-4-0-0/main.typ",
+  "relative_path": "processed/typst/typst-universe__typst-grape-suite-4-0-0/main.typ",
+  "sha256": "e88e4ab3901b6394db6ba2bcf9925b5f571055a5af3353e60f135e38519ef1fa",
+  "size_bytes": 857,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 225,
+  "downloaded_at": "2026-08-02T13:08:44.863Z",
+  "filtered_at": "2026-08-02T17:34:43.852Z"
+}

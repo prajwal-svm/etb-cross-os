@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-laschuet-typst-letter-letter-1",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "letter",
+  "license": "MIT",
+  "source_url": "https://github.com/laschuet/typst-letter",
+  "original_author": "laschuet",
+  "stars": 0,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-laschuet-typst-letter-letter-1/letter.typ",
+  "relative_path": "raw/github-typst/gh-laschuet-typst-letter-letter-1/letter.typ",
+  "main_doc": "letter.typ",
+  "sha256": "a493a97e54f6a1dbbc44cdecbca1db4374a9365b4ae4060102eaed3fc82f773c",
+  "size_bytes": 2411,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "letter.typ",
+  "downloaded_at": "2026-08-02T14:14:46.850Z"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "overleaf/ol-ariel2-deliverable-template-vgpywxzmqntz",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "misc",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/ariel2-deliverable-template/vgpywxzmqntz",
+  "original_author": "Ricardo Ouvinã",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/overleaf__ol-ariel2-deliverable-template-vgpywxzmqntz/main.tex",
+  "relative_path": "processed/latex/cross-engine/overleaf__ol-ariel2-deliverable-template-vgpywxzmqntz/main.tex",
+  "sha256": "108fb9344395c23980f9bf3923371c3f79fa231ce8be8486af4cdfa1b2db6d68",
+  "size_bytes": 470,
+  "document_class": "article",
+  "uses_packages": [
+    "fancyhdr",
+    "geometry",
+    "graphicx",
+    "inputenc",
+    "lastpage",
+    "lipsum",
+    "multirow",
+    "tabularx"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 266,
+  "downloaded_at": "2026-08-02T14:16:53.663Z",
+  "filtered_at": "2026-08-02T17:34:40.942Z"
+}

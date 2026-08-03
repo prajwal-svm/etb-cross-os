@@ -1,0 +1,31 @@
+{
+  "id": "github-latex/gh-zju-robotics-lab-latex-templates-main",
+  "source": "github-latex",
+  "format": "latex",
+  "category": "misc",
+  "license": "MIT",
+  "source_url": "https://github.com/ZJU-Robotics-Lab/LaTeX-Templates",
+  "original_author": "ZJU-Robotics-Lab",
+  "stars": 4,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-latex/gh-zju-robotics-lab-latex-templates-main/main.tex",
+  "relative_path": "raw/github-latex/gh-zju-robotics-lab-latex-templates-main/main.tex",
+  "main_doc": "main.tex",
+  "sha256": "5a2952cecf4d8efa5ace3709cc9b0f552bc75f1365082e0f8e8c1ebfd7ff8307",
+  "size_bytes": 3021,
+  "document_class": "IEEEtran",
+  "uses_packages": [
+    "algorithmic",
+    "amsfonts",
+    "amsmath",
+    "amssymb",
+    "booktabs",
+    "cite",
+    "ctex",
+    "graphicx",
+    "hyperref",
+    "textcomp",
+    "xcolor"
+  ],
+  "repo_path": "IEEEtran/main.tex",
+  "downloaded_at": "2026-08-02T13:28:48.108Z"
+}

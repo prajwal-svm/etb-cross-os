@@ -1,0 +1,30 @@
+{
+  "id": "overleaf/ol-the-beamer-minimal-theme-black-and-white-rgdbswqkvmkb",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "beamer",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/the-beamer-minimal-theme-black-and-white/rgdbswqkvmkb",
+  "original_author": "Eve Liang",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/overleaf__ol-the-beamer-minimal-theme-black-and-white-rgdbswqkvmkb/main.tex",
+  "relative_path": "processed/latex/cross-engine/overleaf__ol-the-beamer-minimal-theme-black-and-white-rgdbswqkvmkb/main.tex",
+  "sha256": "e0c064787a7a030afe265fa32337fcf252e20aa8a4f4bdd95ff0709bc5352ef4",
+  "size_bytes": 5077,
+  "document_class": "beamer",
+  "uses_packages": [
+    "inputenc",
+    "times",
+    "url"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 1733,
+  "downloaded_at": "2026-08-02T15:25:00.998Z",
+  "filtered_at": "2026-08-02T17:34:41.982Z"
+}

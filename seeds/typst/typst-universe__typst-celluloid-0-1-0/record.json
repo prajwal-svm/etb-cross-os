@@ -1,0 +1,26 @@
+{
+  "id": "typst-universe/typst-celluloid-0-1-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "book",
+  "license": "Apache-2.0",
+  "source_url": "https://typst.app/universe/package/celluloid",
+  "original_author": "Casey Dahlin",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/typst-universe__typst-celluloid-0-1-0/main.typ",
+  "relative_path": "processed/typst/typst-universe__typst-celluloid-0-1-0/main.typ",
+  "sha256": "df571e4e64c595aa60b344a265998b50aed73fdfe182775566622c6abe41d506",
+  "size_bytes": 1283,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 200,
+  "downloaded_at": "2026-08-02T13:06:32.601Z",
+  "filtered_at": "2026-08-02T17:34:43.681Z"
+}

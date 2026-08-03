@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-bupt-typst-bupt-report-typst-cover-1",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "report",
+  "license": "MIT",
+  "source_url": "https://github.com/BUPT-typst/BUPT-Report-Typst",
+  "original_author": "BUPT-typst",
+  "stars": 6,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-bupt-typst-bupt-report-typst-cover-1/cover.typ",
+  "relative_path": "raw/github-typst/gh-bupt-typst-bupt-report-typst-cover-1/cover.typ",
+  "main_doc": "cover.typ",
+  "sha256": "b948b3b09eed1c7cefb03f79eb7e0dd4fcb621894910875e17395bc11159dc80",
+  "size_bytes": 1181,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "cover.typ",
+  "downloaded_at": "2026-08-02T14:06:56.510Z"
+}

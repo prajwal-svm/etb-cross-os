@@ -1,0 +1,36 @@
+{
+  "id": "overleaf/ol-modelo-de-projeto-metodologia-cientifica-unifei-itabira-rcchfgqfrfzp",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "misc",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/modelo-de-projeto-metodologia-cientifica-unifei-itabira/rcchfgqfrfzp",
+  "original_author": "Henrique Silva Lage",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/overleaf__ol-modelo-de-projeto-metodologia-cientifica-unifei-itabira-rcchfgqfrfzp/main.tex",
+  "relative_path": "processed/latex/cross-engine/overleaf__ol-modelo-de-projeto-metodologia-cientifica-unifei-itabira-rcchfgqfrfzp/main.tex",
+  "sha256": "878fb42bffc68d517556192ae8471631997f87ff082ec9e1ba47f4e7aaf928cd",
+  "size_bytes": 2371,
+  "document_class": "abntex2",
+  "uses_packages": [
+    "abntex2cite",
+    "amsmath",
+    "array",
+    "booktabs",
+    "float",
+    "fontenc",
+    "graphicx",
+    "indentfirst",
+    "inputenc"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 1370,
+  "downloaded_at": "2026-08-02T16:23:24.364Z",
+  "filtered_at": "2026-08-02T17:34:41.444Z"
+}

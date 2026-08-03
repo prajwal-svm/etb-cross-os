@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-satwanjyu-typst-cv-template-main",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "cv",
+  "license": "MIT",
+  "source_url": "https://github.com/satwanjyu/typst-cv-template",
+  "original_author": "satwanjyu",
+  "stars": 0,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-satwanjyu-typst-cv-template-main/main.typ",
+  "relative_path": "raw/github-typst/gh-satwanjyu-typst-cv-template-main/main.typ",
+  "main_doc": "main.typ",
+  "sha256": "2d03d101c4a5a1f80fa1bd0544edc7c96d63925efea25edaa1794096a5541d32",
+  "size_bytes": 1793,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "main.typ",
+  "downloaded_at": "2026-08-02T14:15:00.163Z"
+}

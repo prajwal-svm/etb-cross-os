@@ -1,0 +1,23 @@
+{
+  "id": "typst-universe/typst-clean-print-cv-0-1-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "cv",
+  "license": "MIT",
+  "source_url": "https://github.com/guillermodotn/clean-print-cv",
+  "original_author": "guillermodotn",
+  "package_name": "clean-print-cv",
+  "package_version": "0.1.0",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/typst-universe/typst-clean-print-cv-0-1-0/main.typ",
+  "relative_path": "raw/typst-universe/typst-clean-print-cv-0-1-0/main.typ",
+  "main_doc": "main.typ",
+  "sha256": "867ca06f30155495eb4d74d9f438fcfef4af882eee9bd03de2b2857bbd13c5e7",
+  "size_bytes": 1457,
+  "document_class": null,
+  "uses_packages": [],
+  "downloaded_at": "2026-08-02T13:07:07.192Z",
+  "categories": [
+    "cv"
+  ],
+  "description": "Create clean, print-friendly, YAML-driven CVs."
+}

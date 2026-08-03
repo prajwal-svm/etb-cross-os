@@ -1,0 +1,32 @@
+{
+  "id": "github-latex/gh-caian-org-cv-cv-en-us",
+  "source": "github-latex",
+  "format": "latex",
+  "category": "cv",
+  "license": "MIT",
+  "source_url": "https://github.com/caian-org/cv",
+  "original_author": "caian-org",
+  "stars": 2,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-latex/gh-caian-org-cv-cv-en-us/cv-en_US.tex",
+  "relative_path": "raw/github-latex/gh-caian-org-cv-cv-en-us/cv-en_US.tex",
+  "main_doc": "cv-en_US.tex",
+  "sha256": "3cb311681595ff140eaf21d747a00ab151161e39bad8ef3b0954c891286784cd",
+  "size_bytes": 8669,
+  "document_class": "article",
+  "uses_packages": [
+    "FiraSans",
+    "anyfontsize",
+    "enumitem",
+    "fontawesome",
+    "fontenc",
+    "fontspec",
+    "fullpage",
+    "hyperref",
+    "ifxetex",
+    "inputenc",
+    "tabularx",
+    "xcolor"
+  ],
+  "repo_path": "document/cv-en_US.tex",
+  "downloaded_at": "2026-08-02T13:35:11.420Z"
+}

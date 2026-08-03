@@ -1,0 +1,26 @@
+{
+  "id": "github-typst/gh-connachermurphy-typst-cv-working-papers-2",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "cv",
+  "license": "MIT",
+  "source_url": "https://github.com/connachermurphy/typst-cv",
+  "original_author": "connachermurphy",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/github-typst__gh-connachermurphy-typst-cv-working-papers-2/working_papers.typ",
+  "relative_path": "processed/typst/github-typst__gh-connachermurphy-typst-cv-working-papers-2/working_papers.typ",
+  "sha256": "fa4d578aa426167fbaa03f4f3ffb155b1228ba869bcaa124405f7176be2b5561",
+  "size_bytes": 262,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 320,
+  "downloaded_at": "2026-08-02T14:15:55.571Z",
+  "filtered_at": "2026-08-02T17:34:44.686Z"
+}

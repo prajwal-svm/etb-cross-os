@@ -1,0 +1,26 @@
+{
+  "id": "typst-universe/typst-butterick-resume-0-1-1",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "cv",
+  "license": "Apache-2.0",
+  "source_url": "https://github.com/jassielof/typst-templates",
+  "original_author": "Jassiel Ovando",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/typst-universe__typst-butterick-resume-0-1-1/main.typ",
+  "relative_path": "processed/typst/typst-universe__typst-butterick-resume-0-1-1/main.typ",
+  "sha256": "88ca62bdb5ec10759deb613ff1603ae6f8e73a459495ab9bb4438a2b7841c1d0",
+  "size_bytes": 1632,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 225,
+  "downloaded_at": "2026-08-02T13:06:23.372Z",
+  "filtered_at": "2026-08-02T17:34:43.666Z"
+}

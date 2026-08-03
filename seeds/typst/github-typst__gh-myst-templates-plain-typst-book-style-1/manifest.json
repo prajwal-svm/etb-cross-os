@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-myst-templates-plain-typst-book-style-1",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "book",
+  "license": "MIT",
+  "source_url": "https://github.com/myst-templates/plain_typst_book",
+  "original_author": "myst-templates",
+  "stars": 6,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-myst-templates-plain-typst-book-style-1/style.typ",
+  "relative_path": "raw/github-typst/gh-myst-templates-plain-typst-book-style-1/style.typ",
+  "main_doc": "style.typ",
+  "sha256": "33134452b8db113f0d81820251d7b4280d7915a0e648068e8ce5862ad84d9135",
+  "size_bytes": 4367,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "style.typ",
+  "downloaded_at": "2026-08-02T14:06:54.417Z"
+}

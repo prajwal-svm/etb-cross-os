@@ -1,0 +1,25 @@
+{
+  "id": "typst-universe/typst-beago-suite-0-2-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "venue",
+  "license": "MIT",
+  "source_url": "https://github.com/aaronmurniadi/beago-suite",
+  "original_author": "Aaron P. Murniadi",
+  "package_name": "beago-suite",
+  "package_version": "0.2.0",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/typst-universe/typst-beago-suite-0-2-0/main.typ",
+  "relative_path": "raw/typst-universe/typst-beago-suite-0-2-0/main.typ",
+  "main_doc": "main.typ",
+  "sha256": "fd0c8c69f7ff615814af3ec00384e0075dcfa9cfb0f7d46c3733be8f16fb13e6",
+  "size_bytes": 2769,
+  "document_class": null,
+  "uses_packages": [],
+  "downloaded_at": "2026-08-02T13:06:05.703Z",
+  "categories": [
+    "layout",
+    "paper",
+    "book"
+  ],
+  "description": "Minimal templates for drafts, articles, and fantasy books"
+}

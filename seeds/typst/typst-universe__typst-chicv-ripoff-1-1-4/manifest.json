@@ -1,0 +1,23 @@
+{
+  "id": "typst-universe/typst-chicv-ripoff-1-1-4",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "cv",
+  "license": "MIT",
+  "source_url": "https://github.com/matchy233/typst-chi-cv-template",
+  "original_author": "@matchy233",
+  "package_name": "chicv-ripoff",
+  "package_version": "1.1.4",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/typst-universe/typst-chicv-ripoff-1-1-4/resume.typ",
+  "relative_path": "raw/typst-universe/typst-chicv-ripoff-1-1-4/resume.typ",
+  "main_doc": "resume.typ",
+  "sha256": "7d67ec57b288da7ac0bfcc6843cc60c9ed45e8decbd49dd42370a3d4b1fa7f35",
+  "size_bytes": 8978,
+  "document_class": null,
+  "uses_packages": [],
+  "downloaded_at": "2026-08-02T13:06:42.272Z",
+  "categories": [
+    "cv"
+  ],
+  "description": "Minimal, customizable CVs with compact entries."
+}

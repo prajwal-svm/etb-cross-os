@@ -1,0 +1,23 @@
+{
+  "id": "typst-universe/typst-golixp-resume-zh-cn-0-1-2",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "cv",
+  "license": "MIT",
+  "source_url": "https://github.com/golixp/typst-resume-zh-cn",
+  "original_author": "lixp",
+  "package_name": "golixp-resume-zh-cn",
+  "package_version": "0.1.2",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/typst-universe/typst-golixp-resume-zh-cn-0-1-2/main.typ",
+  "relative_path": "raw/typst-universe/typst-golixp-resume-zh-cn-0-1-2/main.typ",
+  "main_doc": "main.typ",
+  "sha256": "d78215557d2050c34629fe8c9dbf6249f7da2112e37659e427ae5870b1ee8e2a",
+  "size_bytes": 10142,
+  "document_class": null,
+  "uses_packages": [],
+  "downloaded_at": "2026-08-02T13:08:43.725Z",
+  "categories": [
+    "cv"
+  ],
+  "description": "面向简体中文的模块化 Typst 简历模板，支持自定义主题色、字体和排版配置"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "overleaf/ol-minuta-proyecto-final-cqrnynsdgjmc",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "misc",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/minuta-proyecto-final/cqrnynsdgjmc",
+  "original_author": "Pablo Sanchez",
+  "title": "Minuta Proyecto Final",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/overleaf/ol-minuta-proyecto-final-cqrnynsdgjmc/main.tex",
+  "relative_path": "raw/overleaf/ol-minuta-proyecto-final-cqrnynsdgjmc/main.tex",
+  "main_doc": "main.tex",
+  "sha256": "e2fde7f7edf7e48ae83915b5433b176b37a164015bbaff5b680c03a7289886c2",
+  "size_bytes": 1098,
+  "document_class": "article",
+  "uses_packages": [
+    "amsmath",
+    "babel",
+    "graphicx",
+    "inputenc",
+    "todonotes"
+  ],
+  "download_method": "view-source-modal",
+  "github_url": null,
+  "downloaded_at": "2026-08-02T14:46:48.867Z"
+}

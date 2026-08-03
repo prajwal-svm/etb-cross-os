@@ -1,0 +1,21 @@
+{
+  "id": "template-packs/moderncv-banking",
+  "source": "template-packs",
+  "format": "latex",
+  "category": "cv",
+  "category_raw": "CVs & Resumes",
+  "license": "CC0-1.0",
+  "source_url": "https://github.com/Oleafly/template-packs",
+  "original_author": "Oleafly",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/template-packs/moderncv-banking/main.tex",
+  "relative_path": "raw/template-packs/moderncv-banking/main.tex",
+  "main_doc": "main.tex",
+  "sha256": "4ab39082a7fda002bc40c44b8de31b20bab1540440c1a092207cf72b21bd5ba5",
+  "size_bytes": 1864,
+  "document_class": "moderncv",
+  "uses_packages": [
+    "geometry"
+  ],
+  "engine_hint": "xetex",
+  "downloaded_at": "2026-08-02T13:05:15.846Z"
+}

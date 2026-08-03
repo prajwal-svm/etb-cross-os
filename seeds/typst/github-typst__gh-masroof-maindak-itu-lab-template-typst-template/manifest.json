@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-masroof-maindak-itu-lab-template-typst-template",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "report",
+  "license": "MIT",
+  "source_url": "https://github.com/masroof-maindak/itu-lab-template-typst",
+  "original_author": "masroof-maindak",
+  "stars": 1,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-masroof-maindak-itu-lab-template-typst-template/template.typ",
+  "relative_path": "raw/github-typst/gh-masroof-maindak-itu-lab-template-typst-template/template.typ",
+  "main_doc": "template.typ",
+  "sha256": "2e1d31e8f076e035b7b2a3fcf8a6520e6d644547f65cda9c3b88a2e425118ee8",
+  "size_bytes": 3450,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "template.typ",
+  "downloaded_at": "2026-08-02T14:11:39.504Z"
+}

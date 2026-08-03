@@ -1,0 +1,24 @@
+{
+  "id": "typst-universe/typst-utype-neuies-reports-1-2-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "thesis",
+  "license": "MIT",
+  "source_url": "https://github.com/ertugruluyar-github/utype-neuies-reports",
+  "original_author": "Ertuğrul UYAR",
+  "package_name": "utype-neuies-reports",
+  "package_version": "1.2.0",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/typst-universe/typst-utype-neuies-reports-1-2-0/main.typ",
+  "relative_path": "raw/typst-universe/typst-utype-neuies-reports-1-2-0/main.typ",
+  "main_doc": "main.typ",
+  "sha256": "71b57b7c36902dba4711d34c7acbf5b2962818b28d789e2adaafba7d4aea3e2d",
+  "size_bytes": 14815,
+  "document_class": null,
+  "uses_packages": [],
+  "downloaded_at": "2026-08-02T13:15:39.471Z",
+  "categories": [
+    "thesis",
+    "report"
+  ],
+  "description": "NEÜ Eğitim Bilimleri Enstitüsü için RESMÎ OLMAYAN tez önerisi, tez ve dönem projesi şablonudur. [UNOFFICIAL thesis proposal, thesis and term project template for NEU Institute of Educational Sciences.]"
+}

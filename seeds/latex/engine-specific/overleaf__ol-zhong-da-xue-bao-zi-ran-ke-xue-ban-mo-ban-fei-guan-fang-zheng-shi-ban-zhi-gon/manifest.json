@@ -1,0 +1,33 @@
+{
+  "id": "overleaf/ol-zhong-da-xue-bao-zi-ran-ke-xue-ban-mo-ban-fei-guan-fang-zheng-shi-ban-zhi-gon",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "misc",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/zhong-da-xue-bao-zi-ran-ke-xue-ban-mo-ban-fei-guan-fang-zheng-shi-ban-zhi-gong-xie-zuo-ye-yong/fynfznbhmjsm",
+  "original_author": "Lee Ruilin",
+  "title": "中大学报自然科学版模板（非官方正式版，只供写作业用）",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/overleaf/ol-zhong-da-xue-bao-zi-ran-ke-xue-ban-mo-ban-fei-guan-fang-zheng-shi-ban-zhi-gon/main.tex",
+  "relative_path": "raw/overleaf/ol-zhong-da-xue-bao-zi-ran-ke-xue-ban-mo-ban-fei-guan-fang-zheng-shi-ban-zhi-gon/main.tex",
+  "main_doc": "main.tex",
+  "sha256": "fddb1e2be4b86521c384c5080619b0321add3d15e60c5a001051e66852253bd4",
+  "size_bytes": 3445,
+  "document_class": "article",
+  "uses_packages": [
+    "abstract",
+    "amsmath",
+    "authblk",
+    "ctex",
+    "fancyhdr",
+    "gbt7714",
+    "geometry",
+    "graphicx",
+    "hologo",
+    "multicol",
+    "natbib",
+    "titling"
+  ],
+  "download_method": "view-source-modal",
+  "github_url": null,
+  "downloaded_at": "2026-08-02T15:28:22.585Z"
+}

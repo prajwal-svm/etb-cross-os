@@ -1,0 +1,27 @@
+{
+  "id": "overleaf/ol-math-333-f19-weekly-homework-template-yqjzfvyspknd",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "coursework",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/math-333-f19-weekly-homework-template/yqjzfvyspknd",
+  "original_author": "Jill Tysse",
+  "title": "Math 333  F19 Weekly Homework Template",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/overleaf/ol-math-333-f19-weekly-homework-template-yqjzfvyspknd/main.tex",
+  "relative_path": "raw/overleaf/ol-math-333-f19-weekly-homework-template-yqjzfvyspknd/main.tex",
+  "main_doc": "main.tex",
+  "sha256": "bcf4dcf5dd7e5837233a874aec27b7e43bc57fc58b3b44fde8ccffe471dd9ce0",
+  "size_bytes": 739,
+  "document_class": "article",
+  "uses_packages": [
+    "amsfonts",
+    "amsmath",
+    "amssymb",
+    "amsthm",
+    "inputenc",
+    "latexsym"
+  ],
+  "download_method": "view-source-modal",
+  "github_url": null,
+  "downloaded_at": "2026-08-02T15:49:27.208Z"
+}

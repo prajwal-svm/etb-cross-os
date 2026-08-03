@@ -1,0 +1,26 @@
+{
+  "id": "overleaf/ol-modelo-tlfac-mfdpcfzvffbt",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "misc",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/modelo-tlfac/mfdpcfzvffbt",
+  "original_author": "Wellington Sales",
+  "title": "Modelo TLFAC",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/overleaf/ol-modelo-tlfac-mfdpcfzvffbt/main.tex",
+  "relative_path": "raw/overleaf/ol-modelo-tlfac-mfdpcfzvffbt/main.tex",
+  "main_doc": "main.tex",
+  "sha256": "90bf814b73ebd341bce004eb02a4a3d0b214e1b6128adb10f284761d48cef87d",
+  "size_bytes": 5193,
+  "document_class": "article",
+  "uses_packages": [
+    "amsmath",
+    "babel",
+    "graphicx",
+    "inputenc",
+    "todonotes"
+  ],
+  "download_method": "view-source-modal",
+  "github_url": null,
+  "downloaded_at": "2026-08-02T14:50:35.524Z"
+}

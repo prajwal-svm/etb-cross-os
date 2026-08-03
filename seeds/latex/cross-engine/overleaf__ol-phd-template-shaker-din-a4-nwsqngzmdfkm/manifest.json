@@ -1,0 +1,31 @@
+{
+  "id": "overleaf/ol-phd-template-shaker-din-a4-nwsqngzmdfkm",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "thesis",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/phd-template-shaker-din-a4/nwsqngzmdfkm",
+  "original_author": "Ilja Stasewitsch",
+  "title": "Phd Template Shaker DIN A4",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/overleaf/ol-phd-template-shaker-din-a4-nwsqngzmdfkm/main.tex",
+  "relative_path": "raw/overleaf/ol-phd-template-shaker-din-a4-nwsqngzmdfkm/main.tex",
+  "main_doc": "main.tex",
+  "sha256": "033acafd98b6b77e3712e58531d3cc92912a37eff54464325ba3ea2eeaf05320",
+  "size_bytes": 5739,
+  "document_class": "scrbook",
+  "uses_packages": [
+    "babel",
+    "bookmark",
+    "fancyhdr",
+    "fontenc",
+    "hyperref",
+    "inputenc",
+    "lipsum",
+    "nameref",
+    "setspace",
+    "showframe"
+  ],
+  "download_method": "view-source-modal",
+  "github_url": null,
+  "downloaded_at": "2026-08-02T14:35:23.499Z"
+}

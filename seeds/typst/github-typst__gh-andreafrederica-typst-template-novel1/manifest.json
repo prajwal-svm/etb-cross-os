@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-andreafrederica-typst-template-novel1",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "misc",
+  "license": "MIT",
+  "source_url": "https://github.com/AndreaFrederica/typst-template",
+  "original_author": "AndreaFrederica",
+  "stars": 1,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-andreafrederica-typst-template-novel1/novel1.typ",
+  "relative_path": "raw/github-typst/gh-andreafrederica-typst-template-novel1/novel1.typ",
+  "main_doc": "novel1.typ",
+  "sha256": "98e83d574bb7957d821f37086adfca2af3a4a091ecbae1c84f7d1877c78f0b09",
+  "size_bytes": 3532,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "novel1.typ",
+  "downloaded_at": "2026-08-02T14:11:11.876Z"
+}

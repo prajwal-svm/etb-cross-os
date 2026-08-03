@@ -1,0 +1,26 @@
+{
+  "id": "typst-universe/typst-texst-0-1-2",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "venue",
+  "license": "MIT",
+  "source_url": "https://github.com/shusuke-ioku/texst",
+  "original_author": "Shusuke Ioku",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/typst-universe__typst-texst-0-1-2/main.typ",
+  "relative_path": "processed/typst/typst-universe__typst-texst-0-1-2/main.typ",
+  "sha256": "7c16adba4e96a2127681bb96bd17a711a5dc402db60176b7b943a4d5bc0e046a",
+  "size_bytes": 748,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 224,
+  "downloaded_at": "2026-08-02T13:13:40.781Z",
+  "filtered_at": "2026-08-02T17:34:44.247Z"
+}

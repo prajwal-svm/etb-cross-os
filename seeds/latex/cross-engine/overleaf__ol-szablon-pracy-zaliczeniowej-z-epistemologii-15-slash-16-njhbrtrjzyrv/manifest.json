@@ -1,0 +1,28 @@
+{
+  "id": "overleaf/ol-szablon-pracy-zaliczeniowej-z-epistemologii-15-slash-16-njhbrtrjzyrv",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "misc",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/szablon-pracy-zaliczeniowej-z-epistemologii-15-slash-16/njhbrtrjzyrv",
+  "original_author": "Pawel Lupkowski",
+  "title": "Szablon pracy zaliczeniowej z epistemologii 15/16",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/overleaf/ol-szablon-pracy-zaliczeniowej-z-epistemologii-15-slash-16-njhbrtrjzyrv/main.tex",
+  "relative_path": "raw/overleaf/ol-szablon-pracy-zaliczeniowej-z-epistemologii-15-slash-16-njhbrtrjzyrv/main.tex",
+  "main_doc": "main.tex",
+  "sha256": "697d13ae26ff40db1d2b2e34def6ee4eb017ea233847ce0f21ad68e4592c61d4",
+  "size_bytes": 1074,
+  "document_class": "article",
+  "uses_packages": [
+    "apacite",
+    "fontenc",
+    "geometry",
+    "inputenc",
+    "natbib",
+    "polski",
+    "times"
+  ],
+  "download_method": "view-source-modal",
+  "github_url": null,
+  "downloaded_at": "2026-08-02T15:14:02.574Z"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "typst-universe/typst-bloated-neurips-0-8-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "venue",
+  "license": "MIT",
+  "source_url": "https://github.com/daskol/typst-templates",
+  "original_author": "Daniel Bershatsky",
+  "package_name": "bloated-neurips",
+  "package_version": "0.8.0",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/typst-universe/typst-bloated-neurips-0-8-0/main.typ",
+  "relative_path": "raw/typst-universe/typst-bloated-neurips-0-8-0/main.typ",
+  "main_doc": "main.typ",
+  "sha256": "373fc5c116bce2bf5b25099f8a81671043d3a9311f129b8ab56066879ae23397",
+  "size_bytes": 14577,
+  "document_class": null,
+  "uses_packages": [],
+  "downloaded_at": "2026-08-02T13:06:13.702Z",
+  "categories": [
+    "paper"
+  ],
+  "description": "NeurIPS-style paper template to publish at the Conference and Workshop on\nNeural Information Processing Systems"
+}

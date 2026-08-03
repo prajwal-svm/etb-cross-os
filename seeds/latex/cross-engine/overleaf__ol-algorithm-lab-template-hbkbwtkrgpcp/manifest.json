@@ -1,0 +1,25 @@
+{
+  "id": "overleaf/ol-algorithm-lab-template-hbkbwtkrgpcp",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "report",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/algorithm-lab-template/hbkbwtkrgpcp",
+  "original_author": "Roshan Pandey",
+  "title": "Algorithm Lab Template",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/overleaf/ol-algorithm-lab-template-hbkbwtkrgpcp/main.tex",
+  "relative_path": "raw/overleaf/ol-algorithm-lab-template-hbkbwtkrgpcp/main.tex",
+  "main_doc": "main.tex",
+  "sha256": "53e5f90272f47f28ccf4668a4fb6c6d756466dfd4fff61b9d61da87ed1fe0c32",
+  "size_bytes": 11737,
+  "document_class": "article",
+  "uses_packages": [
+    "geometry",
+    "listings",
+    "pgfplots",
+    "xcolor"
+  ],
+  "download_method": "view-source-modal",
+  "github_url": null,
+  "downloaded_at": "2026-08-02T15:18:16.470Z"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "github-typst/gh-taooceros-typst-sync-packages-lib",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "misc",
+  "license": "Apache-2.0",
+  "source_url": "https://github.com/taooceros/typst-sync-packages",
+  "original_author": "taooceros",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/github-typst__gh-taooceros-typst-sync-packages-lib/lib.typ",
+  "relative_path": "processed/typst/github-typst__gh-taooceros-typst-sync-packages-lib/lib.typ",
+  "sha256": "d1b81295d0c0867e003116de8a4778d0edc502e66d60db5706d5d8ea25ff0a7a",
+  "size_bytes": 996,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 7,
+  "downloaded_at": "2026-08-02T14:20:15.003Z",
+  "filtered_at": "2026-08-02T17:34:45.724Z"
+}

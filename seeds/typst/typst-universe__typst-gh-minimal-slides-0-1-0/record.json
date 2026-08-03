@@ -1,0 +1,26 @@
+{
+  "id": "typst-universe/typst-gh-minimal-slides-0-1-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "beamer",
+  "license": "MIT",
+  "source_url": "https://github.com/xingjian-zhang/gh-minimal-slides",
+  "original_author": "Jimmy Zhang",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/typst-universe__typst-gh-minimal-slides-0-1-0/main.typ",
+  "relative_path": "processed/typst/typst-universe__typst-gh-minimal-slides-0-1-0/main.typ",
+  "sha256": "96c1e5db168d10001f0c14229dc677353e69f4669c910600c3c22b1b6d64c9d3",
+  "size_bytes": 1177,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 222,
+  "downloaded_at": "2026-08-02T13:08:42.181Z",
+  "filtered_at": "2026-08-02T17:34:43.847Z"
+}

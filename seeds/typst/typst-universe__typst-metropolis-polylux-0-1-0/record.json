@@ -1,0 +1,26 @@
+{
+  "id": "typst-universe/typst-metropolis-polylux-0-1-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "beamer",
+  "license": "MIT",
+  "source_url": "https://github.com/polylux-typ/metropolis",
+  "original_author": "Andreas Kröpelin",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/typst-universe__typst-metropolis-polylux-0-1-0/slides.typ",
+  "relative_path": "processed/typst/typst-universe__typst-metropolis-polylux-0-1-0/slides.typ",
+  "sha256": "c2ee4548a03c7a863321afa39e04bcc76484956e977602c0e05a7d1dec78b92b",
+  "size_bytes": 1032,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 276,
+  "downloaded_at": "2026-08-02T13:10:16.548Z",
+  "filtered_at": "2026-08-02T17:34:43.975Z"
+}

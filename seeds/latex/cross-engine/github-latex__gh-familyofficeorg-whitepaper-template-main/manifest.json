@@ -1,0 +1,23 @@
+{
+  "id": "github-latex/gh-familyofficeorg-whitepaper-template-main",
+  "source": "github-latex",
+  "format": "latex",
+  "category": "venue",
+  "license": "CC0-1.0",
+  "source_url": "https://github.com/FamilyOfficeOrg/whitepaper-template",
+  "original_author": "FamilyOfficeOrg",
+  "stars": 1,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-latex/gh-familyofficeorg-whitepaper-template-main/main.tex",
+  "relative_path": "raw/github-latex/gh-familyofficeorg-whitepaper-template-main/main.tex",
+  "main_doc": "main.tex",
+  "sha256": "558deee17af244ce72498be053acf1d62e7c8e9083baa885a3fbb0e399909487",
+  "size_bytes": 552,
+  "document_class": "article",
+  "uses_packages": [
+    "babel",
+    "hyperref",
+    "lipsum"
+  ],
+  "repo_path": "main.tex",
+  "downloaded_at": "2026-08-02T13:38:07.758Z"
+}

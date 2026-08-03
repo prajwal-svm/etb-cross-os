@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-oltdaniel-typst-nak-transfer-template-translations-2",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "venue",
+  "license": "MIT",
+  "source_url": "https://github.com/oltdaniel/typst-nak-transfer-template",
+  "original_author": "oltdaniel",
+  "stars": 2,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-oltdaniel-typst-nak-transfer-template-translations-2/translations.typ",
+  "relative_path": "raw/github-typst/gh-oltdaniel-typst-nak-transfer-template-translations-2/translations.typ",
+  "main_doc": "translations.typ",
+  "sha256": "138f29187491dde354da1dcf2989ebdac09cc0d0b706dd62276bd037a1cc3224",
+  "size_bytes": 1076,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "lib/translations.typ",
+  "downloaded_at": "2026-08-02T14:09:53.066Z"
+}

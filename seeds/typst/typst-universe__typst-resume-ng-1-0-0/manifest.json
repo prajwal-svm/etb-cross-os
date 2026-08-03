@@ -1,0 +1,23 @@
+{
+  "id": "typst-universe/typst-resume-ng-1-0-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "cv",
+  "license": "MIT",
+  "source_url": "https://github.com/fky2015/resume-ng-typst",
+  "original_author": "FengKaiyu",
+  "package_name": "resume-ng",
+  "package_version": "1.0.0",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/typst-universe/typst-resume-ng-1-0-0/main.typ",
+  "relative_path": "raw/typst-universe/typst-resume-ng-1-0-0/main.typ",
+  "main_doc": "main.typ",
+  "sha256": "ed40e96022d66025889056ba5051afa3509f93bbaf102415dc5fd973d3274797",
+  "size_bytes": 4442,
+  "document_class": null,
+  "uses_packages": [],
+  "downloaded_at": "2026-08-02T13:12:31.173Z",
+  "categories": [
+    "cv"
+  ],
+  "description": "A Typst resume designed for optimal information density and aesthetic appeal."
+}

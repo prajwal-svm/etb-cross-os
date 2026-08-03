@@ -1,0 +1,23 @@
+{
+  "id": "typst-universe/typst-iut-orsay-report-flat-0-1-1",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "report",
+  "license": "MIT-0",
+  "source_url": "https://github.com/Epithumia/typst-iut-orsay-report-flat",
+  "original_author": "Sébastien Mestrallet",
+  "package_name": "iut-orsay-report-flat",
+  "package_version": "0.1.1",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/typst-universe/typst-iut-orsay-report-flat-0-1-1/main.typ",
+  "relative_path": "raw/typst-universe/typst-iut-orsay-report-flat-0-1-1/main.typ",
+  "main_doc": "main.typ",
+  "sha256": "195f4d65e7f2b0b52a278b989b314c990efcd3ad19282d585a1a8334c139ecc4",
+  "size_bytes": 4201,
+  "document_class": null,
+  "uses_packages": [],
+  "downloaded_at": "2026-08-02T13:09:34.618Z",
+  "categories": [
+    "report"
+  ],
+  "description": "An unofficial, flat-design template for IUT Orsay reports"
+}

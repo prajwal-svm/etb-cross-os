@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-chillcicada-simple-handout-template-unit-2",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "book",
+  "license": "MIT",
+  "source_url": "https://github.com/chillcicada/simple-handout-template",
+  "original_author": "chillcicada",
+  "stars": 2,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-chillcicada-simple-handout-template-unit-2/unit.typ",
+  "relative_path": "raw/github-typst/gh-chillcicada-simple-handout-template-unit-2/unit.typ",
+  "main_doc": "unit.typ",
+  "sha256": "a9d27ded4beb9754713c30b7e3bc34c8ebc712a0db57417b4847d1790e03123a",
+  "size_bytes": 351,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "example/unit.typ",
+  "downloaded_at": "2026-08-02T14:10:26.850Z"
+}

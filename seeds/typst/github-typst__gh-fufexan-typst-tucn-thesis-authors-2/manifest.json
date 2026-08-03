@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-fufexan-typst-tucn-thesis-authors-2",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "thesis",
+  "license": "MIT",
+  "source_url": "https://github.com/fufexan/typst-tucn-thesis",
+  "original_author": "fufexan",
+  "stars": 0,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-fufexan-typst-tucn-thesis-authors-2/authors.typ",
+  "relative_path": "raw/github-typst/gh-fufexan-typst-tucn-thesis-authors-2/authors.typ",
+  "main_doc": "authors.typ",
+  "sha256": "670b68d8c65ebb866373d07c9a05d953ef594c6fed87356f90186f305a051ebd",
+  "size_bytes": 1841,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "src/authors.typ",
+  "downloaded_at": "2026-08-02T14:15:54.596Z"
+}

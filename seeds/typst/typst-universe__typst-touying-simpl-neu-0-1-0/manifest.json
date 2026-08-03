@@ -1,0 +1,23 @@
+{
+  "id": "typst-universe/typst-touying-simpl-neu-0-1-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "beamer",
+  "license": "MIT",
+  "source_url": "https://github.com/SchrodingerBlume/touying-simpl-neu",
+  "original_author": "SchrodingerBlume",
+  "package_name": "touying-simpl-neu",
+  "package_version": "0.1.0",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/typst-universe/typst-touying-simpl-neu-0-1-0/main.typ",
+  "relative_path": "raw/typst-universe/typst-touying-simpl-neu-0-1-0/main.typ",
+  "main_doc": "main.typ",
+  "sha256": "c5a8a5732b19e2bd700f713686135b9db3b8f0ea180b066b24ab5383f6635571",
+  "size_bytes": 834,
+  "document_class": null,
+  "uses_packages": [],
+  "downloaded_at": "2026-08-02T13:14:19.761Z",
+  "categories": [
+    "presentation"
+  ],
+  "description": "东北大学 Touying 幻灯片主题 (Touying Slide Theme for NEU)"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "typst-universe/typst-cobalt-cv-0-1-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "cv",
+  "license": "MIT",
+  "source_url": "https://typst.app/universe/package/cobalt-cv",
+  "original_author": "Vikram Saraph",
+  "package_name": "cobalt-cv",
+  "package_version": "0.1.0",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/typst-universe/typst-cobalt-cv-0-1-0/main.typ",
+  "relative_path": "raw/typst-universe/typst-cobalt-cv-0-1-0/main.typ",
+  "main_doc": "main.typ",
+  "sha256": "98b026e92770ebdf1f8fa8d828f71c5067719660a17168de9e6424753a86dd6a",
+  "size_bytes": 9273,
+  "document_class": null,
+  "uses_packages": [],
+  "downloaded_at": "2026-08-02T13:07:13.502Z",
+  "categories": [
+    "cv"
+  ],
+  "description": "A clean two-column resume template with a shaded sidebar, Font Awesome icons, and a customizable accent color."
+}

@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-brandenxia-tapestry-main",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "misc",
+  "license": "MIT",
+  "source_url": "https://github.com/BrandenXia/tapestry",
+  "original_author": "BrandenXia",
+  "stars": 3,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-brandenxia-tapestry-main/main.typ",
+  "relative_path": "raw/github-typst/gh-brandenxia-tapestry-main/main.typ",
+  "main_doc": "main.typ",
+  "sha256": "be62b9ccfaa1c2981be34ed21eb417a7e86bc92fcfa913d0143f2c0022217a0b",
+  "size_bytes": 737,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "example/main.typ",
+  "downloaded_at": "2026-08-02T14:09:08.501Z"
+}

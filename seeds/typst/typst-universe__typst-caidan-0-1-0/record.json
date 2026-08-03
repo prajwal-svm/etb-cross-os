@@ -1,0 +1,26 @@
+{
+  "id": "typst-universe/typst-caidan-0-1-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "creative",
+  "license": "MIT",
+  "source_url": "https://github.com/cu1ch3n/caidan",
+  "original_author": "Chen Cui",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/typst-universe__typst-caidan-0-1-0/main.typ",
+  "relative_path": "processed/typst/typst-universe__typst-caidan-0-1-0/main.typ",
+  "sha256": "4594e5f2a99272f791c91ff92e59163d414910f546bdb7a1872f843b70d71171",
+  "size_bytes": 6738,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 420,
+  "downloaded_at": "2026-08-02T13:06:26.515Z",
+  "filtered_at": "2026-08-02T17:34:43.670Z"
+}

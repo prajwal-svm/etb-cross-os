@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-hitszosa-universal-hit-thesis-word-template-diff-tool",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "thesis",
+  "license": "MIT",
+  "source_url": "https://github.com/hitszosa/universal-hit-thesis",
+  "original_author": "hitszosa",
+  "stars": 62,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-hitszosa-universal-hit-thesis-word-template-diff-tool/word-template-diff-tool.typ",
+  "relative_path": "raw/github-typst/gh-hitszosa-universal-hit-thesis-word-template-diff-tool/word-template-diff-tool.typ",
+  "main_doc": "word-template-diff-tool.typ",
+  "sha256": "e5e98cb37dce756b273f6e4e3b344e44eb6b34837f1f9c28e99e1d037721fd0c",
+  "size_bytes": 1281,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "common/utils/word-template-diff-tool.typ",
+  "downloaded_at": "2026-08-02T14:03:46.922Z"
+}

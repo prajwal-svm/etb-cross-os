@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-justfreddy-typst-resume-tabluary-cv-cl-de-example-2",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "cv",
+  "license": "MIT",
+  "source_url": "https://github.com/justFreddy/typst-resume-tabluary-cv",
+  "original_author": "justFreddy",
+  "stars": 0,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-justfreddy-typst-resume-tabluary-cv-cl-de-example-2/cl.de-example.typ",
+  "relative_path": "raw/github-typst/gh-justfreddy-typst-resume-tabluary-cv-cl-de-example-2/cl.de-example.typ",
+  "main_doc": "cl.de-example.typ",
+  "sha256": "9d409e6aee71e916f81a1d2e02a2c5b7c8d1ebb4423cbdbfa2e509a6b9418d49",
+  "size_bytes": 1190,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "content/cl.de-example.typ",
+  "downloaded_at": "2026-08-02T14:18:19.873Z"
+}

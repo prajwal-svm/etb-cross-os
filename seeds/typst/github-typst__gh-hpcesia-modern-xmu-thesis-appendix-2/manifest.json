@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-hpcesia-modern-xmu-thesis-appendix-2",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "thesis",
+  "license": "MIT",
+  "source_url": "https://github.com/HPCesia/modern-xmu-thesis",
+  "original_author": "HPCesia",
+  "stars": 10,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-hpcesia-modern-xmu-thesis-appendix-2/appendix.typ",
+  "relative_path": "raw/github-typst/gh-hpcesia-modern-xmu-thesis-appendix-2/appendix.typ",
+  "main_doc": "appendix.typ",
+  "sha256": "2f0a29e91e3ca0fe2500a0260ebb37f95867214a843ba1ed159d08977c67d674",
+  "size_bytes": 948,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "layouts/appendix.typ",
+  "downloaded_at": "2026-08-02T14:06:15.479Z"
+}

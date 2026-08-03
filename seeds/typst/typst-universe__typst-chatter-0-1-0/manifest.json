@@ -1,0 +1,23 @@
+{
+  "id": "typst-universe/typst-chatter-0-1-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "coursework",
+  "license": "MIT-0",
+  "source_url": "https://github.com/sylvanfranklin/chatter",
+  "original_author": "Sylvan Franklin",
+  "package_name": "chatter",
+  "package_version": "0.1.0",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/typst-universe/typst-chatter-0-1-0/main.typ",
+  "relative_path": "raw/typst-universe/typst-chatter-0-1-0/main.typ",
+  "main_doc": "main.typ",
+  "sha256": "66c3acb529178c410f35354f0b9671757674d86cc5f08aa1eb1aac0161c54c61",
+  "size_bytes": 1115,
+  "document_class": null,
+  "uses_packages": [],
+  "downloaded_at": "2026-08-02T13:06:36.784Z",
+  "categories": [
+    "layout"
+  ],
+  "description": "Write dialog between any number of characters quickly and cleanly. Great for translations or short assignments"
+}

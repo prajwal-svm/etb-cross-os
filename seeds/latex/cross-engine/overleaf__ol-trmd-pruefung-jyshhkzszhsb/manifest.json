@@ -1,0 +1,28 @@
+{
+  "id": "overleaf/ol-trmd-pruefung-jyshhkzszhsb",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "misc",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/trmd-pruefung/jyshhkzszhsb",
+  "original_author": "AK",
+  "title": "TRMD_Pruefung",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/overleaf/ol-trmd-pruefung-jyshhkzszhsb/main.tex",
+  "relative_path": "raw/overleaf/ol-trmd-pruefung-jyshhkzszhsb/main.tex",
+  "main_doc": "main.tex",
+  "sha256": "c070c6eebb9cbc698bbaea46423e78a67d26658bf19cffdb34d5db408d67cdb3",
+  "size_bytes": 1387,
+  "document_class": "article",
+  "uses_packages": [
+    "fancyhdr",
+    "geometry",
+    "graphicx",
+    "inputenc",
+    "lipsum",
+    "multicol",
+    "titlesec"
+  ],
+  "download_method": "view-source-modal",
+  "github_url": null,
+  "downloaded_at": "2026-08-02T16:16:24.547Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-deltaat-htlium-boxes-1",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "misc",
+  "license": "MIT",
+  "source_url": "https://github.com/DeltaAT/HTLium",
+  "original_author": "DeltaAT",
+  "stars": 2,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-deltaat-htlium-boxes-1/boxes.typ",
+  "relative_path": "raw/github-typst/gh-deltaat-htlium-boxes-1/boxes.typ",
+  "main_doc": "boxes.typ",
+  "sha256": "7b45f4521ac09e155ef3ce9f471608355064f5c2b346356ac24d8c7d0e7f9653",
+  "size_bytes": 1918,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "src/lib/boxes.typ",
+  "downloaded_at": "2026-08-02T14:10:04.280Z"
+}

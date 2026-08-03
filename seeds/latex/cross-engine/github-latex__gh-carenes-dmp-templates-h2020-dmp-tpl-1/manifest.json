@@ -1,0 +1,21 @@
+{
+  "id": "github-latex/gh-carenes-dmp-templates-h2020-dmp-tpl-1",
+  "source": "github-latex",
+  "format": "latex",
+  "category": "misc",
+  "license": "CC0-1.0",
+  "source_url": "https://github.com/carenes/DMP_templates",
+  "original_author": "carenes",
+  "stars": 2,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-latex/gh-carenes-dmp-templates-h2020-dmp-tpl-1/h2020-DMP-tpl.tex",
+  "relative_path": "raw/github-latex/gh-carenes-dmp-templates-h2020-dmp-tpl-1/h2020-DMP-tpl.tex",
+  "main_doc": "h2020-DMP-tpl.tex",
+  "sha256": "1622823fc9b49b1363857987603f53aee973446da9dc1daaabeec671d6afd807",
+  "size_bytes": 11426,
+  "document_class": "article",
+  "uses_packages": [
+    "inputenc"
+  ],
+  "repo_path": "h2020-DMP-tpl.tex",
+  "downloaded_at": "2026-08-02T13:34:53.565Z"
+}

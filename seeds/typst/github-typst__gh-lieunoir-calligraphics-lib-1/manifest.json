@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-lieunoir-calligraphics-lib-1",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "cv",
+  "license": "MIT",
+  "source_url": "https://github.com/Lieunoir/calligraphics",
+  "original_author": "Lieunoir",
+  "stars": 0,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-lieunoir-calligraphics-lib-1/lib.typ",
+  "relative_path": "raw/github-typst/gh-lieunoir-calligraphics-lib-1/lib.typ",
+  "main_doc": "lib.typ",
+  "sha256": "8cb44e477e8c75b8b630332218305f4ec3c120f4cac96222e2eb36803955e10d",
+  "size_bytes": 25393,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "lib.typ",
+  "downloaded_at": "2026-08-02T14:18:22.332Z"
+}

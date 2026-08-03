@@ -1,0 +1,24 @@
+{
+  "id": "typst-universe/typst-zen-zine-0-5-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "misc",
+  "license": "MIT",
+  "source_url": "https://codeberg.org/tomeichlersmith/zen-zine",
+  "original_author": "Tom Eichlersmith",
+  "package_name": "zen-zine",
+  "package_version": "0.5.0",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/typst-universe/typst-zen-zine-0-5-0/main.typ",
+  "relative_path": "raw/typst-universe/typst-zen-zine-0-5-0/main.typ",
+  "main_doc": "main.typ",
+  "sha256": "093cf3af1e36e8b62f091f035ed25b041049c9fcf37f34ceb656447dfe8b07d9",
+  "size_bytes": 1320,
+  "document_class": null,
+  "uses_packages": [],
+  "downloaded_at": "2026-08-02T13:16:01.832Z",
+  "categories": [
+    "fun",
+    "layout"
+  ],
+  "description": "Excellently type-set a fun little zine!"
+}

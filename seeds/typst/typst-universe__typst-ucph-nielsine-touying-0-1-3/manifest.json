@@ -1,0 +1,23 @@
+{
+  "id": "typst-universe/typst-ucph-nielsine-touying-0-1-3",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "beamer",
+  "license": "MIT",
+  "source_url": "https://github.com/jorgenhost/ucph-nielsine-touying",
+  "original_author": "Jørgen Baun Høst",
+  "package_name": "ucph-nielsine-touying",
+  "package_version": "0.1.3",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/typst-universe/typst-ucph-nielsine-touying-0-1-3/main.typ",
+  "relative_path": "raw/typst-universe/typst-ucph-nielsine-touying-0-1-3/main.typ",
+  "main_doc": "main.typ",
+  "sha256": "7519c27a15d6699bdb82526c984d0f838b5d007f8ba0ce56063d7dc113627bd4",
+  "size_bytes": 2031,
+  "document_class": null,
+  "uses_packages": [],
+  "downloaded_at": "2026-08-02T13:14:53.274Z",
+  "categories": [
+    "presentation"
+  ],
+  "description": "Slide template built on Touying for the University of Copenhagen."
+}

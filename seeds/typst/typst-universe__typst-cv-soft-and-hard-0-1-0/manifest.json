@@ -1,0 +1,23 @@
+{
+  "id": "typst-universe/typst-cv-soft-and-hard-0-1-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "cv",
+  "license": "MIT",
+  "source_url": "https://github.com/jonaspleyer/cv-soft-and-hard",
+  "original_author": "Jonas Pleyer",
+  "package_name": "cv-soft-and-hard",
+  "package_version": "0.1.0",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/typst-universe/typst-cv-soft-and-hard-0-1-0/main.typ",
+  "relative_path": "raw/typst-universe/typst-cv-soft-and-hard-0-1-0/main.typ",
+  "main_doc": "main.typ",
+  "sha256": "4f762cced69c22681504b9d4130bc4cbb613b3d923db972d95e9991fe0ca6474",
+  "size_bytes": 7360,
+  "document_class": null,
+  "uses_packages": [],
+  "downloaded_at": "2026-08-02T13:07:33.618Z",
+  "categories": [
+    "cv"
+  ],
+  "description": "Clean CV Template"
+}

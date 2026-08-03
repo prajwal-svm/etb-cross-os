@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-yukukotani-typst-coins-thesis-template",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "thesis",
+  "license": "Apache-2.0",
+  "source_url": "https://github.com/yukukotani/typst-coins-thesis",
+  "original_author": "yukukotani",
+  "stars": 46,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-yukukotani-typst-coins-thesis-template/template.typ",
+  "relative_path": "raw/github-typst/gh-yukukotani-typst-coins-thesis-template/template.typ",
+  "main_doc": "template.typ",
+  "sha256": "563afe8a6efca66357169945f6989f7016cd609e9363a4dd5f20f5da5847056b",
+  "size_bytes": 2069,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "template.typ",
+  "downloaded_at": "2026-08-02T14:04:00.023Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-coljac-typst-mnras-mnras-1",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "misc",
+  "license": "MIT",
+  "source_url": "https://github.com/coljac/typst-mnras",
+  "original_author": "coljac",
+  "stars": 5,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-coljac-typst-mnras-mnras-1/mnras.typ",
+  "relative_path": "raw/github-typst/gh-coljac-typst-mnras-mnras-1/mnras.typ",
+  "main_doc": "mnras.typ",
+  "sha256": "8a33eaffaa0a2b5e6088f4bb9f35408a289d291c13b12e1b3cbba3a6103898b8",
+  "size_bytes": 3529,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "mnras.typ",
+  "downloaded_at": "2026-08-02T14:07:29.932Z"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "github-typst/gh-eduardz1-ensimag-nificent-thesis-test",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "thesis",
+  "license": "MIT",
+  "source_url": "https://github.com/eduardz1/ensimag-nificent-thesis",
+  "original_author": "eduardz1",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/github-typst__gh-eduardz1-ensimag-nificent-thesis-test/test.typ",
+  "relative_path": "processed/typst/github-typst__gh-eduardz1-ensimag-nificent-thesis-test/test.typ",
+  "sha256": "e9257e734c987907c91b2b55ef233de1102c6485efa4d8f5395f8f0379cf3d9a",
+  "size_bytes": 4725,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 349,
+  "downloaded_at": "2026-08-02T14:10:30.814Z",
+  "filtered_at": "2026-08-02T17:34:44.781Z"
+}

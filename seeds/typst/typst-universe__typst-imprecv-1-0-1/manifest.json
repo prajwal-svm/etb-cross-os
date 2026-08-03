@@ -1,0 +1,23 @@
+{
+  "id": "typst-universe/typst-imprecv-1-0-1",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "cv",
+  "license": "Apache-2.0",
+  "source_url": "https://github.com/jskherman/imprecv",
+  "original_author": "Je Sian Keith Herman",
+  "package_name": "imprecv",
+  "package_version": "1.0.1",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/typst-universe/typst-imprecv-1-0-1/template.typ",
+  "relative_path": "raw/typst-universe/typst-imprecv-1-0-1/template.typ",
+  "main_doc": "template.typ",
+  "sha256": "3c638821468d1df2f58fbe640784a3cc33207db1f01fc84c08f28fcf98de313e",
+  "size_bytes": 1582,
+  "document_class": null,
+  "uses_packages": [],
+  "downloaded_at": "2026-08-02T13:09:16.938Z",
+  "categories": [
+    "cv"
+  ],
+  "description": "A no-frills curriculum vitae (CV) template using Typst and YAML to version control CV data."
+}

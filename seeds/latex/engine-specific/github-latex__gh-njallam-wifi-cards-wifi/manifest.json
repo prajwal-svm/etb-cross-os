@@ -1,0 +1,23 @@
+{
+  "id": "github-latex/gh-njallam-wifi-cards-wifi",
+  "source": "github-latex",
+  "format": "latex",
+  "category": "business",
+  "license": "MIT",
+  "source_url": "https://github.com/njallam/wifi-cards",
+  "original_author": "njallam",
+  "stars": 5,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-latex/gh-njallam-wifi-cards-wifi/wifi.tex",
+  "relative_path": "raw/github-latex/gh-njallam-wifi-cards-wifi/wifi.tex",
+  "main_doc": "wifi.tex",
+  "sha256": "7b0105ef0d64780a11ade260de20f2442cbdcee20f3254051082d04e1c77f36a",
+  "size_bytes": 698,
+  "document_class": "article",
+  "uses_packages": [
+    "fontawesome",
+    "geometry",
+    "qrcode"
+  ],
+  "repo_path": "wifi.tex",
+  "downloaded_at": "2026-08-02T13:27:40.390Z"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "template-packs/math-cheat-sheet",
+  "source": "template-packs",
+  "format": "latex",
+  "category": "coursework",
+  "category_raw": "Assignments",
+  "license": "CC0-1.0",
+  "source_url": "https://github.com/Oleafly/template-packs",
+  "original_author": "Oleafly",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/template-packs/math-cheat-sheet/main.tex",
+  "relative_path": "raw/template-packs/math-cheat-sheet/main.tex",
+  "main_doc": "main.tex",
+  "sha256": "ba155f5328e86e8a2d2c7e655534f50b25e3e1b80f4545b458ca414504b5d083",
+  "size_bytes": 4349,
+  "document_class": "extarticle",
+  "uses_packages": [
+    "amsmath",
+    "amssymb",
+    "geometry",
+    "lmodern",
+    "multicol",
+    "xcolor"
+  ],
+  "engine_hint": "xetex",
+  "downloaded_at": "2026-08-02T13:05:15.823Z"
+}

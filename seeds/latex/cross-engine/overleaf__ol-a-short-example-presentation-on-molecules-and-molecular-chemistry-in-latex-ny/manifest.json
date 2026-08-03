@@ -1,0 +1,26 @@
+{
+  "id": "overleaf/ol-a-short-example-presentation-on-molecules-and-molecular-chemistry-in-latex-ny",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "beamer",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/a-short-example-presentation-on-molecules-and-molecular-chemistry-in-latex/nyhgzdxvdjhr",
+  "original_author": "John Hammersley",
+  "title": "A short example presentation on molecules and molecular chemistry in LaTeX",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/overleaf/ol-a-short-example-presentation-on-molecules-and-molecular-chemistry-in-latex-ny/main.tex",
+  "relative_path": "raw/overleaf/ol-a-short-example-presentation-on-molecules-and-molecular-chemistry-in-latex-ny/main.tex",
+  "main_doc": "main.tex",
+  "sha256": "c627477ca4cfc3c5b3a36b382cd8f7f8d985b0065d7b099f5a1e3cbe7cf83476",
+  "size_bytes": 6963,
+  "document_class": "beamer",
+  "uses_packages": [
+    "babel",
+    "chemfig",
+    "inputenc",
+    "mhchem",
+    "pgfpages"
+  ],
+  "download_method": "view-source-modal",
+  "github_url": null,
+  "downloaded_at": "2026-08-02T15:22:16.762Z"
+}

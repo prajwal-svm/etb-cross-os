@@ -1,0 +1,24 @@
+{
+  "id": "overleaf/ol-phys-228-template-vkmhvpzpvvtq",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "misc",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/phys-228-template/vkmhvpzpvvtq",
+  "original_author": "Marty Baylor",
+  "title": "PHYS 228 Template",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/overleaf/ol-phys-228-template-vkmhvpzpvvtq/main.tex",
+  "relative_path": "raw/overleaf/ol-phys-228-template-vkmhvpzpvvtq/main.tex",
+  "main_doc": "main.tex",
+  "sha256": "3a51dd84dcbf1e7ec59c899cf7b6c60ad9579a7b7fd3cb9844ad45d856ebe429",
+  "size_bytes": 2146,
+  "document_class": "revtex4-1",
+  "uses_packages": [
+    "bm",
+    "dcolumn",
+    "graphicx"
+  ],
+  "download_method": "view-source-modal",
+  "github_url": null,
+  "downloaded_at": "2026-08-02T16:54:55.752Z"
+}

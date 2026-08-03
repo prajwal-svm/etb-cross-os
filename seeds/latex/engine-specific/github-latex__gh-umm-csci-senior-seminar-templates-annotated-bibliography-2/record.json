@@ -1,0 +1,30 @@
+{
+  "id": "github-latex/gh-umm-csci-senior-seminar-templates-annotated-bibliography-2",
+  "source": "github-latex",
+  "format": "latex",
+  "category": "misc",
+  "license": "MIT",
+  "source_url": "https://github.com/UMM-CSci/Senior_seminar_templates",
+  "original_author": "UMM-CSci",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/engine-specific/github-latex__gh-umm-csci-senior-seminar-templates-annotated-bibliography-2/annotated_bibliography.tex",
+  "relative_path": "processed/latex/engine-specific/github-latex__gh-umm-csci-senior-seminar-templates-annotated-bibliography-2/annotated_bibliography.tex",
+  "sha256": "ee252a423dc67b42987f3a96e7cd5540506fd6ad8ead4a09c888273e4447537b",
+  "size_bytes": 6801,
+  "document_class": "acmart",
+  "uses_packages": [
+    "color",
+    "doclicense",
+    "todonotes"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": false,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "engine-specific",
+  "compile_time_ms": 6431,
+  "downloaded_at": "2026-08-02T13:23:25.188Z",
+  "filtered_at": "2026-08-02T17:34:43.505Z"
+}

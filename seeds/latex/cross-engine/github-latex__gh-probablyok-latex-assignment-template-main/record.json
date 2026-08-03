@@ -1,0 +1,41 @@
+{
+  "id": "github-latex/gh-probablyok-latex-assignment-template-main",
+  "source": "github-latex",
+  "format": "latex",
+  "category": "coursework",
+  "license": "MIT",
+  "source_url": "https://github.com/probablyok/latex-assignment-template",
+  "original_author": "probablyok",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/github-latex__gh-probablyok-latex-assignment-template-main/main.tex",
+  "relative_path": "processed/latex/cross-engine/github-latex__gh-probablyok-latex-assignment-template-main/main.tex",
+  "sha256": "d785b1c5426cb1523e45ace36a4c1214cbc1b131663b3a6a3bc67ebac7b55321",
+  "size_bytes": 2122,
+  "document_class": "article",
+  "uses_packages": [
+    "algorithm2e",
+    "amsmath",
+    "amssymb",
+    "amsthm",
+    "datetime",
+    "fancyhdr",
+    "fontenc",
+    "geometry",
+    "graphicx",
+    "hyperref",
+    "inputenc",
+    "listings",
+    "lmodern",
+    "xcolor"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 464,
+  "downloaded_at": "2026-08-02T13:48:59.466Z",
+  "filtered_at": "2026-08-02T17:34:43.245Z"
+}

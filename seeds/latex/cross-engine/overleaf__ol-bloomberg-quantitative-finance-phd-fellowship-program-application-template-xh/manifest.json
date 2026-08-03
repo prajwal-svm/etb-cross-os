@@ -1,0 +1,33 @@
+{
+  "id": "overleaf/ol-bloomberg-quantitative-finance-phd-fellowship-program-application-template-xh",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "thesis",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/bloomberg-quantitative-finance-phd-fellowship-program-application-template/xhmtnqhbsqgj",
+  "original_author": "Bloomberg",
+  "title": "Bloomberg Quantitative Finance PhD Fellowship Program - Application template",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/overleaf/ol-bloomberg-quantitative-finance-phd-fellowship-program-application-template-xh/main.tex",
+  "relative_path": "raw/overleaf/ol-bloomberg-quantitative-finance-phd-fellowship-program-application-template-xh/main.tex",
+  "main_doc": "main.tex",
+  "sha256": "fba0a8170717cb6d1d11f9260c247e83dbd1fe152c545e4e6099ea8fe3937bd8",
+  "size_bytes": 4987,
+  "document_class": "article",
+  "uses_packages": [
+    "amsfonts",
+    "amsmath",
+    "amssymb",
+    "caption",
+    "float",
+    "geometry",
+    "graphicx",
+    "hyperref",
+    "inputenc",
+    "lipsum",
+    "url",
+    "xcolor"
+  ],
+  "download_method": "view-source-modal",
+  "github_url": null,
+  "downloaded_at": "2026-08-02T16:42:22.245Z"
+}

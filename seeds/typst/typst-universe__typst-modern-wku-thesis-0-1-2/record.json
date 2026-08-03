@@ -1,0 +1,26 @@
+{
+  "id": "typst-universe/typst-modern-wku-thesis-0-1-2",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "thesis",
+  "license": "MIT",
+  "source_url": "https://github.com/Timmycheng/wku-thesis",
+  "original_author": "Timmycheng",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/typst-universe__typst-modern-wku-thesis-0-1-2/main.typ",
+  "relative_path": "processed/typst/typst-universe__typst-modern-wku-thesis-0-1-2/main.typ",
+  "sha256": "197f6e0f924abdff96fb4d04eb15ae976da200752ac490d4129003bed8b3d326",
+  "size_bytes": 3967,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 371,
+  "downloaded_at": "2026-08-02T13:11:16.219Z",
+  "filtered_at": "2026-08-02T17:34:44.027Z"
+}

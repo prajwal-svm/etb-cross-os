@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-thynkon-typst-heig-template-lib-1",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "misc",
+  "license": "MIT",
+  "source_url": "https://github.com/Thynkon/typst-heig-template",
+  "original_author": "Thynkon",
+  "stars": 1,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-thynkon-typst-heig-template-lib-1/lib.typ",
+  "relative_path": "raw/github-typst/gh-thynkon-typst-heig-template-lib-1/lib.typ",
+  "main_doc": "lib.typ",
+  "sha256": "961ff99889d2776d2d5e28bec09c8fc1682774bb87806b02595485d70c5017ed",
+  "size_bytes": 4745,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "lib.typ",
+  "downloaded_at": "2026-08-02T14:11:19.718Z"
+}

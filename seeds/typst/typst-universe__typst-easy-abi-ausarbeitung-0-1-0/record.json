@@ -1,0 +1,26 @@
+{
+  "id": "typst-universe/typst-easy-abi-ausarbeitung-0-1-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "report",
+  "license": "MIT",
+  "source_url": "https://github.com/kn0kh/easy-abi-ausarbeitung",
+  "original_author": "Philipp Knoch",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/typst-universe__typst-easy-abi-ausarbeitung-0-1-0/main.typ",
+  "relative_path": "processed/typst/typst-universe__typst-easy-abi-ausarbeitung-0-1-0/main.typ",
+  "sha256": "5a7df13f07c33bd806d405c72c7779c61e9528c4cf1df2498ddda3fbb1176a7d",
+  "size_bytes": 5530,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 278,
+  "downloaded_at": "2026-08-02T13:07:51.783Z",
+  "filtered_at": "2026-08-02T17:34:43.784Z"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "typst-universe/typst-rubber-article-0-5-2",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "venue",
+  "license": "MIT",
+  "source_url": "https://github.com/npikall/rubber-article.git",
+  "original_author": "Niko Pikall",
+  "package_name": "rubber-article",
+  "package_version": "0.5.2",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/typst-universe/typst-rubber-article-0-5-2/main.typ",
+  "relative_path": "raw/typst-universe/typst-rubber-article-0-5-2/main.typ",
+  "main_doc": "main.typ",
+  "sha256": "cde99ca157d6008835c9bf97e672a38fbbc92a9b196187214a39a6c60b91f055",
+  "size_bytes": 1752,
+  "document_class": null,
+  "uses_packages": [],
+  "downloaded_at": "2026-08-02T13:12:35.099Z",
+  "categories": [
+    "paper",
+    "report"
+  ],
+  "description": "A simple template recreating the look of the classic LaTeX article."
+}

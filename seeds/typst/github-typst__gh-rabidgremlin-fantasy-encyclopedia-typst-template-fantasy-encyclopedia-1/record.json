@@ -1,0 +1,26 @@
+{
+  "id": "github-typst/gh-rabidgremlin-fantasy-encyclopedia-typst-template-fantasy-encyclopedia-1",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "misc",
+  "license": "MIT",
+  "source_url": "https://github.com/rabidgremlin/fantasy-encyclopedia-typst-template",
+  "original_author": "rabidgremlin",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/github-typst__gh-rabidgremlin-fantasy-encyclopedia-typst-template-fantasy-encyclopedia-1/fantasy-encyclopedia.typ",
+  "relative_path": "processed/typst/github-typst__gh-rabidgremlin-fantasy-encyclopedia-typst-template-fantasy-encyclopedia-1/fantasy-encyclopedia.typ",
+  "sha256": "0a416a6c2b4475f7ecb0160b9920e09881f36c2e70b9676f0a49fadcd98f6b9a",
+  "size_bytes": 1729,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 19,
+  "downloaded_at": "2026-08-02T14:16:34.352Z",
+  "filtered_at": "2026-08-02T17:34:45.532Z"
+}

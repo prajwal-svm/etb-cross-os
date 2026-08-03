@@ -1,0 +1,28 @@
+{
+  "id": "overleaf/ol-phd-application-cv-template-mrvjhycbdytr",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "cv",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/phd-application-cv-template/mrvjhycbdytr",
+  "original_author": "Mohammad Amir Lotfi",
+  "title": "PhD application CV Template",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/overleaf/ol-phd-application-cv-template-mrvjhycbdytr/main.tex",
+  "relative_path": "raw/overleaf/ol-phd-application-cv-template-mrvjhycbdytr/main.tex",
+  "main_doc": "main.tex",
+  "sha256": "1a601261819c8df61b168a0d2d1a1cf2283153b850ce2cd0a7ae939d2281ebef",
+  "size_bytes": 8726,
+  "document_class": "extarticle",
+  "uses_packages": [
+    "enumitem",
+    "fancyhdr",
+    "geometry",
+    "hyperref",
+    "inputenc",
+    "tabularx",
+    "titlesec"
+  ],
+  "download_method": "view-source-modal",
+  "github_url": null,
+  "downloaded_at": "2026-08-02T15:32:30.164Z"
+}

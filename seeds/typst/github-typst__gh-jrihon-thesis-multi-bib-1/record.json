@@ -1,0 +1,26 @@
+{
+  "id": "github-typst/gh-jrihon-thesis-multi-bib-1",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "thesis",
+  "license": "MIT",
+  "source_url": "https://github.com/jrihon/thesis",
+  "original_author": "jrihon",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/github-typst__gh-jrihon-thesis-multi-bib-1/multi-bib.typ",
+  "relative_path": "processed/typst/github-typst__gh-jrihon-thesis-multi-bib-1/multi-bib.typ",
+  "sha256": "c85aea999f24beecc57656a9b81f11bdfadd5c31c25e4282b45bca3d21b28117",
+  "size_bytes": 7473,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 10,
+  "downloaded_at": "2026-08-02T14:05:04.700Z",
+  "filtered_at": "2026-08-02T17:34:45.088Z"
+}

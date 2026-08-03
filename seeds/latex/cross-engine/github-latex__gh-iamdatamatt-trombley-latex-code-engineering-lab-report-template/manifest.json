@@ -1,0 +1,28 @@
+{
+  "id": "github-latex/gh-iamdatamatt-trombley-latex-code-engineering-lab-report-template",
+  "source": "github-latex",
+  "format": "latex",
+  "category": "report",
+  "license": "MIT",
+  "source_url": "https://github.com/iamdatamatt/trombley-latex-code",
+  "original_author": "iamdatamatt",
+  "stars": 7,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-latex/gh-iamdatamatt-trombley-latex-code-engineering-lab-report-template/Engineering Lab Report Template.tex",
+  "relative_path": "raw/github-latex/gh-iamdatamatt-trombley-latex-code-engineering-lab-report-template/Engineering Lab Report Template.tex",
+  "main_doc": "Engineering Lab Report Template.tex",
+  "sha256": "b6e953ed3c476e4b63b96b1147a9177d4c56e520ecac92297f545178df0b246f",
+  "size_bytes": 1962,
+  "document_class": null,
+  "uses_packages": [
+    "amsmath",
+    "caption",
+    "fancyhdr",
+    "fancyvrb",
+    "geometry",
+    "graphicx",
+    "indentfirst",
+    "setspace"
+  ],
+  "repo_path": "Engineering Lab/Engineering Lab Report Template.tex",
+  "downloaded_at": "2026-08-02T13:23:33.061Z"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "typst-universe/typst-modern-zhaw-thesis-0-4-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "thesis",
+  "license": "MIT-0",
+  "source_url": "https://github.com/stanlrt/typst-zhaw-thesis",
+  "original_author": "Stanislas Laurent",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/typst-universe__typst-modern-zhaw-thesis-0-4-0/main.typ",
+  "relative_path": "processed/typst/typst-universe__typst-modern-zhaw-thesis-0-4-0/main.typ",
+  "sha256": "0a96e41865606737b405838860582b7bca1d00f5c96fd359743b77d234b95c4c",
+  "size_bytes": 6340,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 550,
+  "downloaded_at": "2026-08-02T13:11:19.396Z",
+  "filtered_at": "2026-08-02T17:34:44.031Z"
+}

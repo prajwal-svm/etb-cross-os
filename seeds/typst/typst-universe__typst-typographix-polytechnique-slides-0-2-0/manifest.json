@@ -1,0 +1,23 @@
+{
+  "id": "typst-universe/typst-typographix-polytechnique-slides-0-2-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "beamer",
+  "license": "MIT",
+  "source_url": "https://github.com/remigerme/typst-polytechnique",
+  "original_author": "Rémi Germe",
+  "package_name": "typographix-polytechnique-slides",
+  "package_version": "0.2.0",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/typst-universe/typst-typographix-polytechnique-slides-0-2-0/slide.typ",
+  "relative_path": "raw/typst-universe/typst-typographix-polytechnique-slides-0-2-0/slide.typ",
+  "main_doc": "slide.typ",
+  "sha256": "b6f9da0b59892e7523cb9c39befd0ae5c5f46f6c39f4aa72e59cb51c4f806606",
+  "size_bytes": 2406,
+  "document_class": null,
+  "uses_packages": [],
+  "downloaded_at": "2026-08-02T13:14:47.701Z",
+  "categories": [
+    "presentation"
+  ],
+  "description": "A presentation slide template for Polytechnique students (from TypographiX)."
+}

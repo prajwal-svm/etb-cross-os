@@ -1,0 +1,26 @@
+{
+  "id": "typst-universe/typst-pro-academic-cv-0-1-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "cv",
+  "license": "MIT",
+  "source_url": "https://github.com/whliao5am/pro-academic-cv-typst-template",
+  "original_author": "Wenhao Liao",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/typst-universe__typst-pro-academic-cv-0-1-0/main.typ",
+  "relative_path": "processed/typst/typst-universe__typst-pro-academic-cv-0-1-0/main.typ",
+  "sha256": "9baa545264d23a497a14a171726da497b1056e2ff35c74c68678a0ff3c5b73d5",
+  "size_bytes": 10995,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 238,
+  "downloaded_at": "2026-08-02T13:12:15.097Z",
+  "filtered_at": "2026-08-02T17:34:44.127Z"
+}

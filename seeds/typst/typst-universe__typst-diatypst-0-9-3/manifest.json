@@ -1,0 +1,23 @@
+{
+  "id": "typst-universe/typst-diatypst-0-9-3",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "beamer",
+  "license": "MIT-0",
+  "source_url": "https://github.com/skriptum/Diatypst",
+  "original_author": "skriptum (https://github.com/skriptum)",
+  "package_name": "diatypst",
+  "package_version": "0.9.3",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/typst-universe/typst-diatypst-0-9-3/main.typ",
+  "relative_path": "raw/typst-universe/typst-diatypst-0-9-3/main.typ",
+  "main_doc": "main.typ",
+  "sha256": "27033e192e9f1ca0d6f1a3358e5e4265821ef0ea847e060c1dfa82dbc8ba9951",
+  "size_bytes": 392,
+  "document_class": null,
+  "uses_packages": [],
+  "downloaded_at": "2026-08-02T13:07:44.433Z",
+  "categories": [
+    "presentation"
+  ],
+  "description": "easy slides in typst - sensible defaults, easy syntax, well styled"
+}

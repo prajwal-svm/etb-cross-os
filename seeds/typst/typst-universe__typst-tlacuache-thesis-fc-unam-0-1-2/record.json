@@ -1,0 +1,26 @@
+{
+  "id": "typst-universe/typst-tlacuache-thesis-fc-unam-0-1-2",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "thesis",
+  "license": "MIT",
+  "source_url": "https://typst.app/universe/package/tlacuache-thesis-fc-unam",
+  "original_author": "David Valencia, davidalencia@ciencias.unam.mx",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/typst-universe__typst-tlacuache-thesis-fc-unam-0-1-2/main.typ",
+  "relative_path": "processed/typst/typst-universe__typst-tlacuache-thesis-fc-unam-0-1-2/main.typ",
+  "sha256": "8e29f29e43cf7bbcf2c533d49ae0ae17900238eb3b6a02199e723ce81b39c498",
+  "size_bytes": 212,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 384,
+  "downloaded_at": "2026-08-02T13:13:55.561Z",
+  "filtered_at": "2026-08-02T17:34:44.264Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-fslyy-dhbw-typst-tool-declaration-1",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "thesis",
+  "license": "MIT",
+  "source_url": "https://github.com/fslyy/DHBW_Typst",
+  "original_author": "fslyy",
+  "stars": 0,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-fslyy-dhbw-typst-tool-declaration-1/tool_declaration.typ",
+  "relative_path": "raw/github-typst/gh-fslyy-dhbw-typst-tool-declaration-1/tool_declaration.typ",
+  "main_doc": "tool_declaration.typ",
+  "sha256": "0e92e2f25a23974550bb1e4da54015f09e33bd15d071b479f39a19e38836f9da",
+  "size_bytes": 2738,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "assets/tool_declaration.typ",
+  "downloaded_at": "2026-08-02T14:17:38.135Z"
+}

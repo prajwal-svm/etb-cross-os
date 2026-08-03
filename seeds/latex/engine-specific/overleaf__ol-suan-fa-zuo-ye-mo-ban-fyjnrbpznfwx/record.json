@@ -1,0 +1,39 @@
+{
+  "id": "overleaf/ol-suan-fa-zuo-ye-mo-ban-fyjnrbpznfwx",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "misc",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/suan-fa-zuo-ye-mo-ban/fyjnrbpznfwx",
+  "original_author": "葛嘉玮",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/engine-specific/overleaf__ol-suan-fa-zuo-ye-mo-ban-fyjnrbpznfwx/main.tex",
+  "relative_path": "processed/latex/engine-specific/overleaf__ol-suan-fa-zuo-ye-mo-ban-fyjnrbpznfwx/main.tex",
+  "sha256": "7611182ba9cd6a281a7d60a3f4d672dd83f7337cc0d382420b1bee9c78d81ad0",
+  "size_bytes": 2505,
+  "document_class": "article",
+  "uses_packages": [
+    "algorithm2e",
+    "amsfonts",
+    "amsmath",
+    "amsthm",
+    "array",
+    "babel",
+    "color",
+    "ctex",
+    "fancyhdr",
+    "geometry",
+    "graphicx",
+    "listings"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": false,
+    "xelatex": true,
+    "lualatex": false,
+    "typst": false
+  },
+  "engine_class": "engine-specific",
+  "compile_time_ms": 2921,
+  "downloaded_at": "2026-08-02T15:48:57.746Z",
+  "filtered_at": "2026-08-02T17:34:41.851Z"
+}

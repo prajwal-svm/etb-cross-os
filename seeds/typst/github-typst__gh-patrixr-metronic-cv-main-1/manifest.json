@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-patrixr-metronic-cv-main-1",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "cv",
+  "license": "MIT",
+  "source_url": "https://github.com/patrixr/metronic-cv",
+  "original_author": "patrixr",
+  "stars": 7,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-patrixr-metronic-cv-main-1/main.typ",
+  "relative_path": "raw/github-typst/gh-patrixr-metronic-cv-main-1/main.typ",
+  "main_doc": "main.typ",
+  "sha256": "2465d40998c305e50e7003c4420d6515e01f0e0eba7d5872df2ed9a7d853035a",
+  "size_bytes": 3043,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "template/main.typ",
+  "downloaded_at": "2026-08-02T14:06:36.845Z"
+}

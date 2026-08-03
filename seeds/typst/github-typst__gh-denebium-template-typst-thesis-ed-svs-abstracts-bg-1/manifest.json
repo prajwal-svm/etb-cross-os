@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-denebium-template-typst-thesis-ed-svs-abstracts-bg-1",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "thesis",
+  "license": "CC0-1.0",
+  "source_url": "https://github.com/Denebium/template_typst_thesis_ED_SVS",
+  "original_author": "Denebium",
+  "stars": 0,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-denebium-template-typst-thesis-ed-svs-abstracts-bg-1/abstracts-bg.typ",
+  "relative_path": "raw/github-typst/gh-denebium-template-typst-thesis-ed-svs-abstracts-bg-1/abstracts-bg.typ",
+  "main_doc": "abstracts-bg.typ",
+  "sha256": "95d23d5e03330aadd711a7f385cf809e2ecd795be4119f295a22fee1e0c793b5",
+  "size_bytes": 1335,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "scripts/abstracts-bg.typ",
+  "downloaded_at": "2026-08-02T14:20:51.267Z"
+}

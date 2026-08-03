@@ -1,0 +1,35 @@
+{
+  "id": "github-latex/gh-dphang-resume-resume",
+  "source": "github-latex",
+  "format": "latex",
+  "category": "cv",
+  "license": "MIT",
+  "source_url": "https://github.com/dphang/resume",
+  "original_author": "dphang",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/engine-specific/github-latex__gh-dphang-resume-resume/resume.tex",
+  "relative_path": "processed/latex/engine-specific/github-latex__gh-dphang-resume-resume/resume.tex",
+  "sha256": "2fa53defac636cbc759fedb747c6da6243dd6da7a00d8b31da2b0205cc34c917",
+  "size_bytes": 5867,
+  "document_class": "article",
+  "uses_packages": [
+    "enumitem",
+    "fontawesome",
+    "fontenc",
+    "geometry",
+    "inputenc",
+    "lato",
+    "mdwlist",
+    "textcomp"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": false,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "engine-specific",
+  "compile_time_ms": 863,
+  "downloaded_at": "2026-08-02T13:12:21.774Z",
+  "filtered_at": "2026-08-02T17:34:42.688Z"
+}

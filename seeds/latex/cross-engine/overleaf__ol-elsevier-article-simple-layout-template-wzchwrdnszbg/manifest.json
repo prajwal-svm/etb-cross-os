@@ -1,0 +1,26 @@
+{
+  "id": "overleaf/ol-elsevier-article-simple-layout-template-wzchwrdnszbg",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "venue",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/elsevier-article-simple-layout-template/wzchwrdnszbg",
+  "original_author": "Elsevier B.V.",
+  "title": "Elsevier Article simple layout template",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/overleaf/ol-elsevier-article-simple-layout-template-wzchwrdnszbg/main.tex",
+  "relative_path": "raw/overleaf/ol-elsevier-article-simple-layout-template-wzchwrdnszbg/main.tex",
+  "main_doc": "main.tex",
+  "sha256": "18bca003a12c137e29442cbf3a2157308fcab41b9278b1218714fe40920dd278",
+  "size_bytes": 8518,
+  "document_class": "elsarticle",
+  "uses_packages": [
+    "amsmath",
+    "amssymb",
+    "amsthm",
+    "epsfig",
+    "lineno"
+  ],
+  "download_method": "view-source-modal",
+  "github_url": null,
+  "downloaded_at": "2026-08-02T15:29:05.689Z"
+}

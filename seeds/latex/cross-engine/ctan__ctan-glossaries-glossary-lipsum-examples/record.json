@@ -1,0 +1,32 @@
+{
+  "id": "ctan/ctan-glossaries-glossary-lipsum-examples",
+  "source": "ctan",
+  "format": "latex",
+  "category": "coursework",
+  "license": "LPPL-1.3c",
+  "source_url": "https://ctan.org/pkg/glossaries",
+  "original_author": "CTAN package: glossaries",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/ctan__ctan-glossaries-glossary-lipsum-examples/glossary-lipsum-examples.tex",
+  "relative_path": "processed/latex/cross-engine/ctan__ctan-glossaries-glossary-lipsum-examples/glossary-lipsum-examples.tex",
+  "sha256": "b6fbac520ee15ede848d0820fa40c0ff8700cd6017e299f967f2571ea09f622d",
+  "size_bytes": 6434,
+  "document_class": "report",
+  "uses_packages": [
+    "glossaries",
+    "glossary-longragged",
+    "glossary-mcols",
+    "graphicx",
+    "hyperref"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 1228,
+  "downloaded_at": "2026-08-02T13:04:56.456Z",
+  "filtered_at": "2026-08-02T17:34:42.279Z"
+}

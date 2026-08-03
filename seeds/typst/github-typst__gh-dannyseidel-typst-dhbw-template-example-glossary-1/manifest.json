@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-dannyseidel-typst-dhbw-template-example-glossary-1",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "coursework",
+  "license": "MIT",
+  "source_url": "https://github.com/DannySeidel/typst-dhbw-template",
+  "original_author": "DannySeidel",
+  "stars": 20,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-dannyseidel-typst-dhbw-template-example-glossary-1/example-glossary.typ",
+  "relative_path": "raw/github-typst/gh-dannyseidel-typst-dhbw-template-example-glossary-1/example-glossary.typ",
+  "main_doc": "example-glossary.typ",
+  "sha256": "b8065b1c0384aabbf032c8fd6f028f7fcd50ed621b94450764a7d9f428e39a17",
+  "size_bytes": 505,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "examples/example-glossary.typ",
+  "downloaded_at": "2026-08-02T14:04:57.911Z"
+}

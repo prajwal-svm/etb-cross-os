@@ -1,0 +1,26 @@
+{
+  "id": "typst-universe/typst-jotter-polylux-0-1-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "beamer",
+  "license": "MIT",
+  "source_url": "https://github.com/polylux-typ/jotter",
+  "original_author": "Andreas Kröpelin",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/typst-universe__typst-jotter-polylux-0-1-0/slides.typ",
+  "relative_path": "processed/typst/typst-universe__typst-jotter-polylux-0-1-0/slides.typ",
+  "sha256": "9d0aedde733d125ffb12db33061bdd610481edfd48fbc199199b109c1a542c4d",
+  "size_bytes": 1729,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 244,
+  "downloaded_at": "2026-08-02T13:09:39.634Z",
+  "filtered_at": "2026-08-02T17:34:43.928Z"
+}

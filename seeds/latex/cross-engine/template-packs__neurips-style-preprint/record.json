@@ -1,0 +1,37 @@
+{
+  "id": "template-packs/neurips-style-preprint",
+  "source": "template-packs",
+  "format": "latex",
+  "category": "venue",
+  "license": "CC0-1.0",
+  "source_url": "https://github.com/Oleafly/template-packs",
+  "original_author": "Oleafly",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/template-packs__neurips-style-preprint/main.tex",
+  "relative_path": "processed/latex/cross-engine/template-packs__neurips-style-preprint/main.tex",
+  "sha256": "06c4070f350a9856e37fd812084cde0ca15004c199bb8182b5c1f0839d19be83",
+  "size_bytes": 5161,
+  "document_class": "article",
+  "uses_packages": [
+    "amsmath",
+    "amssymb",
+    "amsthm",
+    "booktabs",
+    "geometry",
+    "hyperref",
+    "lineno",
+    "mathptmx",
+    "microtype",
+    "titlesec"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 518,
+  "downloaded_at": "2026-08-02T13:05:15.809Z",
+  "filtered_at": "2026-08-02T17:34:40.827Z"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "typst-universe/typst-problemst-0-1-2",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "report",
+  "license": "MIT",
+  "source_url": "https://github.com/carreter/problemst",
+  "original_author": "Willow Carretero Chavez",
+  "package_name": "problemst",
+  "package_version": "0.1.2",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/typst-universe/typst-problemst-0-1-2/main.typ",
+  "relative_path": "raw/typst-universe/typst-problemst-0-1-2/main.typ",
+  "main_doc": "main.typ",
+  "sha256": "89f3a50ceea2315036ce21fe1b0c474c67bd3f7f794d9accaab0afb9f9b28508",
+  "size_bytes": 756,
+  "document_class": null,
+  "uses_packages": [],
+  "downloaded_at": "2026-08-02T13:12:16.590Z",
+  "categories": [
+    "report"
+  ],
+  "description": "Simple and easy-to-use template for problem sets/homeworks/assignments."
+}

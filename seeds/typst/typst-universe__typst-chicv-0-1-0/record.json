@@ -1,0 +1,26 @@
+{
+  "id": "typst-universe/typst-chicv-0-1-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "cv",
+  "license": "MIT",
+  "source_url": "https://github.com/skyzh/chicv",
+  "original_author": "@skyzh",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/typst-universe__typst-chicv-0-1-0/cv.typ",
+  "relative_path": "processed/typst/typst-universe__typst-chicv-0-1-0/cv.typ",
+  "sha256": "bf808dd6b5b2f73763b9a029bd780fd610bfa4a722964fe77e93c6b0c3ea6580",
+  "size_bytes": 1369,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 229,
+  "downloaded_at": "2026-08-02T13:06:41.553Z",
+  "filtered_at": "2026-08-02T17:34:43.694Z"
+}

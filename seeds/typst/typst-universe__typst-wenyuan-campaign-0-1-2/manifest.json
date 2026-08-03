@@ -1,0 +1,25 @@
+{
+  "id": "typst-universe/typst-wenyuan-campaign-0-1-2",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "book",
+  "license": "Apache-2.0",
+  "source_url": "https://github.com/yanwenywan/typst-packages/tree/master/wenyuan-campaign",
+  "original_author": "Yan Xin",
+  "package_name": "wenyuan-campaign",
+  "package_version": "0.1.2",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/typst-universe/typst-wenyuan-campaign-0-1-2/main.typ",
+  "relative_path": "raw/typst-universe/typst-wenyuan-campaign-0-1-2/main.typ",
+  "main_doc": "main.typ",
+  "sha256": "46a0a961845fdad7deb8545783217160207cbd8fff31d4da0443ae69ba2c805f",
+  "size_bytes": 9732,
+  "document_class": null,
+  "uses_packages": [],
+  "downloaded_at": "2026-08-02T13:15:52.631Z",
+  "categories": [
+    "layout",
+    "text",
+    "book"
+  ],
+  "description": "Easily write DnD 5e style campaign documents."
+}

@@ -1,0 +1,26 @@
+{
+  "id": "overleaf/ol-german-modern-formal-letter-gbxkhhdbmgbc",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "letter",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/german-modern-formal-letter/gbxkhhdbmgbc",
+  "original_author": "Jan Mattfeld",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/engine-specific/overleaf__ol-german-modern-formal-letter-gbxkhhdbmgbc/Brief.tex",
+  "relative_path": "processed/latex/engine-specific/overleaf__ol-german-modern-formal-letter-gbxkhhdbmgbc/Brief.tex",
+  "sha256": "379bdcceb18e20e09d97aeb14c9639d2d0ad4ec8dc7407fc67b00c2f21918acd",
+  "size_bytes": 1485,
+  "document_class": "scrlttr2",
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": false,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "engine-specific",
+  "compile_time_ms": 426,
+  "downloaded_at": "2026-08-02T16:00:38.863Z",
+  "filtered_at": "2026-08-02T17:34:41.195Z"
+}

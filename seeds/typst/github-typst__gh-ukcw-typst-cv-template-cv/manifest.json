@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-ukcw-typst-cv-template-cv",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "cv",
+  "license": "MIT",
+  "source_url": "https://github.com/ukcw/typst-cv-template",
+  "original_author": "ukcw",
+  "stars": 0,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-ukcw-typst-cv-template-cv/cv.typ",
+  "relative_path": "raw/github-typst/gh-ukcw-typst-cv-template-cv/cv.typ",
+  "main_doc": "cv.typ",
+  "sha256": "425649b0a4a33a66c639f9f661f33165ae56fccfabd7446d78fd5b10e8799260",
+  "size_bytes": 2400,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "cv.typ",
+  "downloaded_at": "2026-08-02T14:15:28.648Z"
+}

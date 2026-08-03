@@ -1,0 +1,23 @@
+{
+  "id": "template-packs/jakes-style-resume",
+  "source": "template-packs",
+  "format": "latex",
+  "category": "cv",
+  "category_raw": "CVs & Resumes",
+  "license": "CC0-1.0",
+  "source_url": "https://github.com/Oleafly/template-packs",
+  "original_author": "Oleafly",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/template-packs/jakes-style-resume/main.tex",
+  "relative_path": "raw/template-packs/jakes-style-resume/main.tex",
+  "main_doc": "main.tex",
+  "sha256": "6bbabdf01af3e7725e3f78a485cda7e4588471d5dfa6888c8d9843d672be1336",
+  "size_bytes": 2303,
+  "document_class": "article",
+  "uses_packages": [
+    "enumitem",
+    "geometry",
+    "hyperref"
+  ],
+  "engine_hint": "xetex",
+  "downloaded_at": "2026-08-02T13:05:15.845Z"
+}

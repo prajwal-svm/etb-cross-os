@@ -1,0 +1,26 @@
+{
+  "id": "github-latex/gh-baptistep31-latex-template-main",
+  "source": "github-latex",
+  "format": "latex",
+  "category": "report",
+  "license": "MIT",
+  "source_url": "https://github.com/BaptisteP31/latex-template",
+  "original_author": "BaptisteP31",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/github-latex__gh-baptistep31-latex-template-main/main.tex",
+  "relative_path": "processed/latex/cross-engine/github-latex__gh-baptistep31-latex-template-main/main.tex",
+  "sha256": "db7d607d6eb525f60895a812cb26006f1cab7f0619294f6be692f8a8a7a7ad65",
+  "size_bytes": 9721,
+  "document_class": "article",
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 252,
+  "downloaded_at": "2026-08-02T13:58:34.416Z",
+  "filtered_at": "2026-08-02T17:34:42.519Z"
+}

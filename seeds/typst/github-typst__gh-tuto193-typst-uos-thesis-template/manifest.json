@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-tuto193-typst-uos-thesis-template",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "thesis",
+  "license": "MIT",
+  "source_url": "https://github.com/tuto193/typst-uos-thesis",
+  "original_author": "tuto193",
+  "stars": 0,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-tuto193-typst-uos-thesis-template/template.typ",
+  "relative_path": "raw/github-typst/gh-tuto193-typst-uos-thesis-template/template.typ",
+  "main_doc": "template.typ",
+  "sha256": "35d1914f00e616f47a309ab712f21f4ac994974b5bef1bd026d0691447f535e0",
+  "size_bytes": 15745,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "template.typ",
+  "downloaded_at": "2026-08-02T14:15:52.746Z"
+}

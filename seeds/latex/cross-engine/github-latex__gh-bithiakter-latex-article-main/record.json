@@ -1,0 +1,26 @@
+{
+  "id": "github-latex/gh-bithiakter-latex-article-main",
+  "source": "github-latex",
+  "format": "latex",
+  "category": "venue",
+  "license": "MIT",
+  "source_url": "https://github.com/bithiakter/latex-article",
+  "original_author": "bithiakter",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/github-latex__gh-bithiakter-latex-article-main/main.tex",
+  "relative_path": "processed/latex/cross-engine/github-latex__gh-bithiakter-latex-article-main/main.tex",
+  "sha256": "ec098127bcc64a24cb81e6c2b521128a1ba94fdbc5626136e89b5459c6cd34f8",
+  "size_bytes": 3183,
+  "document_class": "article",
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 237,
+  "downloaded_at": "2026-08-02T13:58:13.474Z",
+  "filtered_at": "2026-08-02T17:34:42.527Z"
+}

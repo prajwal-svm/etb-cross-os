@@ -1,0 +1,28 @@
+{
+  "id": "github-latex/gh-purestone-chitshit-meta-cheatsheet-2",
+  "source": "github-latex",
+  "format": "latex",
+  "category": "coursework",
+  "license": "MIT",
+  "source_url": "https://github.com/Purestone/chitshit",
+  "original_author": "Purestone",
+  "stars": 31,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-latex/gh-purestone-chitshit-meta-cheatsheet-2/meta_cheatsheet.tex",
+  "relative_path": "raw/github-latex/gh-purestone-chitshit-meta-cheatsheet-2/meta_cheatsheet.tex",
+  "main_doc": "meta_cheatsheet.tex",
+  "sha256": "824d7495e5d4371c74ff53abca41c59e8bb2e279ec46c61e164b7ea786a9d409",
+  "size_bytes": 15196,
+  "document_class": "article",
+  "uses_packages": [
+    "amssymb",
+    "enumitem",
+    "fontspec",
+    "geometry",
+    "microtype",
+    "multicol",
+    "newunicodechar",
+    "xcolor"
+  ],
+  "repo_path": "meta_cheatsheet.tex",
+  "downloaded_at": "2026-08-02T13:15:57.796Z"
+}

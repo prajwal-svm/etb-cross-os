@@ -1,0 +1,26 @@
+{
+  "id": "typst-universe/typst-dudi-colorful-slides-0-1-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "beamer",
+  "license": "MIT-0",
+  "source_url": "https://github.com/dudi0D/dudi-colorful-template",
+  "original_author": "Dmitry Egorychev",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/typst-universe__typst-dudi-colorful-slides-0-1-0/main.typ",
+  "relative_path": "processed/typst/typst-universe__typst-dudi-colorful-slides-0-1-0/main.typ",
+  "sha256": "bc5753dd077984e0f26de65ba3e70d3b78569c999a92d6c882ccedff574baa28",
+  "size_bytes": 2301,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 179,
+  "downloaded_at": "2026-08-02T13:07:50.177Z",
+  "filtered_at": "2026-08-02T17:34:43.780Z"
+}

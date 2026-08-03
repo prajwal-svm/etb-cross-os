@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-tibirius24-modern-ovgu-fma-polylux-math-utils-1",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "beamer",
+  "license": "MIT",
+  "source_url": "https://github.com/tibirius24/modern-ovgu-fma-polylux",
+  "original_author": "tibirius24",
+  "stars": 1,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-tibirius24-modern-ovgu-fma-polylux-math-utils-1/math-utils.typ",
+  "relative_path": "raw/github-typst/gh-tibirius24-modern-ovgu-fma-polylux-math-utils-1/math-utils.typ",
+  "main_doc": "math-utils.typ",
+  "sha256": "145fd38efddd76ea7685d0fc0bb47fbc9a95e43473cae6310f654634bd57e125",
+  "size_bytes": 676,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "math-utils.typ",
+  "downloaded_at": "2026-08-02T14:13:07.731Z"
+}

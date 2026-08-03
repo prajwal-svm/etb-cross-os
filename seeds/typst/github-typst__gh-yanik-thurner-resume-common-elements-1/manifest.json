@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-yanik-thurner-resume-common-elements-1",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "cv",
+  "license": "MIT",
+  "source_url": "https://github.com/yanik-thurner/resume",
+  "original_author": "yanik-thurner",
+  "stars": 0,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-yanik-thurner-resume-common-elements-1/common-elements.typ",
+  "relative_path": "raw/github-typst/gh-yanik-thurner-resume-common-elements-1/common-elements.typ",
+  "main_doc": "common-elements.typ",
+  "sha256": "35392303991d11b3384d6d80b76b056236fcc1ea98c425431230f2c15113a05f",
+  "size_bytes": 5077,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "src/common-elements.typ",
+  "downloaded_at": "2026-08-02T14:20:11.235Z"
+}

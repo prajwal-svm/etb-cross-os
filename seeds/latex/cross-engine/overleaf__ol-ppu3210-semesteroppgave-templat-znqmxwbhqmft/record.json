@@ -1,0 +1,31 @@
+{
+  "id": "overleaf/ol-ppu3210-semesteroppgave-templat-znqmxwbhqmft",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "misc",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/ppu3210-semesteroppgave-templat/znqmxwbhqmft",
+  "original_author": "Matias Einer Rekstad",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/overleaf__ol-ppu3210-semesteroppgave-templat-znqmxwbhqmft/main.tex",
+  "relative_path": "processed/latex/cross-engine/overleaf__ol-ppu3210-semesteroppgave-templat-znqmxwbhqmft/main.tex",
+  "sha256": "ab0b399a55cf4dbf1bcecd448e8c3b4bb7cfca78107565804be10194d9b9765e",
+  "size_bytes": 1316,
+  "document_class": "article",
+  "uses_packages": [
+    "apacite",
+    "babel",
+    "helvet",
+    "inputenc"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 792,
+  "downloaded_at": "2026-08-02T14:55:57.970Z",
+  "filtered_at": "2026-08-02T17:34:41.668Z"
+}

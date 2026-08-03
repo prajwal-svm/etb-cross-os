@@ -1,0 +1,24 @@
+{
+  "id": "overleaf/ol-fiche-de-revision-pour-loral-de-bac-de-francais-1er-vnzvvstjxfrk",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "misc",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/fiche-de-revision-pour-loral-de-bac-de-francais-1er/vnzvvstjxfrk",
+  "original_author": "Louis Hardy",
+  "title": "Fiche de révision pour l'oral de bac de français 1er",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/overleaf/ol-fiche-de-revision-pour-loral-de-bac-de-francais-1er-vnzvvstjxfrk/main.tex",
+  "relative_path": "raw/overleaf/ol-fiche-de-revision-pour-loral-de-bac-de-francais-1er-vnzvvstjxfrk/main.tex",
+  "main_doc": "main.tex",
+  "sha256": "6a7754d105000c531d13e33539e8aa0320b0a9e7d165e971a2f36b564197b4a0",
+  "size_bytes": 6379,
+  "document_class": "article",
+  "uses_packages": [
+    "fontenc",
+    "graphicx",
+    "natbib"
+  ],
+  "download_method": "view-source-modal",
+  "github_url": null,
+  "downloaded_at": "2026-08-02T14:36:18.916Z"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "typst-universe/typst-lyceum-0-1-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "book",
+  "license": "MIT",
+  "source_url": "https://typst.app/universe/package/lyceum",
+  "original_author": "Naaktgeboren, C.",
+  "package_name": "lyceum",
+  "package_version": "0.1.0",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/typst-universe/typst-lyceum-0-1-0/main.typ",
+  "relative_path": "raw/typst-universe/typst-lyceum-0-1-0/main.typ",
+  "main_doc": "main.typ",
+  "sha256": "f22ca9c894118e37cdf8277e530b4c60e07ba24c0b525cf2b5af2e7774c33dcc",
+  "size_bytes": 3349,
+  "document_class": null,
+  "uses_packages": [],
+  "downloaded_at": "2026-08-02T13:10:05.955Z",
+  "categories": [
+    "layout",
+    "scripting",
+    "book"
+  ],
+  "description": "Academic book template in Typst"
+}

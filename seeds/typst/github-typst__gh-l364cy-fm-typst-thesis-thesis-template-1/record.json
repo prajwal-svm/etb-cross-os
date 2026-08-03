@@ -1,0 +1,26 @@
+{
+  "id": "github-typst/gh-l364cy-fm-typst-thesis-thesis-template-1",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "thesis",
+  "license": "MIT",
+  "source_url": "https://github.com/L364CY-FM/typst-thesis",
+  "original_author": "L364CY-FM",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/github-typst__gh-l364cy-fm-typst-thesis-thesis-template-1/thesis_template.typ",
+  "relative_path": "processed/typst/github-typst__gh-l364cy-fm-typst-thesis-thesis-template-1/thesis_template.typ",
+  "sha256": "8101e46f43e89c59bcc685eae5c192c31d8b23f2748a524aee5b9f5ada790e3f",
+  "size_bytes": 1965,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 8,
+  "downloaded_at": "2026-08-02T14:08:48.262Z",
+  "filtered_at": "2026-08-02T17:34:45.162Z"
+}

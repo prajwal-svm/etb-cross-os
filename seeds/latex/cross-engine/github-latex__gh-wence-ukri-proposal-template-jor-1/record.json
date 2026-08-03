@@ -1,0 +1,28 @@
+{
+  "id": "github-latex/gh-wence-ukri-proposal-template-jor-1",
+  "source": "github-latex",
+  "format": "latex",
+  "category": "misc",
+  "license": "CC0-1.0",
+  "source_url": "https://github.com/wence-/ukri-proposal-template",
+  "original_author": "wence-",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/github-latex__gh-wence-ukri-proposal-template-jor-1/jor.tex",
+  "relative_path": "processed/latex/cross-engine/github-latex__gh-wence-ukri-proposal-template-jor-1/jor.tex",
+  "sha256": "519e73119d1a1cd898bb9623fecdeeee5c7a7d5bfaa5cccaa39ab27d24ff99d6",
+  "size_bytes": 411,
+  "document_class": "scrartcl",
+  "uses_packages": [
+    "nag"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 716,
+  "downloaded_at": "2026-08-02T13:47:55.674Z",
+  "filtered_at": "2026-08-02T17:34:43.548Z"
+}

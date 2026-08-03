@@ -1,0 +1,24 @@
+{
+  "id": "github-latex/gh-edwardtoday-latex-templates-sample-brochure",
+  "source": "github-latex",
+  "format": "latex",
+  "category": "business",
+  "license": "MIT",
+  "source_url": "https://github.com/edwardtoday/latex-templates",
+  "original_author": "edwardtoday",
+  "stars": 2,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-latex/gh-edwardtoday-latex-templates-sample-brochure/sample-brochure.tex",
+  "relative_path": "raw/github-latex/gh-edwardtoday-latex-templates-sample-brochure/sample-brochure.tex",
+  "main_doc": "sample-brochure.tex",
+  "sha256": "18c4c0e647a11961234d8a09fe42a725c32d146e45cb6285068bdbaa8ca09c32",
+  "size_bytes": 11593,
+  "document_class": "report",
+  "uses_packages": [
+    "color",
+    "flowfram",
+    "geometry",
+    "hyperref"
+  ],
+  "repo_path": "Brochure - flowfram/sample-brochure.tex",
+  "downloaded_at": "2026-08-02T13:33:54.537Z"
+}

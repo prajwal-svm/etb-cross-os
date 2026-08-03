@@ -1,0 +1,24 @@
+{
+  "id": "ctan/ctan-beamer-beamericonbook",
+  "source": "ctan",
+  "format": "latex",
+  "category": "beamer",
+  "license": "LPPL-1.3c",
+  "source_url": "https://ctan.org/pkg/beamer",
+  "original_author": "CTAN package: beamer",
+  "package": "beamer",
+  "original_path": "/usr/local/texlive/2025/texmf-dist/tex/latex/beamer/beamericonbook.tex",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/ctan/ctan-beamer-beamericonbook/beamericonbook.tex",
+  "relative_path": "raw/ctan/ctan-beamer-beamericonbook/beamericonbook.tex",
+  "main_doc": "beamericonbook.tex",
+  "sha256": "a06f41a4394ae265bb55e00a26eef7f3a93edfad6f7d91b9d78cf4705a59c793",
+  "size_bytes": 3039,
+  "document_class": "article",
+  "uses_packages": [
+    "geometry",
+    "pgf",
+    "pgfshade",
+    "xxcolor"
+  ],
+  "downloaded_at": "2026-08-02T13:04:46.013Z"
+}

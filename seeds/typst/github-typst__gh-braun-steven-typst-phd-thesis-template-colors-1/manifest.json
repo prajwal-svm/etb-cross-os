@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-braun-steven-typst-phd-thesis-template-colors-1",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "thesis",
+  "license": "MIT",
+  "source_url": "https://github.com/braun-steven/typst-phd-thesis-template",
+  "original_author": "braun-steven",
+  "stars": 0,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-braun-steven-typst-phd-thesis-template-colors-1/colors.typ",
+  "relative_path": "raw/github-typst/gh-braun-steven-typst-phd-thesis-template-colors-1/colors.typ",
+  "main_doc": "colors.typ",
+  "sha256": "606d4958fb31752c0d531ce6e787aa565de2b59df61ac90b2b092f2861a82205",
+  "size_bytes": 3004,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "colors.typ",
+  "downloaded_at": "2026-08-02T14:16:30.157Z"
+}

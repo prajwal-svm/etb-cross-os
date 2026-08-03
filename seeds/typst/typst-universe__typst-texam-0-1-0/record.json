@@ -1,0 +1,26 @@
+{
+  "id": "typst-universe/typst-texam-0-1-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "business",
+  "license": "MIT",
+  "source_url": "https://github.com/nathan-ed/typst-package-texam",
+  "original_author": "Nathan Scheinmann",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/typst-universe__typst-texam-0-1-0/main.typ",
+  "relative_path": "processed/typst/typst-universe__typst-texam-0-1-0/main.typ",
+  "sha256": "7c759455627bf50ae97a4c6b01e7bf868b22e1339c2df54e45081c24c12955a0",
+  "size_bytes": 1346,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 182,
+  "downloaded_at": "2026-08-02T13:13:40.059Z",
+  "filtered_at": "2026-08-02T17:34:44.245Z"
+}

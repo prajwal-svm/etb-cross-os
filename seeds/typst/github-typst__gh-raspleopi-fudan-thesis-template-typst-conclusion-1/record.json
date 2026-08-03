@@ -1,0 +1,26 @@
+{
+  "id": "github-typst/gh-raspleopi-fudan-thesis-template-typst-conclusion-1",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "thesis",
+  "license": "MIT",
+  "source_url": "https://github.com/RaspLeoPi/fudan_thesis_template_typst",
+  "original_author": "RaspLeoPi",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/github-typst__gh-raspleopi-fudan-thesis-template-typst-conclusion-1/conclusion.typ",
+  "relative_path": "processed/typst/github-typst__gh-raspleopi-fudan-thesis-template-typst-conclusion-1/conclusion.typ",
+  "sha256": "00707ca84e8bd63f76cb431a37f8894aedb1e92a233a8829aff64e0f081ae2a6",
+  "size_bytes": 766,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 332,
+  "downloaded_at": "2026-08-02T14:11:50.008Z",
+  "filtered_at": "2026-08-02T17:34:45.545Z"
+}

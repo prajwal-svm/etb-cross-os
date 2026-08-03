@@ -1,0 +1,23 @@
+{
+  "id": "typst-universe/typst-silky-letter-insa-0-2-3",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "business",
+  "license": "MIT",
+  "source_url": "https://github.com/SkytAsul/INSA-Typst-Template",
+  "original_author": "SkytAsul",
+  "package_name": "silky-letter-insa",
+  "package_version": "0.2.3",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/typst-universe/typst-silky-letter-insa-0-2-3/main.typ",
+  "relative_path": "raw/typst-universe/typst-silky-letter-insa-0-2-3/main.typ",
+  "main_doc": "main.typ",
+  "sha256": "2dd8afb92e0f2b0706c6ff5f78626874628cf980e290a98d09778262aad18623",
+  "size_bytes": 1044,
+  "document_class": null,
+  "uses_packages": [],
+  "downloaded_at": "2026-08-02T13:12:49.729Z",
+  "categories": [
+    "office"
+  ],
+  "description": "A template made for letters and short documents of INSA, a French engineering school."
+}

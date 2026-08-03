@@ -1,0 +1,23 @@
+{
+  "id": "typst-universe/typst-impaginato-0-1-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "creative",
+  "license": "MIT",
+  "source_url": "https://typst.app/universe/package/impaginato",
+  "original_author": "Mariano Mollo",
+  "package_name": "impaginato",
+  "package_version": "0.1.0",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/typst-universe/typst-impaginato-0-1-0/main.typ",
+  "relative_path": "raw/typst-universe/typst-impaginato-0-1-0/main.typ",
+  "main_doc": "main.typ",
+  "sha256": "3dc98f56c7c3ee6cf8939dfbf3d142a4ca4190eaca3d269676b5d05f347ba332",
+  "size_bytes": 2344,
+  "document_class": null,
+  "uses_packages": [],
+  "downloaded_at": "2026-08-02T13:09:16.001Z",
+  "categories": [
+    "flyer"
+  ],
+  "description": "A practical flyer to print and cut at home."
+}

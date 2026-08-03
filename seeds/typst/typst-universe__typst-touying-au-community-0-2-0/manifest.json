@@ -1,0 +1,23 @@
+{
+  "id": "typst-universe/typst-touying-au-community-0-2-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "beamer",
+  "license": "MIT",
+  "source_url": "https://typst.app/universe/package/touying-au-community",
+  "original_author": "Alexander A. Christensen",
+  "package_name": "touying-au-community",
+  "package_version": "0.2.0",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/typst-universe/typst-touying-au-community-0-2-0/main.typ",
+  "relative_path": "raw/typst-universe/typst-touying-au-community-0-2-0/main.typ",
+  "main_doc": "main.typ",
+  "sha256": "61c388c27151baee945eee4d02138e670ff79cedcda3ae13aeb3db45e2176ca4",
+  "size_bytes": 798,
+  "document_class": null,
+  "uses_packages": [],
+  "downloaded_at": "2026-08-02T13:13:59.911Z",
+  "categories": [
+    "presentation"
+  ],
+  "description": "Community Aarhus University style presentation, built with Touying"
+}

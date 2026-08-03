@@ -1,0 +1,26 @@
+{
+  "id": "typst-universe/typst-ohdsi-symposium-submission-0-1-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "venue",
+  "license": "MIT",
+  "source_url": "https://github.com/huanhe4096/packages",
+  "original_author": "Huan He",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/typst-universe__typst-ohdsi-symposium-submission-0-1-0/main.typ",
+  "relative_path": "processed/typst/typst-universe__typst-ohdsi-symposium-submission-0-1-0/main.typ",
+  "sha256": "d7d4288dce438a386689a5de807cb64f04987a01f27678a3c5f3534cd1699034",
+  "size_bytes": 1965,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 236,
+  "downloaded_at": "2026-08-02T13:11:46.768Z",
+  "filtered_at": "2026-08-02T17:34:44.080Z"
+}

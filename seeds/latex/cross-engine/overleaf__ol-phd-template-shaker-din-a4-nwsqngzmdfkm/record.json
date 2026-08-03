@@ -1,0 +1,37 @@
+{
+  "id": "overleaf/ol-phd-template-shaker-din-a4-nwsqngzmdfkm",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "thesis",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/phd-template-shaker-din-a4/nwsqngzmdfkm",
+  "original_author": "Ilja Stasewitsch",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/overleaf__ol-phd-template-shaker-din-a4-nwsqngzmdfkm/main.tex",
+  "relative_path": "processed/latex/cross-engine/overleaf__ol-phd-template-shaker-din-a4-nwsqngzmdfkm/main.tex",
+  "sha256": "033acafd98b6b77e3712e58531d3cc92912a37eff54464325ba3ea2eeaf05320",
+  "size_bytes": 5739,
+  "document_class": "scrbook",
+  "uses_packages": [
+    "babel",
+    "bookmark",
+    "fancyhdr",
+    "fontenc",
+    "hyperref",
+    "inputenc",
+    "lipsum",
+    "nameref",
+    "setspace",
+    "showframe"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 1387,
+  "downloaded_at": "2026-08-02T14:35:23.499Z",
+  "filtered_at": "2026-08-02T17:34:41.618Z"
+}

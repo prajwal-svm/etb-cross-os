@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-ziyunli-typst-modern-cv-template-coverletter2-2",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "cv",
+  "license": "MIT",
+  "source_url": "https://github.com/ziyunli/typst-modern-cv-template",
+  "original_author": "ziyunli",
+  "stars": 0,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-ziyunli-typst-modern-cv-template-coverletter2-2/coverletter2.typ",
+  "relative_path": "raw/github-typst/gh-ziyunli-typst-modern-cv-template-coverletter2-2/coverletter2.typ",
+  "main_doc": "coverletter2.typ",
+  "sha256": "5c80004d0cc20e1a8a7c4c89aab632a1c7803036313d0f22c9bf12fa8f5f0624",
+  "size_bytes": 1064,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "coverletter2.typ",
+  "downloaded_at": "2026-08-02T14:16:28.222Z"
+}

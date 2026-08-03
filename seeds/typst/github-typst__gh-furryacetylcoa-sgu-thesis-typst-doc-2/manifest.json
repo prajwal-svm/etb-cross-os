@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-furryacetylcoa-sgu-thesis-typst-doc-2",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "thesis",
+  "license": "MIT",
+  "source_url": "https://github.com/FurryAcetylCoA/sgu-thesis-typst",
+  "original_author": "FurryAcetylCoA",
+  "stars": 3,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-furryacetylcoa-sgu-thesis-typst-doc-2/doc.typ",
+  "relative_path": "raw/github-typst/gh-furryacetylcoa-sgu-thesis-typst-doc-2/doc.typ",
+  "main_doc": "doc.typ",
+  "sha256": "cc1ee95ad5dc639bf269d307a23b2cdd7b2876fffe3b911e7b154142832af32e",
+  "size_bytes": 820,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "nju-thesis/layouts/doc.typ",
+  "downloaded_at": "2026-08-02T14:09:33.718Z"
+}

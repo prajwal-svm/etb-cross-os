@@ -1,0 +1,32 @@
+{
+  "id": "github-latex/gh-dotstefano-beamer-template-paleta-2-blue-red-1",
+  "source": "github-latex",
+  "format": "latex",
+  "category": "beamer",
+  "license": "MIT",
+  "source_url": "https://github.com/DotStefano/Beamer-template",
+  "original_author": "DotStefano",
+  "stars": 0,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-latex/gh-dotstefano-beamer-template-paleta-2-blue-red-1/Paleta-2-Blue-Red.tex",
+  "relative_path": "raw/github-latex/gh-dotstefano-beamer-template-paleta-2-blue-red-1/Paleta-2-Blue-Red.tex",
+  "main_doc": "Paleta-2-Blue-Red.tex",
+  "sha256": "571fb287922ddfe28e1dc4add3c8eb151908313a5f084e4ced2fb6c68d747f19",
+  "size_bytes": 12599,
+  "document_class": "beamer",
+  "uses_packages": [
+    "FiraMono",
+    "FiraSans",
+    "amsmath",
+    "amssymb",
+    "babel",
+    "booktabs",
+    "fontenc",
+    "fontspec",
+    "graphicx",
+    "inputenc",
+    "pgfplots",
+    "siunitx"
+  ],
+  "repo_path": "Paleta-2-Blue-Red/Paleta-2-Blue-Red.tex",
+  "downloaded_at": "2026-08-02T13:52:30.922Z"
+}

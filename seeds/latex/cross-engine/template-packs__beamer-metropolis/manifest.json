@@ -1,0 +1,21 @@
+{
+  "id": "template-packs/beamer-metropolis",
+  "source": "template-packs",
+  "format": "latex",
+  "category": "beamer",
+  "category_raw": "Presentations",
+  "license": "CC0-1.0",
+  "source_url": "https://github.com/Oleafly/template-packs",
+  "original_author": "Oleafly",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/template-packs/beamer-metropolis/main.tex",
+  "relative_path": "raw/template-packs/beamer-metropolis/main.tex",
+  "main_doc": "main.tex",
+  "sha256": "d341509c16e62834503371e792aec19abc458b319a7630346845a05a4ea1d570",
+  "size_bytes": 968,
+  "document_class": "beamer",
+  "uses_packages": [
+    "booktabs"
+  ],
+  "engine_hint": "xetex",
+  "downloaded_at": "2026-08-02T13:05:15.864Z"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "overleaf/ol-abstract-template-for-japan-society-of-applied-physics-jsap-ouyou-butsurigaku",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "misc",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/abstract-template-for-japan-society-of-applied-physics-jsap-ouyou-butsurigaku-kai/rtrgcfcjbbjg",
+  "original_author": "Zinan Zhou",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/overleaf__ol-abstract-template-for-japan-society-of-applied-physics-jsap-ouyou-butsurigaku/main.tex",
+  "relative_path": "processed/latex/cross-engine/overleaf__ol-abstract-template-for-japan-society-of-applied-physics-jsap-ouyou-butsurigaku/main.tex",
+  "sha256": "7c392b2370ef4dfd5bd3ebf50aca136c113e580c1a0337abb636ace7a3dce74e",
+  "size_bytes": 958,
+  "document_class": "article",
+  "uses_packages": [
+    "fontenc",
+    "geometry",
+    "hyperref",
+    "inputenc",
+    "txfonts"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 1705,
+  "downloaded_at": "2026-08-02T16:30:20.018Z",
+  "filtered_at": "2026-08-02T17:34:40.898Z"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "typst-universe/typst-husky-uw-thesis-0-1-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "thesis",
+  "license": "Apache-2.0",
+  "source_url": "https://github.com/Yuan-Ru-Lin/husky-uw-thesis",
+  "original_author": "Yuan-Ru Lin",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/typst-universe__typst-husky-uw-thesis-0-1-0/main.typ",
+  "relative_path": "processed/typst/typst-universe__typst-husky-uw-thesis-0-1-0/main.typ",
+  "sha256": "a17741aded55af89a586cc1d10f8d04bbe4f91d67deae5bac6f0a2fbc4fda3b2",
+  "size_bytes": 1477,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 200,
+  "downloaded_at": "2026-08-02T13:09:10.299Z",
+  "filtered_at": "2026-08-02T17:34:43.881Z"
+}

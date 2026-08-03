@@ -1,0 +1,23 @@
+{
+  "id": "ctan/ctan-datetime2-datetime2-sample-babel",
+  "source": "ctan",
+  "format": "latex",
+  "category": "package-example",
+  "license": "LPPL-1.3c",
+  "source_url": "https://ctan.org/pkg/datetime2",
+  "original_author": "CTAN package: datetime2",
+  "package": "datetime2",
+  "original_path": "/usr/local/texlive/2025/texmf-dist/doc/latex/datetime2/samples/datetime2-sample-babel.tex",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/ctan/ctan-datetime2-datetime2-sample-babel/datetime2-sample-babel.tex",
+  "relative_path": "raw/ctan/ctan-datetime2-datetime2-sample-babel/datetime2-sample-babel.tex",
+  "main_doc": "datetime2-sample-babel.tex",
+  "sha256": "600c1a9d1dcc80393b48a1428988b3cb064dad9fb0df9d964321ca48e9528e98",
+  "size_bytes": 2304,
+  "document_class": "article",
+  "uses_packages": [
+    "babel",
+    "datetime2",
+    "hyperref"
+  ],
+  "downloaded_at": "2026-08-02T13:05:03.514Z"
+}

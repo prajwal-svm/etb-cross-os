@@ -1,0 +1,26 @@
+{
+  "id": "typst-universe/typst-unofficial-ukim-thesis-0-1-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "thesis",
+  "license": "MIT",
+  "source_url": "https://github.com/nikkelo/unofficial-ukim-thesis",
+  "original_author": "nikkelo",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/typst-universe__typst-unofficial-ukim-thesis-0-1-0/main.typ",
+  "relative_path": "processed/typst/typst-universe__typst-unofficial-ukim-thesis-0-1-0/main.typ",
+  "sha256": "313da11380dd00e22c9c7bc04ff098b2907835751e1a2d23e2c07e2ef7a7f345",
+  "size_bytes": 1450,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 234,
+  "downloaded_at": "2026-08-02T13:15:29.843Z",
+  "filtered_at": "2026-08-02T17:34:44.377Z"
+}

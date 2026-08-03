@@ -1,0 +1,23 @@
+{
+  "id": "overleaf/ol-project-completion-report-qrtxrtgvjxzh",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "report",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/project-completion-report/qrtxrtgvjxzh",
+  "original_author": "Subhankar Mishra",
+  "title": "Project Completion Report",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/overleaf/ol-project-completion-report-qrtxrtgvjxzh/main.tex",
+  "relative_path": "raw/overleaf/ol-project-completion-report-qrtxrtgvjxzh/main.tex",
+  "main_doc": "main.tex",
+  "sha256": "8d45be2dc24637881fc04ede6feb07fb147779ba1f7f76be231f099dfcb13671",
+  "size_bytes": 4269,
+  "document_class": "article",
+  "uses_packages": [
+    "geometry",
+    "graphicx"
+  ],
+  "download_method": "view-source-modal",
+  "github_url": null,
+  "downloaded_at": "2026-08-02T14:44:29.121Z"
+}

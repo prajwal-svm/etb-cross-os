@@ -1,0 +1,35 @@
+{
+  "id": "github-latex/gh-unisvalbard-agf-report-template-readme-1",
+  "source": "github-latex",
+  "format": "latex",
+  "category": "report",
+  "license": "MIT",
+  "source_url": "https://github.com/UNISvalbard/AGF_report_template",
+  "original_author": "UNISvalbard",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/github-latex__gh-unisvalbard-agf-report-template-readme-1/README.tex",
+  "relative_path": "processed/latex/cross-engine/github-latex__gh-unisvalbard-agf-report-template-readme-1/README.tex",
+  "sha256": "750b08b76ad857c522b02849f835e611e4cb25c43d16ce787686702f5184dffa",
+  "size_bytes": 7900,
+  "document_class": "article",
+  "uses_packages": [
+    "amsfonts",
+    "amsmath",
+    "amssymb",
+    "babel",
+    "geometry",
+    "graphicx",
+    "hyperref",
+    "inputenc"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 385,
+  "downloaded_at": "2026-08-02T13:59:53.665Z",
+  "filtered_at": "2026-08-02T17:34:43.508Z"
+}

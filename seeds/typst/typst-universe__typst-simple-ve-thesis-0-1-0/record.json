@@ -1,0 +1,26 @@
+{
+  "id": "typst-universe/typst-simple-ve-thesis-0-1-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "thesis",
+  "license": "MIT",
+  "source_url": "https://github.com/biipo/typst-unive-template",
+  "original_author": "Filippo Zangrossi",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/typst-universe__typst-simple-ve-thesis-0-1-0/main.typ",
+  "relative_path": "processed/typst/typst-universe__typst-simple-ve-thesis-0-1-0/main.typ",
+  "sha256": "1f11de64c09497c8bbd3926803f65f976b10875f22cbcf98120ae42978a9ee25",
+  "size_bytes": 850,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 503,
+  "downloaded_at": "2026-08-02T13:13:06.955Z",
+  "filtered_at": "2026-08-02T17:34:44.193Z"
+}

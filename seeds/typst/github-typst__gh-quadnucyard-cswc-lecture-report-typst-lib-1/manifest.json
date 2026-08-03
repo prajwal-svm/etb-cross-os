@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-quadnucyard-cswc-lecture-report-typst-lib-1",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "coursework",
+  "license": "MIT",
+  "source_url": "https://github.com/QuadnucYard/cswc-lecture-report-typst",
+  "original_author": "QuadnucYard",
+  "stars": 0,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-quadnucyard-cswc-lecture-report-typst-lib-1/lib.typ",
+  "relative_path": "raw/github-typst/gh-quadnucyard-cswc-lecture-report-typst-lib-1/lib.typ",
+  "main_doc": "lib.typ",
+  "sha256": "3d2fafd5d9a001bc86dab2af8e9d4272c4806fb4e70cda2a58d4d73f2ede0827",
+  "size_bytes": 1504,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "lib.typ",
+  "downloaded_at": "2026-08-02T14:18:08.875Z"
+}

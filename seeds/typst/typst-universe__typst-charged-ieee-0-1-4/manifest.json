@@ -1,0 +1,23 @@
+{
+  "id": "typst-universe/typst-charged-ieee-0-1-4",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "venue",
+  "license": "MIT-0",
+  "source_url": "https://github.com/typst/templates",
+  "original_author": "Typst GmbH",
+  "package_name": "charged-ieee",
+  "package_version": "0.1.4",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/typst-universe/typst-charged-ieee-0-1-4/main.typ",
+  "relative_path": "raw/typst-universe/typst-charged-ieee-0-1-4/main.typ",
+  "main_doc": "main.typ",
+  "sha256": "c0395f2e8d69382e2534e84aaceed04adefb2ce0e1b6ada922cebf10539fa5e8",
+  "size_bytes": 4482,
+  "document_class": null,
+  "uses_packages": [],
+  "downloaded_at": "2026-08-02T13:06:34.008Z",
+  "categories": [
+    "paper"
+  ],
+  "description": "An IEEE-style paper template to publish at conferences and journals for Electrical Engineering, Computer Science, and Computer Engineering"
+}

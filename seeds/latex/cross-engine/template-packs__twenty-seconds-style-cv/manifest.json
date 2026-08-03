@@ -1,0 +1,25 @@
+{
+  "id": "template-packs/twenty-seconds-style-cv",
+  "source": "template-packs",
+  "format": "latex",
+  "category": "cv",
+  "category_raw": "CVs & Resumes",
+  "license": "CC0-1.0",
+  "source_url": "https://github.com/Oleafly/template-packs",
+  "original_author": "Oleafly",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/template-packs/twenty-seconds-style-cv/main.tex",
+  "relative_path": "raw/template-packs/twenty-seconds-style-cv/main.tex",
+  "main_doc": "main.tex",
+  "sha256": "2539701a963d334a9a42f946adcc55a1cbe491330a9404d106c7a394152224b9",
+  "size_bytes": 2206,
+  "document_class": "article",
+  "uses_packages": [
+    "enumitem",
+    "geometry",
+    "hyperref",
+    "tikz",
+    "xcolor"
+  ],
+  "engine_hint": "xetex",
+  "downloaded_at": "2026-08-02T13:05:15.850Z"
+}

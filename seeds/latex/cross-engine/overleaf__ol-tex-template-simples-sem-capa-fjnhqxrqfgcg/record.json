@@ -1,0 +1,34 @@
+{
+  "id": "overleaf/ol-tex-template-simples-sem-capa-fjnhqxrqfgcg",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "misc",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/tex-template-simples-sem-capa/fjnhqxrqfgcg",
+  "original_author": "Brunno Vanelli",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/overleaf__ol-tex-template-simples-sem-capa-fjnhqxrqfgcg/main.tex",
+  "relative_path": "processed/latex/cross-engine/overleaf__ol-tex-template-simples-sem-capa-fjnhqxrqfgcg/main.tex",
+  "sha256": "8a44323177f8645a8056f642deefe717b0d3671ae34c961dd0de19997d87f7bf",
+  "size_bytes": 671,
+  "document_class": "article",
+  "uses_packages": [
+    "babel",
+    "fontenc",
+    "fullpage",
+    "graphicx",
+    "indentfirst",
+    "inputenc",
+    "lmodern"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 223,
+  "downloaded_at": "2026-08-02T16:04:27.199Z",
+  "filtered_at": "2026-08-02T17:34:41.977Z"
+}

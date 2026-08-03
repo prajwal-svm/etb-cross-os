@@ -1,0 +1,24 @@
+{
+  "id": "typst-universe/typst-unofficial-cambridge-polylux-theme-0-0-1",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "beamer",
+  "license": "MIT",
+  "source_url": "https://typst.app/universe/package/unofficial-cambridge-polylux-theme",
+  "original_author": "Matthew Ord",
+  "package_name": "unofficial-cambridge-polylux-theme",
+  "package_version": "0.0.1",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/typst-universe/typst-unofficial-cambridge-polylux-theme-0-0-1/main.typ",
+  "relative_path": "raw/typst-universe/typst-unofficial-cambridge-polylux-theme-0-0-1/main.typ",
+  "main_doc": "main.typ",
+  "sha256": "7dba762a0b1a7f40413f39d643d7aec5b31dbd6e155ef7005c26bbd065a02c56",
+  "size_bytes": 1573,
+  "document_class": null,
+  "uses_packages": [],
+  "downloaded_at": "2026-08-02T13:15:07.510Z",
+  "categories": [
+    "layout",
+    "presentation"
+  ],
+  "description": "University of Cambridge theme for Polylux"
+}

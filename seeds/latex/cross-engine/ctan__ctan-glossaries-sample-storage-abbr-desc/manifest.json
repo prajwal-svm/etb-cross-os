@@ -1,0 +1,21 @@
+{
+  "id": "ctan/ctan-glossaries-sample-storage-abbr-desc",
+  "source": "ctan",
+  "format": "latex",
+  "category": "package-example",
+  "license": "LPPL-1.3c",
+  "source_url": "https://ctan.org/pkg/glossaries",
+  "original_author": "CTAN package: glossaries",
+  "package": "glossaries",
+  "original_path": "/usr/local/texlive/2025/texmf-dist/doc/latex/glossaries/samples/sample-storage-abbr-desc.tex",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/ctan/ctan-glossaries-sample-storage-abbr-desc/sample-storage-abbr-desc.tex",
+  "relative_path": "raw/ctan/ctan-glossaries-sample-storage-abbr-desc/sample-storage-abbr-desc.tex",
+  "main_doc": "sample-storage-abbr-desc.tex",
+  "sha256": "a6fabeaae669a1061e1550f90492b384a6ea89e4774d2ad645dd5b304e2cdc46",
+  "size_bytes": 4692,
+  "document_class": "article",
+  "uses_packages": [
+    "glossaries"
+  ],
+  "downloaded_at": "2026-08-02T13:04:56.443Z"
+}

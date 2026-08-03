@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-roland-ka-clean-dhbw-typst-template-check-attributes-2",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "misc",
+  "license": "MIT",
+  "source_url": "https://github.com/roland-KA/clean-dhbw-typst-template",
+  "original_author": "roland-KA",
+  "stars": 22,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-roland-ka-clean-dhbw-typst-template-check-attributes-2/check-attributes.typ",
+  "relative_path": "raw/github-typst/gh-roland-ka-clean-dhbw-typst-template-check-attributes-2/check-attributes.typ",
+  "main_doc": "check-attributes.typ",
+  "sha256": "b50a45ec39396efcf7369476738fe12f25cdb7aa0997e318a034356e1d604ab7",
+  "size_bytes": 8403,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "check-attributes.typ",
+  "downloaded_at": "2026-08-02T14:04:46.737Z"
+}

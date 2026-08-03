@@ -1,0 +1,23 @@
+{
+  "id": "typst-universe/typst-rendercv-0-3-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "cv",
+  "license": "MIT",
+  "source_url": "https://github.com/rendercv/rendercv",
+  "original_author": "Sina Atalay",
+  "package_name": "rendercv",
+  "package_version": "0.3.0",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/typst-universe/typst-rendercv-0-3-0/main.typ",
+  "relative_path": "raw/typst-universe/typst-rendercv-0-3-0/main.typ",
+  "main_doc": "main.typ",
+  "sha256": "6e8072488165bae615568215cfe1a4fc6baf9a644a7cbfa5129c56738f8dca28",
+  "size_bytes": 10595,
+  "document_class": null,
+  "uses_packages": [],
+  "downloaded_at": "2026-08-02T13:12:27.274Z",
+  "categories": [
+    "cv"
+  ],
+  "description": "Resume builder for academics and engineers"
+}

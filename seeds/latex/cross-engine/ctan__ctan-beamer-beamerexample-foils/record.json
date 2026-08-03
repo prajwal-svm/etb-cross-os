@@ -1,0 +1,28 @@
+{
+  "id": "ctan/ctan-beamer-beamerexample-foils",
+  "source": "ctan",
+  "format": "latex",
+  "category": "beamer",
+  "license": "LPPL-1.3c",
+  "source_url": "https://ctan.org/pkg/beamer",
+  "original_author": "CTAN package: beamer",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/ctan__ctan-beamer-beamerexample-foils/beamerexample-foils.tex",
+  "relative_path": "processed/latex/cross-engine/ctan__ctan-beamer-beamerexample-foils/beamerexample-foils.tex",
+  "sha256": "bd3c0d548e99269e554bba0c3340526787c92226dc37d6deeba21fd4f7f1e203",
+  "size_bytes": 994,
+  "document_class": "beamer",
+  "uses_packages": [
+    "beamerfoils"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 874,
+  "downloaded_at": "2026-08-02T13:04:46.044Z",
+  "filtered_at": "2026-08-02T17:34:42.200Z"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "typst-universe/typst-nidaros-ntnu-thesis-0-1-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "thesis",
+  "license": "MIT-0",
+  "source_url": "https://github.com/Lima98/nidaros-ntnu-thesis",
+  "original_author": "Jan-Oivind Lima",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/typst-universe__typst-nidaros-ntnu-thesis-0-1-0/main.typ",
+  "relative_path": "processed/typst/typst-universe__typst-nidaros-ntnu-thesis-0-1-0/main.typ",
+  "sha256": "9bce164147f7f439f4d78f287367db66df28f61c4d41af1fc5ff7db550b948d3",
+  "size_bytes": 3173,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 451,
+  "downloaded_at": "2026-08-02T13:11:35.525Z",
+  "filtered_at": "2026-08-02T17:34:44.065Z"
+}

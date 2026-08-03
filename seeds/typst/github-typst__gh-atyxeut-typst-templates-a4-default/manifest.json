@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-atyxeut-typst-templates-a4-default",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "misc",
+  "license": "MIT",
+  "source_url": "https://github.com/atyxeut/typst-templates",
+  "original_author": "atyxeut",
+  "stars": 0,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-atyxeut-typst-templates-a4-default/a4_default.typ",
+  "relative_path": "raw/github-typst/gh-atyxeut-typst-templates-a4-default/a4_default.typ",
+  "main_doc": "a4_default.typ",
+  "sha256": "585e88a56e386c013b2255d7ba23d462f91da34f9eaad25ba4c5ab061a41413b",
+  "size_bytes": 2036,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "a4_default.typ",
+  "downloaded_at": "2026-08-02T14:14:16.797Z"
+}

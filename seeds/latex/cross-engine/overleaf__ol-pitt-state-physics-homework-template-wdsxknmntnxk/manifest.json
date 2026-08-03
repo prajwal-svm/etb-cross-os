@@ -1,0 +1,30 @@
+{
+  "id": "overleaf/ol-pitt-state-physics-homework-template-wdsxknmntnxk",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "coursework",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/pitt-state-physics-homework-template/wdsxknmntnxk",
+  "original_author": "David W. Pearson",
+  "title": "Pitt State Physics Homework Template",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/overleaf/ol-pitt-state-physics-homework-template-wdsxknmntnxk/main.tex",
+  "relative_path": "raw/overleaf/ol-pitt-state-physics-homework-template-wdsxknmntnxk/main.tex",
+  "main_doc": "main.tex",
+  "sha256": "ead5d27007b2f09d43ebbbf886e526a73a00054fa82753538abe6ea62616d911",
+  "size_bytes": 2785,
+  "document_class": "article",
+  "uses_packages": [
+    "amsfonts",
+    "amsmath",
+    "amssymb",
+    "enumitem",
+    "geometry",
+    "hyperref",
+    "newtxmath",
+    "newtxtext",
+    "titling"
+  ],
+  "download_method": "view-source-modal",
+  "github_url": null,
+  "downloaded_at": "2026-08-02T14:50:18.880Z"
+}

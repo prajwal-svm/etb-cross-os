@@ -1,0 +1,26 @@
+{
+  "id": "typst-universe/typst-tracl-0-8-1",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "venue",
+  "license": "Apache-2.0",
+  "source_url": "https://github.com/coli-saar/tracl",
+  "original_author": "Alexander Koller",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/typst-universe__typst-tracl-0-8-1/main.typ",
+  "relative_path": "processed/typst/typst-universe__typst-tracl-0-8-1/main.typ",
+  "sha256": "8508469e4f2ed659754967740c59dfab9c1647e7d756b14830975752d98aaa73",
+  "size_bytes": 619,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 211,
+  "downloaded_at": "2026-08-02T13:14:30.284Z",
+  "filtered_at": "2026-08-02T17:34:44.313Z"
+}

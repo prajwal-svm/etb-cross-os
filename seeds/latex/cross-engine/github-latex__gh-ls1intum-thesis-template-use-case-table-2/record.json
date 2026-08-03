@@ -1,0 +1,32 @@
+{
+  "id": "github-latex/gh-ls1intum-thesis-template-use-case-table-2",
+  "source": "github-latex",
+  "format": "latex",
+  "category": "thesis",
+  "license": "MIT",
+  "source_url": "https://github.com/ls1intum/thesis-template",
+  "original_author": "ls1intum",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/github-latex__gh-ls1intum-thesis-template-use-case-table-2/use-case-table.tex",
+  "relative_path": "processed/latex/cross-engine/github-latex__gh-ls1intum-thesis-template-use-case-table-2/use-case-table.tex",
+  "sha256": "97916187ecbb040f44d3386b14c76e65fb54cd9855abe709ae91cdbc34cc0c39",
+  "size_bytes": 2360,
+  "document_class": "report",
+  "uses_packages": [
+    "babel",
+    "booktabs",
+    "enumerate",
+    "enumitem",
+    "longtable"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 241,
+  "downloaded_at": "2026-08-02T13:16:06.367Z",
+  "filtered_at": "2026-08-02T17:34:43.092Z"
+}

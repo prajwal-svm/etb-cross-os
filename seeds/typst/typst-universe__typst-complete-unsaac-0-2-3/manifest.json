@@ -1,0 +1,25 @@
+{
+  "id": "typst-universe/typst-complete-unsaac-0-2-3",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "thesis",
+  "license": "MIT",
+  "source_url": "https://github.com/daniel-alegria3/typst-complete-unsaac",
+  "original_author": "Daniel A. Sallo",
+  "package_name": "complete-unsaac",
+  "package_version": "0.2.3",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/typst-universe/typst-complete-unsaac-0-2-3/tarea.typ",
+  "relative_path": "raw/typst-universe/typst-complete-unsaac-0-2-3/tarea.typ",
+  "main_doc": "tarea.typ",
+  "sha256": "4ab3d26c8e852a1b65ce0da623e6baf188a755b4739813fe37eac2f198c20767",
+  "size_bytes": 2065,
+  "document_class": null,
+  "uses_packages": [],
+  "downloaded_at": "2026-08-02T13:07:22.544Z",
+  "categories": [
+    "thesis",
+    "report",
+    "presentation"
+  ],
+  "description": "Collection of academic document templates for UNSAAC University"
+}

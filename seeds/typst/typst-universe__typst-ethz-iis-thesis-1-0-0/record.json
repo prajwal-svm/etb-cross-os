@@ -1,0 +1,26 @@
+{
+  "id": "typst-universe/typst-ethz-iis-thesis-1-0-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "thesis",
+  "license": "Apache-2.0",
+  "source_url": "https://github.com/pulp-platform/iis-typst",
+  "original_author": "Tim Fischer",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/typst-universe__typst-ethz-iis-thesis-1-0-0/main.typ",
+  "relative_path": "processed/typst/typst-universe__typst-ethz-iis-thesis-1-0-0/main.typ",
+  "sha256": "28aaaa8bf29c2bcdb2de433fbd06627936a7183e9c3f81ef5b20e073c6c288d8",
+  "size_bytes": 6539,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 451,
+  "downloaded_at": "2026-08-02T13:08:15.226Z",
+  "filtered_at": "2026-08-02T17:34:43.807Z"
+}

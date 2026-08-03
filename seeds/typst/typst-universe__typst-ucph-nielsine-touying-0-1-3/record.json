@@ -1,0 +1,26 @@
+{
+  "id": "typst-universe/typst-ucph-nielsine-touying-0-1-3",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "beamer",
+  "license": "MIT",
+  "source_url": "https://github.com/jorgenhost/ucph-nielsine-touying",
+  "original_author": "Jørgen Baun Høst",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/typst-universe__typst-ucph-nielsine-touying-0-1-3/main.typ",
+  "relative_path": "processed/typst/typst-universe__typst-ucph-nielsine-touying-0-1-3/main.typ",
+  "sha256": "7519c27a15d6699bdb82526c984d0f838b5d007f8ba0ce56063d7dc113627bd4",
+  "size_bytes": 2031,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 372,
+  "downloaded_at": "2026-08-02T13:14:53.274Z",
+  "filtered_at": "2026-08-02T17:34:44.336Z"
+}

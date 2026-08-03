@@ -1,0 +1,22 @@
+{
+  "id": "ctan/ctan-glossaries-sample-ignored",
+  "source": "ctan",
+  "format": "latex",
+  "category": "package-example",
+  "license": "LPPL-1.3c",
+  "source_url": "https://ctan.org/pkg/glossaries",
+  "original_author": "CTAN package: glossaries",
+  "package": "glossaries",
+  "original_path": "/usr/local/texlive/2025/texmf-dist/doc/latex/glossaries/samples/sample-ignored.tex",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/ctan/ctan-glossaries-sample-ignored/sample-ignored.tex",
+  "relative_path": "raw/ctan/ctan-glossaries-sample-ignored/sample-ignored.tex",
+  "main_doc": "sample-ignored.tex",
+  "sha256": "435f47641cef2976b976d70ae1e1566d67a2449c621bf6294df9c53965f6ed6a",
+  "size_bytes": 621,
+  "document_class": "article",
+  "uses_packages": [
+    "glossaries",
+    "hyperref"
+  ],
+  "downloaded_at": "2026-08-02T13:04:56.451Z"
+}

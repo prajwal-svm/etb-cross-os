@@ -1,0 +1,23 @@
+{
+  "id": "overleaf/ol-cwu-math335-article-summary-tdddkxsjypkc",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "venue",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/cwu-math335-article-summary/tdddkxsjypkc",
+  "original_author": "Jean Marie Linhart",
+  "title": "CWU Math335 Article Summary",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/overleaf/ol-cwu-math335-article-summary-tdddkxsjypkc/main.tex",
+  "relative_path": "raw/overleaf/ol-cwu-math335-article-summary-tdddkxsjypkc/main.tex",
+  "main_doc": "main.tex",
+  "sha256": "4de6ac8482f409f6728ff1ab2ae6584bf0781bc77e74ea82e3208b5b11a5407b",
+  "size_bytes": 694,
+  "document_class": "extarticle",
+  "uses_packages": [
+    "cite",
+    "inputenc"
+  ],
+  "download_method": "view-source-modal",
+  "github_url": null,
+  "downloaded_at": "2026-08-02T14:39:31.061Z"
+}

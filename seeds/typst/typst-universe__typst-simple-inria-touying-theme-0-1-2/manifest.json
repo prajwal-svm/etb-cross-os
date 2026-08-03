@@ -1,0 +1,23 @@
+{
+  "id": "typst-universe/typst-simple-inria-touying-theme-0-1-2",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "beamer",
+  "license": "MIT",
+  "source_url": "https://gitlab.inria.fr/soliman/inria-touying-theme",
+  "original_author": "Sylvain Soliman",
+  "package_name": "simple-inria-touying-theme",
+  "package_version": "0.1.2",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/typst-universe/typst-simple-inria-touying-theme-0-1-2/main.typ",
+  "relative_path": "raw/typst-universe/typst-simple-inria-touying-theme-0-1-2/main.typ",
+  "main_doc": "main.typ",
+  "sha256": "bf77f71b18f8210f05fa0fe44c71e7d18dce642cb74fd6a68d13b9b89453596d",
+  "size_bytes": 541,
+  "document_class": null,
+  "uses_packages": [],
+  "downloaded_at": "2026-08-02T13:12:59.091Z",
+  "categories": [
+    "presentation"
+  ],
+  "description": "Touying slides theme approximating Inria's graphical chart."
+}

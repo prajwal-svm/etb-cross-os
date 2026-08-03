@@ -1,0 +1,26 @@
+{
+  "id": "typst-universe/typst-muddy-mit-thesis-0-2-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "venue",
+  "license": "MIT",
+  "source_url": "https://github.com/joshpoll/muddy-mit-thesis",
+  "original_author": "Josh Pollock",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/typst-universe__typst-muddy-mit-thesis-0-2-0/MIT-Thesis.typ",
+  "relative_path": "processed/typst/typst-universe__typst-muddy-mit-thesis-0-2-0/MIT-Thesis.typ",
+  "sha256": "3ce02cbb798639385e9bf0190fa4571f7b2fc0a37d61c91052c701de9d3fe1e4",
+  "size_bytes": 5687,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 638,
+  "downloaded_at": "2026-08-02T13:11:23.658Z",
+  "filtered_at": "2026-08-02T17:34:44.056Z"
+}

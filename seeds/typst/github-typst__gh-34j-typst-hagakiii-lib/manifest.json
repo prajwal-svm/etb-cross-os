@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-34j-typst-hagakiii-lib",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "venue",
+  "license": "MIT",
+  "source_url": "https://github.com/34j/typst-hagakiii",
+  "original_author": "34j",
+  "stars": 1,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-34j-typst-hagakiii-lib/lib.typ",
+  "relative_path": "raw/github-typst/gh-34j-typst-hagakiii-lib/lib.typ",
+  "main_doc": "lib.typ",
+  "sha256": "cf380ac166116e6053250fcbbe0c924d837b9b7be95012b0811ca6f1beb11dba",
+  "size_bytes": 5211,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "lib.typ",
+  "downloaded_at": "2026-08-02T14:13:38.790Z"
+}

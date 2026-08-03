@@ -1,0 +1,23 @@
+{
+  "id": "typst-universe/typst-bypst-0-4-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "beamer",
+  "license": "MIT",
+  "source_url": "https://github.com/bips-hb/bips-typst",
+  "original_author": "Lukas Burk",
+  "package_name": "bypst",
+  "package_version": "0.4.0",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/typst-universe/typst-bypst-0-4-0/basic.typ",
+  "relative_path": "raw/typst-universe/typst-bypst-0-4-0/basic.typ",
+  "main_doc": "basic.typ",
+  "sha256": "096e600a6b820aab6757206e8e3ace4262d0d390498b64d38d1838b515a3d0e5",
+  "size_bytes": 1072,
+  "document_class": null,
+  "uses_packages": [],
+  "downloaded_at": "2026-08-02T13:06:24.907Z",
+  "categories": [
+    "presentation"
+  ],
+  "description": "Create BIPS-branded academic presentations with Touying."
+}

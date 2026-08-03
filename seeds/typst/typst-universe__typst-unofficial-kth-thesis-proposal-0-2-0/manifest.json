@@ -1,0 +1,24 @@
+{
+  "id": "typst-universe/typst-unofficial-kth-thesis-proposal-0-2-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "report",
+  "license": "MIT",
+  "source_url": "https://github.com/cseas002/kth-thesis-proposal",
+  "original_author": "Christoforos Seas",
+  "package_name": "unofficial-kth-thesis-proposal",
+  "package_version": "0.2.0",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/typst-universe/typst-unofficial-kth-thesis-proposal-0-2-0/main.typ",
+  "relative_path": "raw/typst-universe/typst-unofficial-kth-thesis-proposal-0-2-0/main.typ",
+  "main_doc": "main.typ",
+  "sha256": "7ac601b345331ddc80b782f08a6988336b80fdc2553c93caca7ff94e983c0209",
+  "size_bytes": 2499,
+  "document_class": null,
+  "uses_packages": [],
+  "downloaded_at": "2026-08-02T13:15:18.574Z",
+  "categories": [
+    "report",
+    "thesis"
+  ],
+  "description": "Simple unofficial KTH degree project proposal template"
+}

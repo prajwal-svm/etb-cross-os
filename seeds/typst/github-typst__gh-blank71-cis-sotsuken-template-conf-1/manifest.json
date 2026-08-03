@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-blank71-cis-sotsuken-template-conf-1",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "misc",
+  "license": "MIT",
+  "source_url": "https://github.com/blank71/cis_sotsuken_template",
+  "original_author": "blank71",
+  "stars": 3,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-blank71-cis-sotsuken-template-conf-1/conf.typ",
+  "relative_path": "raw/github-typst/gh-blank71-cis-sotsuken-template-conf-1/conf.typ",
+  "main_doc": "conf.typ",
+  "sha256": "d94d44a5ba95b401bf8f14cf1eeecde0640051c1bc2b99bd923ed8e54023f27a",
+  "size_bytes": 9201,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "template/conf/conf.typ",
+  "downloaded_at": "2026-08-02T14:08:37.463Z"
+}

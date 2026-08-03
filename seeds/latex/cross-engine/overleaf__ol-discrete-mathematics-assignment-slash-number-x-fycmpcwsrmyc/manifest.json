@@ -1,0 +1,28 @@
+{
+  "id": "overleaf/ol-discrete-mathematics-assignment-slash-number-x-fycmpcwsrmyc",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "coursework",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/discrete-mathematics-assignment-slash-number-x/fycmpcwsrmyc",
+  "original_author": "Matthew Lukas",
+  "title": "Discrete Mathematics - Assignment \\#X",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/overleaf/ol-discrete-mathematics-assignment-slash-number-x-fycmpcwsrmyc/main.tex",
+  "relative_path": "raw/overleaf/ol-discrete-mathematics-assignment-slash-number-x-fycmpcwsrmyc/main.tex",
+  "main_doc": "main.tex",
+  "sha256": "9adf0c35da8707f32d621cd2648793392110d4e8af32249e1723c5c57d49d1aa",
+  "size_bytes": 1277,
+  "document_class": "article",
+  "uses_packages": [
+    "amssymb",
+    "enumerate",
+    "geometry",
+    "graphicx",
+    "mathtools",
+    "parskip",
+    "tikz"
+  ],
+  "download_method": "view-source-modal",
+  "github_url": null,
+  "downloaded_at": "2026-08-02T14:13:59.639Z"
+}

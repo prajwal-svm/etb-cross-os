@@ -1,0 +1,23 @@
+{
+  "id": "typst-universe/typst-ntnu-physics-report-replica-0-1-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "report",
+  "license": "MIT",
+  "source_url": "https://typst.app/universe/package/ntnu-physics-report-replica",
+  "original_author": "Nikolai G. Borbe",
+  "package_name": "ntnu-physics-report-replica",
+  "package_version": "0.1.0",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/typst-universe/typst-ntnu-physics-report-replica-0-1-0/main.typ",
+  "relative_path": "raw/typst-universe/typst-ntnu-physics-report-replica-0-1-0/main.typ",
+  "main_doc": "main.typ",
+  "sha256": "f8e07eb3161d61a23332198e013eb7098c0827653f54965b0c25f27171d649d6",
+  "size_bytes": 2280,
+  "document_class": null,
+  "uses_packages": [],
+  "downloaded_at": "2026-08-02T13:11:43.342Z",
+  "categories": [
+    "report"
+  ],
+  "description": "Physics lab report for NTNU based on the elsarticle LaTeX style."
+}

@@ -1,0 +1,23 @@
+{
+  "id": "typst-universe/typst-hadronic-rirekisho-0-1-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "cv",
+  "license": "MIT-0",
+  "source_url": "https://github.com/yoshphys/typst-hadronic-rirekisho",
+  "original_author": "yoshphys",
+  "package_name": "hadronic-rirekisho",
+  "package_version": "0.1.0",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/typst-universe/typst-hadronic-rirekisho-0-1-0/main.typ",
+  "relative_path": "raw/typst-universe/typst-hadronic-rirekisho-0-1-0/main.typ",
+  "main_doc": "main.typ",
+  "sha256": "10f959a83ce7bd88380a931940208595dde1d333858a6ca57274048f065366a2",
+  "size_bytes": 1656,
+  "document_class": null,
+  "uses_packages": [],
+  "downloaded_at": "2026-08-02T13:08:51.612Z",
+  "categories": [
+    "cv"
+  ],
+  "description": "A template for a traditional Japanese rirekisho (履歴書) resume"
+}

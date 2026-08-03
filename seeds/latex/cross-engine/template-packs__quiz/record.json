@@ -1,0 +1,34 @@
+{
+  "id": "template-packs/quiz",
+  "source": "template-packs",
+  "format": "latex",
+  "category": "coursework",
+  "license": "CC0-1.0",
+  "source_url": "https://github.com/Oleafly/template-packs",
+  "original_author": "Oleafly",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/template-packs__quiz/main.tex",
+  "relative_path": "processed/latex/cross-engine/template-packs__quiz/main.tex",
+  "sha256": "0c3d8efd1f7679f13f620390320bfc16b01d9daeba637ad30d91e56b0094fe48",
+  "size_bytes": 2267,
+  "document_class": "article",
+  "uses_packages": [
+    "amsmath",
+    "amssymb",
+    "enumitem",
+    "geometry",
+    "lmodern",
+    "tcolorbox",
+    "xcolor"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 512,
+  "downloaded_at": "2026-08-02T13:05:15.826Z",
+  "filtered_at": "2026-08-02T17:34:40.838Z"
+}

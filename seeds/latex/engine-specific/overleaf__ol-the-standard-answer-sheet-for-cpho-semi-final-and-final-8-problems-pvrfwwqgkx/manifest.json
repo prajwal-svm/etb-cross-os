@@ -1,0 +1,23 @@
+{
+  "id": "overleaf/ol-the-standard-answer-sheet-for-cpho-semi-final-and-final-8-problems-pvrfwwqgkx",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "misc",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/the-standard-answer-sheet-for-cpho-semi-final-and-final-8-problems/pvrfwwqgkxdw",
+  "original_author": "Hao Geng",
+  "title": "The Standard Answer Sheet for CPhO semi-final and final (8 Problems)",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/overleaf/ol-the-standard-answer-sheet-for-cpho-semi-final-and-final-8-problems-pvrfwwqgkx/main.tex",
+  "relative_path": "raw/overleaf/ol-the-standard-answer-sheet-for-cpho-semi-final-and-final-8-problems-pvrfwwqgkx/main.tex",
+  "main_doc": "main.tex",
+  "sha256": "3e6965eeceed7b614193db83d41a088b7498dd45ee008afcfd5224b1a71f092b",
+  "size_bytes": 431,
+  "document_class": "ctexart",
+  "uses_packages": [
+    "geometry",
+    "graphicx"
+  ],
+  "download_method": "view-source-modal",
+  "github_url": null,
+  "downloaded_at": "2026-08-02T16:39:37.051Z"
+}

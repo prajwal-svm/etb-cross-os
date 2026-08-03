@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-carbophile-govern-typ-lib-1",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "venue",
+  "license": "MIT",
+  "source_url": "https://github.com/Carbophile/govern-typ",
+  "original_author": "Carbophile",
+  "stars": 1,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-carbophile-govern-typ-lib-1/lib.typ",
+  "relative_path": "raw/github-typst/gh-carbophile-govern-typ-lib-1/lib.typ",
+  "main_doc": "lib.typ",
+  "sha256": "6678e4a63bd2956c9c28eccaed1c39d5f93a6d4d9d7b94a59e104b152510a9c1",
+  "size_bytes": 1523,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "lib.typ",
+  "downloaded_at": "2026-08-02T14:12:52.380Z"
+}

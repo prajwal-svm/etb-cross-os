@@ -1,0 +1,23 @@
+{
+  "id": "typst-universe/typst-acadennial-cv-0-1-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "cv",
+  "license": "MIT",
+  "source_url": "https://github.com/whliao5am/acadennial-cv-typst-template",
+  "original_author": "Wenhao Liao",
+  "package_name": "acadennial-cv",
+  "package_version": "0.1.0",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/typst-universe/typst-acadennial-cv-0-1-0/cv.typ",
+  "relative_path": "raw/typst-universe/typst-acadennial-cv-0-1-0/cv.typ",
+  "main_doc": "cv.typ",
+  "sha256": "3c5b3e4a1881eb8c05fa465659674003777b0167fa87ccbcdd1e7bbffecd063b",
+  "size_bytes": 11058,
+  "document_class": null,
+  "uses_packages": [],
+  "downloaded_at": "2026-08-02T13:05:33.867Z",
+  "categories": [
+    "cv"
+  ],
+  "description": "A professional, lifelong (perennial) academic CV template"
+}

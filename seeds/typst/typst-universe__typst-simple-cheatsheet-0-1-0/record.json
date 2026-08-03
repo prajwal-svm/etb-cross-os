@@ -1,0 +1,26 @@
+{
+  "id": "typst-universe/typst-simple-cheatsheet-0-1-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "creative",
+  "license": "MIT-0",
+  "source_url": "https://github.com/stanlrt/typst-simple-cheatsheet",
+  "original_author": "Stanislas Laurent",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/typst-universe__typst-simple-cheatsheet-0-1-0/main.typ",
+  "relative_path": "processed/typst/typst-universe__typst-simple-cheatsheet-0-1-0/main.typ",
+  "sha256": "d0cfcc6737f1388593c7bbb1707e013064676123dd85d8a62a9c273e59c76015",
+  "size_bytes": 7211,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 248,
+  "downloaded_at": "2026-08-02T13:12:56.421Z",
+  "filtered_at": "2026-08-02T17:34:44.181Z"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "github-latex/gh-b1rd33-pdflatex-skill-report-2",
+  "source": "github-latex",
+  "format": "latex",
+  "category": "beamer",
+  "license": "MIT",
+  "source_url": "https://github.com/b1rd33/pdflatex-skill",
+  "original_author": "b1rd33",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/github-latex__gh-b1rd33-pdflatex-skill-report-2/report.tex",
+  "relative_path": "processed/latex/cross-engine/github-latex__gh-b1rd33-pdflatex-skill-report-2/report.tex",
+  "sha256": "46eb75b09d251959f27a98851dbde7330aec57d9c599aaee05f86e912b3d3446",
+  "size_bytes": 7962,
+  "document_class": "article",
+  "uses_packages": [
+    "booktabs",
+    "cleveref",
+    "enumitem",
+    "fancyhdr",
+    "float",
+    "fontenc",
+    "geometry",
+    "graphicx",
+    "hyperref",
+    "inputenc",
+    "lmodern",
+    "microtype",
+    "setspace",
+    "siunitx",
+    "tabularx",
+    "xcolor"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 614,
+  "downloaded_at": "2026-08-02T13:42:59.801Z",
+  "filtered_at": "2026-08-02T17:34:42.511Z"
+}

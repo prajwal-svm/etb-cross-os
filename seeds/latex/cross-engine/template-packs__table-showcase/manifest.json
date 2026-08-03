@@ -1,0 +1,26 @@
+{
+  "id": "template-packs/table-showcase",
+  "source": "template-packs",
+  "format": "latex",
+  "category": "creative",
+  "category_raw": "Creative",
+  "license": "CC0-1.0",
+  "source_url": "https://github.com/Oleafly/template-packs",
+  "original_author": "Oleafly",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/template-packs/table-showcase/main.tex",
+  "relative_path": "raw/template-packs/table-showcase/main.tex",
+  "main_doc": "main.tex",
+  "sha256": "81cdb8f69ee70f3943f9e54a41e691cfe5e69a00d8cd5a75865106767ef7d6d0",
+  "size_bytes": 2993,
+  "document_class": "article",
+  "uses_packages": [
+    "array",
+    "booktabs",
+    "geometry",
+    "multirow",
+    "sourcesanspro",
+    "xcolor"
+  ],
+  "engine_hint": "xetex",
+  "downloaded_at": "2026-08-02T13:05:15.837Z"
+}

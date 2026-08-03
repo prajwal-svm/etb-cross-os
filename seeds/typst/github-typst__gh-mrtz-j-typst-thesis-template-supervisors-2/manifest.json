@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-mrtz-j-typst-thesis-template-supervisors-2",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "thesis",
+  "license": "MIT",
+  "source_url": "https://github.com/mrtz-j/typst-thesis-template",
+  "original_author": "mrtz-j",
+  "stars": 20,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-mrtz-j-typst-thesis-template-supervisors-2/supervisors.typ",
+  "relative_path": "raw/github-typst/gh-mrtz-j-typst-thesis-template-supervisors-2/supervisors.typ",
+  "main_doc": "supervisors.typ",
+  "sha256": "8a4e3a92e0f7a4168781968dae9502a252c32c23bb6a70940c6ec6ebf15e2dd6",
+  "size_bytes": 1197,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "modules/supervisors.typ",
+  "downloaded_at": "2026-08-02T14:04:59.639Z"
+}

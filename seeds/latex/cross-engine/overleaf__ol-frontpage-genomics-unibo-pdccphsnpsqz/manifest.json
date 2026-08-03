@@ -1,0 +1,24 @@
+{
+  "id": "overleaf/ol-frontpage-genomics-unibo-pdccphsnpsqz",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "misc",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/frontpage-genomics-unibo/pdccphsnpsqz",
+  "original_author": "Federica Bichicchi",
+  "title": "Frontpage Genomics Unibo",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/overleaf/ol-frontpage-genomics-unibo-pdccphsnpsqz/main.tex",
+  "relative_path": "raw/overleaf/ol-frontpage-genomics-unibo-pdccphsnpsqz/main.tex",
+  "main_doc": "main.tex",
+  "sha256": "30cf3a5b4f6799b2989315e3a37cb619938d0f335fec7ad168a931801b100b44",
+  "size_bytes": 1117,
+  "document_class": "article",
+  "uses_packages": [
+    "babel",
+    "gensymb",
+    "newlfont"
+  ],
+  "download_method": "view-source-modal",
+  "github_url": null,
+  "downloaded_at": "2026-08-02T13:22:35.557Z"
+}

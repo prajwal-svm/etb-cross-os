@@ -1,0 +1,23 @@
+{
+  "id": "typst-universe/typst-muddy-mit-thesis-0-2-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "venue",
+  "license": "MIT",
+  "source_url": "https://github.com/joshpoll/muddy-mit-thesis",
+  "original_author": "Josh Pollock",
+  "package_name": "muddy-mit-thesis",
+  "package_version": "0.2.0",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/typst-universe/typst-muddy-mit-thesis-0-2-0/MIT-Thesis.typ",
+  "relative_path": "raw/typst-universe/typst-muddy-mit-thesis-0-2-0/MIT-Thesis.typ",
+  "main_doc": "MIT-Thesis.typ",
+  "sha256": "3ce02cbb798639385e9bf0190fa4571f7b2fc0a37d61c91052c701de9d3fe1e4",
+  "size_bytes": 5687,
+  "document_class": null,
+  "uses_packages": [],
+  "downloaded_at": "2026-08-02T13:11:23.658Z",
+  "categories": [
+    "paper"
+  ],
+  "description": "Typst port of the MIT mitthesis LaTeX template (v1.22). Produces a thesis document conforming to MIT Libraries dissertation formatting requirements."
+}

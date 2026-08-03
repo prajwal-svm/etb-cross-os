@@ -1,0 +1,26 @@
+{
+  "id": "typst-universe/typst-modern-hfut-report-0-1-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "report",
+  "license": "MIT",
+  "source_url": "https://github.com/KercyDing/modern-hfut-report",
+  "original_author": "KercyDing",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/typst-universe__typst-modern-hfut-report-0-1-0/report.typ",
+  "relative_path": "processed/typst/typst-universe__typst-modern-hfut-report-0-1-0/report.typ",
+  "sha256": "f56a4182b4c410b06e59cca2054f08f3cfa86722e966cb72137b06e276384390",
+  "size_bytes": 3140,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 563,
+  "downloaded_at": "2026-08-02T13:10:45.322Z",
+  "filtered_at": "2026-08-02T17:34:44.004Z"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "overleaf/ol-latex-template-for-aje-american-journal-experts-pvbyknvjtvxz",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "venue",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/latex-template-for-aje-american-journal-experts/pvbyknvjtvxz",
+  "original_author": null,
+  "title": "LaTeX template for AJE (American Journal Experts)",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/overleaf/ol-latex-template-for-aje-american-journal-experts-pvbyknvjtvxz/main.tex",
+  "relative_path": "raw/overleaf/ol-latex-template-for-aje-american-journal-experts-pvbyknvjtvxz/main.tex",
+  "main_doc": "main.tex",
+  "sha256": "3a3ed137e457acf396a738ce2263e24db0f7f1088250d919b14d4d58e5448d63",
+  "size_bytes": 1725,
+  "document_class": "article",
+  "uses_packages": [
+    "amsmath",
+    "amssymb",
+    "cite",
+    "hyperref",
+    "lineno"
+  ],
+  "download_method": "view-source-modal",
+  "github_url": null,
+  "downloaded_at": "2026-08-02T14:14:53.219Z"
+}

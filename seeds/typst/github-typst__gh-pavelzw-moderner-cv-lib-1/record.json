@@ -1,0 +1,26 @@
+{
+  "id": "github-typst/gh-pavelzw-moderner-cv-lib-1",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "cv",
+  "license": "MIT",
+  "source_url": "https://github.com/pavelzw/moderner-cv",
+  "original_author": "pavelzw",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/github-typst__gh-pavelzw-moderner-cv-lib-1/lib.typ",
+  "relative_path": "processed/typst/github-typst__gh-pavelzw-moderner-cv-lib-1/lib.typ",
+  "sha256": "40fc3852f29e12c1fa82b466e68dccbd6944cdf46083df307ee1ed35bef3b0a2",
+  "size_bytes": 6325,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 27,
+  "downloaded_at": "2026-08-02T14:04:29.121Z",
+  "filtered_at": "2026-08-02T17:34:45.481Z"
+}

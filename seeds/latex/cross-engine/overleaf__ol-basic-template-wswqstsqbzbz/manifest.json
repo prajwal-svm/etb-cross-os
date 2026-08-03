@@ -1,0 +1,23 @@
+{
+  "id": "overleaf/ol-basic-template-wswqstsqbzbz",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "misc",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/basic-template/wswqstsqbzbz",
+  "original_author": "Robert B.",
+  "title": "Basic Template",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/overleaf/ol-basic-template-wswqstsqbzbz/main.tex",
+  "relative_path": "raw/overleaf/ol-basic-template-wswqstsqbzbz/main.tex",
+  "main_doc": "main.tex",
+  "sha256": "15184a831daa5fb0534ebb3843ab58ebfa8638e2d778fe65f99926584580cc18",
+  "size_bytes": 454,
+  "document_class": "article",
+  "uses_packages": [
+    "graphicx",
+    "sectsty"
+  ],
+  "download_method": "view-source-modal",
+  "github_url": null,
+  "downloaded_at": "2026-08-02T14:19:07.888Z"
+}

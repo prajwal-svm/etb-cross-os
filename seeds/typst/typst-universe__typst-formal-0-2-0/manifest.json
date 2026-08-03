@@ -1,0 +1,24 @@
+{
+  "id": "typst-universe/typst-formal-0-2-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "misc",
+  "license": "MIT",
+  "source_url": "https://github.com/vsheg/formal",
+  "original_author": "Vsevolod Shegolev",
+  "package_name": "formal",
+  "package_version": "0.2.0",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/typst-universe/typst-formal-0-2-0/formal-cv.typ",
+  "relative_path": "raw/typst-universe/typst-formal-0-2-0/formal-cv.typ",
+  "main_doc": "formal-cv.typ",
+  "sha256": "a9b2827c9d093c47dd7eaa0a712282dd3d8a0d8a63ff456b01718fee6c6a46db",
+  "size_bytes": 4960,
+  "document_class": null,
+  "uses_packages": [],
+  "downloaded_at": "2026-08-02T13:08:31.342Z",
+  "categories": [
+    "layout",
+    "utility"
+  ],
+  "description": "Elegant documents for academic and professional use."
+}

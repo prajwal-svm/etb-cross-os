@@ -1,0 +1,33 @@
+{
+  "id": "github-latex/gh-rutatto-brick-f19-629-hw5-2",
+  "source": "github-latex",
+  "format": "latex",
+  "category": "coursework",
+  "license": "MIT",
+  "source_url": "https://github.com/Rutatto/brick",
+  "original_author": "Rutatto",
+  "stars": 0,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-latex/gh-rutatto-brick-f19-629-hw5-2/f19_629_hw5.tex",
+  "relative_path": "raw/github-latex/gh-rutatto-brick-f19-629-hw5-2/f19_629_hw5.tex",
+  "main_doc": "f19_629_hw5.tex",
+  "sha256": "c000996092cc3fb2ec787181f7685fe19940bd8260ebe99bcb0ded0c9b373126",
+  "size_bytes": 6807,
+  "document_class": "exam",
+  "uses_packages": [
+    "amsfonts",
+    "amsmath",
+    "amssymb",
+    "amsthm",
+    "enumitem",
+    "fullpage",
+    "geometry",
+    "hyperref",
+    "mathpazo",
+    "mathtools",
+    "microtype",
+    "xcolor",
+    "xspace"
+  ],
+  "repo_path": "f19_629_hw5.tex",
+  "downloaded_at": "2026-08-02T13:49:23.930Z"
+}

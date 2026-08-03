@@ -1,0 +1,26 @@
+{
+  "id": "typst-universe/typst-ori-0-2-5",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "report",
+  "license": "MIT",
+  "source_url": "https://github.com/OrangeX4/typst-ori",
+  "original_author": "OrangeX4",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/typst-universe__typst-ori-0-2-5/main.typ",
+  "relative_path": "processed/typst/typst-universe__typst-ori-0-2-5/main.typ",
+  "sha256": "b41c98c6f5cd939199b791f17ae42d6769d98052abab1dc5fa95e73beed1428a",
+  "size_bytes": 5002,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 589,
+  "downloaded_at": "2026-08-02T13:11:49.975Z",
+  "filtered_at": "2026-08-02T17:34:44.085Z"
+}

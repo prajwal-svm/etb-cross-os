@@ -1,0 +1,25 @@
+{
+  "id": "overleaf/ol-comp9242-exam-template-xhryvmhfcbhb",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "coursework",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/comp9242-exam-template/xhryvmhfcbhb",
+  "original_author": null,
+  "title": "COMP9242 Exam Template",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/overleaf/ol-comp9242-exam-template-xhryvmhfcbhb/main.tex",
+  "relative_path": "raw/overleaf/ol-comp9242-exam-template-xhryvmhfcbhb/main.tex",
+  "main_doc": "main.tex",
+  "sha256": "0bba8f6fda59d56843d9a5cce7defe3aa3d031ea05eed9ffaceecb404800d3e5",
+  "size_bytes": 1056,
+  "document_class": "article",
+  "uses_packages": [
+    "booktabs",
+    "graphicx",
+    "inputenc",
+    "lipsum"
+  ],
+  "download_method": "view-source-modal",
+  "github_url": null,
+  "downloaded_at": "2026-08-02T13:45:18.321Z"
+}

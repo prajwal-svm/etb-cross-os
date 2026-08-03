@@ -1,0 +1,23 @@
+{
+  "id": "typst-universe/typst-gzu-thesis-unofficial-0-1-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "thesis",
+  "license": "MIT",
+  "source_url": "https://github.com/chengwu26/gzu-thesis-unofficial.git",
+  "original_author": "chengwu",
+  "package_name": "gzu-thesis-unofficial",
+  "package_version": "0.1.0",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/typst-universe/typst-gzu-thesis-unofficial-0-1-0/main.typ",
+  "relative_path": "raw/typst-universe/typst-gzu-thesis-unofficial-0-1-0/main.typ",
+  "main_doc": "main.typ",
+  "sha256": "ef421d6f21b8766deb3ab92cb395fa063fdf5e7d081b00800b1b45aae285606f",
+  "size_bytes": 3422,
+  "document_class": null,
+  "uses_packages": [],
+  "downloaded_at": "2026-08-02T13:08:49.913Z",
+  "categories": [
+    "thesis"
+  ],
+  "description": "贵州大学本科生毕业论文（设计）模板（社区版）/ Undergraduate thesis template for Guizhou University (community-maintained)"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-agustinvalencia-typst-tufte-template-tufte-1",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "misc",
+  "license": "MIT",
+  "source_url": "https://github.com/agustinvalencia/typst-tufte-template",
+  "original_author": "agustinvalencia",
+  "stars": 1,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-agustinvalencia-typst-tufte-template-tufte-1/tufte.typ",
+  "relative_path": "raw/github-typst/gh-agustinvalencia-typst-tufte-template-tufte-1/tufte.typ",
+  "main_doc": "tufte.typ",
+  "sha256": "c4b01435f9efec08759d757f326b20a06ee1b29ccd287e6b80f2d644fa1594cf",
+  "size_bytes": 4528,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "tufte.typ",
+  "downloaded_at": "2026-08-02T14:11:29.917Z"
+}

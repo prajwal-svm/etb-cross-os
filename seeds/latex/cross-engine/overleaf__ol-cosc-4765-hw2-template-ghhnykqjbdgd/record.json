@@ -1,0 +1,34 @@
+{
+  "id": "overleaf/ol-cosc-4765-hw2-template-ghhnykqjbdgd",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "misc",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/cosc-4765-hw2-template/ghhnykqjbdgd",
+  "original_author": "MBorowczak",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/overleaf__ol-cosc-4765-hw2-template-ghhnykqjbdgd/main.tex",
+  "relative_path": "processed/latex/cross-engine/overleaf__ol-cosc-4765-hw2-template-ghhnykqjbdgd/main.tex",
+  "sha256": "9e4440b1d5b0cf6f1f33271c918966f867b0910cfbc8a8101e6a5d9197900549",
+  "size_bytes": 2089,
+  "document_class": "article",
+  "uses_packages": [
+    "amsmath",
+    "babel",
+    "enumitem",
+    "fancyhdr",
+    "fontenc",
+    "graphicx",
+    "inputenc"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 253,
+  "downloaded_at": "2026-08-02T14:12:34.389Z",
+  "filtered_at": "2026-08-02T17:34:41.027Z"
+}

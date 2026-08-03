@@ -1,0 +1,26 @@
+{
+  "id": "typst-universe/typst-swec-slides-0-1-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "beamer",
+  "license": "MIT",
+  "source_url": "https://github.com/Gronner/swec-slide-template",
+  "original_author": "Felix 'Gronner' Bräunling",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/typst-universe__typst-swec-slides-0-1-0/slides.typ",
+  "relative_path": "processed/typst/typst-universe__typst-swec-slides-0-1-0/slides.typ",
+  "sha256": "7102567e21546b6ba812f4f54ba225691e75260be5520c5e95685398fd85fcbf",
+  "size_bytes": 439,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 228,
+  "downloaded_at": "2026-08-02T13:13:38.026Z",
+  "filtered_at": "2026-08-02T17:34:44.242Z"
+}

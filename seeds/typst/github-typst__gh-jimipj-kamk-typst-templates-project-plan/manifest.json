@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-jimipj-kamk-typst-templates-project-plan",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "misc",
+  "license": "MIT",
+  "source_url": "https://github.com/jimipj/kamk-typst-templates",
+  "original_author": "jimipj",
+  "stars": 0,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-jimipj-kamk-typst-templates-project-plan/project-plan.typ",
+  "relative_path": "raw/github-typst/gh-jimipj-kamk-typst-templates-project-plan/project-plan.typ",
+  "main_doc": "project-plan.typ",
+  "sha256": "66a05dea5eb3edc5f3c770b409c63d90775e21770ac2ba31cbdf93f4aea3146e",
+  "size_bytes": 5429,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "project-plan.typ",
+  "downloaded_at": "2026-08-02T14:15:49.344Z"
+}

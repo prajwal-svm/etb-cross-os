@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-aneziac-simple-research-poster-simple-research-poster",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "beamer",
+  "license": "MIT",
+  "source_url": "https://github.com/aneziac/simple-research-poster",
+  "original_author": "aneziac",
+  "stars": 8,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-aneziac-simple-research-poster-simple-research-poster/simple-research-poster.typ",
+  "relative_path": "raw/github-typst/gh-aneziac-simple-research-poster-simple-research-poster/simple-research-poster.typ",
+  "main_doc": "simple-research-poster.typ",
+  "sha256": "0002a84c3d9e96cf05b764333dadd3c28b3610ede2f1bd36e7de5020d61850ac",
+  "size_bytes": 2292,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "simple-research-poster.typ",
+  "downloaded_at": "2026-08-02T14:06:29.300Z"
+}

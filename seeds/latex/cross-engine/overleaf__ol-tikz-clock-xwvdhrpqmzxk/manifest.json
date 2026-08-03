@@ -1,0 +1,25 @@
+{
+  "id": "overleaf/ol-tikz-clock-xwvdhrpqmzxk",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "misc",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/tikz-clock/xwvdhrpqmzxk",
+  "original_author": "Logan Weinert",
+  "title": "TiKZ Clock",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/overleaf/ol-tikz-clock-xwvdhrpqmzxk/main.tex",
+  "relative_path": "raw/overleaf/ol-tikz-clock-xwvdhrpqmzxk/main.tex",
+  "main_doc": "main.tex",
+  "sha256": "5bec641aca15ed750bcdc97457b49304f76bf4aca483ae6fcec34b178f460d54",
+  "size_bytes": 1539,
+  "document_class": "standalone",
+  "uses_packages": [
+    "datetime2",
+    "ifthen",
+    "tikz",
+    "xfp"
+  ],
+  "download_method": "view-source-modal",
+  "github_url": null,
+  "downloaded_at": "2026-08-02T13:44:37.753Z"
+}

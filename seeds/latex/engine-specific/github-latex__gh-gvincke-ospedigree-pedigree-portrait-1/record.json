@@ -1,0 +1,37 @@
+{
+  "id": "github-latex/gh-gvincke-ospedigree-pedigree-portrait-1",
+  "source": "github-latex",
+  "format": "latex",
+  "category": "misc",
+  "license": "Apache-2.0",
+  "source_url": "https://github.com/gvincke/ospedigree",
+  "original_author": "gvincke",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/engine-specific/github-latex__gh-gvincke-ospedigree-pedigree-portrait-1/pedigree-portrait.tex",
+  "relative_path": "processed/latex/engine-specific/github-latex__gh-gvincke-ospedigree-pedigree-portrait-1/pedigree-portrait.tex",
+  "sha256": "f0ec171df6a631eac364ca7e625011a5109c714e4825c3fbc4418bd671ffe0e6",
+  "size_bytes": 7284,
+  "document_class": "article",
+  "uses_packages": [
+    "babel",
+    "ccicons",
+    "fontawesome",
+    "fontenc",
+    "geometry",
+    "hyperref",
+    "inputenc",
+    "lmodern",
+    "tikz",
+    "xcolor"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": false,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "engine-specific",
+  "compile_time_ms": 976,
+  "downloaded_at": "2026-08-02T13:45:19.996Z",
+  "filtered_at": "2026-08-02T17:34:42.830Z"
+}

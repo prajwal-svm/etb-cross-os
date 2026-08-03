@@ -1,0 +1,27 @@
+{
+  "id": "github-latex/gh-nkouevda-hw-template-hw-template",
+  "source": "github-latex",
+  "format": "latex",
+  "category": "coursework",
+  "license": "MIT",
+  "source_url": "https://github.com/nkouevda/hw-template",
+  "original_author": "nkouevda",
+  "stars": 0,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-latex/gh-nkouevda-hw-template-hw-template/hw-template.tex",
+  "relative_path": "raw/github-latex/gh-nkouevda-hw-template-hw-template/hw-template.tex",
+  "main_doc": "hw-template.tex",
+  "sha256": "810cbf434188dbb4a2ef4ee8e7fa6953a808ab61ace17e40f381ebf7f3ca2920",
+  "size_bytes": 1190,
+  "document_class": "article",
+  "uses_packages": [
+    "amsmath",
+    "amssymb",
+    "amsthm",
+    "enumitem",
+    "fancyhdr",
+    "geometry",
+    "titlesec"
+  ],
+  "repo_path": "hw-template.tex",
+  "downloaded_at": "2026-08-02T13:49:09.096Z"
+}

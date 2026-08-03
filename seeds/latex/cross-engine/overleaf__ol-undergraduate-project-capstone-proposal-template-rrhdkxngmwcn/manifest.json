@@ -1,0 +1,23 @@
+{
+  "id": "overleaf/ol-undergraduate-project-capstone-proposal-template-rrhdkxngmwcn",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "misc",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/undergraduate-project-capstone-proposal-template/rrhdkxngmwcn",
+  "original_author": "Joshua White",
+  "title": "Undergraduate Project Capstone Proposal Template",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/overleaf/ol-undergraduate-project-capstone-proposal-template-rrhdkxngmwcn/main.tex",
+  "relative_path": "raw/overleaf/ol-undergraduate-project-capstone-proposal-template-rrhdkxngmwcn/main.tex",
+  "main_doc": "main.tex",
+  "sha256": "82971505f0a311e2e0fec7304e2a1a41ab0dc87e45e504139a6d777a392d0e92",
+  "size_bytes": 2218,
+  "document_class": "article",
+  "uses_packages": [
+    "geometry",
+    "inputenc"
+  ],
+  "download_method": "view-source-modal",
+  "github_url": null,
+  "downloaded_at": "2026-08-02T14:38:22.121Z"
+}

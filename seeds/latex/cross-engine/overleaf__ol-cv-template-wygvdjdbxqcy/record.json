@@ -1,0 +1,29 @@
+{
+  "id": "overleaf/ol-cv-template-wygvdjdbxqcy",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "cv",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/cv-template/wygvdjdbxqcy",
+  "original_author": "Manuel Paul",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/overleaf__ol-cv-template-wygvdjdbxqcy/main.tex",
+  "relative_path": "processed/latex/cross-engine/overleaf__ol-cv-template-wygvdjdbxqcy/main.tex",
+  "sha256": "b99691762851d5a10d411ea68aa495eedbaad45fd529798b538284ea8279f224",
+  "size_bytes": 6506,
+  "document_class": "article",
+  "uses_packages": [
+    "anysize",
+    "multicol"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 208,
+  "downloaded_at": "2026-08-02T14:45:42.172Z",
+  "filtered_at": "2026-08-02T17:34:41.058Z"
+}

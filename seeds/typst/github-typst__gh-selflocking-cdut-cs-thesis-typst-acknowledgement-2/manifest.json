@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-selflocking-cdut-cs-thesis-typst-acknowledgement-2",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "thesis",
+  "license": "MIT",
+  "source_url": "https://github.com/Selflocking/cdut-cs-thesis-typst",
+  "original_author": "Selflocking",
+  "stars": 3,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-selflocking-cdut-cs-thesis-typst-acknowledgement-2/acknowledgement.typ",
+  "relative_path": "raw/github-typst/gh-selflocking-cdut-cs-thesis-typst-acknowledgement-2/acknowledgement.typ",
+  "main_doc": "acknowledgement.typ",
+  "sha256": "2e97e1aa6b55645d5ce6ba345768266710d529a83bd96fc2187d35a9cc49f4c5",
+  "size_bytes": 783,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "contents/acknowledgement.typ",
+  "downloaded_at": "2026-08-02T14:09:37.175Z"
+}

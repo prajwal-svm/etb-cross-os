@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-pmudry-haw-typst-template-template",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "misc",
+  "license": "MIT",
+  "source_url": "https://github.com/pmudry/HAW-Typst-Template",
+  "original_author": "pmudry",
+  "stars": 0,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-pmudry-haw-typst-template-template/template.typ",
+  "relative_path": "raw/github-typst/gh-pmudry-haw-typst-template-template/template.typ",
+  "main_doc": "template.typ",
+  "sha256": "23eaa2431e48cd8d8d2752489675c82647b6542532691f2d63340d76dcd3ac50",
+  "size_bytes": 5348,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "lib/template.typ",
+  "downloaded_at": "2026-08-02T14:14:55.142Z"
+}

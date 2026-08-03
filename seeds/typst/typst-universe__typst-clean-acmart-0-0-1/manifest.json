@@ -1,0 +1,23 @@
+{
+  "id": "typst-universe/typst-clean-acmart-0-0-1",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "venue",
+  "license": "MIT",
+  "source_url": "https://github.com/vtta/clean-acmart",
+  "original_author": "Junliang Hu",
+  "package_name": "clean-acmart",
+  "package_version": "0.0.1",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/typst-universe/typst-clean-acmart-0-0-1/main.typ",
+  "relative_path": "raw/typst-universe/typst-clean-acmart-0-0-1/main.typ",
+  "main_doc": "main.typ",
+  "sha256": "01878bab0fa6b46e2cc284acf9670454619d84912fbc6d5fde518171333f290f",
+  "size_bytes": 6489,
+  "document_class": null,
+  "uses_packages": [],
+  "downloaded_at": "2026-08-02T13:06:57.261Z",
+  "categories": [
+    "paper"
+  ],
+  "description": "Simple and clean Typst paper template for ACM conferences following the original acmart style."
+}

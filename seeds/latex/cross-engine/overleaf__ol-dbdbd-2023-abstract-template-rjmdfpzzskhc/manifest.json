@@ -1,0 +1,27 @@
+{
+  "id": "overleaf/ol-dbdbd-2023-abstract-template-rjmdfpzzskhc",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "misc",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/dbdbd-2023-abstract-template/rjmdfpzzskhc",
+  "original_author": "DDCM",
+  "title": "DBDBD 2023 abstract template",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/overleaf/ol-dbdbd-2023-abstract-template-rjmdfpzzskhc/main.tex",
+  "relative_path": "raw/overleaf/ol-dbdbd-2023-abstract-template-rjmdfpzzskhc/main.tex",
+  "main_doc": "main.tex",
+  "sha256": "3cae471e5bc250026c361b6d83bcc9df3c7860e01f1d07339849f8aaf875f7ad",
+  "size_bytes": 1811,
+  "document_class": "article",
+  "uses_packages": [
+    "amsfonts",
+    "amsmath",
+    "amssymb",
+    "geometry",
+    "graphicx",
+    "latexsym"
+  ],
+  "download_method": "view-source-modal",
+  "github_url": null,
+  "downloaded_at": "2026-08-02T15:33:08.423Z"
+}

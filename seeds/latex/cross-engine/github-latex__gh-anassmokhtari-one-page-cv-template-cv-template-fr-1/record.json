@@ -1,0 +1,42 @@
+{
+  "id": "github-latex/gh-anassmokhtari-one-page-cv-template-cv-template-fr-1",
+  "source": "github-latex",
+  "format": "latex",
+  "category": "cv",
+  "license": "MIT",
+  "source_url": "https://github.com/AnassMokhtari/one-page-cv-template",
+  "original_author": "AnassMokhtari",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/github-latex__gh-anassmokhtari-one-page-cv-template-cv-template-fr-1/cv_template_fr.tex",
+  "relative_path": "processed/latex/cross-engine/github-latex__gh-anassmokhtari-one-page-cv-template-cv-template-fr-1/cv_template_fr.tex",
+  "sha256": "099aa291145db8273a24a0ea92362a58a42e50e075da74be8f9005f9d1d93c8b",
+  "size_bytes": 11579,
+  "document_class": "article",
+  "uses_packages": [
+    "array",
+    "enumitem",
+    "fontawesome5",
+    "fontenc",
+    "geometry",
+    "hyperref",
+    "inputenc",
+    "lmodern",
+    "microtype",
+    "paracol",
+    "ragged2e",
+    "tabularx",
+    "tikz",
+    "titlesec",
+    "xcolor"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 1482,
+  "downloaded_at": "2026-08-02T13:32:44.656Z",
+  "filtered_at": "2026-08-02T17:34:42.443Z"
+}

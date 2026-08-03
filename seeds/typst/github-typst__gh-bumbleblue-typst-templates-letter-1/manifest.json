@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-bumbleblue-typst-templates-letter-1",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "letter",
+  "license": "MIT",
+  "source_url": "https://github.com/bumbleblue/typst-templates",
+  "original_author": "bumbleblue",
+  "stars": 0,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-bumbleblue-typst-templates-letter-1/letter.typ",
+  "relative_path": "raw/github-typst/gh-bumbleblue-typst-templates-letter-1/letter.typ",
+  "main_doc": "letter.typ",
+  "sha256": "4c16277a0b6b75fb30f9966da10044dbe7ee87294f324f157140f6001a29ddce",
+  "size_bytes": 1782,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "letter.typ",
+  "downloaded_at": "2026-08-02T14:14:13.907Z"
+}

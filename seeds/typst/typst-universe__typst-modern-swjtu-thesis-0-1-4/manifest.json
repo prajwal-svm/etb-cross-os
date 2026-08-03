@@ -1,0 +1,23 @@
+{
+  "id": "typst-universe/typst-modern-swjtu-thesis-0-1-4",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "thesis",
+  "license": "MIT",
+  "source_url": "https://github.com/somnus0917/modern-swjtu-thesis",
+  "original_author": "somnus",
+  "package_name": "modern-swjtu-thesis",
+  "package_version": "0.1.4",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/typst-universe/typst-modern-swjtu-thesis-0-1-4/thesis.typ",
+  "relative_path": "raw/typst-universe/typst-modern-swjtu-thesis-0-1-4/thesis.typ",
+  "main_doc": "thesis.typ",
+  "sha256": "24f85932fce534487e0a4aa174b68ed10ed75ad6f8a9d152688df57c38109d7d",
+  "size_bytes": 5958,
+  "document_class": null,
+  "uses_packages": [],
+  "downloaded_at": "2026-08-02T13:11:00.588Z",
+  "categories": [
+    "thesis"
+  ],
+  "description": "A modern thesis template for Southwest Jiaotong University (SWJTU)"
+}

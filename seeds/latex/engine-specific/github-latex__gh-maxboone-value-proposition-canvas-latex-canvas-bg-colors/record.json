@@ -1,0 +1,35 @@
+{
+  "id": "github-latex/gh-maxboone-value-proposition-canvas-latex-canvas-bg-colors",
+  "source": "github-latex",
+  "format": "latex",
+  "category": "misc",
+  "license": "MIT",
+  "source_url": "https://github.com/maxboone/value-proposition-canvas-latex",
+  "original_author": "maxboone",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/engine-specific/github-latex__gh-maxboone-value-proposition-canvas-latex-canvas-bg-colors/canvas-bg-colors.tex",
+  "relative_path": "processed/latex/engine-specific/github-latex__gh-maxboone-value-proposition-canvas-latex-canvas-bg-colors/canvas-bg-colors.tex",
+  "sha256": "d581215cd3a8882538dbdbb90a78f9c262fb68130b6388398ec0d59f0ffee48a",
+  "size_bytes": 4614,
+  "document_class": "article",
+  "uses_packages": [
+    "babel",
+    "contour",
+    "enumitem",
+    "fontawesome5",
+    "fontspec",
+    "geometry",
+    "tikz",
+    "xcolor"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": false,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "engine-specific",
+  "compile_time_ms": 1556,
+  "downloaded_at": "2026-08-02T13:33:59.243Z",
+  "filtered_at": "2026-08-02T17:34:43.138Z"
+}

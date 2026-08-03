@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-paukaifler-typst-template-dhbw-template",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "thesis",
+  "license": "Apache-2.0",
+  "source_url": "https://github.com/PauKaifler/typst-template-dhbw",
+  "original_author": "PauKaifler",
+  "stars": 0,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-paukaifler-typst-template-dhbw-template/template.typ",
+  "relative_path": "raw/github-typst/gh-paukaifler-typst-template-dhbw-template/template.typ",
+  "main_doc": "template.typ",
+  "sha256": "3470908529013c9c30a9c34c0d86d31fdc033121439f8790b4240d3fd2cd96be",
+  "size_bytes": 4905,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "template.typ",
+  "downloaded_at": "2026-08-02T14:20:25.293Z"
+}

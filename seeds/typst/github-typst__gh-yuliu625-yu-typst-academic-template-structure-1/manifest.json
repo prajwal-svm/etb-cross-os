@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-yuliu625-yu-typst-academic-template-structure-1",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "beamer",
+  "license": "Apache-2.0",
+  "source_url": "https://github.com/yuliu625/Yu-Typst-Academic-Template",
+  "original_author": "yuliu625",
+  "stars": 1,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-yuliu625-yu-typst-academic-template-structure-1/structure.typ",
+  "relative_path": "raw/github-typst/gh-yuliu625-yu-typst-academic-template-structure-1/structure.typ",
+  "main_doc": "structure.typ",
+  "sha256": "a1c68e315e83592e0e2111198572a7b7163e40b439140819a68065f03da01900",
+  "size_bytes": 384,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "contents/structure.typ",
+  "downloaded_at": "2026-08-02T14:13:19.339Z"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "typst-universe/typst-fun-article-0-2-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "venue",
+  "license": "MIT",
+  "source_url": "https://typst.app/universe/package/fun-article",
+  "original_author": "Casper van Elteren",
+  "package_name": "fun-article",
+  "package_version": "0.2.0",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/typst-universe/typst-fun-article-0-2-0/main.typ",
+  "relative_path": "raw/typst-universe/typst-fun-article-0-2-0/main.typ",
+  "main_doc": "main.typ",
+  "sha256": "ddae118dab90e6637acb1a6e62eb9378434aea0430754275ee7d0c49fd03aedd",
+  "size_bytes": 2206,
+  "document_class": null,
+  "uses_packages": [],
+  "downloaded_at": "2026-08-02T13:08:36.266Z",
+  "categories": [
+    "paper"
+  ],
+  "description": "Playful two-column research article."
+}

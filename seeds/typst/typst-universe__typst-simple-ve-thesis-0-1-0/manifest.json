@@ -1,0 +1,23 @@
+{
+  "id": "typst-universe/typst-simple-ve-thesis-0-1-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "thesis",
+  "license": "MIT",
+  "source_url": "https://github.com/biipo/typst-unive-template",
+  "original_author": "Filippo Zangrossi",
+  "package_name": "simple-ve-thesis",
+  "package_version": "0.1.0",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/typst-universe/typst-simple-ve-thesis-0-1-0/main.typ",
+  "relative_path": "raw/typst-universe/typst-simple-ve-thesis-0-1-0/main.typ",
+  "main_doc": "main.typ",
+  "sha256": "1f11de64c09497c8bbd3926803f65f976b10875f22cbcf98120ae42978a9ee25",
+  "size_bytes": 850,
+  "document_class": null,
+  "uses_packages": [],
+  "downloaded_at": "2026-08-02T13:13:06.955Z",
+  "categories": [
+    "thesis"
+  ],
+  "description": "Unofficial thesis template for Ca' Foscari University of Venice"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-ojas-chaturvedi-typst-templates-template-1",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "misc",
+  "license": "MIT",
+  "source_url": "https://github.com/ojas-chaturvedi/typst-templates",
+  "original_author": "ojas-chaturvedi",
+  "stars": 0,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-ojas-chaturvedi-typst-templates-template-1/template.typ",
+  "relative_path": "raw/github-typst/gh-ojas-chaturvedi-typst-templates-template-1/template.typ",
+  "main_doc": "template.typ",
+  "sha256": "6f2306933552fa12a9e0a7ef844e778cca3d3aba6f4d2e139bca60ed3152e670",
+  "size_bytes": 2388,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "resume/template.typ",
+  "downloaded_at": "2026-08-02T14:14:33.438Z"
+}

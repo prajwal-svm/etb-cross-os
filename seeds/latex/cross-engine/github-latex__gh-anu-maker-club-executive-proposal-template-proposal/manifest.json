@@ -1,0 +1,28 @@
+{
+  "id": "github-latex/gh-anu-maker-club-executive-proposal-template-proposal",
+  "source": "github-latex",
+  "format": "latex",
+  "category": "report",
+  "license": "Apache-2.0",
+  "source_url": "https://github.com/anu-maker-club/executive-proposal-template",
+  "original_author": "anu-maker-club",
+  "stars": 0,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-latex/gh-anu-maker-club-executive-proposal-template-proposal/proposal.tex",
+  "relative_path": "raw/github-latex/gh-anu-maker-club-executive-proposal-template-proposal/proposal.tex",
+  "main_doc": "proposal.tex",
+  "sha256": "b732ca8d5fdf4bce70e055defb9fa23e0220f68207a03a12edb5921c1a237682",
+  "size_bytes": 13294,
+  "document_class": "article",
+  "uses_packages": [
+    "amsmath",
+    "babel",
+    "background",
+    "bibentry",
+    "geometry",
+    "graphicx",
+    "url",
+    "xcolor"
+  ],
+  "repo_path": "proposal.tex",
+  "downloaded_at": "2026-08-02T13:45:36.565Z"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "typst-universe/typst-academic-alt-0-1-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "coursework",
+  "license": "MIT",
+  "source_url": "https://github.com/alessandromason/typst-university-assignment",
+  "original_author": "Alessandro Mason",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/typst-universe__typst-academic-alt-0-1-0/main.typ",
+  "relative_path": "processed/typst/typst-universe__typst-academic-alt-0-1-0/main.typ",
+  "sha256": "c37b45579328477409653a7b92c4bdaf0454f34e2a30a2cb1bfa6c94ca156a32",
+  "size_bytes": 3795,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 257,
+  "downloaded_at": "2026-08-02T13:05:29.835Z",
+  "filtered_at": "2026-08-02T17:34:43.590Z"
+}

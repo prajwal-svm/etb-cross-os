@@ -1,0 +1,26 @@
+{
+  "id": "typst-universe/typst-clean-math-paper-0-2-8",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "venue",
+  "license": "MIT",
+  "source_url": "https://github.com/JoshuaLampert/clean-math-paper",
+  "original_author": "Joshua Lampert",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/typst-universe__typst-clean-math-paper-0-2-8/main.typ",
+  "relative_path": "processed/typst/typst-universe__typst-clean-math-paper-0-2-8/main.typ",
+  "sha256": "567e535839c6772432127047f92c7435f2c933a7f88c545b874d20eada67bf4a",
+  "size_bytes": 3647,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 274,
+  "downloaded_at": "2026-08-02T13:07:03.900Z",
+  "filtered_at": "2026-08-02T17:34:43.717Z"
+}

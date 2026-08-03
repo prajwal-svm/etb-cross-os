@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-sboogway-uninsubria-thesis-locale-2",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "thesis",
+  "license": "MIT",
+  "source_url": "https://github.com/sbOogway/uninsubria-thesis",
+  "original_author": "sbOogway",
+  "stars": 0,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-sboogway-uninsubria-thesis-locale-2/locale.typ",
+  "relative_path": "raw/github-typst/gh-sboogway-uninsubria-thesis-locale-2/locale.typ",
+  "main_doc": "locale.typ",
+  "sha256": "6202d32170a76970465b34467ca71332ea7a74b72fb6c29361eedfb890e2312c",
+  "size_bytes": 3661,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "locale.typ",
+  "downloaded_at": "2026-08-02T14:17:03.312Z"
+}

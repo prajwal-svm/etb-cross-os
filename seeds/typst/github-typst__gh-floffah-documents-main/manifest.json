@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-floffah-documents-main",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "report",
+  "license": "MIT",
+  "source_url": "https://github.com/Floffah/documents",
+  "original_author": "Floffah",
+  "stars": 0,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-floffah-documents-main/main.typ",
+  "relative_path": "raw/github-typst/gh-floffah-documents-main/main.typ",
+  "main_doc": "main.typ",
+  "sha256": "66ff60e8e41aed264663c632414226737a8b8b68a8d18522c15e2d3ddb95ed8b",
+  "size_bytes": 5266,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "main.typ",
+  "downloaded_at": "2026-08-02T14:19:30.858Z"
+}

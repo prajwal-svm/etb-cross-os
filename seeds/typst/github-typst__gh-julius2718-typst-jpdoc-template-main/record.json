@@ -1,0 +1,26 @@
+{
+  "id": "github-typst/gh-julius2718-typst-jpdoc-template-main",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "misc",
+  "license": "MIT",
+  "source_url": "https://github.com/julius2718/typst-jpdoc-template",
+  "original_author": "julius2718",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/github-typst__gh-julius2718-typst-jpdoc-template-main/main.typ",
+  "relative_path": "processed/typst/github-typst__gh-julius2718-typst-jpdoc-template-main/main.typ",
+  "sha256": "7a7d836be37965ac268e3d33dacf08a46c3ba258a475e5767a67317148355bc7",
+  "size_bytes": 909,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 10,
+  "downloaded_at": "2026-08-02T14:15:44.370Z",
+  "filtered_at": "2026-08-02T17:34:45.109Z"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "github-latex/gh-nkouevda-hw-template-hw-template",
+  "source": "github-latex",
+  "format": "latex",
+  "category": "coursework",
+  "license": "MIT",
+  "source_url": "https://github.com/nkouevda/hw-template",
+  "original_author": "nkouevda",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/github-latex__gh-nkouevda-hw-template-hw-template/hw-template.tex",
+  "relative_path": "processed/latex/cross-engine/github-latex__gh-nkouevda-hw-template-hw-template/hw-template.tex",
+  "sha256": "810cbf434188dbb4a2ef4ee8e7fa6953a808ab61ace17e40f381ebf7f3ca2920",
+  "size_bytes": 1190,
+  "document_class": "article",
+  "uses_packages": [
+    "amsmath",
+    "amssymb",
+    "amsthm",
+    "enumitem",
+    "fancyhdr",
+    "geometry",
+    "titlesec"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 305,
+  "downloaded_at": "2026-08-02T13:49:09.096Z",
+  "filtered_at": "2026-08-02T17:34:43.192Z"
+}

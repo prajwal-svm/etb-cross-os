@@ -1,0 +1,40 @@
+{
+  "id": "github-latex/gh-changh95-latex-resume-template-kor-work-experience-1",
+  "source": "github-latex",
+  "format": "latex",
+  "category": "cv",
+  "license": "MIT",
+  "source_url": "https://github.com/changh95/latex_resume_template_kor",
+  "original_author": "changh95",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/github-latex__gh-changh95-latex-resume-template-kor-work-experience-1/work_experience.tex",
+  "relative_path": "processed/latex/cross-engine/github-latex__gh-changh95-latex-resume-template-kor-work-experience-1/work_experience.tex",
+  "sha256": "08f5e1c354dca000605f3bc0d538dbfbafa7ffba76c01c1843135f8ee4112463",
+  "size_bytes": 9438,
+  "document_class": "article",
+  "uses_packages": [
+    "amsmath",
+    "babel",
+    "color",
+    "enumitem",
+    "fancyhdr",
+    "fullpage",
+    "hyperref",
+    "kotex",
+    "latexsym",
+    "marvosym",
+    "tabularx",
+    "titlesec",
+    "verbatim"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 1204,
+  "downloaded_at": "2026-08-02T13:11:47.693Z",
+  "filtered_at": "2026-08-02T17:34:42.570Z"
+}

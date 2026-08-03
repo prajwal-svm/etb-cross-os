@@ -1,0 +1,30 @@
+{
+  "id": "github-latex/gh-jez-cmu-latex-hw-template-template",
+  "source": "github-latex",
+  "format": "latex",
+  "category": "coursework",
+  "license": "MIT",
+  "source_url": "https://github.com/jez/cmu-latex-hw-template",
+  "original_author": "jez",
+  "stars": 14,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-latex/gh-jez-cmu-latex-hw-template-template/template.tex",
+  "relative_path": "raw/github-latex/gh-jez-cmu-latex-hw-template-template/template.tex",
+  "main_doc": "template.tex",
+  "sha256": "37bba2ba21753a5585454919f8a7d24ff1ae7c9dd267e7a93743607ade0a1f73",
+  "size_bytes": 2533,
+  "document_class": "article",
+  "uses_packages": [
+    "amsfonts",
+    "amsmath",
+    "amssymb",
+    "amsthm",
+    "enumerate",
+    "fullpage",
+    "graphicx",
+    "mathtools",
+    "tikz",
+    "xcolor"
+  ],
+  "repo_path": "template.tex",
+  "downloaded_at": "2026-08-02T13:19:04.015Z"
+}

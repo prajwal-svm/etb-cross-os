@@ -1,0 +1,20 @@
+{
+  "id": "overleaf/ol-university-of-kurdistan-hewler-undergraduate-thesis-and-dissertation-qymbnrgm",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "thesis",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/university-of-kurdistan-hewler-undergraduate-thesis-and-dissertation/qymbnrgmvdcn",
+  "original_author": "Muhammad Nawzad",
+  "title": "University of Kurdistan Hewlêr - Undergraduate Thesis and Dissertation",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/overleaf/ol-university-of-kurdistan-hewler-undergraduate-thesis-and-dissertation-qymbnrgm/main.tex",
+  "relative_path": "raw/overleaf/ol-university-of-kurdistan-hewler-undergraduate-thesis-and-dissertation-qymbnrgm/main.tex",
+  "main_doc": "main.tex",
+  "sha256": "8c4e9900e82717e9f56f1aa3ecc97fc5222f8c7fdc908b41327c437e8be6801e",
+  "size_bytes": 1118,
+  "document_class": "ukhthesis",
+  "uses_packages": [],
+  "download_method": "github:https://github.com/muhammadnawzad/ukh-undergraduate-thesis-latex-template",
+  "github_url": "https://github.com/muhammadnawzad/ukh-undergraduate-thesis-latex-template",
+  "downloaded_at": "2026-08-02T15:36:06.721Z"
+}

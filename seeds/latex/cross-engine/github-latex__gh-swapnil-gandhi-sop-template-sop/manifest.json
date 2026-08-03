@@ -1,0 +1,27 @@
+{
+  "id": "github-latex/gh-swapnil-gandhi-sop-template-sop",
+  "source": "github-latex",
+  "format": "latex",
+  "category": "thesis",
+  "license": "CC0-1.0",
+  "source_url": "https://github.com/Swapnil-Gandhi/SoP-Template",
+  "original_author": "Swapnil-Gandhi",
+  "stars": 152,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-latex/gh-swapnil-gandhi-sop-template-sop/SoP.tex",
+  "relative_path": "raw/github-latex/gh-swapnil-gandhi-sop-template-sop/SoP.tex",
+  "main_doc": "SoP.tex",
+  "sha256": "bf456acd5ae8e157cfefc024d261ab2cb0fd0fc098aae8fad599d5dc04777fcb",
+  "size_bytes": 12390,
+  "document_class": "article",
+  "uses_packages": [
+    "fancyhdr",
+    "fontenc",
+    "hyperref",
+    "inputenc",
+    "natbib",
+    "xcolor",
+    "xspace"
+  ],
+  "repo_path": "SoP.tex",
+  "downloaded_at": "2026-08-02T13:12:33.331Z"
+}

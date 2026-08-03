@@ -1,0 +1,31 @@
+{
+  "id": "template-packs/revtex-aps-article",
+  "source": "template-packs",
+  "format": "latex",
+  "category": "venue",
+  "license": "CC0-1.0",
+  "source_url": "https://github.com/Oleafly/template-packs",
+  "original_author": "Oleafly",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/template-packs__revtex-aps-article/main.tex",
+  "relative_path": "processed/latex/cross-engine/template-packs__revtex-aps-article/main.tex",
+  "sha256": "9e0efc06bfc7e667bb05eff31c31c58d7dd397548ed50ad02fc81317d442ba0e",
+  "size_bytes": 1282,
+  "document_class": "revtex4-2",
+  "uses_packages": [
+    "amsmath",
+    "amssymb",
+    "graphicx",
+    "hyperref"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 420,
+  "downloaded_at": "2026-08-02T13:05:15.881Z",
+  "filtered_at": "2026-08-02T17:34:40.845Z"
+}

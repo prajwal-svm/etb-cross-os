@@ -1,0 +1,28 @@
+{
+  "id": "github-latex/gh-pedrohcgs-claude-code-my-workflow-dag-basic-1",
+  "source": "github-latex",
+  "format": "latex",
+  "category": "beamer",
+  "license": "MIT",
+  "source_url": "https://github.com/pedrohcgs/claude-code-my-workflow",
+  "original_author": "pedrohcgs",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/github-latex__gh-pedrohcgs-claude-code-my-workflow-dag-basic-1/dag-basic.tex",
+  "relative_path": "processed/latex/cross-engine/github-latex__gh-pedrohcgs-claude-code-my-workflow-dag-basic-1/dag-basic.tex",
+  "sha256": "8c2418bbaed0a72825c759b9aa5a6ce4162d0a056156c13660193f1ab6d3de35",
+  "size_bytes": 1826,
+  "document_class": "standalone",
+  "uses_packages": [
+    "tikz"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 407,
+  "downloaded_at": "2026-08-02T13:11:32.185Z",
+  "filtered_at": "2026-08-02T17:34:43.228Z"
+}

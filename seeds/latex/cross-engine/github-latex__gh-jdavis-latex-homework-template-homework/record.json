@@ -1,0 +1,35 @@
+{
+  "id": "github-latex/gh-jdavis-latex-homework-template-homework",
+  "source": "github-latex",
+  "format": "latex",
+  "category": "coursework",
+  "license": "MIT",
+  "source_url": "https://github.com/jdavis/latex-homework-template",
+  "original_author": "jdavis",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/github-latex__gh-jdavis-latex-homework-template-homework/homework.tex",
+  "relative_path": "processed/latex/cross-engine/github-latex__gh-jdavis-latex-homework-template-homework/homework.tex",
+  "sha256": "935e725d7fc3c08fbe050ec63b342b740e3ca76ef8f00930168a40296ce076aa",
+  "size_bytes": 13749,
+  "document_class": "article",
+  "uses_packages": [
+    "algorithm",
+    "algpseudocode",
+    "amsfonts",
+    "amsmath",
+    "amsthm",
+    "extramarks",
+    "fancyhdr",
+    "tikz"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 577,
+  "downloaded_at": "2026-08-02T13:11:35.275Z",
+  "filtered_at": "2026-08-02T17:34:42.941Z"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "typst-universe/typst-infodoc-unr10-0-1-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "business",
+  "license": "MIT-0",
+  "source_url": "https://github.com/woodleader/infodoc-unr10",
+  "original_author": "Gregor",
+  "package_name": "infodoc-unr10",
+  "package_version": "0.1.0",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/typst-universe/typst-infodoc-unr10-0-1-0/main.typ",
+  "relative_path": "raw/typst-universe/typst-infodoc-unr10-0-1-0/main.typ",
+  "main_doc": "main.typ",
+  "sha256": "76202075a098f55d6c162e6109e122fc100af1c488031ca0be57e89817505770",
+  "size_bytes": 2806,
+  "document_class": null,
+  "uses_packages": [],
+  "downloaded_at": "2026-08-02T13:09:21.937Z",
+  "categories": [
+    "office"
+  ],
+  "description": "Information Document (Beschreibungsbogen) for UN-R 10 EMC type approval of electric/electronic sub-assemblies."
+}

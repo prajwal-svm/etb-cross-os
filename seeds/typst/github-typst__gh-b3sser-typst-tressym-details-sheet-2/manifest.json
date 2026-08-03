@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-b3sser-typst-tressym-details-sheet-2",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "creative",
+  "license": "MIT",
+  "source_url": "https://github.com/b3sser/typst-tressym",
+  "original_author": "b3sser",
+  "stars": 7,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-b3sser-typst-tressym-details-sheet-2/details-sheet.typ",
+  "relative_path": "raw/github-typst/gh-b3sser-typst-tressym-details-sheet-2/details-sheet.typ",
+  "main_doc": "details-sheet.typ",
+  "sha256": "b6dfe1ed2db8bb8b5272286cd7d00b1325ab03cf2ef2e9f1231f7580b191b729",
+  "size_bytes": 3812,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "details-sheet.typ",
+  "downloaded_at": "2026-08-02T14:06:44.836Z"
+}

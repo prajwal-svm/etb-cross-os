@@ -1,0 +1,24 @@
+{
+  "id": "github-latex/gh-haiqw-latex-template-summary-of-the-selected-papers",
+  "source": "github-latex",
+  "format": "latex",
+  "category": "venue",
+  "license": "Apache-2.0",
+  "source_url": "https://github.com/HaiQW/Latex-template",
+  "original_author": "HaiQW",
+  "stars": 0,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-latex/gh-haiqw-latex-template-summary-of-the-selected-papers/summary_of_the_selected_papers.tex",
+  "relative_path": "raw/github-latex/gh-haiqw-latex-template-summary-of-the-selected-papers/summary_of_the_selected_papers.tex",
+  "main_doc": "summary_of_the_selected_papers.tex",
+  "sha256": "5eaa32785a7a9f95b5d5a12a157df5ec6a333307a51e6b1016de4ded2552b437",
+  "size_bytes": 937,
+  "document_class": "IEEEtran",
+  "uses_packages": [
+    "amsmath",
+    "color",
+    "enumerate",
+    "fancyhdr"
+  ],
+  "repo_path": "summary_of_the_selected_papers.tex",
+  "downloaded_at": "2026-08-02T13:43:22.418Z"
+}

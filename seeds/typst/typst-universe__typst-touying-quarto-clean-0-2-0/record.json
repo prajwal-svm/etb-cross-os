@@ -1,0 +1,26 @@
+{
+  "id": "typst-universe/typst-touying-quarto-clean-0-2-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "beamer",
+  "license": "MIT",
+  "source_url": "https://github.com/kazuyanagimoto/quarto-clean-typst",
+  "original_author": "Kazuharu Yanagimoto",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/typst-universe__typst-touying-quarto-clean-0-2-0/main.typ",
+  "relative_path": "processed/typst/typst-universe__typst-touying-quarto-clean-0-2-0/main.typ",
+  "sha256": "a3143745575f0358d4b97d0bc615ab93c60f19db6f61ac321a321eaf2b033f15",
+  "size_bytes": 1943,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 243,
+  "downloaded_at": "2026-08-02T13:14:13.675Z",
+  "filtered_at": "2026-08-02T17:34:44.292Z"
+}

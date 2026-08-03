@@ -1,0 +1,39 @@
+{
+  "id": "github-latex/gh-caian-org-cv-cv-en-us",
+  "source": "github-latex",
+  "format": "latex",
+  "category": "cv",
+  "license": "MIT",
+  "source_url": "https://github.com/caian-org/cv",
+  "original_author": "caian-org",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/engine-specific/github-latex__gh-caian-org-cv-cv-en-us/cv-en_US.tex",
+  "relative_path": "processed/latex/engine-specific/github-latex__gh-caian-org-cv-cv-en-us/cv-en_US.tex",
+  "sha256": "3cb311681595ff140eaf21d747a00ab151161e39bad8ef3b0954c891286784cd",
+  "size_bytes": 8669,
+  "document_class": "article",
+  "uses_packages": [
+    "FiraSans",
+    "anyfontsize",
+    "enumitem",
+    "fontawesome",
+    "fontenc",
+    "fontspec",
+    "fullpage",
+    "hyperref",
+    "ifxetex",
+    "inputenc",
+    "tabularx",
+    "xcolor"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": false,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "engine-specific",
+  "compile_time_ms": 852,
+  "downloaded_at": "2026-08-02T13:35:11.420Z",
+  "filtered_at": "2026-08-02T17:34:42.550Z"
+}

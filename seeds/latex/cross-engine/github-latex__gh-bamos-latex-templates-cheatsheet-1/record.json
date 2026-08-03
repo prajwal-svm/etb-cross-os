@@ -1,0 +1,26 @@
+{
+  "id": "github-latex/gh-bamos-latex-templates-cheatsheet-1",
+  "source": "github-latex",
+  "format": "latex",
+  "category": "misc",
+  "license": "MIT",
+  "source_url": "https://github.com/bamos/latex-templates",
+  "original_author": "bamos",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/github-latex__gh-bamos-latex-templates-cheatsheet-1/cheatsheet.tex",
+  "relative_path": "processed/latex/cross-engine/github-latex__gh-bamos-latex-templates-cheatsheet-1/cheatsheet.tex",
+  "sha256": "dd23803986d1cc23ce839e9eb831478b50c50bd28898d314c3fc2efaf9f8ba1c",
+  "size_bytes": 842,
+  "document_class": "cheatsheet",
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 945,
+  "downloaded_at": "2026-08-02T13:11:54.718Z",
+  "filtered_at": "2026-08-02T17:34:42.515Z"
+}

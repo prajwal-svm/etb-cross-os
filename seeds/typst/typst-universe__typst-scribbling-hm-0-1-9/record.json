@@ -1,0 +1,26 @@
+{
+  "id": "typst-universe/typst-scribbling-hm-0-1-9",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "thesis",
+  "license": "MIT",
+  "source_url": "https://github.com/fine-seat/hm-typst-template",
+  "original_author": "stefanie",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/typst-universe__typst-scribbling-hm-0-1-9/main.typ",
+  "relative_path": "processed/typst/typst-universe__typst-scribbling-hm-0-1-9/main.typ",
+  "sha256": "5ab502d29790ecd489e62de6e01304b84968afdb1ca69e273c8867725d329a3e",
+  "size_bytes": 1434,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 475,
+  "downloaded_at": "2026-08-02T13:12:42.083Z",
+  "filtered_at": "2026-08-02T17:34:44.165Z"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "overleaf/ol-ieee-isec-2022-posters-smfnpnzbpwhz",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "beamer",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/ieee-isec-2022-posters/smfnpnzbpwhz",
+  "original_author": "Mithun Mukherjee",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/overleaf__ol-ieee-isec-2022-posters-smfnpnzbpwhz/main.tex",
+  "relative_path": "processed/latex/cross-engine/overleaf__ol-ieee-isec-2022-posters-smfnpnzbpwhz/main.tex",
+  "sha256": "322d105ae4a959173c2f63c44d1b5d1ecec792918498538a0899e9dcacd52aeb",
+  "size_bytes": 3652,
+  "document_class": "IEEEtran",
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 289,
+  "downloaded_at": "2026-08-02T15:42:03.387Z",
+  "filtered_at": "2026-08-02T17:34:41.236Z"
+}

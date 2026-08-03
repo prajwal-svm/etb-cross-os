@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-jdsee-htw-titlepage-typst-htw-titlepage-1",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "thesis",
+  "license": "Apache-2.0",
+  "source_url": "https://github.com/jdsee/htw_titlepage_typst",
+  "original_author": "jdsee",
+  "stars": 0,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-jdsee-htw-titlepage-typst-htw-titlepage-1/htw_titlepage.typ",
+  "relative_path": "raw/github-typst/gh-jdsee-htw-titlepage-typst-htw-titlepage-1/htw_titlepage.typ",
+  "main_doc": "htw_titlepage.typ",
+  "sha256": "33b19c54bee22de58256fbc4116dcec9eecb3ad23eb695aa1e9f08a60543ff40",
+  "size_bytes": 1064,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "htw_titlepage.typ",
+  "downloaded_at": "2026-08-02T14:22:16.698Z"
+}

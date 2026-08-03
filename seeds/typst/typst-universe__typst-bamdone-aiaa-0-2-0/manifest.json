@@ -1,0 +1,23 @@
+{
+  "id": "typst-universe/typst-bamdone-aiaa-0-2-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "venue",
+  "license": "MIT-0",
+  "source_url": "https://github.com/isaacew/aiaa-typst",
+  "original_author": "Isaac Weintraub",
+  "package_name": "bamdone-aiaa",
+  "package_version": "0.2.0",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/typst-universe/typst-bamdone-aiaa-0-2-0/main.typ",
+  "relative_path": "raw/typst-universe/typst-bamdone-aiaa-0-2-0/main.typ",
+  "main_doc": "main.typ",
+  "sha256": "e36cf7003c0673db9ca028b2636b615aedb1b057d98d257cbe8ce0601e3e23db",
+  "size_bytes": 27804,
+  "document_class": null,
+  "uses_packages": [],
+  "downloaded_at": "2026-08-02T13:05:57.420Z",
+  "categories": [
+    "paper"
+  ],
+  "description": "An American Institute of Aeronautics and Astronautics (AIAA) template for conferences."
+}

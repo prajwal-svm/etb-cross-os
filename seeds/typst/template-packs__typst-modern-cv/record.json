@@ -1,0 +1,26 @@
+{
+  "id": "template-packs/typst-modern-cv",
+  "source": "template-packs",
+  "format": "typst",
+  "category": "cv",
+  "license": "CC0-1.0",
+  "source_url": "https://github.com/Oleafly/template-packs",
+  "original_author": "Oleafly",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/template-packs__typst-modern-cv/main.typ",
+  "relative_path": "processed/typst/template-packs__typst-modern-cv/main.typ",
+  "sha256": "9ed6a615f8443ece4eee7a868d760c5861b75e785ed6bfa4f896ebe0e9c235df",
+  "size_bytes": 784,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 268,
+  "downloaded_at": "2026-08-02T13:05:15.861Z",
+  "filtered_at": "2026-08-02T17:34:40.871Z"
+}

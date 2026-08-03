@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-carteryin-paper-report-skill-main",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "report",
+  "license": "MIT",
+  "source_url": "https://github.com/CarterYin/paper_report_skill",
+  "original_author": "CarterYin",
+  "stars": 1,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-carteryin-paper-report-skill-main/main.typ",
+  "relative_path": "raw/github-typst/gh-carteryin-paper-report-skill-main/main.typ",
+  "main_doc": "main.typ",
+  "sha256": "9ee6fecb05dd0b3c305d1d578edcb2ff36b333ceec6d2f95aa8fae1c5e503888",
+  "size_bytes": 18494,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "example/ttrv_report/template/main.typ",
+  "downloaded_at": "2026-08-02T14:13:29.605Z"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "overleaf/ol-minuta-proyecto-final-cqrnynsdgjmc",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "misc",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/minuta-proyecto-final/cqrnynsdgjmc",
+  "original_author": "Pablo Sanchez",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/overleaf__ol-minuta-proyecto-final-cqrnynsdgjmc/main.tex",
+  "relative_path": "processed/latex/cross-engine/overleaf__ol-minuta-proyecto-final-cqrnynsdgjmc/main.tex",
+  "sha256": "e2fde7f7edf7e48ae83915b5433b176b37a164015bbaff5b680c03a7289886c2",
+  "size_bytes": 1098,
+  "document_class": "article",
+  "uses_packages": [
+    "amsmath",
+    "babel",
+    "graphicx",
+    "inputenc",
+    "todonotes"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 462,
+  "downloaded_at": "2026-08-02T14:46:48.867Z",
+  "filtered_at": "2026-08-02T17:34:41.418Z"
+}

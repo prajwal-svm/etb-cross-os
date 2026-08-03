@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-chpxu-ucl-phd-thesis-template-ucl-acronym-1",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "thesis",
+  "license": "MIT",
+  "source_url": "https://github.com/chpxu/ucl-phd-thesis-template",
+  "original_author": "chpxu",
+  "stars": 0,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-chpxu-ucl-phd-thesis-template-ucl-acronym-1/ucl-acronym.typ",
+  "relative_path": "raw/github-typst/gh-chpxu-ucl-phd-thesis-template-ucl-acronym-1/ucl-acronym.typ",
+  "main_doc": "ucl-acronym.typ",
+  "sha256": "0b76d19a170821fd3f7ddf4435ac8f9fb939c5a188d1863e9d461fd38a2d1b0c",
+  "size_bytes": 210,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "ucl-acronym.typ",
+  "downloaded_at": "2026-08-02T14:18:33.269Z"
+}

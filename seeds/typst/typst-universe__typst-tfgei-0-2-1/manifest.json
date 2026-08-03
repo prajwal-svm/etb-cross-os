@@ -1,0 +1,23 @@
+{
+  "id": "typst-universe/typst-tfgei-0-2-1",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "thesis",
+  "license": "MIT",
+  "source_url": "https://github.com/Kioraga/TFGEI",
+  "original_author": "Daniel Cancelas",
+  "package_name": "tfgei",
+  "package_version": "0.2.1",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/typst-universe/typst-tfgei-0-2-1/main.typ",
+  "relative_path": "raw/typst-universe/typst-tfgei-0-2-1/main.typ",
+  "main_doc": "main.typ",
+  "sha256": "27fa0d835ffdb099e424f3cb6aa6c18ef60b5ba79a63fc3db82326694b8719f2",
+  "size_bytes": 2017,
+  "document_class": null,
+  "uses_packages": [],
+  "downloaded_at": "2026-08-02T13:13:41.591Z",
+  "categories": [
+    "thesis"
+  ],
+  "description": "Template for making final degree projects in the Computer Science degree at ESEI (University of Vigo)."
+}

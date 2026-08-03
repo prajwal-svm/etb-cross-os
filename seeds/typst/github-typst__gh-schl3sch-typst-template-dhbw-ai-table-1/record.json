@@ -1,0 +1,26 @@
+{
+  "id": "github-typst/gh-schl3sch-typst-template-dhbw-ai-table-1",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "misc",
+  "license": "MIT",
+  "source_url": "https://github.com/schl3sch/Typst-Template-DHBW",
+  "original_author": "schl3sch",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/github-typst__gh-schl3sch-typst-template-dhbw-ai-table-1/ai-table.typ",
+  "relative_path": "processed/typst/github-typst__gh-schl3sch-typst-template-dhbw-ai-table-1/ai-table.typ",
+  "sha256": "ea00684f257d86a4a1ba7badc41b05928e85867e299fa07474e553c9fce04e37",
+  "size_bytes": 393,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 158,
+  "downloaded_at": "2026-08-02T14:15:41.400Z",
+  "filtered_at": "2026-08-02T17:34:45.623Z"
+}

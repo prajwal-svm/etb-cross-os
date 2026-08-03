@@ -1,0 +1,41 @@
+{
+  "id": "github-latex/gh-mlnjsh-phd-survival-kit-template-2",
+  "source": "github-latex",
+  "format": "latex",
+  "category": "thesis",
+  "license": "MIT",
+  "source_url": "https://github.com/mlnjsh/phd-survival-kit",
+  "original_author": "mlnjsh",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/github-latex__gh-mlnjsh-phd-survival-kit-template-2/template.tex",
+  "relative_path": "processed/latex/cross-engine/github-latex__gh-mlnjsh-phd-survival-kit-template-2/template.tex",
+  "sha256": "188ce2eaf63215df5a6f3cb974124da1301a500f353fc3df4ff84dac594aa8de",
+  "size_bytes": 18377,
+  "document_class": "IEEEtran",
+  "uses_packages": [
+    "algorithm2e",
+    "amsmath",
+    "amssymb",
+    "amsthm",
+    "balance",
+    "booktabs",
+    "cite",
+    "float",
+    "graphicx",
+    "hyperref",
+    "listings",
+    "subfig",
+    "url",
+    "xcolor"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 563,
+  "downloaded_at": "2026-08-02T13:23:11.053Z",
+  "filtered_at": "2026-08-02T17:34:43.154Z"
+}

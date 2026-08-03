@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-noraiko-cv-unnamed-cv-1",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "cv",
+  "license": "MIT",
+  "source_url": "https://github.com/noraiko/cv",
+  "original_author": "noraiko",
+  "stars": 0,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-noraiko-cv-unnamed-cv-1/unnamed-cv.typ",
+  "relative_path": "raw/github-typst/gh-noraiko-cv-unnamed-cv-1/unnamed-cv.typ",
+  "main_doc": "unnamed-cv.typ",
+  "sha256": "fa4d68597dfa19f8e3ba047fc9cdbdc82c5f5de9c37af4c6e206dd9bab6fd771",
+  "size_bytes": 5397,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "unnamed-cv.typ",
+  "downloaded_at": "2026-08-02T14:21:23.312Z"
+}

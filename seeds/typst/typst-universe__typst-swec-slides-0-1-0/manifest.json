@@ -1,0 +1,23 @@
+{
+  "id": "typst-universe/typst-swec-slides-0-1-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "beamer",
+  "license": "MIT",
+  "source_url": "https://github.com/Gronner/swec-slide-template",
+  "original_author": "Felix 'Gronner' Bräunling",
+  "package_name": "swec-slides",
+  "package_version": "0.1.0",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/typst-universe/typst-swec-slides-0-1-0/slides.typ",
+  "relative_path": "raw/typst-universe/typst-swec-slides-0-1-0/slides.typ",
+  "main_doc": "slides.typ",
+  "sha256": "7102567e21546b6ba812f4f54ba225691e75260be5520c5e95685398fd85fcbf",
+  "size_bytes": 439,
+  "document_class": null,
+  "uses_packages": [],
+  "downloaded_at": "2026-08-02T13:13:38.026Z",
+  "categories": [
+    "presentation"
+  ],
+  "description": "A typst template for SoftWare Engineering Camp (SWEC) presentations"
+}

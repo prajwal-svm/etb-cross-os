@@ -1,0 +1,35 @@
+{
+  "id": "github-latex/gh-haidaoxiaofei-cs-latex-template-coverletter-1",
+  "source": "github-latex",
+  "format": "latex",
+  "category": "venue",
+  "license": "Apache-2.0",
+  "source_url": "https://github.com/haidaoxiaofei/cs-latex-template",
+  "original_author": "haidaoxiaofei",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/github-latex__gh-haidaoxiaofei-cs-latex-template-coverletter-1/coverLetter.tex",
+  "relative_path": "processed/latex/cross-engine/github-latex__gh-haidaoxiaofei-cs-latex-template-coverletter-1/coverLetter.tex",
+  "sha256": "94525deaad259e40c063e88e381dd5e67e4926d46e11b50600afc225e7d6633d",
+  "size_bytes": 3016,
+  "document_class": "article",
+  "uses_packages": [
+    "amsmath",
+    "amsthm",
+    "graphicx",
+    "hyperref",
+    "multirow",
+    "pdfpages",
+    "tcolorbox",
+    "xcolor"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 561,
+  "downloaded_at": "2026-08-02T13:16:11.981Z",
+  "filtered_at": "2026-08-02T17:34:42.834Z"
+}

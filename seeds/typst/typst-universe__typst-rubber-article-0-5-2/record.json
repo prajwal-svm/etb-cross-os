@@ -1,0 +1,26 @@
+{
+  "id": "typst-universe/typst-rubber-article-0-5-2",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "venue",
+  "license": "MIT",
+  "source_url": "https://github.com/npikall/rubber-article.git",
+  "original_author": "Niko Pikall",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/typst-universe__typst-rubber-article-0-5-2/main.typ",
+  "relative_path": "processed/typst/typst-universe__typst-rubber-article-0-5-2/main.typ",
+  "sha256": "cde99ca157d6008835c9bf97e672a38fbbc92a9b196187214a39a6c60b91f055",
+  "size_bytes": 1752,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 221,
+  "downloaded_at": "2026-08-02T13:12:35.099Z",
+  "filtered_at": "2026-08-02T17:34:44.154Z"
+}

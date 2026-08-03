@@ -1,0 +1,23 @@
+{
+  "id": "template-packs/dissertation-classic",
+  "source": "template-packs",
+  "format": "latex",
+  "category": "thesis",
+  "category_raw": "Theses & Reports",
+  "license": "CC0-1.0",
+  "source_url": "https://github.com/Oleafly/template-packs",
+  "original_author": "Oleafly",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/template-packs/dissertation-classic/main.tex",
+  "relative_path": "raw/template-packs/dissertation-classic/main.tex",
+  "main_doc": "main.tex",
+  "sha256": "52059e740958fe8be67e430c2cd0ecdf1ff3baf3aa5844cdd2af8e77e6a15c0a",
+  "size_bytes": 2060,
+  "document_class": "report",
+  "uses_packages": [
+    "geometry",
+    "hyperref",
+    "setspace"
+  ],
+  "engine_hint": "xetex",
+  "downloaded_at": "2026-08-02T13:05:15.741Z"
+}

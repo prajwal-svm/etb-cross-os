@@ -1,0 +1,33 @@
+{
+  "id": "github-latex/gh-nick-miras-mea-2202l-lab-report-template-labreport",
+  "source": "github-latex",
+  "format": "latex",
+  "category": "report",
+  "license": "MIT",
+  "source_url": "https://github.com/Nick-Miras/mea-2202l-lab-report-template",
+  "original_author": "Nick-Miras",
+  "stars": 0,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-latex/gh-nick-miras-mea-2202l-lab-report-template-labreport/labreport.tex",
+  "relative_path": "raw/github-latex/gh-nick-miras-mea-2202l-lab-report-template-labreport/labreport.tex",
+  "main_doc": "labreport.tex",
+  "sha256": "f03315b86113ddcab090ea8cc73eba06e5b27b09233557a3e5a8b5d08bb2d571",
+  "size_bytes": 1538,
+  "document_class": "article",
+  "uses_packages": [
+    "amsmath",
+    "amssymb",
+    "amsthm",
+    "booktabs",
+    "circuitikz",
+    "fancyhdr",
+    "float",
+    "geometry",
+    "graphicx",
+    "multicol",
+    "pgfplots",
+    "siunitx",
+    "tabularx"
+  ],
+  "repo_path": "labreport.tex",
+  "downloaded_at": "2026-08-02T13:59:57.650Z"
+}

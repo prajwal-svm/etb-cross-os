@@ -1,0 +1,28 @@
+{
+  "id": "overleaf/ol-robin-template-xghpqmymxwsj",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "misc",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/robin-template/xghpqmymxwsj",
+  "original_author": "Robin Singh",
+  "title": "Robin Template",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/overleaf/ol-robin-template-xghpqmymxwsj/main.tex",
+  "relative_path": "raw/overleaf/ol-robin-template-xghpqmymxwsj/main.tex",
+  "main_doc": "main.tex",
+  "sha256": "f50a6a27481de018080932d76f0af9b75aea81c34c0c2ad2c4ecf6f7fa38dcd8",
+  "size_bytes": 4105,
+  "document_class": "article",
+  "uses_packages": [
+    "array",
+    "enumitem",
+    "fancyhdr",
+    "geometry",
+    "hyperref",
+    "multicol",
+    "titlesec"
+  ],
+  "download_method": "view-source-modal",
+  "github_url": null,
+  "downloaded_at": "2026-08-02T15:20:25.839Z"
+}

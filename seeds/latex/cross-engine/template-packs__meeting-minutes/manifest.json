@@ -1,0 +1,25 @@
+{
+  "id": "template-packs/meeting-minutes",
+  "source": "template-packs",
+  "format": "latex",
+  "category": "business",
+  "category_raw": "Business",
+  "license": "CC0-1.0",
+  "source_url": "https://github.com/Oleafly/template-packs",
+  "original_author": "Oleafly",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/template-packs/meeting-minutes/main.tex",
+  "relative_path": "raw/template-packs/meeting-minutes/main.tex",
+  "main_doc": "main.tex",
+  "sha256": "cb743cd6151cd27b5d34d68da6256aac1643d69e15436f85b39ecd12aa6a38ea",
+  "size_bytes": 3094,
+  "document_class": "article",
+  "uses_packages": [
+    "booktabs",
+    "geometry",
+    "sourcesanspro",
+    "tabularx",
+    "xcolor"
+  ],
+  "engine_hint": "xetex",
+  "downloaded_at": "2026-08-02T13:05:15.789Z"
+}

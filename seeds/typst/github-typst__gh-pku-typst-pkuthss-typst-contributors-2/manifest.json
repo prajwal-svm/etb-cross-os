@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-pku-typst-pkuthss-typst-contributors-2",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "thesis",
+  "license": "MIT",
+  "source_url": "https://github.com/pku-typst/pkuthss-typst",
+  "original_author": "pku-typst",
+  "stars": 164,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-pku-typst-pkuthss-typst-contributors-2/contributors.typ",
+  "relative_path": "raw/github-typst/gh-pku-typst-pkuthss-typst-contributors-2/contributors.typ",
+  "main_doc": "contributors.typ",
+  "sha256": "3934da0c09cfcd7140e05ac769acc7fe044e5433a756f397880eb59c2e0ae4a3",
+  "size_bytes": 353,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "contributors.typ",
+  "downloaded_at": "2026-08-02T14:03:18.517Z"
+}

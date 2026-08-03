@@ -1,0 +1,30 @@
+{
+  "id": "overleaf/ol-flag-of-new-zealand-xfmjnsvkbpzp",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "misc",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/flag-of-new-zealand/xfmjnsvkbpzp",
+  "original_author": "Senan Sekhon",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/overleaf__ol-flag-of-new-zealand-xfmjnsvkbpzp/main.tex",
+  "relative_path": "processed/latex/cross-engine/overleaf__ol-flag-of-new-zealand-xfmjnsvkbpzp/main.tex",
+  "sha256": "a0c73139d5beba5bf607aace7ae487284ba7d6fd783529f190345185830d262d",
+  "size_bytes": 4760,
+  "document_class": "article",
+  "uses_packages": [
+    "geometry",
+    "tikz",
+    "xcolor"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 469,
+  "downloaded_at": "2026-08-02T14:39:43.292Z",
+  "filtered_at": "2026-08-02T17:34:41.163Z"
+}

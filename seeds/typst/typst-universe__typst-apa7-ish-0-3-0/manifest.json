@@ -1,0 +1,23 @@
+{
+  "id": "typst-universe/typst-apa7-ish-0-3-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "venue",
+  "license": "MIT",
+  "source_url": "https://github.com/mrwunderbar666/typst-apa7ish",
+  "original_author": "MrWunderbar",
+  "package_name": "apa7-ish",
+  "package_version": "0.3.0",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/typst-universe/typst-apa7-ish-0-3-0/main.typ",
+  "relative_path": "raw/typst-universe/typst-apa7-ish-0-3-0/main.typ",
+  "main_doc": "main.typ",
+  "sha256": "d35f5f9a1d1bb6217e731ace084925ac700d02e7592ed39891da2cad1c2d4307",
+  "size_bytes": 951,
+  "document_class": null,
+  "uses_packages": [],
+  "downloaded_at": "2026-08-02T13:05:45.676Z",
+  "categories": [
+    "paper"
+  ],
+  "description": "Manuscript template that (mostly) complies with APA7 Style (Work in Progress)."
+}

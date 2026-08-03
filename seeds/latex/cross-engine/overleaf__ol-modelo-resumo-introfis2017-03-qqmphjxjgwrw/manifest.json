@@ -1,0 +1,29 @@
+{
+  "id": "overleaf/ol-modelo-resumo-introfis2017-03-qqmphjxjgwrw",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "misc",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/modelo-resumo-introfis2017-03/qqmphjxjgwrw",
+  "original_author": "Rodrigo Alves Dias",
+  "title": "Modelo_Resumo_IntroFis2017_03",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/overleaf/ol-modelo-resumo-introfis2017-03-qqmphjxjgwrw/main.tex",
+  "relative_path": "raw/overleaf/ol-modelo-resumo-introfis2017-03-qqmphjxjgwrw/main.tex",
+  "main_doc": "main.tex",
+  "sha256": "e26d35391a5ea5cc31a474a17d8ed9098a906b6204a22b22c6df21d5c1ea0381",
+  "size_bytes": 991,
+  "document_class": "article",
+  "uses_packages": [
+    "amsmath",
+    "babel",
+    "fontenc",
+    "geometry",
+    "graphicx",
+    "hyperref",
+    "inputenc",
+    "todonotes"
+  ],
+  "download_method": "view-source-modal",
+  "github_url": null,
+  "downloaded_at": "2026-08-02T15:39:11.307Z"
+}

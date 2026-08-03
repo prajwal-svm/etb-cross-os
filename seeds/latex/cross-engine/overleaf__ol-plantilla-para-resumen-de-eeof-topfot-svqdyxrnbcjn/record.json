@@ -1,0 +1,35 @@
+{
+  "id": "overleaf/ol-plantilla-para-resumen-de-eeof-topfot-svqdyxrnbcjn",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "cv",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/plantilla-para-resumen-de-eeof-topfot/svqdyxrnbcjn",
+  "original_author": "marcelo luda",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/overleaf__ol-plantilla-para-resumen-de-eeof-topfot-svqdyxrnbcjn/main.tex",
+  "relative_path": "processed/latex/cross-engine/overleaf__ol-plantilla-para-resumen-de-eeof-topfot-svqdyxrnbcjn/main.tex",
+  "sha256": "8311840079bb59f9fcb4091bce645c162628c7e249705ef409b1f17b61896db9",
+  "size_bytes": 2010,
+  "document_class": "article",
+  "uses_packages": [
+    "amsfonts",
+    "amsmath",
+    "amssymb",
+    "authblk",
+    "babel",
+    "graphicx",
+    "hyperref",
+    "inputenc"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 459,
+  "downloaded_at": "2026-08-02T15:42:39.177Z",
+  "filtered_at": "2026-08-02T17:34:41.641Z"
+}

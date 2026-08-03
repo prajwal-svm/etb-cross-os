@@ -1,0 +1,26 @@
+{
+  "id": "typst-universe/typst-tfgei-0-2-1",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "thesis",
+  "license": "MIT",
+  "source_url": "https://github.com/Kioraga/TFGEI",
+  "original_author": "Daniel Cancelas",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/typst-universe__typst-tfgei-0-2-1/main.typ",
+  "relative_path": "processed/typst/typst-universe__typst-tfgei-0-2-1/main.typ",
+  "sha256": "27fa0d835ffdb099e424f3cb6aa6c18ef60b5ba79a63fc3db82326694b8719f2",
+  "size_bytes": 2017,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 288,
+  "downloaded_at": "2026-08-02T13:13:41.591Z",
+  "filtered_at": "2026-08-02T17:34:44.249Z"
+}

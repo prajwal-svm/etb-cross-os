@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-mrtz-j-typst-thesis-template-frontpage-1",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "thesis",
+  "license": "MIT",
+  "source_url": "https://github.com/mrtz-j/typst-thesis-template",
+  "original_author": "mrtz-j",
+  "stars": 20,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-mrtz-j-typst-thesis-template-frontpage-1/frontpage.typ",
+  "relative_path": "raw/github-typst/gh-mrtz-j-typst-thesis-template-frontpage-1/frontpage.typ",
+  "main_doc": "frontpage.typ",
+  "sha256": "2b5602dd6ef237a1281c7e3b3eed796d78e945c56d213e04d19d98eb2393d8ba",
+  "size_bytes": 1692,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "modules/frontpage.typ",
+  "downloaded_at": "2026-08-02T14:04:59.472Z"
+}

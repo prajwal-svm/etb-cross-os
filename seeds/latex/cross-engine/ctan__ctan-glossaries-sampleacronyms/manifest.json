@@ -1,0 +1,21 @@
+{
+  "id": "ctan/ctan-glossaries-sampleacronyms",
+  "source": "ctan",
+  "format": "latex",
+  "category": "package-example",
+  "license": "LPPL-1.3c",
+  "source_url": "https://ctan.org/pkg/glossaries",
+  "original_author": "CTAN package: glossaries",
+  "package": "glossaries",
+  "original_path": "/usr/local/texlive/2025/texmf-dist/doc/latex/glossaries/samples/sampleacronyms.tex",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/ctan/ctan-glossaries-sampleacronyms/sampleacronyms.tex",
+  "relative_path": "raw/ctan/ctan-glossaries-sampleacronyms/sampleacronyms.tex",
+  "main_doc": "sampleacronyms.tex",
+  "sha256": "55da57a7f7c783e3ba224ec4777f9b2fe1460d7f6e9c7b23583d35fd28b3263e",
+  "size_bytes": 1198,
+  "document_class": "article",
+  "uses_packages": [
+    "glossaries"
+  ],
+  "downloaded_at": "2026-08-02T13:04:56.429Z"
+}

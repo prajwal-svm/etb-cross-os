@@ -1,0 +1,23 @@
+{
+  "id": "typst-universe/typst-unofficial-jascome-34j-1-0-4",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "venue",
+  "license": "MIT-0",
+  "source_url": "https://github.com/34j/typst-unofficial-jascome-34j",
+  "original_author": "34j",
+  "package_name": "unofficial-jascome-34j",
+  "package_version": "1.0.4",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/typst-universe/typst-unofficial-jascome-34j-1-0-4/main.typ",
+  "relative_path": "raw/typst-universe/typst-unofficial-jascome-34j-1-0-4/main.typ",
+  "main_doc": "main.typ",
+  "sha256": "bf0ad2ff0ebe78e902fbb4f2c65de7f9860062ff733f7cd520509cfb2dc167d2",
+  "size_bytes": 10039,
+  "document_class": null,
+  "uses_packages": [],
+  "downloaded_at": "2026-08-02T13:15:17.771Z",
+  "categories": [
+    "paper"
+  ],
+  "description": "Unofficial template for JASCOME."
+}

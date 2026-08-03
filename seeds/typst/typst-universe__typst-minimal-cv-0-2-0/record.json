@@ -1,0 +1,26 @@
+{
+  "id": "typst-universe/typst-minimal-cv-0-2-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "cv",
+  "license": "MIT-0",
+  "source_url": "https://github.com/lelimacon/typst-minimal-cv",
+  "original_author": "lelimacon",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/typst-universe__typst-minimal-cv-0-2-0/main.typ",
+  "relative_path": "processed/typst/typst-universe__typst-minimal-cv-0-2-0/main.typ",
+  "sha256": "96b3abc72a4b9df586fcd3a0955c79d5d9476c62a58ef1cd9512e0419234ca61",
+  "size_bytes": 5103,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 372,
+  "downloaded_at": "2026-08-02T13:10:25.008Z",
+  "filtered_at": "2026-08-02T17:34:43.984Z"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "overleaf/ol-scrum-update-yhnbfhnvnkhr",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "misc",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/scrum-update/yhnbfhnvnkhr",
+  "original_author": "Steven Black",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/overleaf__ol-scrum-update-yhnbfhnvnkhr/main.tex",
+  "relative_path": "processed/latex/cross-engine/overleaf__ol-scrum-update-yhnbfhnvnkhr/main.tex",
+  "sha256": "2c491aba7b9101deb1dbc7e3059abc2bba16d5346ef313ef6e295082629ac944",
+  "size_bytes": 3447,
+  "document_class": "article",
+  "uses_packages": [
+    "amsfonts",
+    "amssymb",
+    "changepage",
+    "comment",
+    "enumitem",
+    "fancyhdr",
+    "graphicx",
+    "times"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 301,
+  "downloaded_at": "2026-08-02T14:39:08.422Z",
+  "filtered_at": "2026-08-02T17:34:41.806Z"
+}

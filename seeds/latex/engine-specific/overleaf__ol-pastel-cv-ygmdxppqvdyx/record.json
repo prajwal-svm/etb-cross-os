@@ -1,0 +1,31 @@
+{
+  "id": "overleaf/ol-pastel-cv-ygmdxppqvdyx",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "cv",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/pastel-cv/ygmdxppqvdyx",
+  "original_author": "Sarah Lang",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/engine-specific/overleaf__ol-pastel-cv-ygmdxppqvdyx/main.tex",
+  "relative_path": "processed/latex/engine-specific/overleaf__ol-pastel-cv-ygmdxppqvdyx/main.tex",
+  "sha256": "b81d70b8050e6e894c34c631c84936d04f5ad5e662ea8d2deb8aa7f361d0ef06",
+  "size_bytes": 5150,
+  "document_class": "pastelcv",
+  "uses_packages": [
+    "Chivo",
+    "fontenc",
+    "inputenc",
+    "raleway"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": false,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "engine-specific",
+  "compile_time_ms": 1790,
+  "downloaded_at": "2026-08-02T16:05:04.455Z",
+  "filtered_at": "2026-08-02T17:34:41.606Z"
+}

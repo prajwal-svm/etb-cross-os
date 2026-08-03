@@ -1,0 +1,24 @@
+{
+  "id": "typst-universe/typst-unofficial-fontys-paper-template-0-1-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "venue",
+  "license": "MIT",
+  "source_url": "https://github.com/TomVer99/Fontys-paper-template",
+  "original_author": "TomVer99",
+  "package_name": "unofficial-fontys-paper-template",
+  "package_version": "0.1.0",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/typst-universe/typst-unofficial-fontys-paper-template-0-1-0/main.typ",
+  "relative_path": "raw/typst-universe/typst-unofficial-fontys-paper-template-0-1-0/main.typ",
+  "main_doc": "main.typ",
+  "sha256": "c15f2358706fe7ff179efa4108f5281d18bcef06612b09f26ba469d10332ad6e",
+  "size_bytes": 356,
+  "document_class": null,
+  "uses_packages": [],
+  "downloaded_at": "2026-08-02T13:15:13.604Z",
+  "categories": [
+    "paper",
+    "thesis"
+  ],
+  "description": "This is a template for creating research papers in Typst, tailored for Fontys Hogeschool."
+}

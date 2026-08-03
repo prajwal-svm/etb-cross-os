@@ -1,0 +1,26 @@
+{
+  "id": "template-packs/dnd-character-sheet",
+  "source": "template-packs",
+  "format": "latex",
+  "category": "creative",
+  "category_raw": "Creative",
+  "license": "CC0-1.0",
+  "source_url": "https://github.com/Oleafly/template-packs",
+  "original_author": "Oleafly",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/template-packs/dnd-character-sheet/main.tex",
+  "relative_path": "raw/template-packs/dnd-character-sheet/main.tex",
+  "main_doc": "main.tex",
+  "sha256": "1018aeea2a19af7e5187e990063e56452f4190918fb6631a9c54933c284d6ecd",
+  "size_bytes": 3355,
+  "document_class": "article",
+  "uses_packages": [
+    "array",
+    "booktabs",
+    "geometry",
+    "sourcesanspro",
+    "tikz",
+    "xcolor"
+  ],
+  "engine_hint": "xetex",
+  "downloaded_at": "2026-08-02T13:05:15.832Z"
+}

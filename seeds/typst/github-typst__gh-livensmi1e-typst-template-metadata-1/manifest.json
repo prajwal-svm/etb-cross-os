@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-livensmi1e-typst-template-metadata-1",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "misc",
+  "license": "MIT",
+  "source_url": "https://github.com/livensmi1e/typst-template",
+  "original_author": "livensmi1e",
+  "stars": 0,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-livensmi1e-typst-template-metadata-1/metadata.typ",
+  "relative_path": "raw/github-typst/gh-livensmi1e-typst-template-metadata-1/metadata.typ",
+  "main_doc": "metadata.typ",
+  "sha256": "e4b8a312ff8d9cc3b715f657cb2ece1bc622c8237f84a7753e75331c08cace8c",
+  "size_bytes": 288,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "metadata.typ",
+  "downloaded_at": "2026-08-02T14:14:32.163Z"
+}

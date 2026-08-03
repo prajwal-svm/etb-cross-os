@@ -1,0 +1,29 @@
+{
+  "id": "overleaf/ol-hyperref-example-2-rwxwycmywnfv",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "coursework",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/hyperref-example-2/rwxwycmywnfv",
+  "original_author": "Overleaf",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/overleaf__ol-hyperref-example-2-rwxwycmywnfv/main.tex",
+  "relative_path": "processed/latex/cross-engine/overleaf__ol-hyperref-example-2-rwxwycmywnfv/main.tex",
+  "sha256": "f855670c487eaad21caa379609c376d19d4584a503109611f03aaf39dc69ed3d",
+  "size_bytes": 1104,
+  "document_class": "book",
+  "uses_packages": [
+    "blindtext",
+    "hyperref"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 436,
+  "downloaded_at": "2026-08-02T14:18:09.168Z",
+  "filtered_at": "2026-08-02T17:34:41.230Z"
+}

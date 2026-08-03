@@ -1,0 +1,26 @@
+{
+  "id": "github-typst/gh-npcray-polario-frame-main-1",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "misc",
+  "license": "Apache-2.0",
+  "source_url": "https://github.com/NPCRay/polario-frame",
+  "original_author": "NPCRay",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/github-typst__gh-npcray-polario-frame-main-1/main.typ",
+  "relative_path": "processed/typst/github-typst__gh-npcray-polario-frame-main-1/main.typ",
+  "sha256": "d2dbd738278f087e569a2d242666f284c18cb0d805c84c0341ad49343adf81dd",
+  "size_bytes": 690,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 14,
+  "downloaded_at": "2026-08-02T14:10:47.258Z",
+  "filtered_at": "2026-08-02T17:34:45.411Z"
+}

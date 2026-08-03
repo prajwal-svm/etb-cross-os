@@ -1,0 +1,32 @@
+{
+  "id": "github-latex/gh-acdmammoths-accsthesis-accsthesis",
+  "source": "github-latex",
+  "format": "latex",
+  "category": "thesis",
+  "license": "Apache-2.0",
+  "source_url": "https://github.com/acdmammoths/accsthesis",
+  "original_author": "acdmammoths",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/github-latex__gh-acdmammoths-accsthesis-accsthesis/accsthesis.tex",
+  "relative_path": "processed/latex/cross-engine/github-latex__gh-acdmammoths-accsthesis-accsthesis/accsthesis.tex",
+  "sha256": "6f8fcbb5fb48053f0fd8a73e9b4980c49a67d8462a85b2ff62b7fe1230cfd6b5",
+  "size_bytes": 3252,
+  "document_class": "report",
+  "uses_packages": [
+    "geometry",
+    "inconsolata",
+    "libertinus",
+    "lipsum",
+    "setspace"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 2192,
+  "downloaded_at": "2026-08-02T13:45:32.897Z",
+  "filtered_at": "2026-08-02T17:34:42.393Z"
+}

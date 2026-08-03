@@ -1,0 +1,26 @@
+{
+  "id": "typst-universe/typst-modernpro-cv-2-0-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "cv",
+  "license": "MIT",
+  "source_url": "https://typst.app/universe/package/modernpro-cv",
+  "original_author": "Academic Template Collective",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/typst-universe__typst-modernpro-cv-2-0-0/cv-single.typ",
+  "relative_path": "processed/typst/typst-universe__typst-modernpro-cv-2-0-0/cv-single.typ",
+  "sha256": "b1892ef1a455f94bbccb8a367a6596ba44463f6bbf8a561e9fe19c84aa392d8c",
+  "size_bytes": 2514,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 289,
+  "downloaded_at": "2026-08-02T13:11:21.556Z",
+  "filtered_at": "2026-08-02T17:34:44.041Z"
+}

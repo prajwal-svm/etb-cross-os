@@ -1,0 +1,24 @@
+{
+  "id": "overleaf/ol-lab-report-template-yvsdmgpdzqvz",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "report",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/lab-report-template/yvsdmgpdzqvz",
+  "original_author": "Andrew Patterson",
+  "title": "Lab Report Template",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/overleaf/ol-lab-report-template-yvsdmgpdzqvz/main.tex",
+  "relative_path": "raw/overleaf/ol-lab-report-template-yvsdmgpdzqvz/main.tex",
+  "main_doc": "main.tex",
+  "sha256": "b90685c6e92b5f2452eb9ebf75d15cafe9d056202f32a246804dfdfc73ffa9a2",
+  "size_bytes": 863,
+  "document_class": "report",
+  "uses_packages": [
+    "outline",
+    "pmgraph",
+    "ulem"
+  ],
+  "download_method": "view-source-modal",
+  "github_url": null,
+  "downloaded_at": "2026-08-02T14:21:36.302Z"
+}

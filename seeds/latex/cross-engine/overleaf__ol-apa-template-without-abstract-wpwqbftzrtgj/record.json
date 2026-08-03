@@ -1,0 +1,32 @@
+{
+  "id": "overleaf/ol-apa-template-without-abstract-wpwqbftzrtgj",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "misc",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/apa-template-without-abstract/wpwqbftzrtgj",
+  "original_author": "Taylor Elgin",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/overleaf__ol-apa-template-without-abstract-wpwqbftzrtgj/main.tex",
+  "relative_path": "processed/latex/cross-engine/overleaf__ol-apa-template-without-abstract-wpwqbftzrtgj/main.tex",
+  "sha256": "db7f4747bb46abd266f0f025454b622c8dadcebf16caa9d8013c5e7089bf70dd",
+  "size_bytes": 480,
+  "document_class": "apa6",
+  "uses_packages": [
+    "amsmath",
+    "babel",
+    "graphicx",
+    "inputenc",
+    "todonotes"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 537,
+  "downloaded_at": "2026-08-02T14:39:23.201Z",
+  "filtered_at": "2026-08-02T17:34:40.935Z"
+}

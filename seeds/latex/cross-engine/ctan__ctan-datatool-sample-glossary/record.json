@@ -1,0 +1,29 @@
+{
+  "id": "ctan/ctan-datatool-sample-glossary",
+  "source": "ctan",
+  "format": "latex",
+  "category": "package-example",
+  "license": "LPPL-1.3c",
+  "source_url": "https://ctan.org/pkg/datatool",
+  "original_author": "CTAN package: datatool",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/ctan__ctan-datatool-sample-glossary/sample-glossary.tex",
+  "relative_path": "processed/latex/cross-engine/ctan__ctan-datatool-sample-glossary/sample-glossary.tex",
+  "sha256": "f6ed9362a3f2be1578e2544e05b013a7ad1b462cecfea8f4fa9f4002d49aac67",
+  "size_bytes": 6074,
+  "document_class": "article",
+  "uses_packages": [
+    "datagidx",
+    "hyperref"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 1120,
+  "downloaded_at": "2026-08-02T13:05:04.434Z",
+  "filtered_at": "2026-08-02T17:34:42.229Z"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "overleaf/ol-book-spine-template-rsnyzcjxrdqn",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "book",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/book-spine-template/rsnyzcjxrdqn",
+  "original_author": "Huangrui Mo",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/engine-specific/overleaf__ol-book-spine-template-rsnyzcjxrdqn/latexspine.tex",
+  "relative_path": "processed/latex/engine-specific/overleaf__ol-book-spine-template-rsnyzcjxrdqn/latexspine.tex",
+  "sha256": "eab9177a49657a5eea49db2f892eb3bc35a8a4642feeabd172c355bd08705cf6",
+  "size_bytes": 2965,
+  "document_class": "ctexbook",
+  "uses_packages": [
+    "geometry",
+    "graphicx"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": false,
+    "xelatex": true,
+    "lualatex": false,
+    "typst": false
+  },
+  "engine_class": "engine-specific",
+  "compile_time_ms": 2150,
+  "downloaded_at": "2026-08-02T15:02:39.061Z",
+  "filtered_at": "2026-08-02T17:34:40.984Z"
+}

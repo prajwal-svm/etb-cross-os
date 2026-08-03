@@ -1,0 +1,32 @@
+{
+  "id": "ctan/ctan-beamer-beamerexample-texpower",
+  "source": "ctan",
+  "format": "latex",
+  "category": "beamer",
+  "license": "LPPL-1.3c",
+  "source_url": "https://ctan.org/pkg/beamer",
+  "original_author": "CTAN package: beamer",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/ctan__ctan-beamer-beamerexample-texpower/beamerexample-texpower.tex",
+  "relative_path": "processed/latex/cross-engine/ctan__ctan-beamer-beamerexample-texpower/beamerexample-texpower.tex",
+  "sha256": "0d6107262e0c4889960137425f36a60823b5f03e414180addea7ba646844edf9",
+  "size_bytes": 10230,
+  "document_class": "seminar",
+  "uses_packages": [
+    "beamerseminar",
+    "beamertexpower",
+    "beamerthemeshadow",
+    "fixseminar",
+    "texpower"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 4942,
+  "downloaded_at": "2026-08-02T13:04:46.042Z",
+  "filtered_at": "2026-08-02T17:34:42.205Z"
+}

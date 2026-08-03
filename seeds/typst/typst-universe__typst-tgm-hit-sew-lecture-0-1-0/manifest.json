@@ -1,0 +1,23 @@
+{
+  "id": "typst-universe/typst-tgm-hit-sew-lecture-0-1-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "business",
+  "license": "MIT",
+  "source_url": "https://github.com/TGM-HIT/typst-sew-lecture",
+  "original_author": "Clemens Koza",
+  "package_name": "tgm-hit-sew-lecture",
+  "package_version": "0.1.0",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/typst-universe/typst-tgm-hit-sew-lecture-0-1-0/main.typ",
+  "relative_path": "raw/typst-universe/typst-tgm-hit-sew-lecture-0-1-0/main.typ",
+  "main_doc": "main.typ",
+  "sha256": "d395244a170d68fb75a9f2c2ec1010447faac8d06bd85e421141a5b37b6252c5",
+  "size_bytes": 9816,
+  "document_class": null,
+  "uses_packages": [],
+  "downloaded_at": "2026-08-02T13:13:44.052Z",
+  "categories": [
+    "office"
+  ],
+  "description": "Typst template for lecture documents (\"Skripten\"), focused on software engineering"
+}

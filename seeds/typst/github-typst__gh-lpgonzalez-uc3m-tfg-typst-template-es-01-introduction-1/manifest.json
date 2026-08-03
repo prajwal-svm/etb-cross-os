@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-lpgonzalez-uc3m-tfg-typst-template-es-01-introduction-1",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "misc",
+  "license": "MIT",
+  "source_url": "https://github.com/lpgonzalez/uc3m_tfg_typst_template_es",
+  "original_author": "lpgonzalez",
+  "stars": 2,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-lpgonzalez-uc3m-tfg-typst-template-es-01-introduction-1/01_introduction.typ",
+  "relative_path": "raw/github-typst/gh-lpgonzalez-uc3m-tfg-typst-template-es-01-introduction-1/01_introduction.typ",
+  "main_doc": "01_introduction.typ",
+  "sha256": "d97d0106e195756bc26ae18014f7849dd2277fc091e3da02ef2a8181ae009cd9",
+  "size_bytes": 342,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "chapters/01_introduction.typ",
+  "downloaded_at": "2026-08-02T14:10:14.258Z"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "template-packs/literature-review",
+  "source": "template-packs",
+  "format": "latex",
+  "category": "report",
+  "category_raw": "Theses & Reports",
+  "license": "CC0-1.0",
+  "source_url": "https://github.com/Oleafly/template-packs",
+  "original_author": "Oleafly",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/template-packs/literature-review/main.tex",
+  "relative_path": "raw/template-packs/literature-review/main.tex",
+  "main_doc": "main.tex",
+  "sha256": "8334c964606ab3fcf35465a2e921b45cd80050b98a61b2c30725da2f4cf114ad",
+  "size_bytes": 2853,
+  "document_class": "article",
+  "uses_packages": [
+    "booktabs",
+    "geometry",
+    "hyperref",
+    "tabularx",
+    "titlesec",
+    "xcolor"
+  ],
+  "engine_hint": "xetex",
+  "downloaded_at": "2026-08-02T13:05:15.748Z"
+}

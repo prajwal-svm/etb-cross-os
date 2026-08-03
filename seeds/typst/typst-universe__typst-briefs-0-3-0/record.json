@@ -1,0 +1,26 @@
+{
+  "id": "typst-universe/typst-briefs-0-3-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "business",
+  "license": "MIT",
+  "source_url": "https://github.com/tndrle/briefs",
+  "original_author": "Tobias Enderle",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/typst-universe__typst-briefs-0-3-0/main.typ",
+  "relative_path": "processed/typst/typst-universe__typst-briefs-0-3-0/main.typ",
+  "sha256": "c636857a05d983b021bda3d9ccad057f6f701249cd0e79d47b93d6106797836e",
+  "size_bytes": 682,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 250,
+  "downloaded_at": "2026-08-02T13:06:20.149Z",
+  "filtered_at": "2026-08-02T17:34:43.660Z"
+}

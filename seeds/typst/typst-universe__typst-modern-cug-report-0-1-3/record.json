@@ -1,0 +1,26 @@
+{
+  "id": "typst-universe/typst-modern-cug-report-0-1-3",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "report",
+  "license": "MIT",
+  "source_url": "https://github.com/CUG-hydro/modern-cug-report.typ",
+  "original_author": "Dongdong Kong",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/typst-universe__typst-modern-cug-report-0-1-3/main.typ",
+  "relative_path": "processed/typst/typst-universe__typst-modern-cug-report-0-1-3/main.typ",
+  "sha256": "21bd2acbb3006e43768ee02196d6623ab1635cd756551f53d040c023b496ebb9",
+  "size_bytes": 1969,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 508,
+  "downloaded_at": "2026-08-02T13:10:39.706Z",
+  "filtered_at": "2026-08-02T17:34:44.000Z"
+}

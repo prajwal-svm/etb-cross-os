@@ -1,0 +1,23 @@
+{
+  "id": "typst-universe/typst-coquille-st-jacques-0-1-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "report",
+  "license": "Apache-2.0",
+  "source_url": "https://github.com/dmetzler/un-cours-avec-l-ia",
+  "original_author": "Damien Metzler",
+  "package_name": "coquille-st-jacques",
+  "package_version": "0.1.0",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/typst-universe/typst-coquille-st-jacques-0-1-0/main.typ",
+  "relative_path": "raw/typst-universe/typst-coquille-st-jacques-0-1-0/main.typ",
+  "main_doc": "main.typ",
+  "sha256": "c63036fe14c81796b1ce85bb94ca05d34554b09673412593d5b07c4b9fcdc0e4",
+  "size_bytes": 1740,
+  "document_class": null,
+  "uses_packages": [],
+  "downloaded_at": "2026-08-02T13:07:28.523Z",
+  "categories": [
+    "report"
+  ],
+  "description": "Illustrated course handout for French school teachers of St Jacque Hazebrouck Institution."
+}

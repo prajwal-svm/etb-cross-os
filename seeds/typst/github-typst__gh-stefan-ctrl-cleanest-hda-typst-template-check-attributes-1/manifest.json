@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-stefan-ctrl-cleanest-hda-typst-template-check-attributes-1",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "misc",
+  "license": "MIT",
+  "source_url": "https://github.com/stefan-ctrl/cleanest-hda-typst-template",
+  "original_author": "stefan-ctrl",
+  "stars": 2,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-stefan-ctrl-cleanest-hda-typst-template-check-attributes-1/check-attributes.typ",
+  "relative_path": "raw/github-typst/gh-stefan-ctrl-cleanest-hda-typst-template-check-attributes-1/check-attributes.typ",
+  "main_doc": "check-attributes.typ",
+  "sha256": "995e52a0d26fe9303e1ceb17271d0c020f062eb1059469fb2603f8da3dc338b3",
+  "size_bytes": 8148,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "check-attributes.typ",
+  "downloaded_at": "2026-08-02T14:09:37.870Z"
+}

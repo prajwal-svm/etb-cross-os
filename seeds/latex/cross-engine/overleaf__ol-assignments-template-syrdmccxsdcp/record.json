@@ -1,0 +1,30 @@
+{
+  "id": "overleaf/ol-assignments-template-syrdmccxsdcp",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "coursework",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/assignments-template/syrdmccxsdcp",
+  "original_author": "Gandharv",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/overleaf__ol-assignments-template-syrdmccxsdcp/main.tex",
+  "relative_path": "processed/latex/cross-engine/overleaf__ol-assignments-template-syrdmccxsdcp/main.tex",
+  "sha256": "1b040959152fd65cdaa52fe51f5fb1d42157a1a7712ecaa5de2ad671178a5b15",
+  "size_bytes": 1379,
+  "document_class": "exam",
+  "uses_packages": [
+    "amsmath",
+    "amssymb",
+    "geometry"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 240,
+  "downloaded_at": "2026-08-02T14:41:16.453Z",
+  "filtered_at": "2026-08-02T17:34:40.949Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-yalap13-report-typst-report",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "report",
+  "license": "MIT",
+  "source_url": "https://github.com/yalap13/report-typst",
+  "original_author": "yalap13",
+  "stars": 0,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-yalap13-report-typst-report/report.typ",
+  "relative_path": "raw/github-typst/gh-yalap13-report-typst-report/report.typ",
+  "main_doc": "report.typ",
+  "sha256": "7f003f3073a287ca3c41b45012cb4c93c5e975f2c407f7795bdd9798c3cadd16",
+  "size_bytes": 9345,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "report.typ",
+  "downloaded_at": "2026-08-02T14:20:55.981Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "github-latex/gh-fatih-ml-iku-thesis-template-latex-example-diagram-1",
+  "source": "github-latex",
+  "format": "latex",
+  "category": "thesis",
+  "license": "MIT",
+  "source_url": "https://github.com/fatih-ml/iku-thesis-template-latex",
+  "original_author": "fatih-ml",
+  "stars": 0,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-latex/gh-fatih-ml-iku-thesis-template-latex-example-diagram-1/example-diagram.tex",
+  "relative_path": "raw/github-latex/gh-fatih-ml-iku-thesis-template-latex-example-diagram-1/example-diagram.tex",
+  "main_doc": "example-diagram.tex",
+  "sha256": "37738e3ab5f7612ba377020eb61f5dc520f8f4d4ca1328b4bd18f28675654f33",
+  "size_bytes": 663,
+  "document_class": "standalone",
+  "uses_packages": [],
+  "repo_path": "figures/example-diagram.tex",
+  "downloaded_at": "2026-08-02T13:54:00.302Z"
+}

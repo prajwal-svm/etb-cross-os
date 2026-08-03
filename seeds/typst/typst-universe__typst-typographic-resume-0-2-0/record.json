@@ -1,0 +1,26 @@
+{
+  "id": "typst-universe/typst-typographic-resume-0-2-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "cv",
+  "license": "MIT",
+  "source_url": "https://github.com/tsnobip/typst-typographic-resume",
+  "original_author": "tsnobip",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/typst-universe__typst-typographic-resume-0-2-0/main.typ",
+  "relative_path": "processed/typst/typst-universe__typst-typographic-resume-0-2-0/main.typ",
+  "sha256": "805c8f4d121bcb9e82bd7ca55746bc738a657ead07f0914b4f1f865d6c3a9f32",
+  "size_bytes": 6686,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 243,
+  "downloaded_at": "2026-08-02T13:14:45.166Z",
+  "filtered_at": "2026-08-02T17:34:44.324Z"
+}

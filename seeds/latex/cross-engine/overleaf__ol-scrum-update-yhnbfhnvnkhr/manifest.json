@@ -1,0 +1,29 @@
+{
+  "id": "overleaf/ol-scrum-update-yhnbfhnvnkhr",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "misc",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/scrum-update/yhnbfhnvnkhr",
+  "original_author": "Steven Black",
+  "title": "Scrum Update",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/overleaf/ol-scrum-update-yhnbfhnvnkhr/main.tex",
+  "relative_path": "raw/overleaf/ol-scrum-update-yhnbfhnvnkhr/main.tex",
+  "main_doc": "main.tex",
+  "sha256": "2c491aba7b9101deb1dbc7e3059abc2bba16d5346ef313ef6e295082629ac944",
+  "size_bytes": 3447,
+  "document_class": "article",
+  "uses_packages": [
+    "amsfonts",
+    "amssymb",
+    "changepage",
+    "comment",
+    "enumitem",
+    "fancyhdr",
+    "graphicx",
+    "times"
+  ],
+  "download_method": "view-source-modal",
+  "github_url": null,
+  "downloaded_at": "2026-08-02T14:39:08.422Z"
+}

@@ -1,0 +1,36 @@
+{
+  "id": "overleaf/ol-niser-phd-annual-progress-report-niser-template-yxmxgkdzvqtj",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "thesis",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/niser-phd-annual-progress-report-niser-template/yxmxgkdzvqtj",
+  "original_author": "Subhankar Mishra and Rucha Bhalchandra Joshi",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/overleaf__ol-niser-phd-annual-progress-report-niser-template-yxmxgkdzvqtj/main.tex",
+  "relative_path": "processed/latex/cross-engine/overleaf__ol-niser-phd-annual-progress-report-niser-template-yxmxgkdzvqtj/main.tex",
+  "sha256": "a125768890f748f099055cfbf169961795b377412ea9ef309aa83b0434275deb",
+  "size_bytes": 6297,
+  "document_class": "article",
+  "uses_packages": [
+    "amsmath",
+    "cite",
+    "geometry",
+    "graphicx",
+    "hyperref",
+    "libertine",
+    "mathpazo",
+    "natbib",
+    "tabularx"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 957,
+  "downloaded_at": "2026-08-02T14:18:49.180Z",
+  "filtered_at": "2026-08-02T17:34:41.539Z"
+}

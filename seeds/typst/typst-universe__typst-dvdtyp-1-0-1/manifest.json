@@ -1,0 +1,25 @@
+{
+  "id": "typst-universe/typst-dvdtyp-1-0-1",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "misc",
+  "license": "MIT-0",
+  "source_url": "https://github.com/DVDTSB/dvdtyp",
+  "original_author": "DVDTSB",
+  "package_name": "dvdtyp",
+  "package_version": "1.0.1",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/typst-universe/typst-dvdtyp-1-0-1/main.typ",
+  "relative_path": "raw/typst-universe/typst-dvdtyp-1-0-1/main.typ",
+  "main_doc": "main.typ",
+  "sha256": "9255d1ac07607f034ad10469e952ac3e8f8ef3de4193fa8094a47671bc6bb5c4",
+  "size_bytes": 1372,
+  "document_class": null,
+  "uses_packages": [],
+  "downloaded_at": "2026-08-02T13:07:51.087Z",
+  "categories": [
+    "fun",
+    "layout",
+    "text"
+  ],
+  "description": "a colorful template for writting handouts or notes"
+}

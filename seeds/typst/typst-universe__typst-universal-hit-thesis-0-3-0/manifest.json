@@ -1,0 +1,23 @@
+{
+  "id": "typst-universe/typst-universal-hit-thesis-0-3-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "thesis",
+  "license": "MIT",
+  "source_url": "https://github.com/hitszosa/universal-hit-thesis",
+  "original_author": "CHOSER Tech",
+  "package_name": "universal-hit-thesis",
+  "package_version": "0.3.0",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/typst-universe/typst-universal-hit-thesis-0-3-0/universal-bachelor.typ",
+  "relative_path": "raw/typst-universe/typst-universal-hit-thesis-0-3-0/universal-bachelor.typ",
+  "main_doc": "universal-bachelor.typ",
+  "sha256": "90f7ad99b3ba532e0edc623121cad9a08930e67c68572aca7e5d7346183e6d52",
+  "size_bytes": 18924,
+  "document_class": null,
+  "uses_packages": [],
+  "downloaded_at": "2026-08-02T13:15:03.964Z",
+  "categories": [
+    "thesis"
+  ],
+  "description": "哈尔滨工业大学学位论文模板 | Universal Harbin Institute of Technology Thesis"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "overleaf/ol-polar-data-journal-template-gvzknyfsqjxj",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "venue",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/polar-data-journal-template/gvzknyfsqjxj",
+  "original_author": "Yasuyuki Minamiyama",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/overleaf__ol-polar-data-journal-template-gvzknyfsqjxj/main.tex",
+  "relative_path": "processed/latex/cross-engine/overleaf__ol-polar-data-journal-template-gvzknyfsqjxj/main.tex",
+  "sha256": "b9832088839cede814a0c1a38db344d30c051664af625eec55e4620dbdb4a878",
+  "size_bytes": 7113,
+  "document_class": "article",
+  "uses_packages": [
+    "amsmath",
+    "babel",
+    "fancyhdr",
+    "fontenc",
+    "graphicx",
+    "inputenc"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 302,
+  "downloaded_at": "2026-08-02T14:38:57.513Z",
+  "filtered_at": "2026-08-02T17:34:41.653Z"
+}

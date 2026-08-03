@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-j-vaught-typst-uofsc-thesis-template-helpers",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "thesis",
+  "license": "MIT",
+  "source_url": "https://github.com/j-vaught/Typst_uofsc_thesis_template",
+  "original_author": "j-vaught",
+  "stars": 0,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-j-vaught-typst-uofsc-thesis-template-helpers/helpers.typ",
+  "relative_path": "raw/github-typst/gh-j-vaught-typst-uofsc-thesis-template-helpers/helpers.typ",
+  "main_doc": "helpers.typ",
+  "sha256": "fbf05d19cd998a2c9352fe759daa30316bd9fcfee949bb054afd2396c7c3d028",
+  "size_bytes": 7157,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "src/helpers.typ",
+  "downloaded_at": "2026-08-02T14:16:20.076Z"
+}

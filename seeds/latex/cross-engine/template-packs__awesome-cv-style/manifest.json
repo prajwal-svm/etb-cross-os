@@ -1,0 +1,24 @@
+{
+  "id": "template-packs/awesome-cv-style",
+  "source": "template-packs",
+  "format": "latex",
+  "category": "cv",
+  "category_raw": "CVs & Resumes",
+  "license": "CC0-1.0",
+  "source_url": "https://github.com/Oleafly/template-packs",
+  "original_author": "Oleafly",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/template-packs/awesome-cv-style/main.tex",
+  "relative_path": "raw/template-packs/awesome-cv-style/main.tex",
+  "main_doc": "main.tex",
+  "sha256": "32eff23a8349fc48134d21bf07a663f3efb6495022084a5b4d8a6e96f673db22",
+  "size_bytes": 2110,
+  "document_class": "article",
+  "uses_packages": [
+    "enumitem",
+    "geometry",
+    "hyperref",
+    "xcolor"
+  ],
+  "engine_hint": "xetex",
+  "downloaded_at": "2026-08-02T13:05:15.841Z"
+}

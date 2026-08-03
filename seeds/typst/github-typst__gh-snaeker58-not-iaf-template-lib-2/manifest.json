@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-snaeker58-not-iaf-template-lib-2",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "beamer",
+  "license": "MIT",
+  "source_url": "https://github.com/snaeker58/Not-IAF-Template",
+  "original_author": "snaeker58",
+  "stars": 1,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-snaeker58-not-iaf-template-lib-2/lib.typ",
+  "relative_path": "raw/github-typst/gh-snaeker58-not-iaf-template-lib-2/lib.typ",
+  "main_doc": "lib.typ",
+  "sha256": "5f8ba3de521d91885324a6e88287f8fe76871ea1c10e819f24cda8e41e4eba89",
+  "size_bytes": 16637,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "lib.typ",
+  "downloaded_at": "2026-08-02T14:12:24.603Z"
+}

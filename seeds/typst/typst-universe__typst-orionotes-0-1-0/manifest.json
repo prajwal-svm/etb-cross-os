@@ -1,0 +1,24 @@
+{
+  "id": "typst-universe/typst-orionotes-0-1-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "book",
+  "license": "MIT",
+  "source_url": "https://github.com/andrea-orione/orionotes",
+  "original_author": "Andrea Orione",
+  "package_name": "orionotes",
+  "package_version": "0.1.0",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/typst-universe/typst-orionotes-0-1-0/main.typ",
+  "relative_path": "raw/typst-universe/typst-orionotes-0-1-0/main.typ",
+  "main_doc": "main.typ",
+  "sha256": "8ad87efab7c67e8b1d7874952219732fc7799416ea81521b09028d1890fd76db",
+  "size_bytes": 558,
+  "document_class": null,
+  "uses_packages": [],
+  "downloaded_at": "2026-08-02T13:11:50.672Z",
+  "categories": [
+    "book",
+    "report"
+  ],
+  "description": "Take book like notes of entire university courses."
+}

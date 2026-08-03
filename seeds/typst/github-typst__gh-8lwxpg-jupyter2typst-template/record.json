@@ -1,0 +1,26 @@
+{
+  "id": "github-typst/gh-8lwxpg-jupyter2typst-template",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "misc",
+  "license": "MIT",
+  "source_url": "https://github.com/8LWXpg/jupyter2typst",
+  "original_author": "8LWXpg",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/github-typst__gh-8lwxpg-jupyter2typst-template/template.typ",
+  "relative_path": "processed/typst/github-typst__gh-8lwxpg-jupyter2typst-template/template.typ",
+  "sha256": "4c907daefe119494e38f0431b74464af6fc0a40a9fbd6ddf825c0ca97614e8cc",
+  "size_bytes": 1165,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 10,
+  "downloaded_at": "2026-08-02T14:05:01.550Z",
+  "filtered_at": "2026-08-02T17:34:44.434Z"
+}

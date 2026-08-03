@@ -1,0 +1,20 @@
+{
+  "id": "overleaf/ol-poznan-reasoning-week-2016-abstract-template-tkgzypgqbymv",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "misc",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/poznan-reasoning-week-2016-abstract-template/tkgzypgqbymv",
+  "original_author": "PRW2016",
+  "title": "Poznan Reasoning Week 2016 abstract template",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/overleaf/ol-poznan-reasoning-week-2016-abstract-template-tkgzypgqbymv/main.tex",
+  "relative_path": "raw/overleaf/ol-poznan-reasoning-week-2016-abstract-template-tkgzypgqbymv/main.tex",
+  "main_doc": "main.tex",
+  "sha256": "29b0c17c5014c40cce7b0f5dba0c70e37233cab1853a3c11b9a911847192964f",
+  "size_bytes": 2413,
+  "document_class": "llncs",
+  "uses_packages": [],
+  "download_method": "view-source-modal",
+  "github_url": null,
+  "downloaded_at": "2026-08-02T14:55:43.123Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-shun-shobon-typst-oreilly-template-book-1",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "book",
+  "license": "MIT",
+  "source_url": "https://github.com/shun-shobon/typst-oreilly-template",
+  "original_author": "shun-shobon",
+  "stars": 121,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-shun-shobon-typst-oreilly-template-book-1/book.typ",
+  "relative_path": "raw/github-typst/gh-shun-shobon-typst-oreilly-template-book-1/book.typ",
+  "main_doc": "book.typ",
+  "sha256": "96ce03211c3a045d07e60de8dda7e77e23d8634fefbfdffad868b88008d06743",
+  "size_bytes": 9337,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "book.typ",
+  "downloaded_at": "2026-08-02T14:03:25.642Z"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "typst-universe/typst-touying-aqua-0-7-4",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "beamer",
+  "license": "MIT",
+  "source_url": "https://github.com/touying-typ/touying",
+  "original_author": "OrangeX4",
+  "package_name": "touying-aqua",
+  "package_version": "0.7.4",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/typst-universe/typst-touying-aqua-0-7-4/main.typ",
+  "relative_path": "raw/typst-universe/typst-touying-aqua-0-7-4/main.typ",
+  "main_doc": "main.typ",
+  "sha256": "fec6382d76425a84fdd0636e1bb74cb9ea24e8cbc9735fc543c87e04d9523f23",
+  "size_bytes": 363,
+  "document_class": null,
+  "uses_packages": [],
+  "downloaded_at": "2026-08-02T13:13:59.137Z",
+  "categories": [
+    "presentation"
+  ],
+  "description": "Aqua theme in Touying - a powerful package for creating presentation slides."
+}

@@ -1,0 +1,25 @@
+{
+  "id": "github-latex/gh-iamdatamatt-trombley-latex-code-statics-dynamics-equation-sheet-2",
+  "source": "github-latex",
+  "format": "latex",
+  "category": "misc",
+  "license": "MIT",
+  "source_url": "https://github.com/iamdatamatt/trombley-latex-code",
+  "original_author": "iamdatamatt",
+  "stars": 7,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-latex/gh-iamdatamatt-trombley-latex-code-statics-dynamics-equation-sheet-2/Statics & Dynamics Equation Sheet.tex",
+  "relative_path": "raw/github-latex/gh-iamdatamatt-trombley-latex-code-statics-dynamics-equation-sheet-2/Statics & Dynamics Equation Sheet.tex",
+  "main_doc": "Statics & Dynamics Equation Sheet.tex",
+  "sha256": "aa9ac852fa2d6963ce0e9dc5e9ad22459fab17d07c97058718ca68a60dd8ad91",
+  "size_bytes": 14784,
+  "document_class": null,
+  "uses_packages": [
+    "MnSymbol",
+    "amsmath",
+    "enumitem",
+    "graphicx",
+    "multicol"
+  ],
+  "repo_path": "Statics & Dynamics/Statics & Dynamics Equation Sheet.tex",
+  "downloaded_at": "2026-08-02T13:23:33.428Z"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "github-latex/gh-vhsconnect-letter-template-letter",
+  "source": "github-latex",
+  "format": "latex",
+  "category": "letter",
+  "license": "MIT",
+  "source_url": "https://github.com/vhsconnect/letter-template",
+  "original_author": "vhsconnect",
+  "stars": 0,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-latex/gh-vhsconnect-letter-template-letter/letter.tex",
+  "relative_path": "raw/github-latex/gh-vhsconnect-letter-template-letter/letter.tex",
+  "main_doc": "letter.tex",
+  "sha256": "d26da1020caaf5767688e1baa8cfe44676c4295c77d3130caa0ff542512be36f",
+  "size_bytes": 3270,
+  "document_class": "letter",
+  "uses_packages": [
+    "fontenc",
+    "geometry",
+    "helvet",
+    "inputenc"
+  ],
+  "repo_path": "letter.tex",
+  "downloaded_at": "2026-08-02T14:00:29.153Z"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "github-latex/gh-samrizk-professional-cv-latex-cv",
+  "source": "github-latex",
+  "format": "latex",
+  "category": "cv",
+  "license": "MIT",
+  "source_url": "https://github.com/SamRizk/Professional-CV-LaTeX",
+  "original_author": "SamRizk",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/github-latex__gh-samrizk-professional-cv-latex-cv/CV.tex",
+  "relative_path": "processed/latex/cross-engine/github-latex__gh-samrizk-professional-cv-latex-cv/CV.tex",
+  "sha256": "85d459325e96e8c96fee313f18b381427cea1fe016d75600f674686cc932470a",
+  "size_bytes": 4794,
+  "document_class": "article",
+  "uses_packages": [
+    "color",
+    "enumitem",
+    "fontawesome5",
+    "geometry",
+    "graphicx",
+    "hyperref",
+    "titlesec",
+    "xcolor"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 1224,
+  "downloaded_at": "2026-08-02T13:32:16.801Z",
+  "filtered_at": "2026-08-02T17:34:43.323Z"
+}

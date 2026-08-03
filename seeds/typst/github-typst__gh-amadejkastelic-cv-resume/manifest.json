@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-amadejkastelic-cv-resume",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "cv",
+  "license": "MIT",
+  "source_url": "https://github.com/amadejkastelic/cv",
+  "original_author": "amadejkastelic",
+  "stars": 1,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-amadejkastelic-cv-resume/resume.typ",
+  "relative_path": "raw/github-typst/gh-amadejkastelic-cv-resume/resume.typ",
+  "main_doc": "resume.typ",
+  "sha256": "d18a4d7629ef343f56b4377326d5f30f3c780a008d4418859c28cc21b9db8e97",
+  "size_bytes": 3504,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "resume.typ",
+  "downloaded_at": "2026-08-02T14:13:42.053Z"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "typst-universe/typst-cv-soft-and-hard-0-1-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "cv",
+  "license": "MIT",
+  "source_url": "https://github.com/jonaspleyer/cv-soft-and-hard",
+  "original_author": "Jonas Pleyer",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/typst-universe__typst-cv-soft-and-hard-0-1-0/main.typ",
+  "relative_path": "processed/typst/typst-universe__typst-cv-soft-and-hard-0-1-0/main.typ",
+  "sha256": "4f762cced69c22681504b9d4130bc4cbb613b3d923db972d95e9991fe0ca6474",
+  "size_bytes": 7360,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 273,
+  "downloaded_at": "2026-08-02T13:07:33.618Z",
+  "filtered_at": "2026-08-02T17:34:43.765Z"
+}

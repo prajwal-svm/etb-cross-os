@@ -1,0 +1,33 @@
+{
+  "id": "overleaf/ol-mfsr-grundskabelon-mttdhfhktbdq",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "misc",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/mfsr-grundskabelon/mttdhfhktbdq",
+  "original_author": "Jakob Lysgaard Rørsted",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/overleaf__ol-mfsr-grundskabelon-mttdhfhktbdq/main.tex",
+  "relative_path": "processed/latex/cross-engine/overleaf__ol-mfsr-grundskabelon-mttdhfhktbdq/main.tex",
+  "sha256": "1ab1e9b030e45c051d7edc11b6fc1e0366a9395d7b764a2538f877eeafb5a313",
+  "size_bytes": 795,
+  "document_class": "memoir",
+  "uses_packages": [
+    "amsmath",
+    "babel",
+    "fontenc",
+    "graphicx",
+    "inputenc",
+    "microtype"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 446,
+  "downloaded_at": "2026-08-02T14:39:58.856Z",
+  "filtered_at": "2026-08-02T17:34:41.406Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "github-latex/gh-zrobotics-latex-homework-template-homework",
+  "source": "github-latex",
+  "format": "latex",
+  "category": "coursework",
+  "license": "MIT",
+  "source_url": "https://github.com/zrobotics/LaTeX_Homework_Template",
+  "original_author": "zrobotics",
+  "stars": 0,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-latex/gh-zrobotics-latex-homework-template-homework/homework.tex",
+  "relative_path": "raw/github-latex/gh-zrobotics-latex-homework-template-homework/homework.tex",
+  "main_doc": "homework.tex",
+  "sha256": "611439bf9d2cc9ec64140c8fbfec851cd5234a9d9c097a1605f464b6fc147ccc",
+  "size_bytes": 2729,
+  "document_class": "article",
+  "uses_packages": [
+    "amsfonts",
+    "amsmath",
+    "amsthm",
+    "extramarks",
+    "fancyhdr",
+    "indentfirst",
+    "tikz"
+  ],
+  "repo_path": "homework.tex",
+  "downloaded_at": "2026-08-02T13:49:00.016Z"
+}

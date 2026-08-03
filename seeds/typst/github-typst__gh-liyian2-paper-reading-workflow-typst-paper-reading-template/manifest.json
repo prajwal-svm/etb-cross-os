@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-liyian2-paper-reading-workflow-typst-paper-reading-template",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "venue",
+  "license": "MIT",
+  "source_url": "https://github.com/LiYian2/paper-reading-workflow-typst",
+  "original_author": "LiYian2",
+  "stars": 0,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-liyian2-paper-reading-workflow-typst-paper-reading-template/paper_reading_template.typ",
+  "relative_path": "raw/github-typst/gh-liyian2-paper-reading-workflow-typst-paper-reading-template/paper_reading_template.typ",
+  "main_doc": "paper_reading_template.typ",
+  "sha256": "42a3bb7b7ae80492a7909c51b1ef55b5faf09079b52b50f82b90877a179c3adf",
+  "size_bytes": 1707,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "assets/paper_reading_template.typ",
+  "downloaded_at": "2026-08-02T14:21:15.271Z"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "overleaf/ol-flag-of-chile-fzvsgzkwstsk",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "misc",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/flag-of-chile/fzvsgzkwstsk",
+  "original_author": "Senan Sekhon",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/overleaf__ol-flag-of-chile-fzvsgzkwstsk/main.tex",
+  "relative_path": "processed/latex/cross-engine/overleaf__ol-flag-of-chile-fzvsgzkwstsk/main.tex",
+  "sha256": "2c0bc7e47ca254c99a1647dcb055ed4ac04e83c0376bdf16c92f8956cd66d01c",
+  "size_bytes": 1615,
+  "document_class": "article",
+  "uses_packages": [
+    "geometry",
+    "tikz",
+    "xcolor"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 359,
+  "downloaded_at": "2026-08-02T13:44:32.167Z",
+  "filtered_at": "2026-08-02T17:34:41.161Z"
+}

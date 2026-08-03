@@ -1,0 +1,26 @@
+{
+  "id": "typst-universe/typst-modern-pku-thesis-0-2-3",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "thesis",
+  "license": "MIT",
+  "source_url": "https://github.com/pku-typst/pkuthss-typst",
+  "original_author": "Gabriel Wu",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/typst-universe__typst-modern-pku-thesis-0-2-3/main.typ",
+  "relative_path": "processed/typst/typst-universe__typst-modern-pku-thesis-0-2-3/main.typ",
+  "sha256": "5e75ccf098e117062a9f7dc771e21606efd73b1e7b11d263d627765622ec13e0",
+  "size_bytes": 2877,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 468,
+  "downloaded_at": "2026-08-02T13:10:53.526Z",
+  "filtered_at": "2026-08-02T17:34:44.011Z"
+}

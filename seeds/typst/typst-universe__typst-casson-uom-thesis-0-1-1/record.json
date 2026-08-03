@@ -1,0 +1,26 @@
+{
+  "id": "typst-universe/typst-casson-uom-thesis-0-1-1",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "thesis",
+  "license": "MIT-0",
+  "source_url": "https://github.com/ALEX-CASSON-LAB/uom_phd_thesis_typst_template",
+  "original_author": "Alex Casson",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/typst-universe__typst-casson-uom-thesis-0-1-1/main.typ",
+  "relative_path": "processed/typst/typst-universe__typst-casson-uom-thesis-0-1-1/main.typ",
+  "sha256": "3ebbd31acf08f5637639f1bac79fa7031834aa4e3fe185c7f06d89f64fde271e",
+  "size_bytes": 7927,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 309,
+  "downloaded_at": "2026-08-02T13:06:30.446Z",
+  "filtered_at": "2026-08-02T17:34:43.678Z"
+}

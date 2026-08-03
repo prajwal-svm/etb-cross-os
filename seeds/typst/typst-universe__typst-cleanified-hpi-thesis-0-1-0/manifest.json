@@ -1,0 +1,23 @@
+{
+  "id": "typst-universe/typst-cleanified-hpi-thesis-0-1-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "thesis",
+  "license": "MIT",
+  "source_url": "https://github.com/felixhoffmnn/hpi-thesis-template",
+  "original_author": "Robert Richter",
+  "package_name": "cleanified-hpi-thesis",
+  "package_version": "0.1.0",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/typst-universe/typst-cleanified-hpi-thesis-0-1-0/main.typ",
+  "relative_path": "raw/typst-universe/typst-cleanified-hpi-thesis-0-1-0/main.typ",
+  "main_doc": "main.typ",
+  "sha256": "ee8889915ac2cdb6b7aecf6292f0b46a2002ec75003aa3d049c1a43d9debaf24",
+  "size_bytes": 1337,
+  "document_class": null,
+  "uses_packages": [],
+  "downloaded_at": "2026-08-02T13:07:09.511Z",
+  "categories": [
+    "thesis"
+  ],
+  "description": "A clean thesis template for Bachelor's and Master's theses at HPI, University of Potsdam."
+}

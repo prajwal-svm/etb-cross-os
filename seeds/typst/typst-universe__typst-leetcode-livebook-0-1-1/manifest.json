@@ -1,0 +1,24 @@
+{
+  "id": "typst-universe/typst-leetcode-livebook-0-1-1",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "book",
+  "license": "MIT",
+  "source_url": "https://github.com/lucifer1004/leetcode.typ",
+  "original_author": "Gabriel Wu",
+  "package_name": "leetcode-livebook",
+  "package_version": "0.1.1",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/typst-universe/typst-leetcode-livebook-0-1-1/main.typ",
+  "relative_path": "raw/typst-universe/typst-leetcode-livebook-0-1-1/main.typ",
+  "main_doc": "main.typ",
+  "sha256": "1235b1fa83e1524e3c5177ddb82ae521a753aa979fc838bdd661a64c1c0ddb5d",
+  "size_bytes": 893,
+  "document_class": null,
+  "uses_packages": [],
+  "downloaded_at": "2026-08-02T13:09:56.467Z",
+  "categories": [
+    "utility",
+    "scripting"
+  ],
+  "description": "Practice LeetCode with built-in tests and visualizations."
+}

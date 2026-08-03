@@ -1,0 +1,43 @@
+{
+  "id": "overleaf/ol-lab-report-informe-de-laboratorio-spanish-jpgqstrpnvrp",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "report",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/lab-report-informe-de-laboratorio-spanish/jpgqstrpnvrp",
+  "original_author": "David Ramos",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/overleaf__ol-lab-report-informe-de-laboratorio-spanish-jpgqstrpnvrp/main.tex",
+  "relative_path": "processed/latex/cross-engine/overleaf__ol-lab-report-informe-de-laboratorio-spanish-jpgqstrpnvrp/main.tex",
+  "sha256": "17cb511368f417d495354a6f448f10f7f15b781b87466a508c04e68f5711e3ec",
+  "size_bytes": 3995,
+  "document_class": "article",
+  "uses_packages": [
+    "amsmath",
+    "anysize",
+    "babel",
+    "caption",
+    "float",
+    "gensymb",
+    "graphicx",
+    "hyperref",
+    "inputenc",
+    "lipsum",
+    "mathdesign",
+    "multicol",
+    "ragged2e",
+    "subcaption",
+    "textcomp",
+    "url"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 1967,
+  "downloaded_at": "2026-08-02T14:58:00.764Z",
+  "filtered_at": "2026-08-02T17:34:41.301Z"
+}

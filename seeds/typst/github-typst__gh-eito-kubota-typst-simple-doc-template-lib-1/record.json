@@ -1,0 +1,26 @@
+{
+  "id": "github-typst/gh-eito-kubota-typst-simple-doc-template-lib-1",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "misc",
+  "license": "MIT",
+  "source_url": "https://github.com/Eito-Kubota/typst_simple_doc_template",
+  "original_author": "Eito-Kubota",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/github-typst__gh-eito-kubota-typst-simple-doc-template-lib-1/lib.typ",
+  "relative_path": "processed/typst/github-typst__gh-eito-kubota-typst-simple-doc-template-lib-1/lib.typ",
+  "sha256": "5bb8364998cbe0291df0708a56648c4f59b1781b21dc9da200ead4f8ad07a42e",
+  "size_bytes": 716,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 8,
+  "downloaded_at": "2026-08-02T14:16:31.931Z",
+  "filtered_at": "2026-08-02T17:34:44.786Z"
+}

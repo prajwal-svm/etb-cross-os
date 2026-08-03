@@ -1,0 +1,26 @@
+{
+  "id": "overleaf/ol-coles-resume-template-qhpynjcvjpcj",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "cv",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/coles-resume-template/qhpynjcvjpcj",
+  "original_author": "Cole Miller",
+  "title": "Coles Resume Template!",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/overleaf/ol-coles-resume-template-qhpynjcvjpcj/main.tex",
+  "relative_path": "raw/overleaf/ol-coles-resume-template-qhpynjcvjpcj/main.tex",
+  "main_doc": "main.tex",
+  "sha256": "d3285797aaedd4809ea8a045477c3d8fac407468ff1a5d9ecb038135f7e5f6a3",
+  "size_bytes": 3589,
+  "document_class": "extarticle",
+  "uses_packages": [
+    "enumitem",
+    "geometry",
+    "hyperref",
+    "inputenc",
+    "titlesec"
+  ],
+  "download_method": "view-source-modal",
+  "github_url": null,
+  "downloaded_at": "2026-08-02T15:31:57.605Z"
+}

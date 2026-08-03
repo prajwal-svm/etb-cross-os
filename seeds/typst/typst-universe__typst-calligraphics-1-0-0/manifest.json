@@ -1,0 +1,23 @@
+{
+  "id": "typst-universe/typst-calligraphics-1-0-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "cv",
+  "license": "MIT",
+  "source_url": "https://github.com/Lieunoir/calligraphics",
+  "original_author": "Lieunoir",
+  "package_name": "calligraphics",
+  "package_version": "1.0.0",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/typst-universe/typst-calligraphics-1-0-0/resume.typ",
+  "relative_path": "raw/typst-universe/typst-calligraphics-1-0-0/resume.typ",
+  "main_doc": "resume.typ",
+  "sha256": "431a11c4b92ded60ca5b99e715a8724a2b12d8478dcff355c13802b764531198",
+  "size_bytes": 2368,
+  "document_class": null,
+  "uses_packages": [],
+  "downloaded_at": "2026-08-02T13:06:27.218Z",
+  "categories": [
+    "cv"
+  ],
+  "description": "A typst resume template fill with colorfull triangles."
+}

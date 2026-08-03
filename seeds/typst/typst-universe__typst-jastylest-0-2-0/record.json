@@ -1,0 +1,26 @@
+{
+  "id": "typst-universe/typst-jastylest-0-2-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "report",
+  "license": "MIT-0",
+  "source_url": "https://github.com/raygo0312/jastylest.git",
+  "original_author": "raygo",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/typst-universe__typst-jastylest-0-2-0/document.typ",
+  "relative_path": "processed/typst/typst-universe__typst-jastylest-0-2-0/document.typ",
+  "sha256": "b9f26eaabaf12d16195ac7976fd831dee53a02a916f951ef0619d61b163af042",
+  "size_bytes": 1717,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 349,
+  "downloaded_at": "2026-08-02T13:09:38.114Z",
+  "filtered_at": "2026-08-02T17:34:43.924Z"
+}

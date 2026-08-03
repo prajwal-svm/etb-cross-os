@@ -1,0 +1,28 @@
+{
+  "id": "ctan/ctan-datatool-sample-gidx",
+  "source": "ctan",
+  "format": "latex",
+  "category": "package-example",
+  "license": "LPPL-1.3c",
+  "source_url": "https://ctan.org/pkg/datatool",
+  "original_author": "CTAN package: datatool",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/ctan__ctan-datatool-sample-gidx/sample-gidx.tex",
+  "relative_path": "processed/latex/cross-engine/ctan__ctan-datatool-sample-gidx/sample-gidx.tex",
+  "sha256": "75523a817bbc133310dfeb5816e4675679df056b2594bff8498228eda011e1b9",
+  "size_bytes": 16592,
+  "document_class": "book",
+  "uses_packages": [
+    "hyperref"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 4774,
+  "downloaded_at": "2026-08-02T13:05:04.435Z",
+  "filtered_at": "2026-08-02T17:34:42.227Z"
+}

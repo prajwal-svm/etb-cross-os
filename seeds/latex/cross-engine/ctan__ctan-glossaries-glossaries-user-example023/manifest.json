@@ -1,0 +1,21 @@
+{
+  "id": "ctan/ctan-glossaries-glossaries-user-example023",
+  "source": "ctan",
+  "format": "latex",
+  "category": "coursework",
+  "license": "LPPL-1.3c",
+  "source_url": "https://ctan.org/pkg/glossaries",
+  "original_author": "CTAN package: glossaries",
+  "package": "glossaries",
+  "original_path": "/usr/local/texlive/2025/texmf-dist/doc/latex/glossaries/glossaries-user-examples/glossaries-user-example023.tex",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/ctan/ctan-glossaries-glossaries-user-example023/glossaries-user-example023.tex",
+  "relative_path": "raw/ctan/ctan-glossaries-glossaries-user-example023/glossaries-user-example023.tex",
+  "main_doc": "glossaries-user-example023.tex",
+  "sha256": "1f3c5c0f3ff68e4c3daf288afd0cb9d9ab193ec96c52bd7c5adfd5abce9798b5",
+  "size_bytes": 511,
+  "document_class": "article",
+  "uses_packages": [
+    "glossaries"
+  ],
+  "downloaded_at": "2026-08-02T13:04:56.460Z"
+}

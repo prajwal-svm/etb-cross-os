@@ -1,0 +1,33 @@
+{
+  "id": "github-latex/gh-daanknoope-latextemplates-paper",
+  "source": "github-latex",
+  "format": "latex",
+  "category": "venue",
+  "license": "Apache-2.0",
+  "source_url": "https://github.com/daanknoope/LatexTemplates",
+  "original_author": "daanknoope",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/github-latex__gh-daanknoope-latextemplates-paper/paper.tex",
+  "relative_path": "processed/latex/cross-engine/github-latex__gh-daanknoope-latextemplates-paper/paper.tex",
+  "sha256": "0c0050255496f1e15708f4eefc8676c999ee7f07d8acdcdf3ff104afe40949eb",
+  "size_bytes": 473,
+  "document_class": "article",
+  "uses_packages": [
+    "amsmath",
+    "babel",
+    "cite",
+    "inputenc",
+    "parskip",
+    "url"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 284,
+  "downloaded_at": "2026-08-02T13:43:12.921Z",
+  "filtered_at": "2026-08-02T17:34:42.614Z"
+}

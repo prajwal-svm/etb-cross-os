@@ -1,0 +1,36 @@
+{
+  "id": "github-latex/gh-utekinkaya-resume-resume",
+  "source": "github-latex",
+  "format": "latex",
+  "category": "cv",
+  "license": "MIT",
+  "source_url": "https://github.com/utekinkaya/resume",
+  "original_author": "utekinkaya",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/github-latex__gh-utekinkaya-resume-resume/resume.tex",
+  "relative_path": "processed/latex/cross-engine/github-latex__gh-utekinkaya-resume-resume/resume.tex",
+  "sha256": "760aee891b47fdab8e47f1d6dda4e01da58afe89511e29fd963e53fd1fa9709b",
+  "size_bytes": 6472,
+  "document_class": "article",
+  "uses_packages": [
+    "amsmath",
+    "amssymb",
+    "fancyhdr",
+    "fontawesome5",
+    "fullpage",
+    "geometry",
+    "graphicx",
+    "hyperref",
+    "tcolorbox"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 1634,
+  "downloaded_at": "2026-08-02T13:39:07.827Z",
+  "filtered_at": "2026-08-02T17:34:43.518Z"
+}

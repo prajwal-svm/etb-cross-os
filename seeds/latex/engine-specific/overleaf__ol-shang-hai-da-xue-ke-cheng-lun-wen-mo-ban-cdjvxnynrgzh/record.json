@@ -1,0 +1,34 @@
+{
+  "id": "overleaf/ol-shang-hai-da-xue-ke-cheng-lun-wen-mo-ban-cdjvxnynrgzh",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "misc",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/shang-hai-da-xue-ke-cheng-lun-wen-mo-ban/cdjvxnynrgzh",
+  "original_author": "Sheng Li",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/engine-specific/overleaf__ol-shang-hai-da-xue-ke-cheng-lun-wen-mo-ban-cdjvxnynrgzh/课程笔记.tex",
+  "relative_path": "processed/latex/engine-specific/overleaf__ol-shang-hai-da-xue-ke-cheng-lun-wen-mo-ban-cdjvxnynrgzh/课程笔记.tex",
+  "sha256": "25dc066c1cb451e86f5b7df7a0ed94eb68188dd74b00ff6aba229986d2148f28",
+  "size_bytes": 1057,
+  "document_class": "ctexbook",
+  "uses_packages": [
+    "amsmath",
+    "amssymb",
+    "amsthm",
+    "bm",
+    "graphicx",
+    "hyperref",
+    "mathrsfs"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": false,
+    "xelatex": true,
+    "lualatex": false,
+    "typst": false
+  },
+  "engine_class": "engine-specific",
+  "compile_time_ms": 2924,
+  "downloaded_at": "2026-08-02T15:15:41.484Z",
+  "filtered_at": "2026-08-02T17:34:41.817Z"
+}

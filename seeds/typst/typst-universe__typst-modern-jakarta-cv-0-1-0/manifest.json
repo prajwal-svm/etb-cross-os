@@ -1,0 +1,23 @@
+{
+  "id": "typst-universe/typst-modern-jakarta-cv-0-1-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "business",
+  "license": "MIT",
+  "source_url": "https://github.com/bulgogipedas/modern-jakarta-cv",
+  "original_author": "Rafli Ardiansyah",
+  "package_name": "modern-jakarta-cv",
+  "package_version": "0.1.0",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/typst-universe/typst-modern-jakarta-cv-0-1-0/main.typ",
+  "relative_path": "raw/typst-universe/typst-modern-jakarta-cv-0-1-0/main.typ",
+  "main_doc": "main.typ",
+  "sha256": "1869adc0d35c07927eaed0833c97f134fc0a69970e14a96485810eeb68898354",
+  "size_bytes": 4111,
+  "document_class": null,
+  "uses_packages": [],
+  "downloaded_at": "2026-08-02T13:10:48.314Z",
+  "categories": [
+    "office"
+  ],
+  "description": "A professional, ultra-tight CV template optimized for marketing and business roles."
+}

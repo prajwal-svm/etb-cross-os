@@ -1,0 +1,26 @@
+{
+  "id": "overleaf/ol-template-isced-huila-ymqkyprjjsky",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "misc",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/template-isced-huila/ymqkyprjjsky",
+  "original_author": "Luzolo Pedro",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/engine-specific/overleaf__ol-template-isced-huila-ymqkyprjjsky/main.tex",
+  "relative_path": "processed/latex/engine-specific/overleaf__ol-template-isced-huila-ymqkyprjjsky/main.tex",
+  "sha256": "2a9030ce3b7945c2af638f2092676e9db889126d2ad37779d0ed43d5add44d94",
+  "size_bytes": 1818,
+  "document_class": "abntex2",
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": false
+  },
+  "engine_class": "engine-specific",
+  "compile_time_ms": 1229,
+  "downloaded_at": "2026-08-02T15:59:28.316Z",
+  "filtered_at": "2026-08-02T17:34:41.933Z"
+}

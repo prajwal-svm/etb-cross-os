@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-rabidgremlin-opr-fan-templates-main",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "misc",
+  "license": "CC0-1.0",
+  "source_url": "https://github.com/rabidgremlin/opr-fan-templates",
+  "original_author": "rabidgremlin",
+  "stars": 0,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-rabidgremlin-opr-fan-templates-main/main.typ",
+  "relative_path": "raw/github-typst/gh-rabidgremlin-opr-fan-templates-main/main.typ",
+  "main_doc": "main.typ",
+  "sha256": "5ccf35684ec8b2a5edb4e05f73f289c2adb605ed9b19c74cf91bd6dff78a3d4d",
+  "size_bytes": 5410,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "gdf-2025/main.typ",
+  "downloaded_at": "2026-08-02T14:20:54.582Z"
+}

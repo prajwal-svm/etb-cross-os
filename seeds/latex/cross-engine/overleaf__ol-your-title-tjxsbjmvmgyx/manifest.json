@@ -1,0 +1,23 @@
+{
+  "id": "overleaf/ol-your-title-tjxsbjmvmgyx",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "misc",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/your-title/tjxsbjmvmgyx",
+  "original_author": "Fin Vermehr",
+  "title": "Your Title",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/overleaf/ol-your-title-tjxsbjmvmgyx/main.tex",
+  "relative_path": "raw/overleaf/ol-your-title-tjxsbjmvmgyx/main.tex",
+  "main_doc": "main.tex",
+  "sha256": "bb413d1fd150675c8d20f01bdc91a6070213a06d8c7d515cee8067d3d057b2c8",
+  "size_bytes": 822,
+  "document_class": "article",
+  "uses_packages": [
+    "graphicx",
+    "textcomp"
+  ],
+  "download_method": "view-source-modal",
+  "github_url": null,
+  "downloaded_at": "2026-08-02T15:54:58.920Z"
+}

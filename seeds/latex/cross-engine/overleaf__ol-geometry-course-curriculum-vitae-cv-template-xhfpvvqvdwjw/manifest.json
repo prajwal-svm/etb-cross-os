@@ -1,0 +1,28 @@
+{
+  "id": "overleaf/ol-geometry-course-curriculum-vitae-cv-template-xhfpvvqvdwjw",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "cv",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/geometry-course-curriculum-vitae-cv-template/xhfpvvqvdwjw",
+  "original_author": "Sarah Wright",
+  "title": "Geometry course Curriculum Vitae (CV) template",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/overleaf/ol-geometry-course-curriculum-vitae-cv-template-xhfpvvqvdwjw/main.tex",
+  "relative_path": "raw/overleaf/ol-geometry-course-curriculum-vitae-cv-template-xhfpvvqvdwjw/main.tex",
+  "main_doc": "main.tex",
+  "sha256": "8081000fc82828afb828d4313fa7f2f8839c801a7c213c28360b8f5c457b24f7",
+  "size_bytes": 3980,
+  "document_class": "article",
+  "uses_packages": [
+    "amsmath",
+    "amssymb",
+    "amsthm",
+    "float",
+    "geometry",
+    "graphicx",
+    "wasysym"
+  ],
+  "download_method": "view-source-modal",
+  "github_url": null,
+  "downloaded_at": "2026-08-02T16:00:12.000Z"
+}

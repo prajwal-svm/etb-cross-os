@@ -1,0 +1,26 @@
+{
+  "id": "typst-universe/typst-rectangles-polylux-0-1-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "beamer",
+  "license": "MIT",
+  "source_url": "https://github.com/felsenhower/rectangles-polylux.git",
+  "original_author": "Ruben Felgenhauer",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/typst-universe__typst-rectangles-polylux-0-1-0/main.typ",
+  "relative_path": "processed/typst/typst-universe__typst-rectangles-polylux-0-1-0/main.typ",
+  "sha256": "93153fccdc7332e211d0952e10a4158e904223d98aeab0612d7be936bf5e1ccc",
+  "size_bytes": 1101,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 235,
+  "downloaded_at": "2026-08-02T13:12:25.797Z",
+  "filtered_at": "2026-08-02T17:34:44.138Z"
+}

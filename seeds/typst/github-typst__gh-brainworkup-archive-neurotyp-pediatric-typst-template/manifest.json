@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-brainworkup-archive-neurotyp-pediatric-typst-template",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "report",
+  "license": "MIT",
+  "source_url": "https://github.com/brainworkup/archive-neurotyp-pediatric",
+  "original_author": "brainworkup",
+  "stars": 2,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-brainworkup-archive-neurotyp-pediatric-typst-template/typst-template.typ",
+  "relative_path": "raw/github-typst/gh-brainworkup-archive-neurotyp-pediatric-typst-template/typst-template.typ",
+  "main_doc": "typst-template.typ",
+  "sha256": "c25c47b0021d17c769f03fdd006299341e46e3459515ab68245d89e7d02d2241",
+  "size_bytes": 2836,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "_extensions/neurotyp-pediatric/typst-template.typ",
+  "downloaded_at": "2026-08-02T14:10:55.136Z"
+}

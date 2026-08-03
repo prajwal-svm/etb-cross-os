@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-pku-typst-pku-typst-template-zihao-2",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "misc",
+  "license": "MIT",
+  "source_url": "https://github.com/pku-typst/PKU-typst-template",
+  "original_author": "pku-typst",
+  "stars": 14,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-pku-typst-pku-typst-template-zihao-2/zihao.typ",
+  "relative_path": "raw/github-typst/gh-pku-typst-pku-typst-template-zihao-2/zihao.typ",
+  "main_doc": "zihao.typ",
+  "sha256": "76f2af6a59a25bd11e88190fa715c2f396f789cbd29ec455d80b8332997b48af",
+  "size_bytes": 309,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "utils/zihao.typ",
+  "downloaded_at": "2026-08-02T14:05:38.099Z"
+}

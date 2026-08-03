@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-henningf3-hydra-tud-style",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "thesis",
+  "license": "MIT",
+  "source_url": "https://github.com/henningf3/hydra-tud",
+  "original_author": "henningf3",
+  "stars": 1,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-henningf3-hydra-tud-style/style.typ",
+  "relative_path": "raw/github-typst/gh-henningf3-hydra-tud-style/style.typ",
+  "main_doc": "style.typ",
+  "sha256": "a5bd2a31a64e1652afb4c71117252dd12d590e08cadef231a33b6177f0623597",
+  "size_bytes": 10990,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "style.typ",
+  "downloaded_at": "2026-08-02T14:12:46.450Z"
+}

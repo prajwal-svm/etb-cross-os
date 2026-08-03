@@ -1,0 +1,24 @@
+{
+  "id": "template-packs/two-column-paper",
+  "source": "template-packs",
+  "format": "latex",
+  "category": "venue",
+  "category_raw": "Journals & Conferences",
+  "license": "CC0-1.0",
+  "source_url": "https://github.com/Oleafly/template-packs",
+  "original_author": "Oleafly",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/template-packs/two-column-paper/main.tex",
+  "relative_path": "raw/template-packs/two-column-paper/main.tex",
+  "main_doc": "main.tex",
+  "sha256": "5bf16a60390cf0d6f36bb54b13cd1aee3886fcb2cde16716978cc62a041a4ed0",
+  "size_bytes": 3584,
+  "document_class": "article",
+  "uses_packages": [
+    "amsmath",
+    "geometry",
+    "lmodern",
+    "titlesec"
+  ],
+  "engine_hint": "xetex",
+  "downloaded_at": "2026-08-02T13:05:15.813Z"
+}

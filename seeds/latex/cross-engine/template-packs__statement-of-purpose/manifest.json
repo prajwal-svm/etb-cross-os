@@ -1,0 +1,23 @@
+{
+  "id": "template-packs/statement-of-purpose",
+  "source": "template-packs",
+  "format": "latex",
+  "category": "letter",
+  "category_raw": "Letters",
+  "license": "CC0-1.0",
+  "source_url": "https://github.com/Oleafly/template-packs",
+  "original_author": "Oleafly",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/template-packs/statement-of-purpose/main.tex",
+  "relative_path": "raw/template-packs/statement-of-purpose/main.tex",
+  "main_doc": "main.tex",
+  "sha256": "780934e8c0f80d1475e0a8e38bee34802e0f7599e4b5d01f39bf820bb61fa77d",
+  "size_bytes": 2420,
+  "document_class": "article",
+  "uses_packages": [
+    "geometry",
+    "hyperref",
+    "xcolor"
+  ],
+  "engine_hint": "xetex",
+  "downloaded_at": "2026-08-02T13:05:15.761Z"
+}

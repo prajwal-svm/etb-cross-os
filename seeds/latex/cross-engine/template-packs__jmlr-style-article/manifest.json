@@ -1,0 +1,24 @@
+{
+  "id": "template-packs/jmlr-style-article",
+  "source": "template-packs",
+  "format": "latex",
+  "category": "venue",
+  "category_raw": "Journals & Conferences",
+  "license": "CC0-1.0",
+  "source_url": "https://github.com/Oleafly/template-packs",
+  "original_author": "Oleafly",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/template-packs/jmlr-style-article/main.tex",
+  "relative_path": "raw/template-packs/jmlr-style-article/main.tex",
+  "main_doc": "main.tex",
+  "sha256": "d27c82ddcd41ae2e7a577d62f859acb721ec8a559883805047af58e3a083b345",
+  "size_bytes": 4144,
+  "document_class": "article",
+  "uses_packages": [
+    "amsmath",
+    "geometry",
+    "mathptmx",
+    "titlesec"
+  ],
+  "engine_hint": "xetex",
+  "downloaded_at": "2026-08-02T13:05:15.806Z"
+}

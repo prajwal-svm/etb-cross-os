@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-rem3-1415926-typst-thesis-template-app2-2",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "thesis",
+  "license": "MIT",
+  "source_url": "https://github.com/rem3-1415926/Typst_Thesis_Template",
+  "original_author": "rem3-1415926",
+  "stars": 0,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-rem3-1415926-typst-thesis-template-app2-2/app2.typ",
+  "relative_path": "raw/github-typst/gh-rem3-1415926-typst-thesis-template-app2-2/app2.typ",
+  "main_doc": "app2.typ",
+  "sha256": "222bfb24aa0f18d6bce7948cd1ff6e2fdd9d8df3688e0963c1939365a04c94bb",
+  "size_bytes": 250,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "appendix/app2.typ",
+  "downloaded_at": "2026-08-02T14:15:05.756Z"
+}

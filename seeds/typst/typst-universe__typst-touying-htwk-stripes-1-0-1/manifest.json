@@ -1,0 +1,23 @@
+{
+  "id": "typst-universe/typst-touying-htwk-stripes-1-0-1",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "beamer",
+  "license": "MIT",
+  "source_url": "https://github.com/klnsdr/touying-htwk-stripes",
+  "original_author": "KlnSdr",
+  "package_name": "touying-htwk-stripes",
+  "package_version": "1.0.1",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/typst-universe/typst-touying-htwk-stripes-1-0-1/template.typ",
+  "relative_path": "raw/typst-universe/typst-touying-htwk-stripes-1-0-1/template.typ",
+  "main_doc": "template.typ",
+  "sha256": "d671cfb3c0a4927056ef6ce5e32236efec84d9ec11b1b3550f8ce0faed6be1ab",
+  "size_bytes": 551,
+  "document_class": null,
+  "uses_packages": [],
+  "downloaded_at": "2026-08-02T13:14:06.357Z",
+  "categories": [
+    "presentation"
+  ],
+  "description": "Touying theme inspired by the presentation template of Leipzig University of Applied Sciences (HTWK Leipzig)."
+}

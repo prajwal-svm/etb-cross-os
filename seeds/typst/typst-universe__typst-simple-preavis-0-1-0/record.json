@@ -1,0 +1,26 @@
+{
+  "id": "typst-universe/typst-simple-preavis-0-1-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "business",
+  "license": "MIT",
+  "source_url": "https://github.com/mathias-aparicio/simple-preavis",
+  "original_author": "Mathias APARICIO",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/typst-universe__typst-simple-preavis-0-1-0/example.typ",
+  "relative_path": "processed/typst/typst-universe__typst-simple-preavis-0-1-0/example.typ",
+  "sha256": "4781bcf73ae9aec75e8fe9e16122ab47cd0f650760fdd4ca8c13977b1132b3ef",
+  "size_bytes": 536,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 184,
+  "downloaded_at": "2026-08-02T13:13:01.745Z",
+  "filtered_at": "2026-08-02T17:34:44.187Z"
+}

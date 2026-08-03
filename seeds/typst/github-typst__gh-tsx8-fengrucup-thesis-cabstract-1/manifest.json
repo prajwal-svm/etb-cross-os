@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-tsx8-fengrucup-thesis-cabstract-1",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "thesis",
+  "license": "MIT",
+  "source_url": "https://github.com/tsx8/fengrucup-thesis",
+  "original_author": "tsx8",
+  "stars": 10,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-tsx8-fengrucup-thesis-cabstract-1/cabstract.typ",
+  "relative_path": "raw/github-typst/gh-tsx8-fengrucup-thesis-cabstract-1/cabstract.typ",
+  "main_doc": "cabstract.typ",
+  "sha256": "f7eae4b07b10ed94f444c63767b144c5c967bdf0787fef902dac44e3bd07136a",
+  "size_bytes": 1227,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "doc/cabstract.typ",
+  "downloaded_at": "2026-08-02T14:06:12.502Z"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "overleaf/ol-algorithm-lab-template-hbkbwtkrgpcp",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "report",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/algorithm-lab-template/hbkbwtkrgpcp",
+  "original_author": "Roshan Pandey",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/overleaf__ol-algorithm-lab-template-hbkbwtkrgpcp/main.tex",
+  "relative_path": "processed/latex/cross-engine/overleaf__ol-algorithm-lab-template-hbkbwtkrgpcp/main.tex",
+  "sha256": "53e5f90272f47f28ccf4668a4fb6c6d756466dfd4fff61b9d61da87ed1fe0c32",
+  "size_bytes": 11737,
+  "document_class": "article",
+  "uses_packages": [
+    "geometry",
+    "listings",
+    "pgfplots",
+    "xcolor"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 842,
+  "downloaded_at": "2026-08-02T15:18:16.470Z",
+  "filtered_at": "2026-08-02T17:34:40.918Z"
+}

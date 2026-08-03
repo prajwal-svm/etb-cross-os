@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-ansermgw-typst-swiss-letter-template",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "letter",
+  "license": "CC0-1.0",
+  "source_url": "https://github.com/ansermgw/typst-swiss-letter",
+  "original_author": "ansermgw",
+  "stars": 4,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-ansermgw-typst-swiss-letter-template/template.typ",
+  "relative_path": "raw/github-typst/gh-ansermgw-typst-swiss-letter-template/template.typ",
+  "main_doc": "template.typ",
+  "sha256": "cf7d30f1cdbd5f356602442398a945dc767c907f2db35fed5a81096f978fb5fd",
+  "size_bytes": 1315,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "template/template.typ",
+  "downloaded_at": "2026-08-02T14:08:25.658Z"
+}

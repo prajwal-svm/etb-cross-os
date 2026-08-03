@@ -1,0 +1,23 @@
+{
+  "id": "typst-universe/typst-touying-endfield-0-1-1",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "beamer",
+  "license": "MIT",
+  "source_url": "https://github.com/leostudiooo/typst-touying-theme-endfield",
+  "original_author": "Leo Li",
+  "package_name": "touying-endfield",
+  "package_version": "0.1.1",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/typst-universe/typst-touying-endfield-0-1-1/main.typ",
+  "relative_path": "raw/typst-universe/typst-touying-endfield-0-1-1/main.typ",
+  "main_doc": "main.typ",
+  "sha256": "f5a65ab25e886848578498a5e94621cabf2dbdf9da3cf0d647ce5020f60c3fcb",
+  "size_bytes": 2114,
+  "document_class": null,
+  "uses_packages": [],
+  "downloaded_at": "2026-08-02T13:14:03.736Z",
+  "categories": [
+    "presentation"
+  ],
+  "description": "Touying presentation theme inspired by Arknights: Endfield."
+}

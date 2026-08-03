@@ -1,0 +1,28 @@
+{
+  "id": "template-packs/beamer-berkeley",
+  "source": "template-packs",
+  "format": "latex",
+  "category": "beamer",
+  "license": "CC0-1.0",
+  "source_url": "https://github.com/Oleafly/template-packs",
+  "original_author": "Oleafly",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/template-packs__beamer-berkeley/main.tex",
+  "relative_path": "processed/latex/cross-engine/template-packs__beamer-berkeley/main.tex",
+  "sha256": "c30c31ffc038d88629b51ca3552e98ff2fb28ff2fa5d8cee3bc515ebbffbace0",
+  "size_bytes": 1615,
+  "document_class": "beamer",
+  "uses_packages": [
+    "booktabs"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 1221,
+  "downloaded_at": "2026-08-02T13:05:15.766Z",
+  "filtered_at": "2026-08-02T17:34:40.722Z"
+}

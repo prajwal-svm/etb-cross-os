@@ -1,0 +1,26 @@
+{
+  "id": "overleaf/ol-cs221-fall-2017-homework-hsntbfcsvtmn",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "coursework",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/cs221-fall-2017-homework/hsntbfcsvtmn",
+  "original_author": "Lexi",
+  "title": "CS221 Fall 2017 Homework",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/overleaf/ol-cs221-fall-2017-homework-hsntbfcsvtmn/main.tex",
+  "relative_path": "raw/overleaf/ol-cs221-fall-2017-homework-hsntbfcsvtmn/main.tex",
+  "main_doc": "main.tex",
+  "sha256": "c82a2ccac19ef8ba87ae6ba458744aa362f8f6db1969f186146119171cd5d917",
+  "size_bytes": 664,
+  "document_class": "article",
+  "uses_packages": [
+    "amsmath",
+    "amssymb",
+    "enumitem",
+    "fullpage",
+    "graphicx"
+  ],
+  "download_method": "view-source-modal",
+  "github_url": null,
+  "downloaded_at": "2026-08-02T13:45:11.397Z"
+}

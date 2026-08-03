@@ -1,0 +1,26 @@
+{
+  "id": "typst-universe/typst-cthesis-0-1-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "thesis",
+  "license": "MIT",
+  "source_url": "https://github.com/ElliotMS/cthesis",
+  "original_author": "Elliot Markström Stenhammar",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/typst-universe__typst-cthesis-0-1-0/main.typ",
+  "relative_path": "processed/typst/typst-universe__typst-cthesis-0-1-0/main.typ",
+  "sha256": "1fa68ab09e714735b199a08bbc1bcf43ed98f1aa750ee8a695c62b4d06cfe57b",
+  "size_bytes": 1581,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 299,
+  "downloaded_at": "2026-08-02T13:07:31.494Z",
+  "filtered_at": "2026-08-02T17:34:43.761Z"
+}

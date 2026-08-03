@@ -1,0 +1,24 @@
+{
+  "id": "typst-universe/typst-ineris-slide-0-1-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "beamer",
+  "license": "MIT",
+  "source_url": "https://typst.app/universe/package/ineris-slide",
+  "original_author": "François Hissel",
+  "package_name": "ineris-slide",
+  "package_version": "0.1.0",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/typst-universe/typst-ineris-slide-0-1-0/main.typ",
+  "relative_path": "raw/typst-universe/typst-ineris-slide-0-1-0/main.typ",
+  "main_doc": "main.typ",
+  "sha256": "8a48a61d9028b1e41b5634d169b3baac401a8f241112e41db8b89dacb4f1f792",
+  "size_bytes": 1030,
+  "document_class": null,
+  "uses_packages": [],
+  "downloaded_at": "2026-08-02T13:09:21.886Z",
+  "categories": [
+    "visualization",
+    "presentation"
+  ],
+  "description": "A presentation template using the design guidelines of the French institute for industrial environment and risks"
+}

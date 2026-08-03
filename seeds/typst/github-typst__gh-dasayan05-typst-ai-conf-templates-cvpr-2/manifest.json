@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-dasayan05-typst-ai-conf-templates-cvpr-2",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "venue",
+  "license": "MIT",
+  "source_url": "https://github.com/dasayan05/typst-ai-conf-templates",
+  "original_author": "dasayan05",
+  "stars": 25,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-dasayan05-typst-ai-conf-templates-cvpr-2/cvpr.typ",
+  "relative_path": "raw/github-typst/gh-dasayan05-typst-ai-conf-templates-cvpr-2/cvpr.typ",
+  "main_doc": "cvpr.typ",
+  "sha256": "542dcc4465d7b95323343758e901fd53cc8a51465f7318f2c81d9938048dc298",
+  "size_bytes": 2628,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "cvpr/cvpr.typ",
+  "downloaded_at": "2026-08-02T14:04:36.763Z"
+}

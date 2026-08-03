@@ -1,0 +1,26 @@
+{
+  "id": "typst-universe/typst-diatypst-0-9-3",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "beamer",
+  "license": "MIT-0",
+  "source_url": "https://github.com/skriptum/Diatypst",
+  "original_author": "skriptum (https://github.com/skriptum)",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/typst-universe__typst-diatypst-0-9-3/main.typ",
+  "relative_path": "processed/typst/typst-universe__typst-diatypst-0-9-3/main.typ",
+  "sha256": "27033e192e9f1ca0d6f1a3358e5e4265821ef0ea847e060c1dfa82dbc8ba9951",
+  "size_bytes": 392,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 212,
+  "downloaded_at": "2026-08-02T13:07:44.433Z",
+  "filtered_at": "2026-08-02T17:34:43.777Z"
+}

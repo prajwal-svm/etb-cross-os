@@ -1,0 +1,28 @@
+{
+  "id": "template-packs/moderncv-classic",
+  "source": "template-packs",
+  "format": "latex",
+  "category": "cv",
+  "license": "CC0-1.0",
+  "source_url": "https://github.com/Oleafly/template-packs",
+  "original_author": "Oleafly",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/template-packs__moderncv-classic/main.tex",
+  "relative_path": "processed/latex/cross-engine/template-packs__moderncv-classic/main.tex",
+  "sha256": "0d67632922b8aeb6de3e30f6c24eabb811b1cb9891e38f197fbce658dbd9606c",
+  "size_bytes": 1766,
+  "document_class": "moderncv",
+  "uses_packages": [
+    "geometry"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 769,
+  "downloaded_at": "2026-08-02T13:05:15.847Z",
+  "filtered_at": "2026-08-02T17:34:40.822Z"
+}

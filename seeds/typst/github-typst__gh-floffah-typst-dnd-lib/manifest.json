@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-floffah-typst-dnd-lib",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "creative",
+  "license": "MIT",
+  "source_url": "https://github.com/Floffah/typst-dnd",
+  "original_author": "Floffah",
+  "stars": 4,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-floffah-typst-dnd-lib/lib.typ",
+  "relative_path": "raw/github-typst/gh-floffah-typst-dnd-lib/lib.typ",
+  "main_doc": "lib.typ",
+  "sha256": "fdc39d80149fdbf7de2ebd588a8d61fb6d8ad704a510bce0d55ba343bd50da0a",
+  "size_bytes": 13230,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "template/lib.typ",
+  "downloaded_at": "2026-08-02T14:08:10.675Z"
+}

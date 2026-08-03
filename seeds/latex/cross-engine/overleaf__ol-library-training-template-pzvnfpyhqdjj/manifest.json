@@ -1,0 +1,26 @@
+{
+  "id": "overleaf/ol-library-training-template-pzvnfpyhqdjj",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "misc",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/library-training-template/pzvnfpyhqdjj",
+  "original_author": "UQ Library",
+  "title": "Library training template",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/overleaf/ol-library-training-template-pzvnfpyhqdjj/main.tex",
+  "relative_path": "raw/overleaf/ol-library-training-template-pzvnfpyhqdjj/main.tex",
+  "main_doc": "main.tex",
+  "sha256": "3bba8a855f01a6597ca841ab8db79ee48efc9c87c7b102c3a91a957f51db7726",
+  "size_bytes": 656,
+  "document_class": "article",
+  "uses_packages": [
+    "babel",
+    "float",
+    "geometry",
+    "graphicx",
+    "hyperref"
+  ],
+  "download_method": "view-source-modal",
+  "github_url": null,
+  "downloaded_at": "2026-08-02T14:18:21.385Z"
+}

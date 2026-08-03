@@ -1,0 +1,39 @@
+{
+  "id": "ctan/ctan-wrapfig-wrapfig-doc",
+  "source": "ctan",
+  "format": "latex",
+  "category": "package-example",
+  "license": "LPPL-1.3c",
+  "source_url": "https://ctan.org/pkg/wrapfig",
+  "original_author": "CTAN package: wrapfig",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/ctan__ctan-wrapfig-wrapfig-doc/wrapfig-doc.tex",
+  "relative_path": "processed/latex/cross-engine/ctan__ctan-wrapfig-wrapfig-doc/wrapfig-doc.tex",
+  "sha256": "246ec59f33f2910e36ae524b0cec2b396260a50238fc115b9273c0fad270f27a",
+  "size_bytes": 15201,
+  "document_class": "scrartcl",
+  "uses_packages": [
+    "amstext",
+    "array",
+    "etex",
+    "fixltx2e",
+    "fontenc",
+    "hyperref",
+    "lmodern",
+    "microtype",
+    "textcomp",
+    "tikz",
+    "wrapfig",
+    "xcolor"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 1107,
+  "downloaded_at": "2026-08-02T13:04:50.695Z",
+  "filtered_at": "2026-08-02T17:34:42.370Z"
+}

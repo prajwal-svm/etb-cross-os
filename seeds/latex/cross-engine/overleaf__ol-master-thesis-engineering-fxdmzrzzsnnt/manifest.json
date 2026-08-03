@@ -1,0 +1,33 @@
+{
+  "id": "overleaf/ol-master-thesis-engineering-fxdmzrzzsnnt",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "thesis",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/master-thesis-engineering/fxdmzrzzsnnt",
+  "original_author": "Raúl Gombru",
+  "title": "Master Thesis Engineering",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/overleaf/ol-master-thesis-engineering-fxdmzrzzsnnt/main.tex",
+  "relative_path": "raw/overleaf/ol-master-thesis-engineering-fxdmzrzzsnnt/main.tex",
+  "main_doc": "main.tex",
+  "sha256": "bf40fb37dc63625f1c22db8329aa559ef4edf290ff61da1ca8e23225f91fdf85",
+  "size_bytes": 22465,
+  "document_class": "IEEEtran",
+  "uses_packages": [
+    "algorithmic",
+    "amsmath",
+    "array",
+    "cite",
+    "dblfloatfix",
+    "endfloat",
+    "fixltx2e",
+    "graphicx",
+    "ifpdf",
+    "stfloats",
+    "subfig",
+    "url"
+  ],
+  "download_method": "view-source-modal",
+  "github_url": null,
+  "downloaded_at": "2026-08-02T14:19:13.833Z"
+}

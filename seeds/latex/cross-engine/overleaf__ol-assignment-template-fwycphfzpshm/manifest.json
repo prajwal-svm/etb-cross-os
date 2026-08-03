@@ -1,0 +1,23 @@
+{
+  "id": "overleaf/ol-assignment-template-fwycphfzpshm",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "coursework",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/assignment-template/fwycphfzpshm",
+  "original_author": "Barbara Plank",
+  "title": "Assignment - template",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/overleaf/ol-assignment-template-fwycphfzpshm/main.tex",
+  "relative_path": "raw/overleaf/ol-assignment-template-fwycphfzpshm/main.tex",
+  "main_doc": "main.tex",
+  "sha256": "abf1c5adba33865178598809e20d395d8cd6409d08254190506fc68ce18c6948",
+  "size_bytes": 735,
+  "document_class": "article",
+  "uses_packages": [
+    "natbib",
+    "url"
+  ],
+  "download_method": "view-source-modal",
+  "github_url": null,
+  "downloaded_at": "2026-08-02T15:09:55.153Z"
+}

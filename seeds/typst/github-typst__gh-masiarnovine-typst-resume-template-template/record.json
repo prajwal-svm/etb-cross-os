@@ -1,0 +1,26 @@
+{
+  "id": "github-typst/gh-masiarnovine-typst-resume-template-template",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "cv",
+  "license": "MIT",
+  "source_url": "https://github.com/MasiarNovine/typst_resume_template",
+  "original_author": "MasiarNovine",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/github-typst__gh-masiarnovine-typst-resume-template-template/template.typ",
+  "relative_path": "processed/typst/github-typst__gh-masiarnovine-typst-resume-template-template/template.typ",
+  "sha256": "6fd74c8482e28aa156997cbda34c9cba536cb7b5960fcdf16b811e9f858614d4",
+  "size_bytes": 3600,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 8,
+  "downloaded_at": "2026-08-02T14:15:51.693Z",
+  "filtered_at": "2026-08-02T17:34:45.285Z"
+}

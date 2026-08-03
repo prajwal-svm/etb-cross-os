@@ -1,0 +1,25 @@
+{
+  "id": "overleaf/ol-iit-kgp-mtp-thesis-template-hgprtqycxzmb",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "thesis",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/iit-kgp-mtp-thesis-template/hgprtqycxzmb",
+  "original_author": "Sayan Batabyal",
+  "title": "IIT-Kgp_MTP_Thesis_Template",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/overleaf/ol-iit-kgp-mtp-thesis-template-hgprtqycxzmb/main.tex",
+  "relative_path": "raw/overleaf/ol-iit-kgp-mtp-thesis-template-hgprtqycxzmb/main.tex",
+  "main_doc": "main.tex",
+  "sha256": "e935e20edddf355755a5d3f6b965f591b38e256acfadc12efaa49b7ed458a020",
+  "size_bytes": 1099,
+  "document_class": "report",
+  "uses_packages": [
+    "amssymb",
+    "graphicx",
+    "multicol",
+    "natbib"
+  ],
+  "download_method": "view-source-modal",
+  "github_url": null,
+  "downloaded_at": "2026-08-02T14:57:01.137Z"
+}

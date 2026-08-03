@@ -1,0 +1,27 @@
+{
+  "id": "overleaf/ol-lean-canvas-fhjywjxzhfhv",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "misc",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/lean-canvas/fhjywjxzhfhv",
+  "original_author": "Florian Minges",
+  "title": "Lean Canvas",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/overleaf/ol-lean-canvas-fhjywjxzhfhv/GrantModelCanvas.tex",
+  "relative_path": "raw/overleaf/ol-lean-canvas-fhjywjxzhfhv/GrantModelCanvas.tex",
+  "main_doc": "GrantModelCanvas.tex",
+  "sha256": "28c90c02d58b5f0bc16f3e93bcc34d50449c005cf7456e3417ecc22ff78d679b",
+  "size_bytes": 6415,
+  "document_class": "article",
+  "uses_packages": [
+    "babel",
+    "datetime2",
+    "geometry",
+    "hyperref",
+    "inputenc",
+    "tikz"
+  ],
+  "download_method": "github:https://github.com/OchoaLab/grantModelCanvas",
+  "github_url": "https://github.com/OchoaLab/grantModelCanvas",
+  "downloaded_at": "2026-08-02T14:32:00.341Z"
+}

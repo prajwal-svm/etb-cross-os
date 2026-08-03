@@ -1,0 +1,35 @@
+{
+  "id": "github-latex/gh-fmilthaler-thesis-latex-template-rotation-example",
+  "source": "github-latex",
+  "format": "latex",
+  "category": "thesis",
+  "license": "MIT",
+  "source_url": "https://github.com/fmilthaler/Thesis-LaTeX-Template",
+  "original_author": "fmilthaler",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/github-latex__gh-fmilthaler-thesis-latex-template-rotation-example/rotation_example.tex",
+  "relative_path": "processed/latex/cross-engine/github-latex__gh-fmilthaler-thesis-latex-template-rotation-example/rotation_example.tex",
+  "sha256": "18dd18b01fc46ee2f6227a7e91bdc39b7032769f5e51285018e10726185f41c7",
+  "size_bytes": 7964,
+  "document_class": "standalone",
+  "uses_packages": [
+    "amsfonts",
+    "amsmath",
+    "amssymb",
+    "amstext",
+    "pgfplots",
+    "preview",
+    "tikz",
+    "units"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 813,
+  "downloaded_at": "2026-08-02T13:18:51.351Z",
+  "filtered_at": "2026-08-02T17:34:42.782Z"
+}

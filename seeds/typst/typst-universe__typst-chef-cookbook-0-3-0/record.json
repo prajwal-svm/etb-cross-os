@@ -1,0 +1,26 @@
+{
+  "id": "typst-universe/typst-chef-cookbook-0-3-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "creative",
+  "license": "MIT",
+  "source_url": "https://github.com/Paulmue0/cookbook",
+  "original_author": "PaulMue0",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/typst-universe__typst-chef-cookbook-0-3-0/main.typ",
+  "relative_path": "processed/typst/typst-universe__typst-chef-cookbook-0-3-0/main.typ",
+  "sha256": "9c8b408e61f8a9a09d1e910e3fe400ace3354bf51cbad4fcc97a7d106a165edc",
+  "size_bytes": 4727,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 210,
+  "downloaded_at": "2026-08-02T13:06:39.654Z",
+  "filtered_at": "2026-08-02T17:34:43.691Z"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "typst-universe/typst-gbt9704-gongwen-0-2-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "report",
+  "license": "MIT",
+  "source_url": "https://codeberg.org/songwupei/typst-gbt9704",
+  "original_author": "songwupei",
+  "package_name": "gbt9704-gongwen",
+  "package_version": "0.2.0",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/typst-universe/typst-gbt9704-gongwen-0-2-0/main.typ",
+  "relative_path": "raw/typst-universe/typst-gbt9704-gongwen-0-2-0/main.typ",
+  "main_doc": "main.typ",
+  "sha256": "f253292d8157eb09ce84c0121a4169778af94a38d4630ba4e3d41cbf6806acbd",
+  "size_bytes": 579,
+  "document_class": null,
+  "uses_packages": [],
+  "downloaded_at": "2026-08-02T13:08:41.093Z",
+  "categories": [
+    "report"
+  ],
+  "description": "适配 GB/T 9704-2012 公文格式模板 / adapts Chinese GB/T 9704-2012 document format template"
+}

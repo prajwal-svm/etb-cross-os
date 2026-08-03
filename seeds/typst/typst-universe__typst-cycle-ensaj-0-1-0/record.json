@@ -1,0 +1,26 @@
+{
+  "id": "typst-universe/typst-cycle-ensaj-0-1-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "report",
+  "license": "MIT",
+  "source_url": "https://github.com/Achraf-saadali/ENSAJ-REPORT",
+  "original_author": "SAADALI ACHRAF",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/typst-universe__typst-cycle-ensaj-0-1-0/template.typ",
+  "relative_path": "processed/typst/typst-universe__typst-cycle-ensaj-0-1-0/template.typ",
+  "sha256": "c45282795070b8e87ce801cd93b3cf086fd39cdfe23ddcba79a371ed779c1680",
+  "size_bytes": 2307,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 236,
+  "downloaded_at": "2026-08-02T13:07:35.955Z",
+  "filtered_at": "2026-08-02T17:34:43.767Z"
+}

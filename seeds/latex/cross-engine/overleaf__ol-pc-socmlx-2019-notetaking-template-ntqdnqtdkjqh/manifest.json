@@ -1,0 +1,24 @@
+{
+  "id": "overleaf/ol-pc-socmlx-2019-notetaking-template-ntqdnqtdkjqh",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "misc",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/pc-socmlx-2019-notetaking-template/ntqdnqtdkjqh",
+  "original_author": "David Madras",
+  "title": "PC-SOCMLx 2019  - Notetaking Template",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/overleaf/ol-pc-socmlx-2019-notetaking-template-ntqdnqtdkjqh/main.tex",
+  "relative_path": "raw/overleaf/ol-pc-socmlx-2019-notetaking-template-ntqdnqtdkjqh/main.tex",
+  "main_doc": "main.tex",
+  "sha256": "8b477dad9d8491a0b7758a967b56ec44b0262ca3f9e8ddb0934c6700005080c6",
+  "size_bytes": 1588,
+  "document_class": "article",
+  "uses_packages": [
+    "dsfont",
+    "enumitem",
+    "inputenc"
+  ],
+  "download_method": "view-source-modal",
+  "github_url": null,
+  "downloaded_at": "2026-08-02T13:33:40.366Z"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "github-latex/gh-cagix-pandoc-lecture-algorithm",
+  "source": "github-latex",
+  "format": "latex",
+  "category": "beamer",
+  "license": "MIT",
+  "source_url": "https://github.com/cagix/pandoc-lecture",
+  "original_author": "cagix",
+  "stars": 106,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-latex/gh-cagix-pandoc-lecture-algorithm/algorithm.tex",
+  "relative_path": "raw/github-latex/gh-cagix-pandoc-lecture-algorithm/algorithm.tex",
+  "main_doc": "algorithm.tex",
+  "sha256": "0b4e2172357ef361726c6828f56272a72ab3fbdaba916d2caef3886320790e71",
+  "size_bytes": 630,
+  "document_class": "standalone",
+  "uses_packages": [
+    "color",
+    "listings",
+    "standalone"
+  ],
+  "repo_path": "hugo/hugo-lecture/archetypes/algorithm.tex",
+  "downloaded_at": "2026-08-02T13:13:00.745Z"
+}

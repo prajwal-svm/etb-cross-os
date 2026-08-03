@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-sebaseb98-clean-math-thesis-appendix",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "thesis",
+  "license": "MIT",
+  "source_url": "https://github.com/sebaseb98/clean-math-thesis",
+  "original_author": "sebaseb98",
+  "stars": 15,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-sebaseb98-clean-math-thesis-appendix/appendix.typ",
+  "relative_path": "raw/github-typst/gh-sebaseb98-clean-math-thesis-appendix/appendix.typ",
+  "main_doc": "appendix.typ",
+  "sha256": "14c614c49189b60cec9554f7bc09318d38fa5b52a3828175f949afbc038caca9",
+  "size_bytes": 622,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "template/chapter/appendix.typ",
+  "downloaded_at": "2026-08-02T14:05:31.269Z"
+}

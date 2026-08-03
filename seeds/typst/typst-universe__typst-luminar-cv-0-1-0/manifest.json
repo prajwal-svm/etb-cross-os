@@ -1,0 +1,23 @@
+{
+  "id": "typst-universe/typst-luminar-cv-0-1-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "cv",
+  "license": "MIT",
+  "source_url": "https://typst.app/universe/package/luminar-cv",
+  "original_author": "Florian Vogt",
+  "package_name": "luminar-cv",
+  "package_version": "0.1.0",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/typst-universe/typst-luminar-cv-0-1-0/cv.typ",
+  "relative_path": "raw/typst-universe/typst-luminar-cv-0-1-0/cv.typ",
+  "main_doc": "cv.typ",
+  "sha256": "c1015e092595db9a9749dd0a2fb89495b83b09230ad9465702f3689aa0dbd3c1",
+  "size_bytes": 4869,
+  "document_class": null,
+  "uses_packages": [],
+  "downloaded_at": "2026-08-02T13:10:05.143Z",
+  "categories": [
+    "cv"
+  ],
+  "description": "A clean, modular CV template with FontAwesome icons, customizable colors, and support for academic publications."
+}

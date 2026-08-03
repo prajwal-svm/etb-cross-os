@@ -1,0 +1,25 @@
+{
+  "id": "typst-universe/typst-exm-0-1-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "coursework",
+  "license": "MIT",
+  "source_url": "https://github.com/data-8/exm",
+  "original_author": "Tim Xie",
+  "package_name": "exm",
+  "package_version": "0.1.0",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/typst-universe/typst-exm-0-1-0/exam.typ",
+  "relative_path": "raw/typst-universe/typst-exm-0-1-0/exam.typ",
+  "main_doc": "exam.typ",
+  "sha256": "56cf3fe997d9da4038d09ff2332779eb3bea751ae336ea4af0c5ed0bd7e1242e",
+  "size_bytes": 589,
+  "document_class": null,
+  "uses_packages": [],
+  "downloaded_at": "2026-08-02T13:08:18.854Z",
+  "categories": [
+    "layout",
+    "model",
+    "utility"
+  ],
+  "description": "Worksheet and exam template used by Data 8 at UC Berkeley."
+}

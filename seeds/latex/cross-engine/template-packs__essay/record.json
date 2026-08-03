@@ -1,0 +1,31 @@
+{
+  "id": "template-packs/essay",
+  "source": "template-packs",
+  "format": "latex",
+  "category": "coursework",
+  "license": "CC0-1.0",
+  "source_url": "https://github.com/Oleafly/template-packs",
+  "original_author": "Oleafly",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/template-packs__essay/main.tex",
+  "relative_path": "processed/latex/cross-engine/template-packs__essay/main.tex",
+  "sha256": "8df4da935c67d8092379ef66d32eb0a20e67d4a116d57b93cd79bd7bf5db95fc",
+  "size_bytes": 2238,
+  "document_class": "article",
+  "uses_packages": [
+    "fancyhdr",
+    "geometry",
+    "hyperref",
+    "setspace"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 376,
+  "downloaded_at": "2026-08-02T13:05:15.743Z",
+  "filtered_at": "2026-08-02T17:34:40.769Z"
+}

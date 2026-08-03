@@ -1,0 +1,22 @@
+{
+  "id": "github-latex/gh-olgabot-permission-letters-template",
+  "source": "github-latex",
+  "format": "latex",
+  "category": "thesis",
+  "license": "MIT",
+  "source_url": "https://github.com/olgabot/permission-letters",
+  "original_author": "olgabot",
+  "stars": 2,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-latex/gh-olgabot-permission-letters-template/template.tex",
+  "relative_path": "raw/github-latex/gh-olgabot-permission-letters-template/template.tex",
+  "main_doc": "template.tex",
+  "sha256": "bdbfa59386182cd4042b4e070ed684b359efd0c72196cc2269642482fa883467",
+  "size_bytes": 1793,
+  "document_class": "article",
+  "uses_packages": [
+    "newpxtext",
+    "showframe"
+  ],
+  "repo_path": "template.tex",
+  "downloaded_at": "2026-08-02T13:36:50.173Z"
+}

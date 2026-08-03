@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-ud-alex-utmn-thesis-typst-template-template",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "thesis",
+  "license": "MIT",
+  "source_url": "https://github.com/ud-alex/utmn-thesis-typst-template",
+  "original_author": "ud-alex",
+  "stars": 0,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-ud-alex-utmn-thesis-typst-template-template/template.typ",
+  "relative_path": "raw/github-typst/gh-ud-alex-utmn-thesis-typst-template-template/template.typ",
+  "main_doc": "template.typ",
+  "sha256": "db15234d0ab06eae9295de502da48427536a95a041ec708ca07d1e5ba862d674",
+  "size_bytes": 2069,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "assets/template.typ",
+  "downloaded_at": "2026-08-02T14:16:35.938Z"
+}

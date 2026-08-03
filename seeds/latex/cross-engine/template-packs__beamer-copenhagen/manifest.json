@@ -1,0 +1,19 @@
+{
+  "id": "template-packs/beamer-copenhagen",
+  "source": "template-packs",
+  "format": "latex",
+  "category": "beamer",
+  "category_raw": "Presentations",
+  "license": "CC0-1.0",
+  "source_url": "https://github.com/Oleafly/template-packs",
+  "original_author": "Oleafly",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/template-packs/beamer-copenhagen/main.tex",
+  "relative_path": "raw/template-packs/beamer-copenhagen/main.tex",
+  "main_doc": "main.tex",
+  "sha256": "2d03b6053bfc0d25ac10b825d69632a80b217db800070dffa1e025eba6c11d14",
+  "size_bytes": 1544,
+  "document_class": "beamer",
+  "uses_packages": [],
+  "engine_hint": "xetex",
+  "downloaded_at": "2026-08-02T13:05:15.770Z"
+}

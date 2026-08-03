@@ -1,0 +1,37 @@
+{
+  "id": "github-latex/gh-ayan-b-resume-generator-sb2nov-resume-1",
+  "source": "github-latex",
+  "format": "latex",
+  "category": "cv",
+  "license": "MIT",
+  "source_url": "https://github.com/ayan-b/resume-generator",
+  "original_author": "ayan-b",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/github-latex__gh-ayan-b-resume-generator-sb2nov-resume-1/sb2nov-resume.tex",
+  "relative_path": "processed/latex/cross-engine/github-latex__gh-ayan-b-resume-generator-sb2nov-resume-1/sb2nov-resume.tex",
+  "sha256": "9370684e347973533751ae685d15748d8ad8fccedea5cbe169cf289e73a5bb2b",
+  "size_bytes": 7826,
+  "document_class": "article",
+  "uses_packages": [
+    "babel",
+    "color",
+    "enumitem",
+    "fancyhdr",
+    "fullpage",
+    "hyperref",
+    "latexsym",
+    "marvosym",
+    "titlesec",
+    "verbatim"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 372,
+  "downloaded_at": "2026-08-02T13:28:14.468Z",
+  "filtered_at": "2026-08-02T17:34:42.503Z"
+}

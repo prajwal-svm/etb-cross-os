@@ -1,0 +1,23 @@
+{
+  "id": "typst-universe/typst-silver-dev-cv-1-0-2",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "cv",
+  "license": "MIT",
+  "source_url": "https://typst.app/universe/package/silver-dev-cv",
+  "original_author": "Gabriel Benmergui",
+  "package_name": "silver-dev-cv",
+  "package_version": "1.0.2",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/typst-universe/typst-silver-dev-cv-1-0-2/cv.typ",
+  "relative_path": "raw/typst-universe/typst-silver-dev-cv-1-0-2/cv.typ",
+  "main_doc": "cv.typ",
+  "sha256": "fa0907fe27359be33a498c461973091e3452ee13e032584ad11fbe3d57be885c",
+  "size_bytes": 2823,
+  "document_class": null,
+  "uses_packages": [],
+  "downloaded_at": "2026-08-02T13:12:53.925Z",
+  "categories": [
+    "cv"
+  ],
+  "description": "A CV template by an engineer-recruiter, used by https://silver.dev"
+}

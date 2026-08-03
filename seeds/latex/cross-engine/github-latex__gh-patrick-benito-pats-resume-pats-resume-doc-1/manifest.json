@@ -1,0 +1,19 @@
+{
+  "id": "github-latex/gh-patrick-benito-pats-resume-pats-resume-doc-1",
+  "source": "github-latex",
+  "format": "latex",
+  "category": "cv",
+  "license": "MIT",
+  "source_url": "https://github.com/patrick-benito/pats-resume",
+  "original_author": "patrick-benito",
+  "stars": 5,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-latex/gh-patrick-benito-pats-resume-pats-resume-doc-1/pats-resume-doc.tex",
+  "relative_path": "raw/github-latex/gh-patrick-benito-pats-resume-pats-resume-doc-1/pats-resume-doc.tex",
+  "main_doc": "pats-resume-doc.tex",
+  "sha256": "ef9a6cfcb04e4bae00fa9e127645098446d87848bc746732a5352e6fe0876203",
+  "size_bytes": 2312,
+  "document_class": "ltxdoc",
+  "uses_packages": [],
+  "repo_path": "pats-resume-doc.tex",
+  "downloaded_at": "2026-08-02T13:27:31.435Z"
+}

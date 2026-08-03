@@ -1,0 +1,23 @@
+{
+  "id": "github-latex/gh-iitrabhi-project-template-rebuttal-1",
+  "source": "github-latex",
+  "format": "latex",
+  "category": "misc",
+  "license": "MIT",
+  "source_url": "https://github.com/iitrabhi/project-template",
+  "original_author": "iitrabhi",
+  "stars": 17,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-latex/gh-iitrabhi-project-template-rebuttal-1/rebuttal.tex",
+  "relative_path": "raw/github-latex/gh-iitrabhi-project-template-rebuttal-1/rebuttal.tex",
+  "main_doc": "rebuttal.tex",
+  "sha256": "47dff5272bb1ccc1de02d8219caad0fe7b5104f0a0ce4d69e68c155f08488b15",
+  "size_bytes": 3941,
+  "document_class": "article",
+  "uses_packages": [
+    "fullpage",
+    "inputenc",
+    "xifthen"
+  ],
+  "repo_path": "5_admin/1_latex_source/9_rebuttal/rebuttal.tex",
+  "downloaded_at": "2026-08-02T13:18:16.235Z"
+}

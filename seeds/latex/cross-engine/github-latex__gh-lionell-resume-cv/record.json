@@ -1,0 +1,36 @@
+{
+  "id": "github-latex/gh-lionell-resume-cv",
+  "source": "github-latex",
+  "format": "latex",
+  "category": "cv",
+  "license": "MIT",
+  "source_url": "https://github.com/lionell/resume",
+  "original_author": "lionell",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/github-latex__gh-lionell-resume-cv/cv.tex",
+  "relative_path": "processed/latex/cross-engine/github-latex__gh-lionell-resume-cv/cv.tex",
+  "sha256": "0ef6bee3d23969dfe220a65202343eea2af84c72c68fd6113040a8e64fc86cf6",
+  "size_bytes": 15675,
+  "document_class": "article",
+  "uses_packages": [
+    "color",
+    "enumitem",
+    "fancyhdr",
+    "fullpage",
+    "hyperref",
+    "latexsym",
+    "marvosym",
+    "titlesec",
+    "verbatim"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 244,
+  "downloaded_at": "2026-08-02T13:50:20.588Z",
+  "filtered_at": "2026-08-02T17:34:43.064Z"
+}

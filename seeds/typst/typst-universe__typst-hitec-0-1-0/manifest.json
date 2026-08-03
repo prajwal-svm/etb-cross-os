@@ -1,0 +1,24 @@
+{
+  "id": "typst-universe/typst-hitec-0-1-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "book",
+  "license": "MIT",
+  "source_url": "https://github.com/ShabbyGayBar/hitec",
+  "original_author": "Brian Li",
+  "package_name": "hitec",
+  "package_version": "0.1.0",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/typst-universe/typst-hitec-0-1-0/main.typ",
+  "relative_path": "raw/typst-universe/typst-hitec-0-1-0/main.typ",
+  "main_doc": "main.typ",
+  "sha256": "359f645f5a3e867333b2cd9a82f0d7c0a8a778557217ff54e95c7980ad10ad47",
+  "size_bytes": 4351,
+  "document_class": null,
+  "uses_packages": [],
+  "downloaded_at": "2026-08-02T13:09:03.759Z",
+  "categories": [
+    "book",
+    "report"
+  ],
+  "description": "A template designed for documentation in high-technology companies. Also a Typst adaptation of the LaTeX `hitec` package."
+}

@@ -1,0 +1,26 @@
+{
+  "id": "overleaf/ol-screenplay-template-grqmtrnytdhj",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "misc",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/screenplay-template/grqmtrnytdhj",
+  "original_author": "John Pate, Audrow Nash",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/overleaf__ol-screenplay-template-grqmtrnytdhj/main.tex",
+  "relative_path": "processed/latex/cross-engine/overleaf__ol-screenplay-template-grqmtrnytdhj/main.tex",
+  "sha256": "bf4b886a74a2f5afbccdb087b6d5f9d6a95ea201ae867407ef7cd5eb2e8e667c",
+  "size_bytes": 1490,
+  "document_class": "screenplay",
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 269,
+  "downloaded_at": "2026-08-02T13:44:40.373Z",
+  "filtered_at": "2026-08-02T17:34:41.803Z"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "typst-universe/typst-paris-saclay-thesis-flat-1-0-2",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "thesis",
+  "license": "MIT-0",
+  "source_url": "https://github.com/sebmestrallet/typst-paris-saclay-thesis-flat",
+  "original_author": "Sébastien Mestrallet",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/typst-universe__typst-paris-saclay-thesis-flat-1-0-2/main.typ",
+  "relative_path": "processed/typst/typst-universe__typst-paris-saclay-thesis-flat-1-0-2/main.typ",
+  "sha256": "2e1526ad8b311dd6c9524234a1bd7bf81e993aa7c78ffb9f800554b3ac131137",
+  "size_bytes": 7045,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 318,
+  "downloaded_at": "2026-08-02T13:11:57.745Z",
+  "filtered_at": "2026-08-02T17:34:44.094Z"
+}

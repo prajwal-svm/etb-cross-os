@@ -1,0 +1,26 @@
+{
+  "id": "overleaf/ol-apa-template-without-abstract-wpwqbftzrtgj",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "misc",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/apa-template-without-abstract/wpwqbftzrtgj",
+  "original_author": "Taylor Elgin",
+  "title": "APA template without abstract",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/overleaf/ol-apa-template-without-abstract-wpwqbftzrtgj/main.tex",
+  "relative_path": "raw/overleaf/ol-apa-template-without-abstract-wpwqbftzrtgj/main.tex",
+  "main_doc": "main.tex",
+  "sha256": "db7f4747bb46abd266f0f025454b622c8dadcebf16caa9d8013c5e7089bf70dd",
+  "size_bytes": 480,
+  "document_class": "apa6",
+  "uses_packages": [
+    "amsmath",
+    "babel",
+    "graphicx",
+    "inputenc",
+    "todonotes"
+  ],
+  "download_method": "view-source-modal",
+  "github_url": null,
+  "downloaded_at": "2026-08-02T14:39:23.201Z"
+}

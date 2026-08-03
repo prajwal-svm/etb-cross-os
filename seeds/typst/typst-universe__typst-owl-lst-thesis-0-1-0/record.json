@@ -1,0 +1,26 @@
+{
+  "id": "typst-universe/typst-owl-lst-thesis-0-1-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "thesis",
+  "license": "MIT-0",
+  "source_url": "https://github.com/coli-saar/typst-lst-template",
+  "original_author": "Alexander Koller",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/typst-universe__typst-owl-lst-thesis-0-1-0/main.typ",
+  "relative_path": "processed/typst/typst-universe__typst-owl-lst-thesis-0-1-0/main.typ",
+  "sha256": "d623c65a2364f991c19c50d7c86501c89d62dbf43403ce274e52d5ac684c6d93",
+  "size_bytes": 1062,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 364,
+  "downloaded_at": "2026-08-02T13:11:54.165Z",
+  "filtered_at": "2026-08-02T17:34:44.091Z"
+}

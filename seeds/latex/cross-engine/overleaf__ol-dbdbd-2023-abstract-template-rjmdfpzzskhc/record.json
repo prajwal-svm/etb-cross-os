@@ -1,0 +1,33 @@
+{
+  "id": "overleaf/ol-dbdbd-2023-abstract-template-rjmdfpzzskhc",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "misc",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/dbdbd-2023-abstract-template/rjmdfpzzskhc",
+  "original_author": "DDCM",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/overleaf__ol-dbdbd-2023-abstract-template-rjmdfpzzskhc/main.tex",
+  "relative_path": "processed/latex/cross-engine/overleaf__ol-dbdbd-2023-abstract-template-rjmdfpzzskhc/main.tex",
+  "sha256": "3cae471e5bc250026c361b6d83bcc9df3c7860e01f1d07339849f8aaf875f7ad",
+  "size_bytes": 1811,
+  "document_class": "article",
+  "uses_packages": [
+    "amsfonts",
+    "amsmath",
+    "amssymb",
+    "geometry",
+    "graphicx",
+    "latexsym"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 269,
+  "downloaded_at": "2026-08-02T15:33:08.423Z",
+  "filtered_at": "2026-08-02T17:34:41.065Z"
+}

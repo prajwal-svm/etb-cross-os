@@ -1,0 +1,10 @@
+{
+  "source": "CTAN / TeX Live",
+  "source_url": "https://ctan.org/pkg/amsmath",
+  "original_author": "CTAN package: amsmath",
+  "license": "LPPL-1.3c",
+  "license_url": "https://www.latex-project.org/lppl/lppl-1-3c/",
+  "downloaded_at": "2026-08-02T13:04:41.045Z",
+  "package": "amsmath",
+  "original_path": "/usr/local/texlive/2025/texmf-dist/doc/latex/amsmath/subeqn.tex"
+}

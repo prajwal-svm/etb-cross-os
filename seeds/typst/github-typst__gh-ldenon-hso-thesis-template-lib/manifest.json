@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-ldenon-hso-thesis-template-lib",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "thesis",
+  "license": "MIT",
+  "source_url": "https://github.com/ldenon/hso-thesis-template",
+  "original_author": "ldenon",
+  "stars": 0,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-ldenon-hso-thesis-template-lib/lib.typ",
+  "relative_path": "raw/github-typst/gh-ldenon-hso-thesis-template-lib/lib.typ",
+  "main_doc": "lib.typ",
+  "sha256": "c9beb6f3eb7fa37010b4be4b89591bcc09e6b19b3071f0b87ba9395e58316feb",
+  "size_bytes": 7287,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "lib.typ",
+  "downloaded_at": "2026-08-02T14:18:48.918Z"
+}

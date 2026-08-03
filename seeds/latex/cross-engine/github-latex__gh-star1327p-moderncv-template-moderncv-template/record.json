@@ -1,0 +1,35 @@
+{
+  "id": "github-latex/gh-star1327p-moderncv-template-moderncv-template",
+  "source": "github-latex",
+  "format": "latex",
+  "category": "cv",
+  "license": "MIT",
+  "source_url": "https://github.com/star1327p/moderncv-template",
+  "original_author": "star1327p",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/github-latex__gh-star1327p-moderncv-template-moderncv-template/moderncv-template.tex",
+  "relative_path": "processed/latex/cross-engine/github-latex__gh-star1327p-moderncv-template-moderncv-template/moderncv-template.tex",
+  "sha256": "39769d04abd2b1ffe50a9047e9e36e517eea27cc5439be6a7cf0972a01bdc7b8",
+  "size_bytes": 12316,
+  "document_class": "moderncv",
+  "uses_packages": [
+    "amsmath",
+    "fontawesome5",
+    "footmisc",
+    "geometry",
+    "lastpage",
+    "lipsum",
+    "multicol",
+    "url"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 1595,
+  "downloaded_at": "2026-08-02T13:17:41.580Z",
+  "filtered_at": "2026-08-02T17:34:43.416Z"
+}

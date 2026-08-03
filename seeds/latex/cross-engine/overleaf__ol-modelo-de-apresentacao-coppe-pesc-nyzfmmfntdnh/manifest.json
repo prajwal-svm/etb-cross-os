@@ -1,0 +1,26 @@
+{
+  "id": "overleaf/ol-modelo-de-apresentacao-coppe-pesc-nyzfmmfntdnh",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "misc",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/modelo-de-apresentacao-coppe-pesc/nyzfmmfntdnh",
+  "original_author": "Eduardo Mangeli",
+  "title": "Modelo de Apresentação COPPE-PESC",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/overleaf/ol-modelo-de-apresentacao-coppe-pesc-nyzfmmfntdnh/demo.tex",
+  "relative_path": "raw/overleaf/ol-modelo-de-apresentacao-coppe-pesc-nyzfmmfntdnh/demo.tex",
+  "main_doc": "demo.tex",
+  "sha256": "6e7a98ba3d402c4e660f71111abdbdbb07ebb38e0e0e1d56ef471d04570be553",
+  "size_bytes": 9175,
+  "document_class": "beamer",
+  "uses_packages": [
+    "appendixnumberbeamer",
+    "booktabs",
+    "ccicons",
+    "pgfplots",
+    "xspace"
+  ],
+  "download_method": "github:https://github.com/matze/mtheme",
+  "github_url": "https://github.com/matze/mtheme",
+  "downloaded_at": "2026-08-02T14:12:31.770Z"
+}

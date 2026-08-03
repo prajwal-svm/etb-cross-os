@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-dawod-g-ensea-typst-template-template-internship-1",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "report",
+  "license": "MIT",
+  "source_url": "https://github.com/Dawod-G/ENSEA_Typst-Template",
+  "original_author": "Dawod-G",
+  "stars": 0,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-dawod-g-ensea-typst-template-template-internship-1/template-internship.typ",
+  "relative_path": "raw/github-typst/gh-dawod-g-ensea-typst-template-template-internship-1/template-internship.typ",
+  "main_doc": "template-internship.typ",
+  "sha256": "129fcd684e616a8e2bc237a1edba366ad29bc094c48625dc351eea7b48f42a02",
+  "size_bytes": 12303,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "volt-internship-ensea/0.1.1/template-internship.typ",
+  "downloaded_at": "2026-08-02T14:15:12.856Z"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "typst-universe/typst-almost-tud-letter-0-1-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "business",
+  "license": "MIT",
+  "source_url": "https://github.com/hugoledoux/almost-tud-letter",
+  "original_author": "Hugo Ledoux",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/typst-universe__typst-almost-tud-letter-0-1-0/letter.typ",
+  "relative_path": "processed/typst/typst-universe__typst-almost-tud-letter-0-1-0/letter.typ",
+  "sha256": "744ec52392bcb5dbeaa08bc787b645379c533f8b04048b98cb72a2c9d6786d74",
+  "size_bytes": 781,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 199,
+  "downloaded_at": "2026-08-02T13:05:42.215Z",
+  "filtered_at": "2026-08-02T17:34:43.605Z"
+}

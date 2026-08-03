@@ -1,0 +1,36 @@
+{
+  "id": "github-latex/gh-jte0419-latex-templates-homework-template",
+  "source": "github-latex",
+  "format": "latex",
+  "category": "coursework",
+  "license": "MIT",
+  "source_url": "https://github.com/jte0419/LaTeX_Templates",
+  "original_author": "jte0419",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/github-latex__gh-jte0419-latex-templates-homework-template/Homework_Template.tex",
+  "relative_path": "processed/latex/cross-engine/github-latex__gh-jte0419-latex-templates-homework-template/Homework_Template.tex",
+  "sha256": "e8a580dbad2fcdcbd0e69593b68fc6bdfeb1211dea93d6ed6ea66b36cf449789",
+  "size_bytes": 4198,
+  "document_class": "article",
+  "uses_packages": [
+    "amsmath",
+    "color",
+    "enumitem",
+    "float",
+    "geometry",
+    "graphicx",
+    "mathtools",
+    "microtype",
+    "soul"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 342,
+  "downloaded_at": "2026-08-02T13:30:26.683Z",
+  "filtered_at": "2026-08-02T17:34:42.977Z"
+}

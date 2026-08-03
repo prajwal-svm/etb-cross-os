@@ -1,0 +1,32 @@
+{
+  "id": "github-latex/gh-ma-ro-dev-code-latex-cv-and-cover-letter-template-cover-letter-template",
+  "source": "github-latex",
+  "format": "latex",
+  "category": "cv",
+  "license": "MIT",
+  "source_url": "https://github.com/ma-ro-dev-code/latex-cv-and-cover_letter-template",
+  "original_author": "ma-ro-dev-code",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/github-latex__gh-ma-ro-dev-code-latex-cv-and-cover-letter-template-cover-letter-template/cover_letter_template.tex",
+  "relative_path": "processed/latex/cross-engine/github-latex__gh-ma-ro-dev-code-latex-cv-and-cover-letter-template-cover-letter-template/cover_letter_template.tex",
+  "sha256": "9d4587539911e25aefaef0a2a0a15af7c6d92cc8a0a077230e9d3215f465a9e5",
+  "size_bytes": 1242,
+  "document_class": "scrlttr2",
+  "uses_packages": [
+    "babel",
+    "fontenc",
+    "hyperref",
+    "inputenc",
+    "lmodern"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 580,
+  "downloaded_at": "2026-08-02T14:00:34.686Z",
+  "filtered_at": "2026-08-02T17:34:43.117Z"
+}

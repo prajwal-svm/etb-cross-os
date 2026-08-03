@@ -1,0 +1,25 @@
+{
+  "id": "template-packs/book-chapter",
+  "source": "template-packs",
+  "format": "latex",
+  "category": "book",
+  "category_raw": "Books",
+  "license": "CC0-1.0",
+  "source_url": "https://github.com/Oleafly/template-packs",
+  "original_author": "Oleafly",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/template-packs/book-chapter/main.tex",
+  "relative_path": "raw/template-packs/book-chapter/main.tex",
+  "main_doc": "main.tex",
+  "sha256": "2bd458068f1d2bd82bef39fafe1067afe12ccc2f83335b97ef62c58c68da6518",
+  "size_bytes": 2383,
+  "document_class": "book",
+  "uses_packages": [
+    "geometry",
+    "hyperref",
+    "lettrine",
+    "titlesec",
+    "xcolor"
+  ],
+  "engine_hint": "xetex",
+  "downloaded_at": "2026-08-02T13:05:15.739Z"
+}

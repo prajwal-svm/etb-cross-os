@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-storrealbac-memoria-inf-utfsm-typst-metadata-2",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "business",
+  "license": "MIT",
+  "source_url": "https://github.com/storrealbac/memoria-inf-utfsm-typst",
+  "original_author": "storrealbac",
+  "stars": 2,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-storrealbac-memoria-inf-utfsm-typst-metadata-2/metadata.typ",
+  "relative_path": "raw/github-typst/gh-storrealbac-memoria-inf-utfsm-typst-metadata-2/metadata.typ",
+  "main_doc": "metadata.typ",
+  "sha256": "dd39c9103a32727540510199a1d6c9ec0e7b7b0bb1c1a13da0f6eb06bd83ac1a",
+  "size_bytes": 262,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "metadata.typ",
+  "downloaded_at": "2026-08-02T14:10:18.975Z"
+}

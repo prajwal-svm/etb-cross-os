@@ -1,0 +1,28 @@
+{
+  "id": "overleaf/ol-blank-paper-with-czech-formatting-and-fancier-layout-myskxtwfjmsk",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "venue",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/blank-paper-with-czech-formatting-and-fancier-layout/myskxtwfjmsk",
+  "original_author": "ScamanderWayne",
+  "title": "Blank paper with czech formatting and fancier layout",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/overleaf/ol-blank-paper-with-czech-formatting-and-fancier-layout-myskxtwfjmsk/main.tex",
+  "relative_path": "raw/overleaf/ol-blank-paper-with-czech-formatting-and-fancier-layout-myskxtwfjmsk/main.tex",
+  "main_doc": "main.tex",
+  "sha256": "1dc67c83175853d2018564c9884057f81f00a0aa023246a7bff08eed5e3f0da4",
+  "size_bytes": 1546,
+  "document_class": "scrartcl",
+  "uses_packages": [
+    "amsmath",
+    "babel",
+    "csquotes",
+    "fancyhdr",
+    "geometry",
+    "multicol",
+    "titling"
+  ],
+  "download_method": "view-source-modal",
+  "github_url": null,
+  "downloaded_at": "2026-08-02T15:24:20.209Z"
+}

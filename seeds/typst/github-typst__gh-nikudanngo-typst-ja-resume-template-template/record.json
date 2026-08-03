@@ -1,0 +1,26 @@
+{
+  "id": "github-typst/gh-nikudanngo-typst-ja-resume-template-template",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "cv",
+  "license": "MIT",
+  "source_url": "https://github.com/Nikudanngo/typst-ja-resume-template",
+  "original_author": "Nikudanngo",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/github-typst__gh-nikudanngo-typst-ja-resume-template-template/template.typ",
+  "relative_path": "processed/typst/github-typst__gh-nikudanngo-typst-ja-resume-template-template/template.typ",
+  "sha256": "edfbc846ad88204a9013feeed02f4834251867fb4e5c97b2766feaf6341888d0",
+  "size_bytes": 9519,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 8,
+  "downloaded_at": "2026-08-02T14:04:34.812Z",
+  "filtered_at": "2026-08-02T17:34:45.378Z"
+}

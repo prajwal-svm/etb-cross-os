@@ -1,0 +1,26 @@
+{
+  "id": "typst-universe/typst-obelisk-0-2-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "book",
+  "license": "MIT",
+  "source_url": "https://github.com/atzlt/obelisk-template",
+  "original_author": "atzlt",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/typst-universe__typst-obelisk-0-2-0/main.typ",
+  "relative_path": "processed/typst/typst-universe__typst-obelisk-0-2-0/main.typ",
+  "sha256": "e06d422b8fe7ff1ca288b1263cc0e2fcf4cc825de28ea173f41a969c422d313b",
+  "size_bytes": 671,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 209,
+  "downloaded_at": "2026-08-02T13:11:44.904Z",
+  "filtered_at": "2026-08-02T17:34:44.078Z"
+}

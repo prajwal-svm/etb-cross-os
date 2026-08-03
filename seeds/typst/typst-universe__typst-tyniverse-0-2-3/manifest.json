@@ -1,0 +1,23 @@
+{
+  "id": "typst-universe/typst-tyniverse-0-2-3",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "report",
+  "license": "MIT",
+  "source_url": "https://github.com/Fr4nk1inCs/tyniverse",
+  "original_author": "Fr4nk1inCs",
+  "package_name": "tyniverse",
+  "package_version": "0.2.3",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/typst-universe/typst-tyniverse-0-2-3/main.typ",
+  "relative_path": "raw/typst-universe/typst-tyniverse-0-2-3/main.typ",
+  "main_doc": "main.typ",
+  "sha256": "b77c5ad24351b38e72e077345e41ada5acea095dbe9be658e378edee88f6f3c2",
+  "size_bytes": 888,
+  "document_class": null,
+  "uses_packages": [],
+  "downloaded_at": "2026-08-02T13:14:44.391Z",
+  "categories": [
+    "report"
+  ],
+  "description": "A collection of templates for homeworks, cheatpapers and more."
+}

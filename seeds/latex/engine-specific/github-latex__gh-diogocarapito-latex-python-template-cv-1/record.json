@@ -1,0 +1,35 @@
+{
+  "id": "github-latex/gh-diogocarapito-latex-python-template-cv-1",
+  "source": "github-latex",
+  "format": "latex",
+  "category": "cv",
+  "license": "Apache-2.0",
+  "source_url": "https://github.com/diogocarapito/latex_python_template",
+  "original_author": "diogocarapito",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/engine-specific/github-latex__gh-diogocarapito-latex-python-template-cv-1/cv.tex",
+  "relative_path": "processed/latex/engine-specific/github-latex__gh-diogocarapito-latex-python-template-cv-1/cv.tex",
+  "sha256": "f6913d1d66c10d800c6017a4f5f2f7a9fb3b376214d0a3f3c7a6babdb1588dd3",
+  "size_bytes": 16973,
+  "document_class": "report",
+  "uses_packages": [
+    "enumitem",
+    "fontawesome",
+    "geometry",
+    "graphicx",
+    "helvet",
+    "hyperref",
+    "titlesec",
+    "xcolor"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": false,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "engine-specific",
+  "compile_time_ms": 827,
+  "downloaded_at": "2026-08-02T13:43:50.660Z",
+  "filtered_at": "2026-08-02T17:34:42.664Z"
+}

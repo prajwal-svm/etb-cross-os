@@ -1,0 +1,19 @@
+{
+  "id": "github-latex/gh-janezdu-uiuc-beamer-template",
+  "source": "github-latex",
+  "format": "latex",
+  "category": "beamer",
+  "license": "MIT",
+  "source_url": "https://github.com/janezdu/UIUC-beamer",
+  "original_author": "janezdu",
+  "stars": 0,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-latex/gh-janezdu-uiuc-beamer-template/template.tex",
+  "relative_path": "raw/github-latex/gh-janezdu-uiuc-beamer-template/template.tex",
+  "main_doc": "template.tex",
+  "sha256": "d6161ddee99dac84cdbd15e0743783aeb77958160901d9c06eac332827f9d156",
+  "size_bytes": 1738,
+  "document_class": "beamer",
+  "uses_packages": [],
+  "repo_path": "template.tex",
+  "downloaded_at": "2026-08-02T13:52:17.125Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "template-packs/tikzposter-portrait",
+  "source": "template-packs",
+  "format": "latex",
+  "category": "beamer",
+  "category_raw": "Posters",
+  "license": "CC0-1.0",
+  "source_url": "https://github.com/Oleafly/template-packs",
+  "original_author": "Oleafly",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/template-packs/tikzposter-portrait/main.tex",
+  "relative_path": "raw/template-packs/tikzposter-portrait/main.tex",
+  "main_doc": "main.tex",
+  "sha256": "5ad23d8f1169e9b5a698dba1ee56422435be0ff72c717f6de86d26237a4ad515",
+  "size_bytes": 781,
+  "document_class": "tikzposter",
+  "uses_packages": [
+    "amsmath",
+    "amssymb"
+  ],
+  "engine_hint": "xetex",
+  "downloaded_at": "2026-08-02T13:05:15.874Z"
+}

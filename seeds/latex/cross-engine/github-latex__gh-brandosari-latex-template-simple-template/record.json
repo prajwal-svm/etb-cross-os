@@ -1,0 +1,31 @@
+{
+  "id": "github-latex/gh-brandosari-latex-template-simple-template",
+  "source": "github-latex",
+  "format": "latex",
+  "category": "misc",
+  "license": "CC0-1.0",
+  "source_url": "https://github.com/brandosari/latex_template",
+  "original_author": "brandosari",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/github-latex__gh-brandosari-latex-template-simple-template/simple_template.tex",
+  "relative_path": "processed/latex/cross-engine/github-latex__gh-brandosari-latex-template-simple-template/simple_template.tex",
+  "sha256": "a1e2036daef23130fa749fde16847f14bdcd390df2b0ba73c79784011023a674",
+  "size_bytes": 3522,
+  "document_class": "article",
+  "uses_packages": [
+    "authblk",
+    "geometry",
+    "inputenc",
+    "setspace"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 260,
+  "downloaded_at": "2026-08-02T13:46:32.905Z",
+  "filtered_at": "2026-08-02T17:34:42.542Z"
+}

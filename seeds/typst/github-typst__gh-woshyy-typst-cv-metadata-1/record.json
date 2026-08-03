@@ -1,0 +1,26 @@
+{
+  "id": "github-typst/gh-woshyy-typst-cv-metadata-1",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "cv",
+  "license": "Apache-2.0",
+  "source_url": "https://github.com/Woshyy/typst-cv",
+  "original_author": "Woshyy",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/github-typst__gh-woshyy-typst-cv-metadata-1/metadata.typ",
+  "relative_path": "processed/typst/github-typst__gh-woshyy-typst-cv-metadata-1/metadata.typ",
+  "sha256": "67bea0dd6e9cda294b35db5b410976b110760c0ab8dc46684abfcef003714999",
+  "size_bytes": 1549,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 7,
+  "downloaded_at": "2026-08-02T14:21:49.969Z",
+  "filtered_at": "2026-08-02T17:34:45.940Z"
+}

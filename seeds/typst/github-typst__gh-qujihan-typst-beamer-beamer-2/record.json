@@ -1,0 +1,26 @@
+{
+  "id": "github-typst/gh-qujihan-typst-beamer-beamer-2",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "beamer",
+  "license": "MIT",
+  "source_url": "https://github.com/qujihan/typst-beamer",
+  "original_author": "qujihan",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/github-typst__gh-qujihan-typst-beamer-beamer-2/beamer.typ",
+  "relative_path": "processed/typst/github-typst__gh-qujihan-typst-beamer-beamer-2/beamer.typ",
+  "sha256": "838743e9af4b92c98caab629f716f3ac4bc132ac4c0e4779849556c9ecd83f65",
+  "size_bytes": 4519,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 25,
+  "downloaded_at": "2026-08-02T14:04:01.865Z",
+  "filtered_at": "2026-08-02T17:34:45.530Z"
+}

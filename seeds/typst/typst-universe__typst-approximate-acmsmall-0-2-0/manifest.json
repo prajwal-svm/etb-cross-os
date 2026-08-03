@@ -1,0 +1,23 @@
+{
+  "id": "typst-universe/typst-approximate-acmsmall-0-2-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "venue",
+  "license": "MIT",
+  "source_url": "https://codeberg.org/gasche/approximate-acmsmall-typst-template",
+  "original_author": "Gabriel Scherer",
+  "package_name": "approximate-acmsmall",
+  "package_version": "0.2.0",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/typst-universe/typst-approximate-acmsmall-0-2-0/example.typ",
+  "relative_path": "raw/typst-universe/typst-approximate-acmsmall-0-2-0/example.typ",
+  "main_doc": "example.typ",
+  "sha256": "879f33568ac905bbd2204b3245689fbe3576c2c89eed86cd3ca0b2c9d4ab961b",
+  "size_bytes": 1915,
+  "document_class": null,
+  "uses_packages": [],
+  "downloaded_at": "2026-08-02T13:05:48.009Z",
+  "categories": [
+    "paper"
+  ],
+  "description": "An imitation of the 'acmart' LaTeX document class from ACM, with the 'acmsmall' option."
+}

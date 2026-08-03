@@ -1,0 +1,32 @@
+{
+  "id": "github-latex/gh-gianmadd-cv-forge-preview-cover-letter-2",
+  "source": "github-latex",
+  "format": "latex",
+  "category": "cv",
+  "license": "MIT",
+  "source_url": "https://github.com/gianmadd/cv-forge",
+  "original_author": "gianmadd",
+  "stars": 2,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-latex/gh-gianmadd-cv-forge-preview-cover-letter-2/preview-cover-letter.tex",
+  "relative_path": "raw/github-latex/gh-gianmadd-cv-forge-preview-cover-letter-2/preview-cover-letter.tex",
+  "main_doc": "preview-cover-letter.tex",
+  "sha256": "37d67f86fe7633429d107275a55b748827d44ac1e477d3e084a281686347623c",
+  "size_bytes": 2621,
+  "document_class": "article",
+  "uses_packages": [
+    "CormorantGaramond",
+    "babel",
+    "charter",
+    "fontawesome5",
+    "fontenc",
+    "geometry",
+    "hyperref",
+    "inputenc",
+    "microtype",
+    "ragged2e",
+    "textcomp",
+    "xcolor"
+  ],
+  "repo_path": "docs/assets/preview-cover-letter.tex",
+  "downloaded_at": "2026-08-02T13:35:25.045Z"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "typst-universe/typst-cleanified-hpi-research-proposal-0-2-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "venue",
+  "license": "MIT",
+  "source_url": "https://gitlab.hpi.de/robert.richter/typst-research-proposal-template/",
+  "original_author": "Robert Richter",
+  "package_name": "cleanified-hpi-research-proposal",
+  "package_version": "0.2.0",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/typst-universe/typst-cleanified-hpi-research-proposal-0-2-0/main.typ",
+  "relative_path": "raw/typst-universe/typst-cleanified-hpi-research-proposal-0-2-0/main.typ",
+  "main_doc": "main.typ",
+  "sha256": "a72523764f2e00a232f8216a677ae677fb9ea672647c12723ff4ef9337131187",
+  "size_bytes": 432,
+  "document_class": null,
+  "uses_packages": [],
+  "downloaded_at": "2026-08-02T13:07:08.503Z",
+  "categories": [
+    "paper"
+  ],
+  "description": "Clean-Asthetic HPI Research Proposal."
+}

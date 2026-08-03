@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-liheng423-typst-chinese-dictionary-template-fonts",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "misc",
+  "license": "MIT",
+  "source_url": "https://github.com/liheng423/typst-chinese-dictionary-template",
+  "original_author": "liheng423",
+  "stars": 0,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-liheng423-typst-chinese-dictionary-template-fonts/fonts.typ",
+  "relative_path": "raw/github-typst/gh-liheng423-typst-chinese-dictionary-template-fonts/fonts.typ",
+  "main_doc": "fonts.typ",
+  "sha256": "05b636969ca6908c346e6c97b9377f3da7ac5c59a6ba06ed16b429d15a4b293f",
+  "size_bytes": 1487,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "assets/fonts.typ",
+  "downloaded_at": "2026-08-02T14:16:09.642Z"
+}

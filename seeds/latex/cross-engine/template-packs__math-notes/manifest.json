@@ -1,0 +1,27 @@
+{
+  "id": "template-packs/math-notes",
+  "source": "template-packs",
+  "format": "latex",
+  "category": "coursework",
+  "category_raw": "Assignments",
+  "license": "CC0-1.0",
+  "source_url": "https://github.com/Oleafly/template-packs",
+  "original_author": "Oleafly",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/template-packs/math-notes/main.tex",
+  "relative_path": "raw/template-packs/math-notes/main.tex",
+  "main_doc": "main.tex",
+  "sha256": "e3a44131a31eb20d10f60cb797c655c17700beeb26b82682bb2003b88d196454",
+  "size_bytes": 3211,
+  "document_class": "article",
+  "uses_packages": [
+    "amsmath",
+    "amssymb",
+    "amsthm",
+    "geometry",
+    "lmodern",
+    "tikz-cd",
+    "xcolor"
+  ],
+  "engine_hint": "xetex",
+  "downloaded_at": "2026-08-02T13:05:15.825Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-matias3981-cv-cv",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "cv",
+  "license": "MIT",
+  "source_url": "https://github.com/matias3981/cv",
+  "original_author": "matias3981",
+  "stars": 0,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-matias3981-cv-cv/cv.typ",
+  "relative_path": "raw/github-typst/gh-matias3981-cv-cv/cv.typ",
+  "main_doc": "cv.typ",
+  "sha256": "814cd0923688e58ad411bc72cc7a1ca218bede93c0376e850df590454368728f",
+  "size_bytes": 4562,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "cv.typ",
+  "downloaded_at": "2026-08-02T14:21:21.485Z"
+}

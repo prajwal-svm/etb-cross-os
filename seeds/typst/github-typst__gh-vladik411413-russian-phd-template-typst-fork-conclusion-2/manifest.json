@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-vladik411413-russian-phd-template-typst-fork-conclusion-2",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "thesis",
+  "license": "MIT",
+  "source_url": "https://github.com/vladik411413/russian_phd_template_typst_fork",
+  "original_author": "vladik411413",
+  "stars": 0,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-vladik411413-russian-phd-template-typst-fork-conclusion-2/conclusion.typ",
+  "relative_path": "raw/github-typst/gh-vladik411413-russian-phd-template-typst-fork-conclusion-2/conclusion.typ",
+  "main_doc": "conclusion.typ",
+  "sha256": "c1efd4ac904c8606dc605c21fe1c88e09805e476fee397d37d18f93ec28d9336",
+  "size_bytes": 932,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "parts/conclusion.typ",
+  "downloaded_at": "2026-08-02T14:17:23.630Z"
+}

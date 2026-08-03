@@ -1,0 +1,19 @@
+{
+  "id": "template-packs/typst-conference-paper",
+  "source": "template-packs",
+  "format": "typst",
+  "category": "venue",
+  "category_raw": "Journals & Conferences",
+  "license": "CC0-1.0",
+  "source_url": "https://github.com/Oleafly/template-packs",
+  "original_author": "Oleafly",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/template-packs/typst-conference-paper/main.typ",
+  "relative_path": "raw/template-packs/typst-conference-paper/main.typ",
+  "main_doc": "main.typ",
+  "sha256": "efa6ec02052f6e02fd2838fcf3c3b86211db18c3e6ed1123286171668a0538dd",
+  "size_bytes": 791,
+  "document_class": null,
+  "uses_packages": [],
+  "engine_hint": "typst",
+  "downloaded_at": "2026-08-02T13:05:15.883Z"
+}

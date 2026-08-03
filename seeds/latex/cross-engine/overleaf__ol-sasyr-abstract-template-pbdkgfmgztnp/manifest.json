@@ -1,0 +1,23 @@
+{
+  "id": "overleaf/ol-sasyr-abstract-template-pbdkgfmgztnp",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "misc",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/sasyr-abstract-template/pbdkgfmgztnp",
+  "original_author": "IPVC, IPB, IPCA",
+  "title": "SASYR Abstract Template",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/overleaf/ol-sasyr-abstract-template-pbdkgfmgztnp/main.tex",
+  "relative_path": "raw/overleaf/ol-sasyr-abstract-template-pbdkgfmgztnp/main.tex",
+  "main_doc": "main.tex",
+  "sha256": "be8e23c40d34b7c85cff641c5acd22ad3b8f07ad16014a8a111e4486aaa975dd",
+  "size_bytes": 2526,
+  "document_class": "llncs",
+  "uses_packages": [
+    "graphicx",
+    "lipsum"
+  ],
+  "download_method": "view-source-modal",
+  "github_url": null,
+  "downloaded_at": "2026-08-02T14:53:42.282Z"
+}

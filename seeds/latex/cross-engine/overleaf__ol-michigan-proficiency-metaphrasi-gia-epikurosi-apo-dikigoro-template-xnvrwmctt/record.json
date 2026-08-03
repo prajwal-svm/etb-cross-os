@@ -1,0 +1,29 @@
+{
+  "id": "overleaf/ol-michigan-proficiency-metaphrasi-gia-epikurosi-apo-dikigoro-template-xnvrwmctt",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "misc",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/michigan-proficiency-metaphrasi-gia-epikurosi-apo-dikigoro-template/xnvrwmctthhb",
+  "original_author": "Nikos Koutsopoulos",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/overleaf__ol-michigan-proficiency-metaphrasi-gia-epikurosi-apo-dikigoro-template-xnvrwmctt/main.tex",
+  "relative_path": "processed/latex/cross-engine/overleaf__ol-michigan-proficiency-metaphrasi-gia-epikurosi-apo-dikigoro-template-xnvrwmctt/main.tex",
+  "sha256": "b4c46c53b7d0d8136806e54d8b4acf5f4fa27f5a8911d19b26bf79af41a9e57b",
+  "size_bytes": 2427,
+  "document_class": "article",
+  "uses_packages": [
+    "babel",
+    "inputenc"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 329,
+  "downloaded_at": "2026-08-02T14:22:15.591Z",
+  "filtered_at": "2026-08-02T17:34:41.409Z"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "template-packs/certificate",
+  "source": "template-packs",
+  "format": "latex",
+  "category": "business",
+  "category_raw": "Business",
+  "license": "CC0-1.0",
+  "source_url": "https://github.com/Oleafly/template-packs",
+  "original_author": "Oleafly",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/template-packs/certificate/main.tex",
+  "relative_path": "raw/template-packs/certificate/main.tex",
+  "main_doc": "main.tex",
+  "sha256": "75c450fb39f2140b6e844dcaeef90fa625f4ae53fa217317a232e580c948f972",
+  "size_bytes": 3272,
+  "document_class": "article",
+  "uses_packages": [
+    "geometry",
+    "libertine",
+    "tikz"
+  ],
+  "engine_hint": "xetex",
+  "downloaded_at": "2026-08-02T13:05:15.784Z"
+}

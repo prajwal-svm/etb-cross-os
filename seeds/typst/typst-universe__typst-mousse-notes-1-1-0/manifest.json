@@ -1,0 +1,23 @@
+{
+  "id": "typst-universe/typst-mousse-notes-1-1-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "book",
+  "license": "MIT-0",
+  "source_url": "https://github.com/dogeystamp/mousse-notes",
+  "original_author": "dogeystamp",
+  "package_name": "mousse-notes",
+  "package_version": "1.1.0",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/typst-universe/typst-mousse-notes-1-1-0/main.typ",
+  "relative_path": "raw/typst-universe/typst-mousse-notes-1-1-0/main.typ",
+  "main_doc": "main.typ",
+  "sha256": "4b5ea92e1eeaa9905037e3a4d2e35a01cbfd43e73d7f54cdd7d5a54ca506c8d9",
+  "size_bytes": 7027,
+  "document_class": null,
+  "uses_packages": [],
+  "downloaded_at": "2026-08-02T13:11:22.139Z",
+  "categories": [
+    "book"
+  ],
+  "description": "Lecture notes with a style inspired by old math books."
+}

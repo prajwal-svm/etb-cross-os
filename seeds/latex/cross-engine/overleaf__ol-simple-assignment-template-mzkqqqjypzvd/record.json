@@ -1,0 +1,33 @@
+{
+  "id": "overleaf/ol-simple-assignment-template-mzkqqqjypzvd",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "coursework",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/simple-assignment-template/mzkqqqjypzvd",
+  "original_author": "Emil Jacobsen",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/overleaf__ol-simple-assignment-template-mzkqqqjypzvd/main.tex",
+  "relative_path": "processed/latex/cross-engine/overleaf__ol-simple-assignment-template-mzkqqqjypzvd/main.tex",
+  "sha256": "805d02c4a98ec49f1d21331742a76d2c89f271170c84fab2944bebd5abe93f6f",
+  "size_bytes": 453,
+  "document_class": "article",
+  "uses_packages": [
+    "amsmath",
+    "babel",
+    "fullpage",
+    "graphicx",
+    "inputenc",
+    "url"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 252,
+  "downloaded_at": "2026-08-02T16:42:54.600Z",
+  "filtered_at": "2026-08-02T17:34:41.824Z"
+}

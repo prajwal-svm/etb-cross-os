@@ -1,0 +1,26 @@
+{
+  "id": "typst-universe/typst-neat-cv-1-2-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "cv",
+  "license": "MIT",
+  "source_url": "https://github.com/dialvarezs/neat-cv",
+  "original_author": "Diego Alvarez S.",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/typst-universe__typst-neat-cv-1-2-0/cv.typ",
+  "relative_path": "processed/typst/typst-universe__typst-neat-cv-1-2-0/cv.typ",
+  "sha256": "575f0c66fa1072de8b533face1ae32e7604150dfb2b53c4516b0cb64c64fad81",
+  "size_bytes": 9385,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 698,
+  "downloaded_at": "2026-08-02T13:11:32.950Z",
+  "filtered_at": "2026-08-02T17:34:44.062Z"
+}

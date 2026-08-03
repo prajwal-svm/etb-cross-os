@@ -1,0 +1,32 @@
+{
+  "id": "github-latex/gh-lauriegale10-cambridge-cs-part-ii-project-template-dissertation",
+  "source": "github-latex",
+  "format": "latex",
+  "category": "thesis",
+  "license": "MIT",
+  "source_url": "https://github.com/LaurieGale10/cambridge-cs-part-ii-project-template",
+  "original_author": "LaurieGale10",
+  "stars": 2,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-latex/gh-lauriegale10-cambridge-cs-part-ii-project-template-dissertation/dissertation.tex",
+  "relative_path": "raw/github-latex/gh-lauriegale10-cambridge-cs-part-ii-project-template-dissertation/dissertation.tex",
+  "main_doc": "dissertation.tex",
+  "sha256": "1dd1551911723f0949f01c8bc51ef49b6748f6485915b4e73044dc6b18c8473e",
+  "size_bytes": 4942,
+  "document_class": "report",
+  "uses_packages": [
+    "appendix",
+    "booktabs",
+    "docmute",
+    "geometry",
+    "graphicx",
+    "hyperref",
+    "listings",
+    "makeidx",
+    "natbib",
+    "pdfpages",
+    "setspace",
+    "verbatim"
+  ],
+  "repo_path": "dissertation.tex",
+  "downloaded_at": "2026-08-02T13:34:04.484Z"
+}

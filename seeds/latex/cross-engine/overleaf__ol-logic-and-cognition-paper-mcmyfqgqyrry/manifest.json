@@ -1,0 +1,25 @@
+{
+  "id": "overleaf/ol-logic-and-cognition-paper-mcmyfqgqyrry",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "venue",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/logic-and-cognition-paper/mcmyfqgqyrry",
+  "original_author": "L&amp;C",
+  "title": "Logic and Cognition Paper",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/overleaf/ol-logic-and-cognition-paper-mcmyfqgqyrry/main.tex",
+  "relative_path": "raw/overleaf/ol-logic-and-cognition-paper-mcmyfqgqyrry/main.tex",
+  "main_doc": "main.tex",
+  "sha256": "884936e0d52b411b9c68988f85bac32310655ac88e134cda284710ad5217c00b",
+  "size_bytes": 634,
+  "document_class": "article",
+  "uses_packages": [
+    "apacite",
+    "inputenc",
+    "natbib",
+    "polski"
+  ],
+  "download_method": "view-source-modal",
+  "github_url": null,
+  "downloaded_at": "2026-08-02T14:48:36.879Z"
+}

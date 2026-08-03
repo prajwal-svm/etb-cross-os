@@ -1,0 +1,21 @@
+{
+  "id": "ctan/ctan-datetime2-datetime2-sample-styles",
+  "source": "ctan",
+  "format": "latex",
+  "category": "package-example",
+  "license": "LPPL-1.3c",
+  "source_url": "https://ctan.org/pkg/datetime2",
+  "original_author": "CTAN package: datetime2",
+  "package": "datetime2",
+  "original_path": "/usr/local/texlive/2025/texmf-dist/doc/latex/datetime2/samples/datetime2-sample-styles.tex",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/ctan/ctan-datetime2-datetime2-sample-styles/datetime2-sample-styles.tex",
+  "relative_path": "raw/ctan/ctan-datetime2-datetime2-sample-styles/datetime2-sample-styles.tex",
+  "main_doc": "datetime2-sample-styles.tex",
+  "sha256": "2f4fb7def72883a9c9b1ae73e231d05b179b0b07d62eb6fff05a60907a8e1838",
+  "size_bytes": 2291,
+  "document_class": "report",
+  "uses_packages": [
+    "datetime2"
+  ],
+  "downloaded_at": "2026-08-02T13:05:03.510Z"
+}

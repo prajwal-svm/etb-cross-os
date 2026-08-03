@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-ctafur80-typst-maths-book-template-math-envs-1",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "book",
+  "license": "MIT",
+  "source_url": "https://github.com/ctafur80/typst-maths-book-template",
+  "original_author": "ctafur80",
+  "stars": 0,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-ctafur80-typst-maths-book-template-math-envs-1/math-envs.typ",
+  "relative_path": "raw/github-typst/gh-ctafur80-typst-maths-book-template-math-envs-1/math-envs.typ",
+  "main_doc": "math-envs.typ",
+  "sha256": "e2c9b8e6769a37bc9ab21a55f2185b9acdf390ded54d05ad71d3749c631a5ebc",
+  "size_bytes": 6042,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "math-envs.typ",
+  "downloaded_at": "2026-08-02T14:16:35.210Z"
+}

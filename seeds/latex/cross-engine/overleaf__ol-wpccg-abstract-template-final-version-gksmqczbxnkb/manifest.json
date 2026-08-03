@@ -1,0 +1,23 @@
+{
+  "id": "overleaf/ol-wpccg-abstract-template-final-version-gksmqczbxnkb",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "misc",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/wpccg-abstract-template-final-version/gksmqczbxnkb",
+  "original_author": "Sheila Almeida",
+  "title": "WPCCG - Abstract - Template - Final Version",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/overleaf/ol-wpccg-abstract-template-final-version-gksmqczbxnkb/main.tex",
+  "relative_path": "raw/overleaf/ol-wpccg-abstract-template-final-version-gksmqczbxnkb/main.tex",
+  "main_doc": "main.tex",
+  "sha256": "49e395b55acce00df494ebbdc208d102efaf7f646c6760c991b78df955db4d93",
+  "size_bytes": 3107,
+  "document_class": "elsarticle",
+  "uses_packages": [
+    "amssymb",
+    "geometry"
+  ],
+  "download_method": "view-source-modal",
+  "github_url": null,
+  "downloaded_at": "2026-08-02T14:17:12.192Z"
+}

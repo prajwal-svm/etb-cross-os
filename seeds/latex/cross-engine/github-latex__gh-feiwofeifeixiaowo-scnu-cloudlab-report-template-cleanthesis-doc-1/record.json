@@ -1,0 +1,36 @@
+{
+  "id": "github-latex/gh-feiwofeifeixiaowo-scnu-cloudlab-report-template-cleanthesis-doc-1",
+  "source": "github-latex",
+  "format": "latex",
+  "category": "thesis",
+  "license": "MIT",
+  "source_url": "https://github.com/feiwofeifeixiaowo/SCNU-CloudLab-Report-Template",
+  "original_author": "feiwofeifeixiaowo",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/github-latex__gh-feiwofeifeixiaowo-scnu-cloudlab-report-template-cleanthesis-doc-1/cleanthesis-doc.tex",
+  "relative_path": "processed/latex/cross-engine/github-latex__gh-feiwofeifeixiaowo-scnu-cloudlab-report-template-cleanthesis-doc-1/cleanthesis-doc.tex",
+  "sha256": "960c2fb04a3404ec83916a9948db91fc7c17fa9b698131fb9c366df8bf2bb32d",
+  "size_bytes": 8615,
+  "document_class": "ltxdockit",
+  "uses_packages": [
+    "babel",
+    "booktabs",
+    "btxdockit",
+    "csquotes",
+    "inputenc",
+    "longtable",
+    "pifont",
+    "shortvrb",
+    "tabularx"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 1291,
+  "downloaded_at": "2026-08-02T13:58:31.375Z",
+  "filtered_at": "2026-08-02T17:34:42.764Z"
+}

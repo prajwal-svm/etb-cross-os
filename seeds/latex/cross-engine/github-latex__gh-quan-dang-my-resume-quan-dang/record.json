@@ -1,0 +1,39 @@
+{
+  "id": "github-latex/gh-quan-dang-my-resume-quan-dang",
+  "source": "github-latex",
+  "format": "latex",
+  "category": "cv",
+  "license": "MIT",
+  "source_url": "https://github.com/quan-dang/my-resume",
+  "original_author": "quan-dang",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/github-latex__gh-quan-dang-my-resume-quan-dang/quan-dang.tex",
+  "relative_path": "processed/latex/cross-engine/github-latex__gh-quan-dang-my-resume-quan-dang/quan-dang.tex",
+  "sha256": "91d0cd947c535660ec15a8fcd4a6bb0c224b97f6b70a879157e063944d56515f",
+  "size_bytes": 6080,
+  "document_class": "article",
+  "uses_packages": [
+    "babel",
+    "cite",
+    "color",
+    "enumitem",
+    "etoolbox",
+    "fancyhdr",
+    "fullpage",
+    "hyperref",
+    "latexsym",
+    "marvosym",
+    "titlesec",
+    "verbatim"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 444,
+  "downloaded_at": "2026-08-02T13:50:21.473Z",
+  "filtered_at": "2026-08-02T17:34:43.259Z"
+}

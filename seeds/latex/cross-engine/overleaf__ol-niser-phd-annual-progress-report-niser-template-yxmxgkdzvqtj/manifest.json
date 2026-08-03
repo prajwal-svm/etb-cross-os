@@ -1,0 +1,30 @@
+{
+  "id": "overleaf/ol-niser-phd-annual-progress-report-niser-template-yxmxgkdzvqtj",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "thesis",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/niser-phd-annual-progress-report-niser-template/yxmxgkdzvqtj",
+  "original_author": "Subhankar Mishra and Rucha Bhalchandra Joshi",
+  "title": "NISER PhD Annual Progress Report NISER | Template",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/overleaf/ol-niser-phd-annual-progress-report-niser-template-yxmxgkdzvqtj/main.tex",
+  "relative_path": "raw/overleaf/ol-niser-phd-annual-progress-report-niser-template-yxmxgkdzvqtj/main.tex",
+  "main_doc": "main.tex",
+  "sha256": "a125768890f748f099055cfbf169961795b377412ea9ef309aa83b0434275deb",
+  "size_bytes": 6297,
+  "document_class": "article",
+  "uses_packages": [
+    "amsmath",
+    "cite",
+    "geometry",
+    "graphicx",
+    "hyperref",
+    "libertine",
+    "mathpazo",
+    "natbib",
+    "tabularx"
+  ],
+  "download_method": "view-source-modal",
+  "github_url": null,
+  "downloaded_at": "2026-08-02T14:18:49.180Z"
+}

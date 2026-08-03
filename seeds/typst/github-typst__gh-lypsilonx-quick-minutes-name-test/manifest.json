@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-lypsilonx-quick-minutes-name-test",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "misc",
+  "license": "MIT",
+  "source_url": "https://github.com/Lypsilonx/quick-minutes",
+  "original_author": "Lypsilonx",
+  "stars": 12,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-lypsilonx-quick-minutes-name-test/name-test.typ",
+  "relative_path": "raw/github-typst/gh-lypsilonx-quick-minutes-name-test/name-test.typ",
+  "main_doc": "name-test.typ",
+  "sha256": "6a921e1280b79bb422c03894cdf526f9803f238753b37bc668eb998cca28723a",
+  "size_bytes": 1218,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "name-test.typ",
+  "downloaded_at": "2026-08-02T14:05:50.387Z"
+}

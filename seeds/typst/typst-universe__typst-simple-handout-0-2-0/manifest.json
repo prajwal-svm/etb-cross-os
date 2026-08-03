@@ -1,0 +1,23 @@
+{
+  "id": "typst-universe/typst-simple-handout-0-2-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "book",
+  "license": "MIT",
+  "source_url": "https://github.com/chillcicada/simple-handout-template",
+  "original_author": "chillcicada",
+  "package_name": "simple-handout",
+  "package_version": "0.2.0",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/typst-universe/typst-simple-handout-0-2-0/main.typ",
+  "relative_path": "raw/typst-universe/typst-simple-handout-0-2-0/main.typ",
+  "main_doc": "main.typ",
+  "sha256": "5738a2d7a100c149f67e9c1346ee4b1f310823684b08849cb9ca60d57131286c",
+  "size_bytes": 2497,
+  "document_class": null,
+  "uses_packages": [],
+  "downloaded_at": "2026-08-02T13:12:57.418Z",
+  "categories": [
+    "book"
+  ],
+  "description": "A simple handout template for Chinese typesetting based on TnTT."
+}

@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-lane0218-nudt-report-typst-config-1",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "report",
+  "license": "MIT",
+  "source_url": "https://github.com/Lane0218/NUDT-Report-Typst",
+  "original_author": "Lane0218",
+  "stars": 4,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-lane0218-nudt-report-typst-config-1/config.typ",
+  "relative_path": "raw/github-typst/gh-lane0218-nudt-report-typst-config-1/config.typ",
+  "main_doc": "config.typ",
+  "sha256": "456fe549fe46d135516c3b6070be480266987679db8cc3314c993b212be7433b",
+  "size_bytes": 8091,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "config.typ",
+  "downloaded_at": "2026-08-02T14:08:26.890Z"
+}

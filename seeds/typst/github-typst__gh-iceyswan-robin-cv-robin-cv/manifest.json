@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-iceyswan-robin-cv-robin-cv",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "cv",
+  "license": "MIT",
+  "source_url": "https://github.com/IceySwan/Robin-CV",
+  "original_author": "IceySwan",
+  "stars": 1,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-iceyswan-robin-cv-robin-cv/robin-cv.typ",
+  "relative_path": "raw/github-typst/gh-iceyswan-robin-cv-robin-cv/robin-cv.typ",
+  "main_doc": "robin-cv.typ",
+  "sha256": "7133142f2944b34357ce616738f44c55b6a09281fb8bb1f7a773d39cbb319fd6",
+  "size_bytes": 35173,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "robin-cv.typ",
+  "downloaded_at": "2026-08-02T14:13:42.887Z"
+}

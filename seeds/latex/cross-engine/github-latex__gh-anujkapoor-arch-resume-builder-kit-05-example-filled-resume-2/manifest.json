@@ -1,0 +1,27 @@
+{
+  "id": "github-latex/gh-anujkapoor-arch-resume-builder-kit-05-example-filled-resume-2",
+  "source": "github-latex",
+  "format": "latex",
+  "category": "cv",
+  "license": "MIT",
+  "source_url": "https://github.com/anujkapoor-arch/resume-builder-kit",
+  "original_author": "anujkapoor-arch",
+  "stars": 0,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-latex/gh-anujkapoor-arch-resume-builder-kit-05-example-filled-resume-2/05_EXAMPLE_FILLED_RESUME.tex",
+  "relative_path": "raw/github-latex/gh-anujkapoor-arch-resume-builder-kit-05-example-filled-resume-2/05_EXAMPLE_FILLED_RESUME.tex",
+  "main_doc": "05_EXAMPLE_FILLED_RESUME.tex",
+  "sha256": "9351e43de343eb846f3fad7fe0239d5bb5711b57732e5cb5924a3d8314951ea8",
+  "size_bytes": 11226,
+  "document_class": "article",
+  "uses_packages": [
+    "enumitem",
+    "fontenc",
+    "geometry",
+    "hyperref",
+    "tabularx",
+    "titlesec",
+    "xcolor"
+  ],
+  "repo_path": "05_EXAMPLE_FILLED_RESUME.tex",
+  "downloaded_at": "2026-08-02T14:00:48.334Z"
+}

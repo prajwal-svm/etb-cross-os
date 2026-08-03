@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-tiefseetauchner-tiefletter-document-preset-2",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "business",
+  "license": "MIT",
+  "source_url": "https://github.com/Tiefseetauchner/TiefLetter",
+  "original_author": "Tiefseetauchner",
+  "stars": 5,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-tiefseetauchner-tiefletter-document-preset-2/document_preset.typ",
+  "relative_path": "raw/github-typst/gh-tiefseetauchner-tiefletter-document-preset-2/document_preset.typ",
+  "main_doc": "document_preset.typ",
+  "sha256": "f1d9ec872288ebf9bf8b44ad97f5d7facc6b205ff06ecc0b2460ac8e57061ca3",
+  "size_bytes": 1233,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "classes/document_preset.typ",
+  "downloaded_at": "2026-08-02T14:07:22.062Z"
+}

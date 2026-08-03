@@ -1,0 +1,24 @@
+{
+  "id": "typst-universe/typst-agregyst-1-2-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "report",
+  "license": "MIT",
+  "source_url": "https://github.com/pauladam94/agregyst",
+  "original_author": "Paul Adam",
+  "package_name": "agregyst",
+  "package_version": "1.2.0",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/typst-universe/typst-agregyst-1-2-0/main.typ",
+  "relative_path": "raw/typst-universe/typst-agregyst-1-2-0/main.typ",
+  "main_doc": "main.typ",
+  "sha256": "65b505da333c93ae540d66634f85529ddffa8c4f48ce4c07ab7fb9d45cd5d2a1",
+  "size_bytes": 832,
+  "document_class": null,
+  "uses_packages": [],
+  "downloaded_at": "2026-08-02T13:05:37.921Z",
+  "categories": [
+    "utility",
+    "report"
+  ],
+  "description": "Two-column agrégation lesson with summary at the end."
+}

@@ -1,0 +1,40 @@
+{
+  "id": "github-latex/gh-uc-davis-cs-tutoring-academic-templates-homeworktemplate",
+  "source": "github-latex",
+  "format": "latex",
+  "category": "coursework",
+  "license": "MIT",
+  "source_url": "https://github.com/UC-Davis-CS-Tutoring/Academic-Templates",
+  "original_author": "UC-Davis-CS-Tutoring",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/github-latex__gh-uc-davis-cs-tutoring-academic-templates-homeworktemplate/HomeworkTemplate.tex",
+  "relative_path": "processed/latex/cross-engine/github-latex__gh-uc-davis-cs-tutoring-academic-templates-homeworktemplate/HomeworkTemplate.tex",
+  "sha256": "ceecc4a4da5d5382b47397a62a5200f93367622d6c909bff27d1727564ecfff6",
+  "size_bytes": 6843,
+  "document_class": "scrartcl",
+  "uses_packages": [
+    "algorithm",
+    "algpseudocode",
+    "amsfonts",
+    "amsmath",
+    "amsthm",
+    "babel",
+    "fancyhdr",
+    "fontenc",
+    "fourier",
+    "hyperref",
+    "mathtools",
+    "sectsty",
+    "tikz"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 1020,
+  "downloaded_at": "2026-08-02T13:49:26.502Z",
+  "filtered_at": "2026-08-02T17:34:43.498Z"
+}

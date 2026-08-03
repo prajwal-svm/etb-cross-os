@@ -1,0 +1,25 @@
+{
+  "id": "template-packs/computational-neuroscience-notes",
+  "source": "template-packs",
+  "format": "latex",
+  "category": "report",
+  "category_raw": "Theses & Reports",
+  "license": "CC0-1.0",
+  "source_url": "https://github.com/Oleafly/template-packs",
+  "original_author": "Oleafly",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/template-packs/computational-neuroscience-notes/main.tex",
+  "relative_path": "raw/template-packs/computational-neuroscience-notes/main.tex",
+  "main_doc": "main.tex",
+  "sha256": "be6b3cc2cc0f0ad4b09952f09acf73a72760c8d571083882174e30e51601c87d",
+  "size_bytes": 6788,
+  "document_class": "article",
+  "uses_packages": [
+    "amsmath",
+    "geometry",
+    "libertine",
+    "pgfplots",
+    "xcolor"
+  ],
+  "engine_hint": "xetex",
+  "downloaded_at": "2026-08-02T13:05:15.831Z"
+}

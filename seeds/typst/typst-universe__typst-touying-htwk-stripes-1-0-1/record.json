@@ -1,0 +1,26 @@
+{
+  "id": "typst-universe/typst-touying-htwk-stripes-1-0-1",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "beamer",
+  "license": "MIT",
+  "source_url": "https://github.com/klnsdr/touying-htwk-stripes",
+  "original_author": "KlnSdr",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/typst-universe__typst-touying-htwk-stripes-1-0-1/template.typ",
+  "relative_path": "processed/typst/typst-universe__typst-touying-htwk-stripes-1-0-1/template.typ",
+  "sha256": "d671cfb3c0a4927056ef6ce5e32236efec84d9ec11b1b3550f8ce0faed6be1ab",
+  "size_bytes": 551,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 275,
+  "downloaded_at": "2026-08-02T13:14:06.357Z",
+  "filtered_at": "2026-08-02T17:34:44.284Z"
+}

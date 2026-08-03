@@ -1,0 +1,35 @@
+{
+  "id": "github-latex/gh-nguerrero699-cv-nicolas-guerrero-cvnicolasguerrero",
+  "source": "github-latex",
+  "format": "latex",
+  "category": "cv",
+  "license": "MIT",
+  "source_url": "https://github.com/nguerrero699/cv-nicolas-guerrero",
+  "original_author": "nguerrero699",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/github-latex__gh-nguerrero699-cv-nicolas-guerrero-cvnicolasguerrero/CVNicolasGuerrero.tex",
+  "relative_path": "processed/latex/cross-engine/github-latex__gh-nguerrero699-cv-nicolas-guerrero-cvnicolasguerrero/CVNicolasGuerrero.tex",
+  "sha256": "df92a60bc710c0a88e73493d10264134088bddd291db1c3a0e25f51b07956c61",
+  "size_bytes": 4773,
+  "document_class": "article",
+  "uses_packages": [
+    "enumitem",
+    "fontawesome5",
+    "geometry",
+    "hyperref",
+    "parskip",
+    "tikz",
+    "titlesec",
+    "xcolor"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 1465,
+  "downloaded_at": "2026-08-02T13:39:20.904Z",
+  "filtered_at": "2026-08-02T17:34:43.181Z"
+}

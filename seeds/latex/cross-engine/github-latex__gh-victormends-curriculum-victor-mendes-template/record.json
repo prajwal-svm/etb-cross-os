@@ -1,0 +1,35 @@
+{
+  "id": "github-latex/gh-victormends-curriculum-victor-mendes-template",
+  "source": "github-latex",
+  "format": "latex",
+  "category": "cv",
+  "license": "MIT",
+  "source_url": "https://github.com/victormends/curriculum-victor-mendes",
+  "original_author": "victormends",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/github-latex__gh-victormends-curriculum-victor-mendes-template/template.tex",
+  "relative_path": "processed/latex/cross-engine/github-latex__gh-victormends-curriculum-victor-mendes-template/template.tex",
+  "sha256": "2728f26df47d4c7034cae62b09d4d8a2e1c60d53be05e3a68577f755f65ea80f",
+  "size_bytes": 7411,
+  "document_class": "article",
+  "uses_packages": [
+    "charter",
+    "enumitem",
+    "fontenc",
+    "geometry",
+    "hyperref",
+    "inputenc",
+    "titlesec",
+    "xcolor"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 386,
+  "downloaded_at": "2026-08-02T13:51:21.262Z",
+  "filtered_at": "2026-08-02T17:34:43.533Z"
+}

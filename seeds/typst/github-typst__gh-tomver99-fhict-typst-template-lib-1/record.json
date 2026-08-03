@@ -1,0 +1,26 @@
+{
+  "id": "github-typst/gh-tomver99-fhict-typst-template-lib-1",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "report",
+  "license": "MIT",
+  "source_url": "https://github.com/TomVer99/FHICT-typst-template",
+  "original_author": "TomVer99",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/github-typst__gh-tomver99-fhict-typst-template-lib-1/lib.typ",
+  "relative_path": "processed/typst/github-typst__gh-tomver99-fhict-typst-template-lib-1/lib.typ",
+  "sha256": "3d6f2375e9dfcd533e4e7f6fd49c3bf86d5a5df5e78e93b3dc174ee028b64d33",
+  "size_bytes": 27469,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 40,
+  "downloaded_at": "2026-08-02T14:04:11.567Z",
+  "filtered_at": "2026-08-02T17:34:45.803Z"
+}

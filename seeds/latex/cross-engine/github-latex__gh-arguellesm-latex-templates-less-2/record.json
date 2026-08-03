@@ -1,0 +1,32 @@
+{
+  "id": "github-latex/gh-arguellesm-latex-templates-less-2",
+  "source": "github-latex",
+  "format": "latex",
+  "category": "misc",
+  "license": "MIT",
+  "source_url": "https://github.com/arguellesm/latex-templates",
+  "original_author": "arguellesm",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/github-latex__gh-arguellesm-latex-templates-less-2/less.tex",
+  "relative_path": "processed/latex/cross-engine/github-latex__gh-arguellesm-latex-templates-less-2/less.tex",
+  "sha256": "e8eaa2d86e12d509dd6ab2aa96396c098436c10a8e5d5869f758df3abaaa5e43",
+  "size_bytes": 1001,
+  "document_class": "article",
+  "uses_packages": [
+    "babel",
+    "enumitem",
+    "fontenc",
+    "lipsum",
+    "titlesec"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 246,
+  "downloaded_at": "2026-08-02T13:22:47.142Z",
+  "filtered_at": "2026-08-02T17:34:42.478Z"
+}

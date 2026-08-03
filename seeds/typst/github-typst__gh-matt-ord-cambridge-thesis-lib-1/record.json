@@ -1,0 +1,26 @@
+{
+  "id": "github-typst/gh-matt-ord-cambridge-thesis-lib-1",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "thesis",
+  "license": "MIT",
+  "source_url": "https://github.com/Matt-Ord/cambridge_thesis",
+  "original_author": "Matt-Ord",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/github-typst__gh-matt-ord-cambridge-thesis-lib-1/lib.typ",
+  "relative_path": "processed/typst/github-typst__gh-matt-ord-cambridge-thesis-lib-1/lib.typ",
+  "sha256": "b1ebc2b51ac3097cf944143e56a9846643a381f9321a30fddb864dc9e41634c1",
+  "size_bytes": 9355,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 13,
+  "downloaded_at": "2026-08-02T14:22:15.752Z",
+  "filtered_at": "2026-08-02T17:34:45.299Z"
+}

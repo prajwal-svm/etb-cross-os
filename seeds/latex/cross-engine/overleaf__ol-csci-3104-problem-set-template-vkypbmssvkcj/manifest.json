@@ -1,0 +1,24 @@
+{
+  "id": "overleaf/ol-csci-3104-problem-set-template-vkypbmssvkcj",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "misc",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/csci-3104-problem-set-template/vkypbmssvkcj",
+  "original_author": "Justin Davis",
+  "title": "CSCI 3104 Problem Set Template",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/overleaf/ol-csci-3104-problem-set-template-vkypbmssvkcj/main.tex",
+  "relative_path": "raw/overleaf/ol-csci-3104-problem-set-template-vkypbmssvkcj/main.tex",
+  "main_doc": "main.tex",
+  "sha256": "3a499ab7fd00cbd259777dc69cb3a4a24106a052b88412421e4dda13d9fce6fe",
+  "size_bytes": 1003,
+  "document_class": "article",
+  "uses_packages": [
+    "amsfonts",
+    "amsmath",
+    "amssymb"
+  ],
+  "download_method": "view-source-modal",
+  "github_url": null,
+  "downloaded_at": "2026-08-02T14:41:04.297Z"
+}

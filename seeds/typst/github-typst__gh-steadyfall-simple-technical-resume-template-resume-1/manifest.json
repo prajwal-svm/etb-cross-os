@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-steadyfall-simple-technical-resume-template-resume-1",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "cv",
+  "license": "MIT",
+  "source_url": "https://github.com/steadyfall/simple-technical-resume-template",
+  "original_author": "steadyfall",
+  "stars": 22,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-steadyfall-simple-technical-resume-template-resume-1/resume.typ",
+  "relative_path": "raw/github-typst/gh-steadyfall-simple-technical-resume-template-resume-1/resume.typ",
+  "main_doc": "resume.typ",
+  "sha256": "529367be92edfaa836708f1c401209e0a814db498a6becb0c686985d7619a2e8",
+  "size_bytes": 5161,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "src/resume.typ",
+  "downloaded_at": "2026-08-02T14:04:48.451Z"
+}

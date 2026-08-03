@@ -1,0 +1,23 @@
+{
+  "id": "overleaf/ol-presentation-template-ycwnkvzxyzwv",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "beamer",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/presentation-template/ycwnkvzxyzwv",
+  "original_author": "Narendra Mathuriya",
+  "title": "Presentation template",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/overleaf/ol-presentation-template-ycwnkvzxyzwv/main.tex",
+  "relative_path": "raw/overleaf/ol-presentation-template-ycwnkvzxyzwv/main.tex",
+  "main_doc": "main.tex",
+  "sha256": "cb367042a17428d8bae135af4130df0fe7abb90967a5a970345e813819679c96",
+  "size_bytes": 8928,
+  "document_class": "beamer",
+  "uses_packages": [
+    "booktabs",
+    "graphicx"
+  ],
+  "download_method": "view-source-modal",
+  "github_url": null,
+  "downloaded_at": "2026-08-02T15:41:07.917Z"
+}

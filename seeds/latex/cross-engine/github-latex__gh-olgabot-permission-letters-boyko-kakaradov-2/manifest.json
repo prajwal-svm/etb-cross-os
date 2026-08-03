@@ -1,0 +1,22 @@
+{
+  "id": "github-latex/gh-olgabot-permission-letters-boyko-kakaradov-2",
+  "source": "github-latex",
+  "format": "latex",
+  "category": "thesis",
+  "license": "MIT",
+  "source_url": "https://github.com/olgabot/permission-letters",
+  "original_author": "olgabot",
+  "stars": 2,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-latex/gh-olgabot-permission-letters-boyko-kakaradov-2/Boyko-Kakaradov.tex",
+  "relative_path": "raw/github-latex/gh-olgabot-permission-letters-boyko-kakaradov-2/Boyko-Kakaradov.tex",
+  "main_doc": "Boyko-Kakaradov.tex",
+  "sha256": "bd8e817d01b381e8b474d31a7817310e9c8a71211498dee14c87c99cdacf7830",
+  "size_bytes": 1790,
+  "document_class": "article",
+  "uses_packages": [
+    "newpxtext",
+    "showframe"
+  ],
+  "repo_path": "letters/Boyko-Kakaradov.tex",
+  "downloaded_at": "2026-08-02T13:36:50.780Z"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "typst-universe/typst-flow-way-0-2-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "report",
+  "license": "MIT",
+  "source_url": "https://github.com/fexh10/flow-way",
+  "original_author": "Fernando H. Gavezzotti",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/typst-universe__typst-flow-way-0-2-0/main.typ",
+  "relative_path": "processed/typst/typst-universe__typst-flow-way-0-2-0/main.typ",
+  "sha256": "756c58650d134ae0a130ac87e71f3789174f31099f55efd8597c87e46dc939d6",
+  "size_bytes": 903,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 211,
+  "downloaded_at": "2026-08-02T13:08:28.026Z",
+  "filtered_at": "2026-08-02T17:34:43.827Z"
+}

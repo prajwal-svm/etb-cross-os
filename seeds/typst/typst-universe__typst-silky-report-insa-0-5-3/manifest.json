@@ -1,0 +1,23 @@
+{
+  "id": "typst-universe/typst-silky-report-insa-0-5-3",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "report",
+  "license": "MIT",
+  "source_url": "https://github.com/SkytAsul/INSA-Typst-Template",
+  "original_author": "SkytAsul",
+  "package_name": "silky-report-insa",
+  "package_version": "0.5.3",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/typst-universe/typst-silky-report-insa-0-5-3/main.typ",
+  "relative_path": "raw/typst-universe/typst-silky-report-insa-0-5-3/main.typ",
+  "main_doc": "main.typ",
+  "sha256": "b5d49cbbb795c453303335985e453bbf8dbdaabdf7312efe001a5e835122eec3",
+  "size_bytes": 263,
+  "document_class": null,
+  "uses_packages": [],
+  "downloaded_at": "2026-08-02T13:12:52.096Z",
+  "categories": [
+    "report"
+  ],
+  "description": "A template made for reports and other documents of INSA, a French engineering school."
+}

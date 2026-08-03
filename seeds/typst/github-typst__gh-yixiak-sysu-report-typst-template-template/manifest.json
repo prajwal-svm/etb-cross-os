@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-yixiak-sysu-report-typst-template-template",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "report",
+  "license": "MIT",
+  "source_url": "https://github.com/yixiak/sysu-report-typst-template",
+  "original_author": "yixiak",
+  "stars": 0,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-yixiak-sysu-report-typst-template-template/template.typ",
+  "relative_path": "raw/github-typst/gh-yixiak-sysu-report-typst-template-template/template.typ",
+  "main_doc": "template.typ",
+  "sha256": "77c4994d5fa33ad86c97edd8720e575af1da0f3a29185c808c0587d04341fdd7",
+  "size_bytes": 1064,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "template.typ",
+  "downloaded_at": "2026-08-02T14:15:59.227Z"
+}

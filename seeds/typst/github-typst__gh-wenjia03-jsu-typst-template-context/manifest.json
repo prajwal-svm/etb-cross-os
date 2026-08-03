@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-wenjia03-jsu-typst-template-context",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "misc",
+  "license": "MIT",
+  "source_url": "https://github.com/wenjia03/JSU-Typst-Template",
+  "original_author": "wenjia03",
+  "stars": 1,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-wenjia03-jsu-typst-template-context/context.typ",
+  "relative_path": "raw/github-typst/gh-wenjia03-jsu-typst-template-context/context.typ",
+  "main_doc": "context.typ",
+  "sha256": "c06576863125c2637a8bedc349f29a3ce6c0337be651c06656999621d2a09117",
+  "size_bytes": 1320,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "Templates/实验报告(无框）/contents/context.typ",
+  "downloaded_at": "2026-08-02T14:11:28.887Z"
+}

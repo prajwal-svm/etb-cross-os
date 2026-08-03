@@ -1,0 +1,26 @@
+{
+  "id": "typst-universe/typst-leonux-1-1-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "beamer",
+  "license": "MIT",
+  "source_url": "https://github.com/LordBlacky/leonux",
+  "original_author": "LordBlacky",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/typst-universe__typst-leonux-1-1-0/main.typ",
+  "relative_path": "processed/typst/typst-universe__typst-leonux-1-1-0/main.typ",
+  "sha256": "18a958afb2788bce54b0b417ede5e1e243004fe6e17d2b7a2480ced4076f59e6",
+  "size_bytes": 1257,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 235,
+  "downloaded_at": "2026-08-02T13:09:57.429Z",
+  "filtered_at": "2026-08-02T17:34:43.951Z"
+}

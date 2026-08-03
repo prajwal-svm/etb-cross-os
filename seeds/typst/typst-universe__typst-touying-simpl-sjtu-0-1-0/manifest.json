@@ -1,0 +1,23 @@
+{
+  "id": "typst-universe/typst-touying-simpl-sjtu-0-1-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "beamer",
+  "license": "MIT",
+  "source_url": "https://github.com/tzhTaylor/touying-sjtu",
+  "original_author": "tzhTaylor",
+  "package_name": "touying-simpl-sjtu",
+  "package_version": "0.1.0",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/typst-universe/typst-touying-simpl-sjtu-0-1-0/main.typ",
+  "relative_path": "raw/typst-universe/typst-touying-simpl-sjtu-0-1-0/main.typ",
+  "main_doc": "main.typ",
+  "sha256": "9eea9de7117044aa550fb7f5a379ca8d294f52e56144c39fe9864b1688449de4",
+  "size_bytes": 844,
+  "document_class": null,
+  "uses_packages": [],
+  "downloaded_at": "2026-08-02T13:14:24.431Z",
+  "categories": [
+    "presentation"
+  ],
+  "description": "上海交通大学 Touying 幻灯片主题 (Touying Slide Theme for SJTU)"
+}

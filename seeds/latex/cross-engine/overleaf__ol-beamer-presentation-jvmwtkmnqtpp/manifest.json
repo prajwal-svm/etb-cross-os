@@ -1,0 +1,24 @@
+{
+  "id": "overleaf/ol-beamer-presentation-jvmwtkmnqtpp",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "beamer",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/beamer-presentation/jvmwtkmnqtpp",
+  "original_author": "Example by Overleaf",
+  "title": "Beamer Presentation",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/overleaf/ol-beamer-presentation-jvmwtkmnqtpp/main.tex",
+  "relative_path": "raw/overleaf/ol-beamer-presentation-jvmwtkmnqtpp/main.tex",
+  "main_doc": "main.tex",
+  "sha256": "8c7b54c2491e2c2b4009ac44052f91f92b7c2d98991ddf242ac681b5f27c2e12",
+  "size_bytes": 2496,
+  "document_class": "beamer",
+  "uses_packages": [
+    "babel",
+    "fontenc",
+    "inputenc"
+  ],
+  "download_method": "view-source-modal",
+  "github_url": null,
+  "downloaded_at": "2026-08-02T14:56:12.803Z"
+}

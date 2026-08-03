@@ -1,0 +1,27 @@
+{
+  "id": "github-latex/gh-haskiduan-weekly-report-latex-template-templete",
+  "source": "github-latex",
+  "format": "latex",
+  "category": "report",
+  "license": "MIT",
+  "source_url": "https://github.com/HaskiDuan/weekly-report-latex-template",
+  "original_author": "HaskiDuan",
+  "stars": 0,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-latex/gh-haskiduan-weekly-report-latex-template-templete/templete.tex",
+  "relative_path": "raw/github-latex/gh-haskiduan-weekly-report-latex-template-templete/templete.tex",
+  "main_doc": "templete.tex",
+  "sha256": "05dc0eb8bb49fed590badfe390fb8e7df15dfef38568ce6481f44d3b3e90ec51",
+  "size_bytes": 16826,
+  "document_class": "article",
+  "uses_packages": [
+    "amsfonts",
+    "amsmath",
+    "amssymb",
+    "array",
+    "geometry",
+    "graphicx",
+    "times"
+  ],
+  "repo_path": "templete/templete.tex",
+  "downloaded_at": "2026-08-02T13:59:09.219Z"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "template-packs/math-problem-set",
+  "source": "template-packs",
+  "format": "latex",
+  "category": "coursework",
+  "license": "CC0-1.0",
+  "source_url": "https://github.com/Oleafly/template-packs",
+  "original_author": "Oleafly",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/template-packs__math-problem-set/main.tex",
+  "relative_path": "processed/latex/cross-engine/template-packs__math-problem-set/main.tex",
+  "sha256": "1317e49e102815361678f8d96b8d90fcb90182d1f4009d4c1584b3de41de005b",
+  "size_bytes": 3226,
+  "document_class": "article",
+  "uses_packages": [
+    "amsmath",
+    "amssymb",
+    "amsthm",
+    "geometry",
+    "lmodern",
+    "xcolor"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 293,
+  "downloaded_at": "2026-08-02T13:05:15.826Z",
+  "filtered_at": "2026-08-02T17:34:40.816Z"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "typst-universe/typst-tiefcars-0-2-1",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "misc",
+  "license": "MIT",
+  "source_url": "https://github.com/Tiefseetauchner/TiefCARS",
+  "original_author": "Lena Tauchner",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/typst-universe__typst-tiefcars-0-2-1/main.typ",
+  "relative_path": "processed/typst/typst-universe__typst-tiefcars-0-2-1/main.typ",
+  "sha256": "75a8acb5cc021a3cbf92ae3cae0ff67cb3a3657b7c811a43059b4065d91bc77e",
+  "size_bytes": 901,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 216,
+  "downloaded_at": "2026-08-02T13:13:50.958Z",
+  "filtered_at": "2026-08-02T17:34:44.256Z"
+}

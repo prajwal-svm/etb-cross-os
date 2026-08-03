@@ -1,0 +1,26 @@
+{
+  "id": "typst-universe/typst-unofficial-icl-doc-thesis-0-1-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "thesis",
+  "license": "MIT",
+  "source_url": "https://github.com/bkmashiro/ic-individual-project-typst",
+  "original_author": "bkmashiro",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/typst-universe__typst-unofficial-icl-doc-thesis-0-1-0/main.typ",
+  "relative_path": "processed/typst/typst-universe__typst-unofficial-icl-doc-thesis-0-1-0/main.typ",
+  "sha256": "a7cbb353b9aaebf64c87daeedb1c43fb226f9a5b1c2c6416db0ede1213a8b7d1",
+  "size_bytes": 632,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 296,
+  "downloaded_at": "2026-08-02T13:15:16.414Z",
+  "filtered_at": "2026-08-02T17:34:44.367Z"
+}

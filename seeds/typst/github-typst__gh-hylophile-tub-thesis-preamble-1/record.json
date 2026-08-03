@@ -1,0 +1,26 @@
+{
+  "id": "github-typst/gh-hylophile-tub-thesis-preamble-1",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "thesis",
+  "license": "MIT",
+  "source_url": "https://github.com/hylophile/tub-thesis",
+  "original_author": "hylophile",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/github-typst__gh-hylophile-tub-thesis-preamble-1/preamble.typ",
+  "relative_path": "processed/typst/github-typst__gh-hylophile-tub-thesis-preamble-1/preamble.typ",
+  "sha256": "ba73d4eb3b2ea35b0a73ab1cb8de2c7877161d89902ab48009371d16d72a079a",
+  "size_bytes": 2203,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 11,
+  "downloaded_at": "2026-08-02T14:19:24.308Z",
+  "filtered_at": "2026-08-02T17:34:45.004Z"
+}

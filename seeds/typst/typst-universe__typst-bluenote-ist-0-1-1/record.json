@@ -1,0 +1,26 @@
+{
+  "id": "typst-universe/typst-bluenote-ist-0-1-1",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "beamer",
+  "license": "MIT",
+  "source_url": "https://typst.app/universe/package/bluenote-ist",
+  "original_author": "co-gy",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/typst-universe__typst-bluenote-ist-0-1-1/main.typ",
+  "relative_path": "processed/typst/typst-universe__typst-bluenote-ist-0-1-1/main.typ",
+  "sha256": "09d5d829e8afebddf1a3d9268dcb5295de1f32c4da899127feebdefe0d2ee423",
+  "size_bytes": 595,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 306,
+  "downloaded_at": "2026-08-02T13:06:14.697Z",
+  "filtered_at": "2026-08-02T17:34:43.652Z"
+}

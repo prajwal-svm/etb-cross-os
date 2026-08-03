@@ -1,0 +1,28 @@
+{
+  "id": "github-latex/gh-deleron-latextb-example",
+  "source": "github-latex",
+  "format": "latex",
+  "category": "beamer",
+  "license": "MIT",
+  "source_url": "https://github.com/deleron/latextb",
+  "original_author": "deleron",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/github-latex__gh-deleron-latextb-example/example.tex",
+  "relative_path": "processed/latex/cross-engine/github-latex__gh-deleron-latextb-example/example.tex",
+  "sha256": "5ac44e2535a00afed3db129a38bb043bd19a66b2e988a248e58a5ffbf1ac7b00",
+  "size_bytes": 750,
+  "document_class": "article",
+  "uses_packages": [
+    "preview"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 197,
+  "downloaded_at": "2026-08-02T13:31:53.932Z",
+  "filtered_at": "2026-08-02T17:34:42.633Z"
+}

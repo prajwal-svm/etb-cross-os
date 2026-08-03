@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-ustctug-ustc-thesis-typst-template",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "thesis",
+  "license": "MIT",
+  "source_url": "https://github.com/ustctug/ustc-thesis-typst",
+  "original_author": "ustctug",
+  "stars": 15,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-ustctug-ustc-thesis-typst-template/template.typ",
+  "relative_path": "raw/github-typst/gh-ustctug-ustc-thesis-typst-template/template.typ",
+  "main_doc": "template.typ",
+  "sha256": "116cd4c2e0274e11bb2ba8430a701d286549983693b33eadc9a6c38b6ec535f3",
+  "size_bytes": 5667,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "template.typ",
+  "downloaded_at": "2026-08-02T14:05:32.194Z"
+}

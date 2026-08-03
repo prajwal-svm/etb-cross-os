@@ -1,0 +1,26 @@
+{
+  "id": "github-typst/gh-djduque-bye-ubc-abstract-2",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "misc",
+  "license": "MIT",
+  "source_url": "https://github.com/DJDuque/bye-ubc",
+  "original_author": "DJDuque",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/github-typst__gh-djduque-bye-ubc-abstract-2/abstract.typ",
+  "relative_path": "processed/typst/github-typst__gh-djduque-bye-ubc-abstract-2/abstract.typ",
+  "sha256": "01b46294f36842aa4092cd442353fe2df6eeedc1118bc3ddc64e2d1bac1d5832",
+  "size_bytes": 242,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 245,
+  "downloaded_at": "2026-08-02T14:09:17.777Z",
+  "filtered_at": "2026-08-02T17:34:44.766Z"
+}

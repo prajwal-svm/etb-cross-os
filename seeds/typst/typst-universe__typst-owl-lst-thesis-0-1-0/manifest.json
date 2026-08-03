@@ -1,0 +1,23 @@
+{
+  "id": "typst-universe/typst-owl-lst-thesis-0-1-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "thesis",
+  "license": "MIT-0",
+  "source_url": "https://github.com/coli-saar/typst-lst-template",
+  "original_author": "Alexander Koller",
+  "package_name": "owl-lst-thesis",
+  "package_version": "0.1.0",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/typst-universe/typst-owl-lst-thesis-0-1-0/main.typ",
+  "relative_path": "raw/typst-universe/typst-owl-lst-thesis-0-1-0/main.typ",
+  "main_doc": "main.typ",
+  "sha256": "d623c65a2364f991c19c50d7c86501c89d62dbf43403ce274e52d5ac684c6d93",
+  "size_bytes": 1062,
+  "document_class": null,
+  "uses_packages": [],
+  "downloaded_at": "2026-08-02T13:11:54.165Z",
+  "categories": [
+    "thesis"
+  ],
+  "description": "Thesis in the LST department at Saarland University."
+}

@@ -1,0 +1,28 @@
+{
+  "id": "ctan/ctan-eso-pic-eso-ex1",
+  "source": "ctan",
+  "format": "latex",
+  "category": "package-example",
+  "license": "LPPL-1.3c",
+  "source_url": "https://ctan.org/pkg/eso-pic",
+  "original_author": "CTAN package: eso-pic",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/ctan__ctan-eso-pic-eso-ex1/eso-ex1.tex",
+  "relative_path": "processed/latex/cross-engine/ctan__ctan-eso-pic-eso-ex1/eso-ex1.tex",
+  "sha256": "6578d673ba7e503eaabcb292efdf4c1752137d62f128dc89067be0355fc7e57b",
+  "size_bytes": 770,
+  "document_class": "article",
+  "uses_packages": [
+    "eso-pic"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 221,
+  "downloaded_at": "2026-08-02T13:05:02.380Z",
+  "filtered_at": "2026-08-02T17:34:42.243Z"
+}

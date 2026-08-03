@@ -1,0 +1,32 @@
+{
+  "id": "template-packs/book-chapter",
+  "source": "template-packs",
+  "format": "latex",
+  "category": "book",
+  "license": "CC0-1.0",
+  "source_url": "https://github.com/Oleafly/template-packs",
+  "original_author": "Oleafly",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/template-packs__book-chapter/main.tex",
+  "relative_path": "processed/latex/cross-engine/template-packs__book-chapter/main.tex",
+  "sha256": "2bd458068f1d2bd82bef39fafe1067afe12ccc2f83335b97ef62c58c68da6518",
+  "size_bytes": 2383,
+  "document_class": "book",
+  "uses_packages": [
+    "geometry",
+    "hyperref",
+    "lettrine",
+    "titlesec",
+    "xcolor"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 409,
+  "downloaded_at": "2026-08-02T13:05:15.739Z",
+  "filtered_at": "2026-08-02T17:34:40.744Z"
+}

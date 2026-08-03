@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-reckerp-fontys-thesis-template-ai-authenticity-2",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "thesis",
+  "license": "MIT",
+  "source_url": "https://github.com/reckerp/fontys-thesis-template",
+  "original_author": "reckerp",
+  "stars": 3,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-reckerp-fontys-thesis-template-ai-authenticity-2/ai-authenticity.typ",
+  "relative_path": "raw/github-typst/gh-reckerp-fontys-thesis-template-ai-authenticity-2/ai-authenticity.typ",
+  "main_doc": "ai-authenticity.typ",
+  "sha256": "5c24fb29fbeeba16b51915482f630a59218f441715ff17f6da609acda861a2d2",
+  "size_bytes": 3337,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "src/pages/ai-authenticity.typ",
+  "downloaded_at": "2026-08-02T14:09:09.941Z"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "typst-universe/typst-coral-cv-0-1-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "cv",
+  "license": "MIT-0",
+  "source_url": "https://typst.app/universe/package/coral-cv",
+  "original_author": "BriceLucifer",
+  "package_name": "coral-cv",
+  "package_version": "0.1.0",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/typst-universe/typst-coral-cv-0-1-0/main.typ",
+  "relative_path": "raw/typst-universe/typst-coral-cv-0-1-0/main.typ",
+  "main_doc": "main.typ",
+  "sha256": "244faa2638cc1025f6747a94136e0f943c4d67e586918622855274a1275741d9",
+  "size_bytes": 1813,
+  "document_class": null,
+  "uses_packages": [],
+  "downloaded_at": "2026-08-02T13:07:29.186Z",
+  "categories": [
+    "cv"
+  ],
+  "description": "Elegant coral-accented CV and cover letter for job applications."
+}

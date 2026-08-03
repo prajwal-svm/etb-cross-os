@@ -1,0 +1,34 @@
+{
+  "id": "overleaf/ol-blank-paper-with-czech-formatting-and-fancier-layout-myskxtwfjmsk",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "venue",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/blank-paper-with-czech-formatting-and-fancier-layout/myskxtwfjmsk",
+  "original_author": "ScamanderWayne",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/overleaf__ol-blank-paper-with-czech-formatting-and-fancier-layout-myskxtwfjmsk/main.tex",
+  "relative_path": "processed/latex/cross-engine/overleaf__ol-blank-paper-with-czech-formatting-and-fancier-layout-myskxtwfjmsk/main.tex",
+  "sha256": "1dc67c83175853d2018564c9884057f81f00a0aa023246a7bff08eed5e3f0da4",
+  "size_bytes": 1546,
+  "document_class": "scrartcl",
+  "uses_packages": [
+    "amsmath",
+    "babel",
+    "csquotes",
+    "fancyhdr",
+    "geometry",
+    "multicol",
+    "titling"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 651,
+  "downloaded_at": "2026-08-02T15:24:20.209Z",
+  "filtered_at": "2026-08-02T17:34:40.975Z"
+}

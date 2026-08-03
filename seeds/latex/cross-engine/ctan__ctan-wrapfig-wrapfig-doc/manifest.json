@@ -1,0 +1,32 @@
+{
+  "id": "ctan/ctan-wrapfig-wrapfig-doc",
+  "source": "ctan",
+  "format": "latex",
+  "category": "package-example",
+  "license": "LPPL-1.3c",
+  "source_url": "https://ctan.org/pkg/wrapfig",
+  "original_author": "CTAN package: wrapfig",
+  "package": "wrapfig",
+  "original_path": "/usr/local/texlive/2025/texmf-dist/doc/latex/wrapfig/wrapfig-doc.tex",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/ctan/ctan-wrapfig-wrapfig-doc/wrapfig-doc.tex",
+  "relative_path": "raw/ctan/ctan-wrapfig-wrapfig-doc/wrapfig-doc.tex",
+  "main_doc": "wrapfig-doc.tex",
+  "sha256": "246ec59f33f2910e36ae524b0cec2b396260a50238fc115b9273c0fad270f27a",
+  "size_bytes": 15201,
+  "document_class": "scrartcl",
+  "uses_packages": [
+    "amstext",
+    "array",
+    "etex",
+    "fixltx2e",
+    "fontenc",
+    "hyperref",
+    "lmodern",
+    "microtype",
+    "textcomp",
+    "tikz",
+    "wrapfig",
+    "xcolor"
+  ],
+  "downloaded_at": "2026-08-02T13:04:50.695Z"
+}

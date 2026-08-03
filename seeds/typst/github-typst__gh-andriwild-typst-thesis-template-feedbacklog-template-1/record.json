@@ -1,0 +1,26 @@
+{
+  "id": "github-typst/gh-andriwild-typst-thesis-template-feedbacklog-template-1",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "thesis",
+  "license": "MIT",
+  "source_url": "https://github.com/andriwild/typst-thesis-template",
+  "original_author": "andriwild",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/github-typst__gh-andriwild-typst-thesis-template-feedbacklog-template-1/feedbacklog_template.typ",
+  "relative_path": "processed/typst/github-typst__gh-andriwild-typst-thesis-template-feedbacklog-template-1/feedbacklog_template.typ",
+  "sha256": "3e12ac1eb84f9e19544bca00e9540b1fce250d98bcbdaf4bb042d946408dffad",
+  "size_bytes": 1311,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 10,
+  "downloaded_at": "2026-08-02T14:15:04.727Z",
+  "filtered_at": "2026-08-02T17:34:44.499Z"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "template-packs/bilingual-chinese-english-thesis",
+  "source": "template-packs",
+  "format": "latex",
+  "category": "thesis",
+  "license": "CC0-1.0",
+  "source_url": "https://github.com/Oleafly/template-packs",
+  "original_author": "Oleafly",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/engine-specific/template-packs__bilingual-chinese-english-thesis/main.tex",
+  "relative_path": "processed/latex/engine-specific/template-packs__bilingual-chinese-english-thesis/main.tex",
+  "sha256": "c334a2de0456d75bd626a9986d39e425f00476d2f6552f20631f7f5898284225",
+  "size_bytes": 4344,
+  "document_class": "ctexbook",
+  "uses_packages": [
+    "booktabs",
+    "fancyhdr",
+    "geometry",
+    "hyperref",
+    "tabularx",
+    "xcolor"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": false,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "engine-specific",
+  "compile_time_ms": 914,
+  "downloaded_at": "2026-08-02T13:05:15.736Z",
+  "filtered_at": "2026-08-02T17:34:40.742Z"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "overleaf/ol-modelo-para-trabalho-de-disciplina-ppgee-ifpb-ghvkrxmgqxqd",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "misc",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/modelo-para-trabalho-de-disciplina-ppgee-ifpb/ghvkrxmgqxqd",
+  "original_author": "Gabriel Gutierrez P. Soares",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/overleaf__ol-modelo-para-trabalho-de-disciplina-ppgee-ifpb-ghvkrxmgqxqd/main.tex",
+  "relative_path": "processed/latex/cross-engine/overleaf__ol-modelo-para-trabalho-de-disciplina-ppgee-ifpb-ghvkrxmgqxqd/main.tex",
+  "sha256": "d2bb248838d1da4a8bdfafd46c4582181e6530ed1753dba4860ce755013facc8",
+  "size_bytes": 4305,
+  "document_class": "abntex2",
+  "uses_packages": [
+    "abntex2cite",
+    "amsmath",
+    "caption",
+    "color",
+    "enumitem",
+    "fontenc",
+    "graphicx",
+    "indentfirst",
+    "inputenc",
+    "microtype",
+    "newtxmath",
+    "newtxtext",
+    "parskip",
+    "placeins",
+    "subcaption"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 2997,
+  "downloaded_at": "2026-08-02T13:50:10.340Z",
+  "filtered_at": "2026-08-02T17:34:41.468Z"
+}

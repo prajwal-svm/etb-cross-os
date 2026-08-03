@@ -1,0 +1,24 @@
+{
+  "id": "typst-universe/typst-bamdone-rebuttal-0-1-2",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "business",
+  "license": "MIT-0",
+  "source_url": "https://github.com/avonmoll/bamdone-rebuttal",
+  "original_author": "Alexander Von Moll",
+  "package_name": "bamdone-rebuttal",
+  "package_version": "0.1.2",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/typst-universe/typst-bamdone-rebuttal-0-1-2/main.typ",
+  "relative_path": "raw/typst-universe/typst-bamdone-rebuttal-0-1-2/main.typ",
+  "main_doc": "main.typ",
+  "sha256": "298baa69319f960e1a5823acff57968e8db62205994090c30fca5e58dbe9e9bb",
+  "size_bytes": 1019,
+  "document_class": null,
+  "uses_packages": [],
+  "downloaded_at": "2026-08-02T13:05:58.894Z",
+  "categories": [
+    "office",
+    "report"
+  ],
+  "description": "Rebuttal/response letter template that allows authors to respond to feedback given by reviewers in a peer-review process on a point-by-point basis."
+}

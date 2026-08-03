@@ -1,0 +1,26 @@
+{
+  "id": "typst-universe/typst-community-itu-thesis-0-2-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "thesis",
+  "license": "MIT",
+  "source_url": "https://github.com/hmzsnc96/itu-thesis",
+  "original_author": "Hamza Sancakdaroğlu",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/typst-universe__typst-community-itu-thesis-0-2-0/main.typ",
+  "relative_path": "processed/typst/typst-universe__typst-community-itu-thesis-0-2-0/main.typ",
+  "sha256": "325f2437f152936ad82dfd288990d5204a2a6f2c08b23ee8903c547b5dab93e4",
+  "size_bytes": 4261,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 408,
+  "downloaded_at": "2026-08-02T13:07:20.144Z",
+  "filtered_at": "2026-08-02T17:34:43.749Z"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "typst-universe/typst-breezy-report-0-1-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "report",
+  "license": "MIT",
+  "source_url": "https://github.com/brebarra/breezy-report",
+  "original_author": "Breanna Barraclough",
+  "package_name": "breezy-report",
+  "package_version": "0.1.0",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/typst-universe/typst-breezy-report-0-1-0/main.typ",
+  "relative_path": "raw/typst-universe/typst-breezy-report-0-1-0/main.typ",
+  "main_doc": "main.typ",
+  "sha256": "1dcf6721ea33a7b5a06451de1d27627959081d73937388180944feaf8b696a8b",
+  "size_bytes": 729,
+  "document_class": null,
+  "uses_packages": [],
+  "downloaded_at": "2026-08-02T13:06:19.434Z",
+  "categories": [
+    "report"
+  ],
+  "description": "Clean, colour-customisable engineering report template for university submissions."
+}

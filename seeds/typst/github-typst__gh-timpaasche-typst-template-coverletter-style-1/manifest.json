@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-timpaasche-typst-template-coverletter-style-1",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "letter",
+  "license": "MIT",
+  "source_url": "https://github.com/TimPaasche/Typst.Template.CoverLetter",
+  "original_author": "TimPaasche",
+  "stars": 0,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-timpaasche-typst-template-coverletter-style-1/style.typ",
+  "relative_path": "raw/github-typst/gh-timpaasche-typst-template-coverletter-style-1/style.typ",
+  "main_doc": "style.typ",
+  "sha256": "6d0407ad07c3f25f0d39e0f20178362ed95f523979e50c9fddba961dd8071ef9",
+  "size_bytes": 3327,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "template/style.typ",
+  "downloaded_at": "2026-08-02T14:16:41.352Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "github-latex/gh-kozmosa-bishuati-document",
+  "source": "github-latex",
+  "format": "latex",
+  "category": "coursework",
+  "license": "CC0-1.0",
+  "source_url": "https://github.com/Kozmosa/BishuaTi",
+  "original_author": "Kozmosa",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/engine-specific/github-latex__gh-kozmosa-bishuati-document/document.tex",
+  "relative_path": "processed/latex/engine-specific/github-latex__gh-kozmosa-bishuati-document/document.tex",
+  "sha256": "e3edc529a23037e0d19a9f97e789bd8b1fe2bb096955cb9346d1c65658ac09c6",
+  "size_bytes": 6337,
+  "document_class": "ctexart",
+  "uses_packages": [
+    "amsmath",
+    "dashrule",
+    "enumitem",
+    "fancyhdr",
+    "framed",
+    "geometry",
+    "graphicx",
+    "multicol",
+    "textpos",
+    "xcolor"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": false,
+    "xelatex": true,
+    "lualatex": false,
+    "typst": false
+  },
+  "engine_class": "engine-specific",
+  "compile_time_ms": 5244,
+  "downloaded_at": "2026-08-02T13:49:32.494Z",
+  "filtered_at": "2026-08-02T17:34:43.019Z"
+}

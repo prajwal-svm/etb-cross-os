@@ -1,0 +1,26 @@
+{
+  "id": "typst-universe/typst-solo-lu-df-2-1-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "venue",
+  "license": "MIT-0",
+  "source_url": "https://github.com/kristoferssolo/LU-DF-Typst-Template",
+  "original_author": "Kristofers Solo",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/typst-universe__typst-solo-lu-df-2-1-0/main.typ",
+  "relative_path": "processed/typst/typst-universe__typst-solo-lu-df-2-1-0/main.typ",
+  "sha256": "00f43a75ec7f4b7b3592d76d84916692f94b0401c8beb32c043f405731a0d613",
+  "size_bytes": 2113,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 276,
+  "downloaded_at": "2026-08-02T13:13:12.270Z",
+  "filtered_at": "2026-08-02T17:34:44.205Z"
+}

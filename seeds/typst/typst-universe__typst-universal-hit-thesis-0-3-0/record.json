@@ -1,0 +1,26 @@
+{
+  "id": "typst-universe/typst-universal-hit-thesis-0-3-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "thesis",
+  "license": "MIT",
+  "source_url": "https://github.com/hitszosa/universal-hit-thesis",
+  "original_author": "CHOSER Tech",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/typst-universe__typst-universal-hit-thesis-0-3-0/universal-bachelor.typ",
+  "relative_path": "processed/typst/typst-universe__typst-universal-hit-thesis-0-3-0/universal-bachelor.typ",
+  "sha256": "90f7ad99b3ba532e0edc623121cad9a08930e67c68572aca7e5d7346183e6d52",
+  "size_bytes": 18924,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 674,
+  "downloaded_at": "2026-08-02T13:15:03.964Z",
+  "filtered_at": "2026-08-02T17:34:44.356Z"
+}

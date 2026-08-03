@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-zakhar-kogan-typst-cv-vantage-cv",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "cv",
+  "license": "MIT",
+  "source_url": "https://github.com/zakhar-kogan/typst-cv",
+  "original_author": "zakhar-kogan",
+  "stars": 1,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-zakhar-kogan-typst-cv-vantage-cv/vantage-cv.typ",
+  "relative_path": "raw/github-typst/gh-zakhar-kogan-typst-cv-vantage-cv/vantage-cv.typ",
+  "main_doc": "vantage-cv.typ",
+  "sha256": "2a5192be9349f26c65a15a750e9f16cf448fc063af88d512a512629ad59f89c5",
+  "size_bytes": 2445,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "templates/vantage-cv.typ",
+  "downloaded_at": "2026-08-02T14:13:40.826Z"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "typst-universe/typst-wenyuan-campaign-0-1-2",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "book",
+  "license": "Apache-2.0",
+  "source_url": "https://github.com/yanwenywan/typst-packages/tree/master/wenyuan-campaign",
+  "original_author": "Yan Xin",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/typst-universe__typst-wenyuan-campaign-0-1-2/main.typ",
+  "relative_path": "processed/typst/typst-universe__typst-wenyuan-campaign-0-1-2/main.typ",
+  "sha256": "46a0a961845fdad7deb8545783217160207cbd8fff31d4da0443ae69ba2c805f",
+  "size_bytes": 9732,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 327,
+  "downloaded_at": "2026-08-02T13:15:52.631Z",
+  "filtered_at": "2026-08-02T17:34:44.408Z"
+}

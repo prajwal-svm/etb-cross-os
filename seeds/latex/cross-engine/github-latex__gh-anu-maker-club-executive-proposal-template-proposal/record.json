@@ -1,0 +1,35 @@
+{
+  "id": "github-latex/gh-anu-maker-club-executive-proposal-template-proposal",
+  "source": "github-latex",
+  "format": "latex",
+  "category": "report",
+  "license": "Apache-2.0",
+  "source_url": "https://github.com/anu-maker-club/executive-proposal-template",
+  "original_author": "anu-maker-club",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/github-latex__gh-anu-maker-club-executive-proposal-template-proposal/proposal.tex",
+  "relative_path": "processed/latex/cross-engine/github-latex__gh-anu-maker-club-executive-proposal-template-proposal/proposal.tex",
+  "sha256": "b732ca8d5fdf4bce70e055defb9fa23e0220f68207a03a12edb5921c1a237682",
+  "size_bytes": 13294,
+  "document_class": "article",
+  "uses_packages": [
+    "amsmath",
+    "babel",
+    "background",
+    "bibentry",
+    "geometry",
+    "graphicx",
+    "url",
+    "xcolor"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 1296,
+  "downloaded_at": "2026-08-02T13:45:36.565Z",
+  "filtered_at": "2026-08-02T17:34:42.461Z"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "typst-universe/typst-touying-unistra-pristine-1-4-3",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "beamer",
+  "license": "MIT",
+  "source_url": "https://github.com/spidersouris/touying-unistra-pristine",
+  "original_author": "Enzo Doyen",
+  "package_name": "touying-unistra-pristine",
+  "package_version": "1.4.3",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/typst-universe/typst-touying-unistra-pristine-1-4-3/template.typ",
+  "relative_path": "raw/typst-universe/typst-touying-unistra-pristine-1-4-3/template.typ",
+  "main_doc": "template.typ",
+  "sha256": "a5bf76a81f827871d6042fd51013dbfb974453d90241d747e7774f7231843c9a",
+  "size_bytes": 537,
+  "document_class": null,
+  "uses_packages": [],
+  "downloaded_at": "2026-08-02T13:14:26.983Z",
+  "categories": [
+    "presentation"
+  ],
+  "description": "Touying theme adhering to the core principles of the style guide of the University of Strasbourg, France"
+}

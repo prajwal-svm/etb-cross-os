@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-sensorevolve-typst-letter-example-cy-1",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "coursework",
+  "license": "MIT",
+  "source_url": "https://github.com/SensorEvolve/typst_letter",
+  "original_author": "SensorEvolve",
+  "stars": 0,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-sensorevolve-typst-letter-example-cy-1/example-cy.typ",
+  "relative_path": "raw/github-typst/gh-sensorevolve-typst-letter-example-cy-1/example-cy.typ",
+  "main_doc": "example-cy.typ",
+  "sha256": "7a0741557567ab34e837cd19beac5983dd999ee8410fa015dd97dba03419fc48",
+  "size_bytes": 2048,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "examples/example-cy.typ",
+  "downloaded_at": "2026-08-02T14:19:13.748Z"
+}

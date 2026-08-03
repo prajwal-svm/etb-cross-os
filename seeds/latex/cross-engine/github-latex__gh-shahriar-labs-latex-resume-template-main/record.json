@@ -1,0 +1,39 @@
+{
+  "id": "github-latex/gh-shahriar-labs-latex-resume-template-main",
+  "source": "github-latex",
+  "format": "latex",
+  "category": "cv",
+  "license": "MIT",
+  "source_url": "https://github.com/Shahriar-Labs/latex-resume-template",
+  "original_author": "Shahriar-Labs",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/github-latex__gh-shahriar-labs-latex-resume-template-main/main.tex",
+  "relative_path": "processed/latex/cross-engine/github-latex__gh-shahriar-labs-latex-resume-template-main/main.tex",
+  "sha256": "b86cb70b0f353a880d59e18cedc68b961c70da96ba5432019dffaccae1f78804",
+  "size_bytes": 6934,
+  "document_class": "article",
+  "uses_packages": [
+    "accsupp",
+    "babel",
+    "enumitem",
+    "fontawesome5",
+    "fontenc",
+    "geometry",
+    "hyperref",
+    "inputenc",
+    "lato",
+    "microtype",
+    "tikz",
+    "xcolor"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 2032,
+  "downloaded_at": "2026-08-02T13:50:23.535Z",
+  "filtered_at": "2026-08-02T17:34:43.374Z"
+}

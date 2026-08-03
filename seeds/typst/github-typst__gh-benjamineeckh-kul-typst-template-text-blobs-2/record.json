@@ -1,0 +1,26 @@
+{
+  "id": "github-typst/gh-benjamineeckh-kul-typst-template-text-blobs-2",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "thesis",
+  "license": "MIT",
+  "source_url": "https://github.com/benjamineeckh/kul-typst-template",
+  "original_author": "benjamineeckh",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/github-typst__gh-benjamineeckh-kul-typst-template-text-blobs-2/text-blobs.typ",
+  "relative_path": "processed/typst/github-typst__gh-benjamineeckh-kul-typst-template-text-blobs-2/text-blobs.typ",
+  "sha256": "7c60ddb1c78fd3350c57d4ca0530655ca24ebc43a8bbed69af4055ff4ac8b539",
+  "size_bytes": 1856,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 7,
+  "downloaded_at": "2026-08-02T14:07:20.568Z",
+  "filtered_at": "2026-08-02T17:34:44.551Z"
+}

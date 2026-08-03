@@ -1,0 +1,28 @@
+{
+  "id": "overleaf/ol-zadania-domowe-wzor-ztjjgvctmvxw",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "misc",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/zadania-domowe-wzor/ztjjgvctmvxw",
+  "original_author": "Mateusz Trubiłowicz",
+  "title": "Zadania domowe wzór",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/overleaf/ol-zadania-domowe-wzor-ztjjgvctmvxw/main.tex",
+  "relative_path": "raw/overleaf/ol-zadania-domowe-wzor-ztjjgvctmvxw/main.tex",
+  "main_doc": "main.tex",
+  "sha256": "7b3983886765c2bc0162d42723f7f4e81555ca539ed718f3f38791c25bca9964",
+  "size_bytes": 2443,
+  "document_class": "article",
+  "uses_packages": [
+    "amsmath",
+    "amssymb",
+    "babel",
+    "fontenc",
+    "geometry",
+    "graphicx",
+    "natbib"
+  ],
+  "download_method": "view-source-modal",
+  "github_url": null,
+  "downloaded_at": "2026-08-02T15:10:00.515Z"
+}

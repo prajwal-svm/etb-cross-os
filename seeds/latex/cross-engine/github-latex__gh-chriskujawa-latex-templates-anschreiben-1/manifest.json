@@ -1,0 +1,21 @@
+{
+  "id": "github-latex/gh-chriskujawa-latex-templates-anschreiben-1",
+  "source": "github-latex",
+  "format": "latex",
+  "category": "misc",
+  "license": "Apache-2.0",
+  "source_url": "https://github.com/ChrisKujawa/Latex-Templates",
+  "original_author": "ChrisKujawa",
+  "stars": 0,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-latex/gh-chriskujawa-latex-templates-anschreiben-1/anschreiben.tex",
+  "relative_path": "raw/github-latex/gh-chriskujawa-latex-templates-anschreiben-1/anschreiben.tex",
+  "main_doc": "anschreiben.tex",
+  "sha256": "2b36e26ee62814cd9bfc6da2487770afa7ce52c34425d6cc6c78e3388b2bc343",
+  "size_bytes": 815,
+  "document_class": null,
+  "uses_packages": [
+    "babel"
+  ],
+  "repo_path": "letter-templates/anschreiben.tex",
+  "downloaded_at": "2026-08-02T13:43:21.680Z"
+}

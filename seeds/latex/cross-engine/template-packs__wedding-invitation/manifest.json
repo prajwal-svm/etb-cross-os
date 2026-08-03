@@ -1,0 +1,24 @@
+{
+  "id": "template-packs/wedding-invitation",
+  "source": "template-packs",
+  "format": "latex",
+  "category": "creative",
+  "category_raw": "Creative",
+  "license": "CC0-1.0",
+  "source_url": "https://github.com/Oleafly/template-packs",
+  "original_author": "Oleafly",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/template-packs/wedding-invitation/main.tex",
+  "relative_path": "raw/template-packs/wedding-invitation/main.tex",
+  "main_doc": "main.tex",
+  "sha256": "148d6fc37aca636b7e475f7243088ee63c1d803c94bc6694d25b9f19ed289282",
+  "size_bytes": 2892,
+  "document_class": "article",
+  "uses_packages": [
+    "geometry",
+    "libertine",
+    "tikz",
+    "xcolor"
+  ],
+  "engine_hint": "xetex",
+  "downloaded_at": "2026-08-02T13:05:15.839Z"
+}

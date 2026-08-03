@@ -1,0 +1,26 @@
+{
+  "id": "typst-universe/typst-ensl-internship-0-1-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "report",
+  "license": "MIT",
+  "source_url": "https://github.com/AdrienGuimbal/typst-report-template-ens-lyon",
+  "original_author": "Gavroche",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/typst-universe__typst-ensl-internship-0-1-0/main.typ",
+  "relative_path": "processed/typst/typst-universe__typst-ensl-internship-0-1-0/main.typ",
+  "sha256": "b53b4cb8ff1fa3d24783925a57513b4be935a27353391c8ad4e083c69db06b7f",
+  "size_bytes": 695,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 281,
+  "downloaded_at": "2026-08-02T13:08:07.703Z",
+  "filtered_at": "2026-08-02T17:34:43.795Z"
+}

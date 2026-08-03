@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-hinshiba-mtret-fastfig-2",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "report",
+  "license": "MIT",
+  "source_url": "https://github.com/hinshiba/MTReT",
+  "original_author": "hinshiba",
+  "stars": 4,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-hinshiba-mtret-fastfig-2/fastfig.typ",
+  "relative_path": "raw/github-typst/gh-hinshiba-mtret-fastfig-2/fastfig.typ",
+  "main_doc": "fastfig.typ",
+  "sha256": "9c13ed02eccc803222b10fce6c8f41ba508e96c5b1adb7caab597509f15f26f1",
+  "size_bytes": 1225,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "src/fastfig.typ",
+  "downloaded_at": "2026-08-02T14:08:06.830Z"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "typst-universe/typst-modern-report-umfds-0-1-2",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "report",
+  "license": "MIT-0",
+  "source_url": "https://github.com/UM-nerds/modern-report-umfds",
+  "original_author": "Pablo Laviron",
+  "package_name": "modern-report-umfds",
+  "package_version": "0.1.2",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/typst-universe/typst-modern-report-umfds-0-1-2/main.typ",
+  "relative_path": "raw/typst-universe/typst-modern-report-umfds-0-1-2/main.typ",
+  "main_doc": "main.typ",
+  "sha256": "84654a018f8f16f8ed246e931f66c0038abb100b7511adc9aaaf5f6d8c1ca168",
+  "size_bytes": 654,
+  "document_class": null,
+  "uses_packages": [],
+  "downloaded_at": "2026-08-02T13:10:55.267Z",
+  "categories": [
+    "report"
+  ],
+  "description": "A template for writing reports for the Faculty of Sciences of the University of Montpellier"
+}

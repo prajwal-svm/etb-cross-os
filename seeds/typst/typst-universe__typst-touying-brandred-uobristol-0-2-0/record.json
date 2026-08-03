@@ -1,0 +1,26 @@
+{
+  "id": "typst-universe/typst-touying-brandred-uobristol-0-2-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "beamer",
+  "license": "MIT",
+  "source_url": "https://github.com/HPDell/touying-brandred-uobristol",
+  "original_author": "HPDell",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/typst-universe__typst-touying-brandred-uobristol-0-2-0/main.typ",
+  "relative_path": "processed/typst/typst-universe__typst-touying-brandred-uobristol-0-2-0/main.typ",
+  "sha256": "ffc2e75880273fa851d069b741a06a50189c689091304fab63308ba798ae7bbf",
+  "size_bytes": 544,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 199,
+  "downloaded_at": "2026-08-02T13:14:00.716Z",
+  "filtered_at": "2026-08-02T17:34:44.276Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-sebaseb98-clean-math-thesis-declaration-1",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "thesis",
+  "license": "MIT",
+  "source_url": "https://github.com/sebaseb98/clean-math-thesis",
+  "original_author": "sebaseb98",
+  "stars": 15,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-sebaseb98-clean-math-thesis-declaration-1/declaration.typ",
+  "relative_path": "raw/github-typst/gh-sebaseb98-clean-math-thesis-declaration-1/declaration.typ",
+  "main_doc": "declaration.typ",
+  "sha256": "71d0fd8863c268ac7736dadf368333f7546573bcdec9d0067e0ef289a0d5cb5a",
+  "size_bytes": 430,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "template/chapter/declaration.typ",
+  "downloaded_at": "2026-08-02T14:05:31.438Z"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "ctan/ctan-beamer-beamericonbook",
+  "source": "ctan",
+  "format": "latex",
+  "category": "beamer",
+  "license": "LPPL-1.3c",
+  "source_url": "https://ctan.org/pkg/beamer",
+  "original_author": "CTAN package: beamer",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/ctan__ctan-beamer-beamericonbook/beamericonbook.tex",
+  "relative_path": "processed/latex/cross-engine/ctan__ctan-beamer-beamericonbook/beamericonbook.tex",
+  "sha256": "a06f41a4394ae265bb55e00a26eef7f3a93edfad6f7d91b9d78cf4705a59c793",
+  "size_bytes": 3039,
+  "document_class": "article",
+  "uses_packages": [
+    "geometry",
+    "pgf",
+    "pgfshade",
+    "xxcolor"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 326,
+  "downloaded_at": "2026-08-02T13:04:46.013Z",
+  "filtered_at": "2026-08-02T17:34:42.207Z"
+}

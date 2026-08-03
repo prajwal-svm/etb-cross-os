@@ -1,0 +1,28 @@
+{
+  "id": "template-packs/tufte-handout",
+  "source": "template-packs",
+  "format": "latex",
+  "category": "book",
+  "category_raw": "Books",
+  "license": "CC0-1.0",
+  "source_url": "https://github.com/Oleafly/template-packs",
+  "original_author": "Oleafly",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/template-packs/tufte-handout/main.tex",
+  "relative_path": "raw/template-packs/tufte-handout/main.tex",
+  "main_doc": "main.tex",
+  "sha256": "e6edf2fcda4410088fad42bb6388f8888f4129070501004dd9cb52bdcefd8d5a",
+  "size_bytes": 3302,
+  "document_class": "article",
+  "uses_packages": [
+    "amsmath",
+    "amssymb",
+    "geometry",
+    "libertine",
+    "marginnote",
+    "mathtools",
+    "titlesec",
+    "xcolor"
+  ],
+  "engine_hint": "xetex",
+  "downloaded_at": "2026-08-02T13:05:15.828Z"
+}

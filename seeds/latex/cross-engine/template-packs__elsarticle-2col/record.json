@@ -1,0 +1,31 @@
+{
+  "id": "template-packs/elsarticle-2col",
+  "source": "template-packs",
+  "format": "latex",
+  "category": "venue",
+  "license": "CC0-1.0",
+  "source_url": "https://github.com/Oleafly/template-packs",
+  "original_author": "Oleafly",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/template-packs__elsarticle-2col/main.tex",
+  "relative_path": "processed/latex/cross-engine/template-packs__elsarticle-2col/main.tex",
+  "sha256": "883f52a0155d20d0523f88151ddf97645ab68979d4ae6fad05b22aafcfad3aa9",
+  "size_bytes": 1093,
+  "document_class": "elsarticle",
+  "uses_packages": [
+    "amsmath",
+    "amssymb",
+    "graphicx",
+    "hyperref"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 458,
+  "downloaded_at": "2026-08-02T13:05:15.879Z",
+  "filtered_at": "2026-08-02T17:34:40.768Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-soracel-bfh-typst-template-anwendungsfall-2",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "misc",
+  "license": "MIT",
+  "source_url": "https://github.com/soracel/bfh-typst-template",
+  "original_author": "soracel",
+  "stars": 0,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-soracel-bfh-typst-template-anwendungsfall-2/anwendungsfall.typ",
+  "relative_path": "raw/github-typst/gh-soracel-bfh-typst-template-anwendungsfall-2/anwendungsfall.typ",
+  "main_doc": "anwendungsfall.typ",
+  "sha256": "cd4a1ab2dff213e4e11f6a5f55e0ae714112d63d65239494c9ecb867a6abbfff",
+  "size_bytes": 937,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "src/components/anwendungsfall.typ",
+  "downloaded_at": "2026-08-02T14:14:47.768Z"
+}

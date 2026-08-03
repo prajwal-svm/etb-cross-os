@@ -1,0 +1,26 @@
+{
+  "id": "typst-universe/typst-laskutys-1-1-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "business",
+  "license": "MIT-0",
+  "source_url": "https://github.com/TheJiahao/laskutys",
+  "original_author": "Jiahao Li",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/typst-universe__typst-laskutys-1-1-0/main.typ",
+  "relative_path": "processed/typst/typst-universe__typst-laskutys-1-1-0/main.typ",
+  "sha256": "16401ca9fa147eeef4154a194e1c5caf613198ec8bd75e72298c57ef95a3495e",
+  "size_bytes": 538,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 250,
+  "downloaded_at": "2026-08-02T13:09:54.342Z",
+  "filtered_at": "2026-08-02T17:34:43.946Z"
+}

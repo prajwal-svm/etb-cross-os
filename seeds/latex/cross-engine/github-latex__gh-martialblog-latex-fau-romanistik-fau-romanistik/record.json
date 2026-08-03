@@ -1,0 +1,36 @@
+{
+  "id": "github-latex/gh-martialblog-latex-fau-romanistik-fau-romanistik",
+  "source": "github-latex",
+  "format": "latex",
+  "category": "misc",
+  "license": "Apache-2.0",
+  "source_url": "https://github.com/martialblog/latex-fau-romanistik",
+  "original_author": "martialblog",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/github-latex__gh-martialblog-latex-fau-romanistik-fau-romanistik/fau-romanistik.tex",
+  "relative_path": "processed/latex/cross-engine/github-latex__gh-martialblog-latex-fau-romanistik-fau-romanistik/fau-romanistik.tex",
+  "sha256": "1539a5f7c1cbafbd912b00072184d3c4c78280906022440a9f17bbb119c4d2cb",
+  "size_bytes": 2033,
+  "document_class": "article",
+  "uses_packages": [
+    "babel",
+    "bibentry",
+    "color",
+    "geometry",
+    "graphicx",
+    "inputenc",
+    "natbib",
+    "parskip",
+    "setspace"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 283,
+  "downloaded_at": "2026-08-02T13:44:39.414Z",
+  "filtered_at": "2026-08-02T17:34:43.127Z"
+}

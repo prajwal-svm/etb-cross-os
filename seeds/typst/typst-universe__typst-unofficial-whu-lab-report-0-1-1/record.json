@@ -1,0 +1,26 @@
+{
+  "id": "typst-universe/typst-unofficial-whu-lab-report-0-1-1",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "report",
+  "license": "MIT",
+  "source_url": "https://github.com/zoomy14112/report-theme-whu",
+  "original_author": "Shouzhuo Yi",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/typst-universe__typst-unofficial-whu-lab-report-0-1-1/main.typ",
+  "relative_path": "processed/typst/typst-universe__typst-unofficial-whu-lab-report-0-1-1/main.typ",
+  "sha256": "18427b91a812685d20694b84896f04080358b50171e39237c0762067e863a075",
+  "size_bytes": 1664,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 381,
+  "downloaded_at": "2026-08-02T13:15:35.183Z",
+  "filtered_at": "2026-08-02T17:34:44.382Z"
+}

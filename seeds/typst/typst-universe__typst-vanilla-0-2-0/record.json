@@ -1,0 +1,26 @@
+{
+  "id": "typst-universe/typst-vanilla-0-2-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "venue",
+  "license": "MIT",
+  "source_url": "https://github.com/juristack/typst-vanilla",
+  "original_author": "David Conrad",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/typst-universe__typst-vanilla-0-2-0/main.typ",
+  "relative_path": "processed/typst/typst-universe__typst-vanilla-0-2-0/main.typ",
+  "sha256": "8e69dd8bc037b126a4688163e5c54be4d1e1415d7668a5c0e9e1a00c9df257a6",
+  "size_bytes": 982,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 225,
+  "downloaded_at": "2026-08-02T13:15:40.324Z",
+  "filtered_at": "2026-08-02T17:34:44.389Z"
+}

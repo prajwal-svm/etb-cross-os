@@ -1,0 +1,26 @@
+{
+  "id": "github-typst/gh-xlawy-cug-typst-template-cug-template",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "misc",
+  "license": "MIT",
+  "source_url": "https://github.com/Xlawy/CUG-Typst-Template",
+  "original_author": "Xlawy",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/github-typst__gh-xlawy-cug-typst-template-cug-template/cug-template.typ",
+  "relative_path": "processed/typst/github-typst__gh-xlawy-cug-typst-template-cug-template/cug-template.typ",
+  "sha256": "30e0d75a6e45088164367986ba8b74d111bbf0d285c6e0632acf34941879d681",
+  "size_bytes": 6636,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 8,
+  "downloaded_at": "2026-08-02T14:07:18.916Z",
+  "filtered_at": "2026-08-02T17:34:45.954Z"
+}

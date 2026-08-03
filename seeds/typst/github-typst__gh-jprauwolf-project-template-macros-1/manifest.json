@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-jprauwolf-project-template-macros-1",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "thesis",
+  "license": "MIT",
+  "source_url": "https://github.com/JPRauwolf/Project-Template",
+  "original_author": "JPRauwolf",
+  "stars": 0,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-jprauwolf-project-template-macros-1/macros.typ",
+  "relative_path": "raw/github-typst/gh-jprauwolf-project-template-macros-1/macros.typ",
+  "main_doc": "macros.typ",
+  "sha256": "58ee466e15acb147aa64c7bad678fe54e3530e9f60ef1b5dacec253c4754896d",
+  "size_bytes": 1454,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "macros.typ",
+  "downloaded_at": "2026-08-02T14:14:53.842Z"
+}

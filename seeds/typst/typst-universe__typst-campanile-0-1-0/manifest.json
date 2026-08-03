@@ -1,0 +1,23 @@
+{
+  "id": "typst-universe/typst-campanile-0-1-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "thesis",
+  "license": "MIT-0",
+  "source_url": "https://github.com/buggy213/campanile",
+  "original_author": "Joshua You",
+  "package_name": "campanile",
+  "package_version": "0.1.0",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/typst-universe/typst-campanile-0-1-0/main.typ",
+  "relative_path": "raw/typst-universe/typst-campanile-0-1-0/main.typ",
+  "main_doc": "main.typ",
+  "sha256": "7edae8e3ef9c37ff8005c9f8cc2952e31816246b501b760c29dca2373ee8095b",
+  "size_bytes": 7041,
+  "document_class": null,
+  "uses_packages": [],
+  "downloaded_at": "2026-08-02T13:06:28.755Z",
+  "categories": [
+    "thesis"
+  ],
+  "description": "Master's thesis and PhD dissertation at UC Berkeley (Unofficial)"
+}

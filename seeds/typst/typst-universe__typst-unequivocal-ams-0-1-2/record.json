@@ -1,0 +1,26 @@
+{
+  "id": "typst-universe/typst-unequivocal-ams-0-1-2",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "venue",
+  "license": "MIT-0",
+  "source_url": "https://github.com/typst/templates",
+  "original_author": "Typst GmbH",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/typst-universe__typst-unequivocal-ams-0-1-2/main.typ",
+  "relative_path": "processed/typst/typst-universe__typst-unequivocal-ams-0-1-2/main.typ",
+  "sha256": "012b1b632088389e802d907cad6394cd82c6aed4d01a9c94f5de205b7c52db41",
+  "size_bytes": 3350,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 256,
+  "downloaded_at": "2026-08-02T13:14:59.313Z",
+  "filtered_at": "2026-08-02T17:34:44.344Z"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "overleaf/ol-hf-latex-qbkdwphcqfgm",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "misc",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/hf-latex/qbkdwphcqfgm",
+  "original_author": "Tamás Waldhauser",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/overleaf__ol-hf-latex-qbkdwphcqfgm/main.tex",
+  "relative_path": "processed/latex/cross-engine/overleaf__ol-hf-latex-qbkdwphcqfgm/main.tex",
+  "sha256": "a2ae3d9664f3b491de64d4e1ae9bd1a78cc91b938453f8d4a9d9ab1cea7e830c",
+  "size_bytes": 2989,
+  "document_class": "article",
+  "uses_packages": [
+    "amsfonts",
+    "amsmath",
+    "amssymb",
+    "fontenc",
+    "inputenc"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 240,
+  "downloaded_at": "2026-08-02T14:46:29.885Z",
+  "filtered_at": "2026-08-02T17:34:41.210Z"
+}

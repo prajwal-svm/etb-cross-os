@@ -1,0 +1,26 @@
+{
+  "id": "github-typst/gh-haouo-ncku-thesis-typst-extended-abstract-en-2",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "thesis",
+  "license": "MIT",
+  "source_url": "https://github.com/Haouo/NCKU-Thesis-Typst",
+  "original_author": "Haouo",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/github-typst__gh-haouo-ncku-thesis-typst-extended-abstract-en-2/extended-abstract-en.typ",
+  "relative_path": "processed/typst/github-typst__gh-haouo-ncku-thesis-typst-extended-abstract-en-2/extended-abstract-en.typ",
+  "sha256": "40ce5510db7d9c8e6b1d51084a98c2d10b60b5295c400de262477ff5c3e9bb5b",
+  "size_bytes": 828,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 7,
+  "downloaded_at": "2026-08-02T14:04:21.052Z",
+  "filtered_at": "2026-08-02T17:34:44.937Z"
+}

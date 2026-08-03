@@ -1,0 +1,28 @@
+{
+  "id": "github-latex/gh-ivezakis-ntua-ece-thesis-template-hsv-cone-1",
+  "source": "github-latex",
+  "format": "latex",
+  "category": "thesis",
+  "license": "MIT",
+  "source_url": "https://github.com/ivezakis/ntua-ece-thesis-template",
+  "original_author": "ivezakis",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/github-latex__gh-ivezakis-ntua-ece-thesis-template-hsv-cone-1/hsv_cone.tex",
+  "relative_path": "processed/latex/cross-engine/github-latex__gh-ivezakis-ntua-ece-thesis-template-hsv-cone-1/hsv_cone.tex",
+  "sha256": "0545f7e945909cc960206110ef6538cf463ea5050654f7202e0e9b1aa6faab04",
+  "size_bytes": 3392,
+  "document_class": "standalone",
+  "uses_packages": [
+    "pgfplots"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 5065,
+  "downloaded_at": "2026-08-02T13:57:21.479Z",
+  "filtered_at": "2026-08-02T17:34:42.911Z"
+}

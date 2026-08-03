@@ -1,0 +1,26 @@
+{
+  "id": "typst-universe/typst-forum-acusticum-2026-0-1-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "venue",
+  "license": "MIT",
+  "source_url": "https://git.iem.at/fa26-templates/fa26-typst-template",
+  "original_author": "Felix Holzmüller",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/typst-universe__typst-forum-acusticum-2026-0-1-0/fa2026_template.typ",
+  "relative_path": "processed/typst/typst-universe__typst-forum-acusticum-2026-0-1-0/fa2026_template.typ",
+  "sha256": "da497eab1eeebeb9d28af87dac2b91b0b7c9944fa8629425d0a5135886083a5f",
+  "size_bytes": 11053,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 375,
+  "downloaded_at": "2026-08-02T13:08:33.321Z",
+  "filtered_at": "2026-08-02T17:34:43.834Z"
+}

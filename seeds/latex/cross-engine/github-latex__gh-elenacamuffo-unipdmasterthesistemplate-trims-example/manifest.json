@@ -1,0 +1,22 @@
+{
+  "id": "github-latex/gh-elenacamuffo-unipdmasterthesistemplate-trims-example",
+  "source": "github-latex",
+  "format": "latex",
+  "category": "thesis",
+  "license": "MIT",
+  "source_url": "https://github.com/elenacamuffo/UnipdMasterThesisTemplate",
+  "original_author": "elenacamuffo",
+  "stars": 0,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-latex/gh-elenacamuffo-unipdmasterthesistemplate-trims-example/trims-example.tex",
+  "relative_path": "raw/github-latex/gh-elenacamuffo-unipdmasterthesistemplate-trims-example/trims-example.tex",
+  "main_doc": "trims-example.tex",
+  "sha256": "c3cb309b524c062e7a623011ad563d9df61c126dc87ef4d6c8aad9d03f98c4df",
+  "size_bytes": 586,
+  "document_class": "memoir",
+  "uses_packages": [
+    "babel",
+    "blindtext"
+  ],
+  "repo_path": "memoir/doc-src/trims-example.tex",
+  "downloaded_at": "2026-08-02T13:55:52.127Z"
+}

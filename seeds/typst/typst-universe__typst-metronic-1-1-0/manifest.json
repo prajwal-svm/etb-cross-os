@@ -1,0 +1,23 @@
+{
+  "id": "typst-universe/typst-metronic-1-1-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "cv",
+  "license": "MIT",
+  "source_url": "https://github.com/patrixr/metronic-cv",
+  "original_author": "Patrick Rabier",
+  "package_name": "metronic",
+  "package_version": "1.1.0",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/typst-universe/typst-metronic-1-1-0/main.typ",
+  "relative_path": "raw/typst-universe/typst-metronic-1-1-0/main.typ",
+  "main_doc": "main.typ",
+  "sha256": "aea9934d0c7c1a0418306ffc3b0b9ea78efc862e5fe61c52132e8b4509833729",
+  "size_bytes": 3093,
+  "document_class": null,
+  "uses_packages": [],
+  "downloaded_at": "2026-08-02T13:10:16.348Z",
+  "categories": [
+    "cv"
+  ],
+  "description": "A clean, colorful, and modern CV template."
+}

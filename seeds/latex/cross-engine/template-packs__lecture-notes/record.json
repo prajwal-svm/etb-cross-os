@@ -1,0 +1,35 @@
+{
+  "id": "template-packs/lecture-notes",
+  "source": "template-packs",
+  "format": "latex",
+  "category": "coursework",
+  "license": "CC0-1.0",
+  "source_url": "https://github.com/Oleafly/template-packs",
+  "original_author": "Oleafly",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/template-packs__lecture-notes/main.tex",
+  "relative_path": "processed/latex/cross-engine/template-packs__lecture-notes/main.tex",
+  "sha256": "7ab18321bb6049c767ae95de8aa880e3f3402b43fff1419b9a7c3dd5fe12ff84",
+  "size_bytes": 3325,
+  "document_class": "article",
+  "uses_packages": [
+    "amsmath",
+    "amssymb",
+    "amsthm",
+    "fancyhdr",
+    "geometry",
+    "lmodern",
+    "tcolorbox",
+    "xcolor"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 739,
+  "downloaded_at": "2026-08-02T13:05:15.822Z",
+  "filtered_at": "2026-08-02T17:34:40.806Z"
+}

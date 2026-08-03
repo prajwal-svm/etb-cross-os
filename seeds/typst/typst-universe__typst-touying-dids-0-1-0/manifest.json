@@ -1,0 +1,23 @@
+{
+  "id": "typst-universe/typst-touying-dids-0-1-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "beamer",
+  "license": "MIT",
+  "source_url": "https://github.com/RaVincentHuang/touying-dids",
+  "original_author": "Zixiao Huang",
+  "package_name": "touying-dids",
+  "package_version": "0.1.0",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/typst-universe/typst-touying-dids-0-1-0/main.typ",
+  "relative_path": "raw/typst-universe/typst-touying-dids-0-1-0/main.typ",
+  "main_doc": "main.typ",
+  "sha256": "d8eaeec05a76cd4de1669a60f0dbb1127ccb3e3b0cab857bd2fa8ae2a2483a52",
+  "size_bytes": 577,
+  "document_class": null,
+  "uses_packages": [],
+  "downloaded_at": "2026-08-02T13:14:02.572Z",
+  "categories": [
+    "presentation"
+  ],
+  "description": "Touying Slide Theme for DIDS Lab"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-ntjess-typst-invoice-template-template",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "business",
+  "license": "Apache-2.0",
+  "source_url": "https://github.com/ntjess/typst-invoice-template",
+  "original_author": "ntjess",
+  "stars": 27,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-ntjess-typst-invoice-template-template/template.typ",
+  "relative_path": "raw/github-typst/gh-ntjess-typst-invoice-template-template/template.typ",
+  "main_doc": "template.typ",
+  "sha256": "445c5b936cfeafd8e1f4bcc6d34722b7be6b6438c34d1bbc1ca8043d081f3614",
+  "size_bytes": 9337,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "template.typ",
+  "downloaded_at": "2026-08-02T14:04:31.343Z"
+}

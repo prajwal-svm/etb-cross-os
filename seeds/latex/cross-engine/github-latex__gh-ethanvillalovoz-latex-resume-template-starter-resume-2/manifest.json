@@ -1,0 +1,32 @@
+{
+  "id": "github-latex/gh-ethanvillalovoz-latex-resume-template-starter-resume-2",
+  "source": "github-latex",
+  "format": "latex",
+  "category": "cv",
+  "license": "MIT",
+  "source_url": "https://github.com/ethanvillalovoz/latex-resume-template",
+  "original_author": "ethanvillalovoz",
+  "stars": 6,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-latex/gh-ethanvillalovoz-latex-resume-template-starter-resume-2/starter-resume.tex",
+  "relative_path": "raw/github-latex/gh-ethanvillalovoz-latex-resume-template-starter-resume-2/starter-resume.tex",
+  "main_doc": "starter-resume.tex",
+  "sha256": "15d8ba2c8594ada5fd2148f90ba8bac7d1dc0d09b92f34be97d0281a19d88afd",
+  "size_bytes": 6036,
+  "document_class": "article",
+  "uses_packages": [
+    "babel",
+    "enumitem",
+    "fancyhdr",
+    "fullpage",
+    "hyperref",
+    "iftex",
+    "latexsym",
+    "marvosym",
+    "tabularx",
+    "titlesec",
+    "verbatim",
+    "xcolor"
+  ],
+  "repo_path": "src/starter-resume.tex",
+  "downloaded_at": "2026-08-02T13:25:13.038Z"
+}

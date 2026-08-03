@@ -1,0 +1,32 @@
+{
+  "id": "github-latex/gh-lcfyi-software-resume-template-template",
+  "source": "github-latex",
+  "format": "latex",
+  "category": "cv",
+  "license": "MIT",
+  "source_url": "https://github.com/lcfyi/software-resume-template",
+  "original_author": "lcfyi",
+  "stars": 118,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-latex/gh-lcfyi-software-resume-template-template/template.tex",
+  "relative_path": "raw/github-latex/gh-lcfyi-software-resume-template-template/template.tex",
+  "main_doc": "template.tex",
+  "sha256": "1d549f3efe08eb3d2f5f1cb9ae1c5c44c25afe68c6d6de65d7751ec07627d29a",
+  "size_bytes": 8975,
+  "document_class": "article",
+  "uses_packages": [
+    "FiraSans",
+    "anyfontsize",
+    "enumitem",
+    "fontawesome",
+    "fontenc",
+    "fontspec",
+    "fullpage",
+    "hyperref",
+    "ifxetex",
+    "inputenc",
+    "tabularx",
+    "xcolor"
+  ],
+  "repo_path": "template.tex",
+  "downloaded_at": "2026-08-02T13:12:47.299Z"
+}

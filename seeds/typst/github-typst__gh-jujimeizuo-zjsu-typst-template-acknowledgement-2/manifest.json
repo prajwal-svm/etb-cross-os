@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-jujimeizuo-zjsu-typst-template-acknowledgement-2",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "misc",
+  "license": "Apache-2.0",
+  "source_url": "https://github.com/jujimeizuo/ZJSU-typst-template",
+  "original_author": "jujimeizuo",
+  "stars": 5,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-jujimeizuo-zjsu-typst-template-acknowledgement-2/acknowledgement.typ",
+  "relative_path": "raw/github-typst/gh-jujimeizuo-zjsu-typst-template-acknowledgement-2/acknowledgement.typ",
+  "main_doc": "acknowledgement.typ",
+  "sha256": "bcf0a1e9d911209b4119cb00b819ce5c7dd018d0135b6ed147fbccb0153d2b89",
+  "size_bytes": 954,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "contents/acknowledgement.typ",
+  "downloaded_at": "2026-08-02T14:07:42.523Z"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "typst-universe/typst-typsidian-0-0-3",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "report",
+  "license": "MIT",
+  "source_url": "https://github.com/k0src/Typsidian",
+  "original_author": "@k0src",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/typst-universe__typst-typsidian-0-0-3/main.typ",
+  "relative_path": "processed/typst/typst-universe__typst-typsidian-0-0-3/main.typ",
+  "sha256": "df3aea596e1edea823040ed2dcffc25832f382964ca151fb1d2909c15d75bd03",
+  "size_bytes": 272,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 291,
+  "downloaded_at": "2026-08-02T13:14:49.230Z",
+  "filtered_at": "2026-08-02T17:34:44.330Z"
+}

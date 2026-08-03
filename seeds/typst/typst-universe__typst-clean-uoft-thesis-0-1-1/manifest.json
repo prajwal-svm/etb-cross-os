@@ -1,0 +1,23 @@
+{
+  "id": "typst-universe/typst-clean-uoft-thesis-0-1-1",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "thesis",
+  "license": "MIT",
+  "source_url": "https://github.com/pvelayudhan/clean-uoft-thesis",
+  "original_author": "Prashanth Velayudhan",
+  "package_name": "clean-uoft-thesis",
+  "package_version": "0.1.1",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/typst-universe/typst-clean-uoft-thesis-0-1-1/main.typ",
+  "relative_path": "raw/typst-universe/typst-clean-uoft-thesis-0-1-1/main.typ",
+  "main_doc": "main.typ",
+  "sha256": "450cdb102efcc0703aec51bcaa8f27783f52bc257986fdf130048facf45cf5cf",
+  "size_bytes": 590,
+  "document_class": null,
+  "uses_packages": [],
+  "downloaded_at": "2026-08-02T13:07:07.855Z",
+  "categories": [
+    "thesis"
+  ],
+  "description": "Unofficial formatting-compliant masters and doctoral thesese for the School of Graduate Studies at the University of Toronto."
+}

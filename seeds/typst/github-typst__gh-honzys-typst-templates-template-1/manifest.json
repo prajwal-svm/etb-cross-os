@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-honzys-typst-templates-template-1",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "misc",
+  "license": "MIT",
+  "source_url": "https://github.com/Honzys/typst-templates",
+  "original_author": "Honzys",
+  "stars": 0,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-honzys-typst-templates-template-1/template.typ",
+  "relative_path": "raw/github-typst/gh-honzys-typst-templates-template-1/template.typ",
+  "main_doc": "template.typ",
+  "sha256": "cd7218055b1896600a300057cb7bca3c1a6077b083ff12884ad8cd3c9e1b7b93",
+  "size_bytes": 1883,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "kucharka/template.typ",
+  "downloaded_at": "2026-08-02T14:14:43.531Z"
+}

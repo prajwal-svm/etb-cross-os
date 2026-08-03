@@ -1,0 +1,25 @@
+{
+  "id": "overleaf/ol-precalculus-a-year-review-with-problems-gjzsjkdyqkry",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "misc",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/precalculus-a-year-review-with-problems/gjzsjkdyqkry",
+  "original_author": "Shrey Joshi",
+  "title": "Precalculus: A Year Review (With Problems)",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/overleaf/ol-precalculus-a-year-review-with-problems-gjzsjkdyqkry/main.tex",
+  "relative_path": "raw/overleaf/ol-precalculus-a-year-review-with-problems-gjzsjkdyqkry/main.tex",
+  "main_doc": "main.tex",
+  "sha256": "9b0c6b529122822f67b5fdaa8944dd1e36d3889f2c8536cac266c24b92f46dfa",
+  "size_bytes": 16232,
+  "document_class": "article",
+  "uses_packages": [
+    "amsmath",
+    "fullpage",
+    "parskip",
+    "tikz"
+  ],
+  "download_method": "view-source-modal",
+  "github_url": null,
+  "downloaded_at": "2026-08-02T14:39:57.549Z"
+}

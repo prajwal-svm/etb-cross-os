@@ -1,0 +1,23 @@
+{
+  "id": "typst-universe/typst-vibrant-color-0-2-1",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "report",
+  "license": "MIT",
+  "source_url": "https://github.com/SHAfoin/shafoin-typst-template",
+  "original_author": "SHA_foin",
+  "package_name": "vibrant-color",
+  "package_version": "0.2.1",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/typst-universe/typst-vibrant-color-0-2-1/main.typ",
+  "relative_path": "raw/typst-universe/typst-vibrant-color-0-2-1/main.typ",
+  "main_doc": "main.typ",
+  "sha256": "b3b4193f071bef7ce25a8996435ffe7123dfc27c8d1082a2cdee054e649f2a53",
+  "size_bytes": 1716,
+  "document_class": null,
+  "uses_packages": [],
+  "downloaded_at": "2026-08-02T13:15:46.266Z",
+  "categories": [
+    "report"
+  ],
+  "description": "A modern template designed for reports with a variety of colors available."
+}

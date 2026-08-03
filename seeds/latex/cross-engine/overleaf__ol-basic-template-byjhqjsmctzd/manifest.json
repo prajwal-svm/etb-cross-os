@@ -1,0 +1,28 @@
+{
+  "id": "overleaf/ol-basic-template-byjhqjsmctzd",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "misc",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/basic-template/byjhqjsmctzd",
+  "original_author": "...",
+  "title": "Basic template",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/overleaf/ol-basic-template-byjhqjsmctzd/main.tex",
+  "relative_path": "raw/overleaf/ol-basic-template-byjhqjsmctzd/main.tex",
+  "main_doc": "main.tex",
+  "sha256": "5940233b9622e98af807c1ff9c1cc28eaad95043c1e2ef02b67f8b65511de0f2",
+  "size_bytes": 286,
+  "document_class": "article",
+  "uses_packages": [
+    "amssymb",
+    "babel",
+    "cite",
+    "fontenc",
+    "graphicx",
+    "hyperref",
+    "inputenc"
+  ],
+  "download_method": "view-source-modal",
+  "github_url": null,
+  "downloaded_at": "2026-08-02T15:52:16.468Z"
+}

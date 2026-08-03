@@ -1,0 +1,26 @@
+{
+  "id": "github-typst/gh-tinggaard-classic-aau-report-utils-2",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "report",
+  "license": "MIT",
+  "source_url": "https://github.com/Tinggaard/classic-aau-report",
+  "original_author": "Tinggaard",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/github-typst__gh-tinggaard-classic-aau-report-utils-2/utils.typ",
+  "relative_path": "processed/typst/github-typst__gh-tinggaard-classic-aau-report-utils-2/utils.typ",
+  "sha256": "2ef5e01e1a693d9b9fa94cd4233aa6d4309edac6dc2044324b501905a49c2caf",
+  "size_bytes": 3930,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 16,
+  "downloaded_at": "2026-08-02T14:05:54.005Z",
+  "filtered_at": "2026-08-02T17:34:45.791Z"
+}

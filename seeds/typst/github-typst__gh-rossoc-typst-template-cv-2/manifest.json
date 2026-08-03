@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-rossoc-typst-template-cv-2",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "cv",
+  "license": "MIT",
+  "source_url": "https://github.com/rossoc/typst-template",
+  "original_author": "rossoc",
+  "stars": 0,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-rossoc-typst-template-cv-2/cv.typ",
+  "relative_path": "raw/github-typst/gh-rossoc-typst-template-cv-2/cv.typ",
+  "main_doc": "cv.typ",
+  "sha256": "e690ee8174d4cc11aadbe9736ff857d8492a0d5e7df73e574067ac33d252fc65",
+  "size_bytes": 6383,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "setting/0.1.0/template/cv.typ",
+  "downloaded_at": "2026-08-02T14:14:42.678Z"
+}

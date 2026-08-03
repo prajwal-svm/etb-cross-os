@@ -1,0 +1,23 @@
+{
+  "id": "typst-universe/typst-charged-pace-0-1-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "thesis",
+  "license": "MIT-0",
+  "source_url": "https://typst.app/universe/package/charged-pace",
+  "original_author": "Éloïse Zappala",
+  "package_name": "charged-pace",
+  "package_version": "0.1.0",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/typst-universe/typst-charged-pace-0-1-0/main.typ",
+  "relative_path": "raw/typst-universe/typst-charged-pace-0-1-0/main.typ",
+  "main_doc": "main.typ",
+  "sha256": "d0de75be48ff663b4f16aaea7e1fe3264dcaebe6bb15512fd077af78fc4bed98",
+  "size_bytes": 2025,
+  "document_class": null,
+  "uses_packages": [],
+  "downloaded_at": "2026-08-02T13:06:34.663Z",
+  "categories": [
+    "thesis"
+  ],
+  "description": "Dissertation or thesis in the format required by Pace University."
+}

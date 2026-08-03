@@ -1,0 +1,26 @@
+{
+  "id": "github-latex/gh-zhenyuanchenai-mir-latex-template-cover-letter-template-1",
+  "source": "github-latex",
+  "format": "latex",
+  "category": "venue",
+  "license": "MIT",
+  "source_url": "https://github.com/zhenyuanchenai/MIR-Latex-Template",
+  "original_author": "zhenyuanchenai",
+  "stars": 5,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-latex/gh-zhenyuanchenai-mir-latex-template-cover-letter-template-1/cover_letter_template.tex",
+  "relative_path": "raw/github-latex/gh-zhenyuanchenai-mir-latex-template-cover-letter-template-1/cover_letter_template.tex",
+  "main_doc": "cover_letter_template.tex",
+  "sha256": "bbba4687f5b19eb3337d7b66904795605346d99365863b19344451362940f45b",
+  "size_bytes": 1851,
+  "document_class": "article",
+  "uses_packages": [
+    "array",
+    "booktabs",
+    "fontspec",
+    "geometry",
+    "hyperref",
+    "tabularx"
+  ],
+  "repo_path": "cover_letter_template.tex",
+  "downloaded_at": "2026-08-02T13:26:42.396Z"
+}

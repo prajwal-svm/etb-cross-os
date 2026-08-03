@@ -1,0 +1,32 @@
+{
+  "id": "template-packs/meeting-minutes",
+  "source": "template-packs",
+  "format": "latex",
+  "category": "business",
+  "license": "CC0-1.0",
+  "source_url": "https://github.com/Oleafly/template-packs",
+  "original_author": "Oleafly",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/template-packs__meeting-minutes/main.tex",
+  "relative_path": "processed/latex/cross-engine/template-packs__meeting-minutes/main.tex",
+  "sha256": "cb743cd6151cd27b5d34d68da6256aac1643d69e15436f85b39ecd12aa6a38ea",
+  "size_bytes": 3094,
+  "document_class": "article",
+  "uses_packages": [
+    "booktabs",
+    "geometry",
+    "sourcesanspro",
+    "tabularx",
+    "xcolor"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 542,
+  "downloaded_at": "2026-08-02T13:05:15.789Z",
+  "filtered_at": "2026-08-02T17:34:40.817Z"
+}

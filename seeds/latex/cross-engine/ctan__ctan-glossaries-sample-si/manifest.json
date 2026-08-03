@@ -1,0 +1,22 @@
+{
+  "id": "ctan/ctan-glossaries-sample-si",
+  "source": "ctan",
+  "format": "latex",
+  "category": "package-example",
+  "license": "LPPL-1.3c",
+  "source_url": "https://ctan.org/pkg/glossaries",
+  "original_author": "CTAN package: glossaries",
+  "package": "glossaries",
+  "original_path": "/usr/local/texlive/2025/texmf-dist/doc/latex/glossaries/samples/sample-si.tex",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/ctan/ctan-glossaries-sample-si/sample-si.tex",
+  "relative_path": "raw/ctan/ctan-glossaries-sample-si/sample-si.tex",
+  "main_doc": "sample-si.tex",
+  "sha256": "411f062e2f5acf915135f730b9b5e0998218f77a14bd6cddf070b16221b809c8",
+  "size_bytes": 553,
+  "document_class": "article",
+  "uses_packages": [
+    "glossaries",
+    "siunitx"
+  ],
+  "downloaded_at": "2026-08-02T13:04:56.444Z"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "overleaf/ol-academic-cv-template-xykxmjmkxxjm",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "cv",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/academic-cv-template/xykxmjmkxxjm",
+  "original_author": "Sara Venkatraman",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/overleaf__ol-academic-cv-template-xykxmjmkxxjm/main.tex",
+  "relative_path": "processed/latex/cross-engine/overleaf__ol-academic-cv-template-xykxmjmkxxjm/main.tex",
+  "sha256": "43e7cba3c1d5fd063497c299e8f60653f0df2ace8fdb830ea8642c4b45cacdbe",
+  "size_bytes": 7897,
+  "document_class": "article",
+  "uses_packages": [
+    "amsmath",
+    "enumitem",
+    "everypage",
+    "fancyhdr",
+    "geometry",
+    "graphicx",
+    "hyperref",
+    "hyphenat",
+    "ifthen",
+    "inputenc",
+    "libertine",
+    "longtable",
+    "newtxmath",
+    "setspace",
+    "xcolor"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 924,
+  "downloaded_at": "2026-08-02T15:55:58.987Z",
+  "filtered_at": "2026-08-02T17:34:40.905Z"
+}

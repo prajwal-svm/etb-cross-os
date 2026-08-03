@@ -1,0 +1,32 @@
+{
+  "id": "overleaf/ol-latex-template-for-aje-american-journal-experts-pvbyknvjtvxz",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "venue",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/latex-template-for-aje-american-journal-experts/pvbyknvjtvxz",
+  "original_author": null,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/overleaf__ol-latex-template-for-aje-american-journal-experts-pvbyknvjtvxz/main.tex",
+  "relative_path": "processed/latex/cross-engine/overleaf__ol-latex-template-for-aje-american-journal-experts-pvbyknvjtvxz/main.tex",
+  "sha256": "3a3ed137e457acf396a738ce2263e24db0f7f1088250d919b14d4d58e5448d63",
+  "size_bytes": 1725,
+  "document_class": "article",
+  "uses_packages": [
+    "amsmath",
+    "amssymb",
+    "cite",
+    "hyperref",
+    "lineno"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 429,
+  "downloaded_at": "2026-08-02T14:14:53.219Z",
+  "filtered_at": "2026-08-02T17:34:41.312Z"
+}

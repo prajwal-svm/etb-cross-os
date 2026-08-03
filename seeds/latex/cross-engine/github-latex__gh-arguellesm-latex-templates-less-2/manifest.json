@@ -1,0 +1,25 @@
+{
+  "id": "github-latex/gh-arguellesm-latex-templates-less-2",
+  "source": "github-latex",
+  "format": "latex",
+  "category": "misc",
+  "license": "MIT",
+  "source_url": "https://github.com/arguellesm/latex-templates",
+  "original_author": "arguellesm",
+  "stars": 8,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-latex/gh-arguellesm-latex-templates-less-2/less.tex",
+  "relative_path": "raw/github-latex/gh-arguellesm-latex-templates-less-2/less.tex",
+  "main_doc": "less.tex",
+  "sha256": "e8eaa2d86e12d509dd6ab2aa96396c098436c10a8e5d5869f758df3abaaa5e43",
+  "size_bytes": 1001,
+  "document_class": "article",
+  "uses_packages": [
+    "babel",
+    "enumitem",
+    "fontenc",
+    "lipsum",
+    "titlesec"
+  ],
+  "repo_path": "less/less.tex",
+  "downloaded_at": "2026-08-02T13:22:47.142Z"
+}

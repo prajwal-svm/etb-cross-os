@@ -1,0 +1,27 @@
+{
+  "id": "github-latex/gh-purestone-chitshit-info6007-cheatsheet-1",
+  "source": "github-latex",
+  "format": "latex",
+  "category": "coursework",
+  "license": "MIT",
+  "source_url": "https://github.com/Purestone/chitshit",
+  "original_author": "Purestone",
+  "stars": 31,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-latex/gh-purestone-chitshit-info6007-cheatsheet-1/INFO6007_cheatsheet.tex",
+  "relative_path": "raw/github-latex/gh-purestone-chitshit-info6007-cheatsheet-1/INFO6007_cheatsheet.tex",
+  "main_doc": "INFO6007_cheatsheet.tex",
+  "sha256": "c9c62c2676a752d889827d5d90b2c6d0460fbb32b85ca87b61a0867319ac0aa3",
+  "size_bytes": 67326,
+  "document_class": "article",
+  "uses_packages": [
+    "enumitem",
+    "fontspec",
+    "geometry",
+    "microtype",
+    "multicol",
+    "newunicodechar",
+    "xcolor"
+  ],
+  "repo_path": "INFO6007_cheatsheet.tex",
+  "downloaded_at": "2026-08-02T13:15:57.619Z"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "typst-universe/typst-orange-book-0-7-1",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "book",
+  "license": "MIT-0",
+  "source_url": "https://github.com/flavio20002/typst-orange-template",
+  "original_author": "Flavio Barisi",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/typst-universe__typst-orange-book-0-7-1/main.typ",
+  "relative_path": "processed/typst/typst-universe__typst-orange-book-0-7-1/main.typ",
+  "sha256": "509b7f6f1b8c0783233f24f16b77230b087d48a13e3c48cab1052dab730920f0",
+  "size_bytes": 11283,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 345,
+  "downloaded_at": "2026-08-02T13:11:49.270Z",
+  "filtered_at": "2026-08-02T17:34:44.083Z"
+}

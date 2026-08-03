@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-lvl3mage-typsttemplate-templateconfig-1",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "misc",
+  "license": "MIT",
+  "source_url": "https://github.com/Lvl3Mage/TypstTemplate",
+  "original_author": "Lvl3Mage",
+  "stars": 1,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-lvl3mage-typsttemplate-templateconfig-1/templateConfig.typ",
+  "relative_path": "raw/github-typst/gh-lvl3mage-typsttemplate-templateconfig-1/templateConfig.typ",
+  "main_doc": "templateConfig.typ",
+  "sha256": "5a36aaaab7c33df760f7a76782bcc6061b03e945c0ce45d91e8fa862e7463ffe",
+  "size_bytes": 1384,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "src/defenitions/templateConfig.typ",
+  "downloaded_at": "2026-08-02T14:11:01.919Z"
+}

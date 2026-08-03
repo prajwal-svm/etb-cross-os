@@ -1,0 +1,30 @@
+{
+  "id": "github-latex/gh-fabianwe-gummibaum-expand-data-2",
+  "source": "github-latex",
+  "format": "latex",
+  "category": "misc",
+  "license": "Apache-2.0",
+  "source_url": "https://github.com/FabianWe/gummibaum",
+  "original_author": "FabianWe",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/github-latex__gh-fabianwe-gummibaum-expand-data-2/expand_data.tex",
+  "relative_path": "processed/latex/cross-engine/github-latex__gh-fabianwe-gummibaum-expand-data-2/expand_data.tex",
+  "sha256": "3f731bf44c312e1cad812c0cd454761bcbf59a481309d42157a5d4e84b6eeb6b",
+  "size_bytes": 381,
+  "document_class": "scrartcl",
+  "uses_packages": [
+    "babel",
+    "fontenc",
+    "inputenc"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 614,
+  "downloaded_at": "2026-08-02T13:37:26.395Z",
+  "filtered_at": "2026-08-02T17:34:42.747Z"
+}

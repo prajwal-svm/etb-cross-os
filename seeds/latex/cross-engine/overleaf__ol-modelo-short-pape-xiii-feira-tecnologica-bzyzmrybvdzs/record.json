@@ -1,0 +1,37 @@
+{
+  "id": "overleaf/ol-modelo-short-pape-xiii-feira-tecnologica-bzyzmrybvdzs",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "misc",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/modelo-short-pape-xiii-feira-tecnologica/bzyzmrybvdzs",
+  "original_author": "Maria Edineuda Teixeira Pinto",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/overleaf__ol-modelo-short-pape-xiii-feira-tecnologica-bzyzmrybvdzs/main.tex",
+  "relative_path": "processed/latex/cross-engine/overleaf__ol-modelo-short-pape-xiii-feira-tecnologica-bzyzmrybvdzs/main.tex",
+  "sha256": "a08786de56b1bb8a294b71245076ebd01c509f65a0843c2dfa8030f7253e293d",
+  "size_bytes": 3959,
+  "document_class": "article",
+  "uses_packages": [
+    "babel",
+    "fancyhdr",
+    "geometry",
+    "graphicx",
+    "inputenc",
+    "lipsum",
+    "listings",
+    "url",
+    "verbatim",
+    "xcolor"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 394,
+  "downloaded_at": "2026-08-02T14:35:16.940Z",
+  "filtered_at": "2026-08-02T17:34:41.482Z"
+}

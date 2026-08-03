@@ -1,0 +1,30 @@
+{
+  "id": "github-latex/gh-michael-signorotti-latex-resume-template-resume-template",
+  "source": "github-latex",
+  "format": "latex",
+  "category": "cv",
+  "license": "Apache-2.0",
+  "source_url": "https://github.com/Michael-Signorotti/latex-resume-template",
+  "original_author": "Michael-Signorotti",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/github-latex__gh-michael-signorotti-latex-resume-template-resume-template/resume_template.tex",
+  "relative_path": "processed/latex/cross-engine/github-latex__gh-michael-signorotti-latex-resume-template-resume-template/resume_template.tex",
+  "sha256": "95a53fea263d637bbd4f41397355df8848acc9b2f3ad1995140721e2d3074714",
+  "size_bytes": 2583,
+  "document_class": "article",
+  "uses_packages": [
+    "enumitem",
+    "geometry",
+    "hyperref"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 365,
+  "downloaded_at": "2026-08-02T13:43:40.777Z",
+  "filtered_at": "2026-08-02T17:34:43.147Z"
+}

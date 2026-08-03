@@ -1,0 +1,33 @@
+{
+  "id": "github-latex/gh-celiobjunior-resume-template-resume",
+  "source": "github-latex",
+  "format": "latex",
+  "category": "cv",
+  "license": "Apache-2.0",
+  "source_url": "https://github.com/celiobjunior/resume-template",
+  "original_author": "celiobjunior",
+  "stars": 1396,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-latex/gh-celiobjunior-resume-template-resume/resume.tex",
+  "relative_path": "raw/github-latex/gh-celiobjunior-resume-template-resume/resume.tex",
+  "main_doc": "resume.tex",
+  "sha256": "4b2f816d5276c8d117f2491045d5f4503bca8a9e392fe9d2e029f09c3e502486",
+  "size_bytes": 6166,
+  "document_class": "article",
+  "uses_packages": [
+    "array",
+    "babel",
+    "bookmark",
+    "enumitem",
+    "fontenc",
+    "geometry",
+    "hyperref",
+    "inputenc",
+    "microtype",
+    "parskip",
+    "tabularx",
+    "titlesec",
+    "xurl"
+  ],
+  "repo_path": "resumes/en/resume.tex",
+  "downloaded_at": "2026-08-02T13:11:32.837Z"
+}

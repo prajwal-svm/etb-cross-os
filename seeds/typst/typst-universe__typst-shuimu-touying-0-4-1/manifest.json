@@ -1,0 +1,23 @@
+{
+  "id": "typst-universe/typst-shuimu-touying-0-4-1",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "beamer",
+  "license": "MIT",
+  "source_url": "https://github.com/JSB-Unscarred/shuimu-touying",
+  "original_author": "Mason Chen",
+  "package_name": "shuimu-touying",
+  "package_version": "0.4.1",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/typst-universe/typst-shuimu-touying-0-4-1/main.typ",
+  "relative_path": "raw/typst-universe/typst-shuimu-touying-0-4-1/main.typ",
+  "main_doc": "main.typ",
+  "sha256": "789eb4abb10b1b90084d6ebd347e7868a430dc3ebb8d527d331a56eedb35a9c1",
+  "size_bytes": 4488,
+  "document_class": null,
+  "uses_packages": [],
+  "downloaded_at": "2026-08-02T13:12:46.250Z",
+  "categories": [
+    "presentation"
+  ],
+  "description": "A clean, Beamer-style presentation template for Tsinghua University."
+}

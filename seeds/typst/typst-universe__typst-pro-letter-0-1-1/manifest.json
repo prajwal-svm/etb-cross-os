@@ -1,0 +1,23 @@
+{
+  "id": "typst-universe/typst-pro-letter-0-1-1",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "business",
+  "license": "MIT",
+  "source_url": "https://github.com/swaits/typst-collection",
+  "original_author": "Stephen Waits",
+  "package_name": "pro-letter",
+  "package_version": "0.1.1",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/typst-universe/typst-pro-letter-0-1-1/main.typ",
+  "relative_path": "raw/typst-universe/typst-pro-letter-0-1-1/main.typ",
+  "main_doc": "main.typ",
+  "sha256": "62de9a02560a048e3bf9ebd3fc47e3270e31ee6ce2661533b23f65da7b5d3aa2",
+  "size_bytes": 1187,
+  "document_class": null,
+  "uses_packages": [],
+  "downloaded_at": "2026-08-02T13:12:15.839Z",
+  "categories": [
+    "office"
+  ],
+  "description": "A formal business letter template."
+}

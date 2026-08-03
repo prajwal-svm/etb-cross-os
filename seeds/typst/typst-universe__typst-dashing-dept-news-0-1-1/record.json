@@ -1,0 +1,26 @@
+{
+  "id": "typst-universe/typst-dashing-dept-news-0-1-1",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "business",
+  "license": "MIT-0",
+  "source_url": "https://github.com/typst/templates",
+  "original_author": "Typst GmbH",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/typst-universe__typst-dashing-dept-news-0-1-1/main.typ",
+  "relative_path": "processed/typst/typst-universe__typst-dashing-dept-news-0-1-1/main.typ",
+  "sha256": "d05349d8da73929f13ec4cd0df928110c265fcded5c2edbae25a17c7c0d3808e",
+  "size_bytes": 2761,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 272,
+  "downloaded_at": "2026-08-02T13:07:37.222Z",
+  "filtered_at": "2026-08-02T17:34:43.769Z"
+}

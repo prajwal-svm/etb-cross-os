@@ -1,0 +1,23 @@
+{
+  "id": "typst-universe/typst-sano-presentation-template-1-0-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "beamer",
+  "license": "MIT",
+  "source_url": "https://github.com/sudanchapagain/sano-presentation-template",
+  "original_author": "Sudan Chapagain",
+  "package_name": "sano-presentation-template",
+  "package_version": "1.0.0",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/typst-universe/typst-sano-presentation-template-1-0-0/main.typ",
+  "relative_path": "raw/typst-universe/typst-sano-presentation-template-1-0-0/main.typ",
+  "main_doc": "main.typ",
+  "sha256": "69a6b0b63741f698a889425f31affab07c56de4b7d810bd259e589b1281bf4c2",
+  "size_bytes": 1683,
+  "document_class": null,
+  "uses_packages": [],
+  "downloaded_at": "2026-08-02T13:12:37.339Z",
+  "categories": [
+    "presentation"
+  ],
+  "description": "Small and minimal presentation template"
+}

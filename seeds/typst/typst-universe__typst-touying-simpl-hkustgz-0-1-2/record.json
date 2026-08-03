@@ -1,0 +1,26 @@
+{
+  "id": "typst-universe/typst-touying-simpl-hkustgz-0-1-2",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "beamer",
+  "license": "MIT",
+  "source_url": "https://github.com/exAClior/touying-simpl-hkustgz",
+  "original_author": "Yusheng Zhao",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/typst-universe__typst-touying-simpl-hkustgz-0-1-2/main.typ",
+  "relative_path": "processed/typst/typst-universe__typst-touying-simpl-hkustgz-0-1-2/main.typ",
+  "sha256": "30fe120e2f01252e4129c376cd13dc2c8d729cec888bd1c3f7d5b15725f20fe0",
+  "size_bytes": 777,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 282,
+  "downloaded_at": "2026-08-02T13:14:17.206Z",
+  "filtered_at": "2026-08-02T17:34:44.299Z"
+}

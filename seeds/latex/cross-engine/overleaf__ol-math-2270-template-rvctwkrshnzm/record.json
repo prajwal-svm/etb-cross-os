@@ -1,0 +1,32 @@
+{
+  "id": "overleaf/ol-math-2270-template-rvctwkrshnzm",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "misc",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/math-2270-template/rvctwkrshnzm",
+  "original_author": "Dana Sorensen",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/overleaf__ol-math-2270-template-rvctwkrshnzm/main.tex",
+  "relative_path": "processed/latex/cross-engine/overleaf__ol-math-2270-template-rvctwkrshnzm/main.tex",
+  "sha256": "81943bb903d2f39bd9a2d63ab53689e54fd3a6d2a8a455f1f6085b5ba95b0071",
+  "size_bytes": 564,
+  "document_class": "article",
+  "uses_packages": [
+    "amsfonts",
+    "amsmath",
+    "amssymb",
+    "amsthm",
+    "setspace"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 244,
+  "downloaded_at": "2026-08-02T13:34:34.210Z",
+  "filtered_at": "2026-08-02T17:34:41.363Z"
+}

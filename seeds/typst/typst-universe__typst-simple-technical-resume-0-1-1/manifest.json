@@ -1,0 +1,23 @@
+{
+  "id": "typst-universe/typst-simple-technical-resume-0-1-1",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "cv",
+  "license": "MIT",
+  "source_url": "https://github.com/steadyfall/simple-technical-resume-template",
+  "original_author": "Himank Dave",
+  "package_name": "simple-technical-resume",
+  "package_version": "0.1.1",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/typst-universe/typst-simple-technical-resume-0-1-1/main.typ",
+  "relative_path": "raw/typst-universe/typst-simple-technical-resume-0-1-1/main.typ",
+  "main_doc": "main.typ",
+  "sha256": "9b822e291946eecd339fcd783b8d5fc359d5fce48dec056132773dbf16b7f2a4",
+  "size_bytes": 4248,
+  "document_class": null,
+  "uses_packages": [],
+  "downloaded_at": "2026-08-02T13:13:04.463Z",
+  "categories": [
+    "cv"
+  ],
+  "description": "A simple technical resume designed to fit within a page and work well with ATS."
+}

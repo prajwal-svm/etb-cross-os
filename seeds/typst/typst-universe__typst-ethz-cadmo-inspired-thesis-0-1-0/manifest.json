@@ -1,0 +1,23 @@
+{
+  "id": "typst-universe/typst-ethz-cadmo-inspired-thesis-0-1-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "thesis",
+  "license": "MIT",
+  "source_url": "https://typst.app/universe/package/ethz-cadmo-inspired-thesis",
+  "original_author": "Dominik Schwaiger",
+  "package_name": "ethz-cadmo-inspired-thesis",
+  "package_version": "0.1.0",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/typst-universe/typst-ethz-cadmo-inspired-thesis-0-1-0/main.typ",
+  "relative_path": "raw/typst-universe/typst-ethz-cadmo-inspired-thesis-0-1-0/main.typ",
+  "main_doc": "main.typ",
+  "sha256": "32076006b14fc3fc7122f7db0edc03fafe3cb48cb17614c928b031608e4c6111",
+  "size_bytes": 624,
+  "document_class": null,
+  "uses_packages": [],
+  "downloaded_at": "2026-08-02T13:08:11.518Z",
+  "categories": [
+    "thesis"
+  ],
+  "description": "Thesis inspired by the ETHZ CADMO group"
+}

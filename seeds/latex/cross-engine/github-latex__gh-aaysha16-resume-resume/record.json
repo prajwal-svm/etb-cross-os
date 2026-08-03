@@ -1,0 +1,38 @@
+{
+  "id": "github-latex/gh-aaysha16-resume-resume",
+  "source": "github-latex",
+  "format": "latex",
+  "category": "cv",
+  "license": "MIT",
+  "source_url": "https://github.com/aaysha16/Resume",
+  "original_author": "aaysha16",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/github-latex__gh-aaysha16-resume-resume/resume.tex",
+  "relative_path": "processed/latex/cross-engine/github-latex__gh-aaysha16-resume-resume/resume.tex",
+  "sha256": "117b59ffd2eb61580306569feebe171faf559a52afe6c205ffa66c55507fceb7",
+  "size_bytes": 8692,
+  "document_class": "article",
+  "uses_packages": [
+    "babel",
+    "color",
+    "enumitem",
+    "fancyhdr",
+    "fullpage",
+    "hyperref",
+    "latexsym",
+    "marvosym",
+    "tabularx",
+    "titlesec",
+    "verbatim"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 425,
+  "downloaded_at": "2026-08-02T13:39:21.746Z",
+  "filtered_at": "2026-08-02T17:34:42.385Z"
+}

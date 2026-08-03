@@ -1,0 +1,28 @@
+{
+  "id": "template-packs/minimal-monograph-thesis",
+  "source": "template-packs",
+  "format": "latex",
+  "category": "thesis",
+  "category_raw": "Theses & Reports",
+  "license": "CC0-1.0",
+  "source_url": "https://github.com/Oleafly/template-packs",
+  "original_author": "Oleafly",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/template-packs/minimal-monograph-thesis/main.tex",
+  "relative_path": "raw/template-packs/minimal-monograph-thesis/main.tex",
+  "main_doc": "main.tex",
+  "sha256": "a1d80b2b16e82db0c1cbaf4684804fd35eb67ac5ad5d5f042ab9f71f9564d9c8",
+  "size_bytes": 4013,
+  "document_class": "scrbook",
+  "uses_packages": [
+    "amsmath",
+    "booktabs",
+    "geometry",
+    "hyperref",
+    "lmodern",
+    "microtype",
+    "scrlayer-scrpage",
+    "xcolor"
+  ],
+  "engine_hint": "xetex",
+  "downloaded_at": "2026-08-02T13:05:15.751Z"
+}

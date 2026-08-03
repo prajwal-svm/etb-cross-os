@@ -1,0 +1,19 @@
+{
+  "id": "github-latex/gh-ecrawford4-tex-template-report-sample-1",
+  "source": "github-latex",
+  "format": "latex",
+  "category": "report",
+  "license": "MIT",
+  "source_url": "https://github.com/ecrawford4/tex-template-report",
+  "original_author": "ecrawford4",
+  "stars": 0,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-latex/gh-ecrawford4-tex-template-report-sample-1/sample.tex",
+  "relative_path": "raw/github-latex/gh-ecrawford4-tex-template-report-sample-1/sample.tex",
+  "main_doc": "sample.tex",
+  "sha256": "4223a9e441bf69e95262420c5e2c99baf1866aa79cc21578c49b31920a35523b",
+  "size_bytes": 889,
+  "document_class": "beamer",
+  "uses_packages": [],
+  "repo_path": "sample.tex",
+  "downloaded_at": "2026-08-02T13:58:37.089Z"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "typst-universe/typst-cthesis-0-1-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "thesis",
+  "license": "MIT",
+  "source_url": "https://github.com/ElliotMS/cthesis",
+  "original_author": "Elliot Markström Stenhammar",
+  "package_name": "cthesis",
+  "package_version": "0.1.0",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/typst-universe/typst-cthesis-0-1-0/main.typ",
+  "relative_path": "raw/typst-universe/typst-cthesis-0-1-0/main.typ",
+  "main_doc": "main.typ",
+  "sha256": "1fa68ab09e714735b199a08bbc1bcf43ed98f1aa750ee8a695c62b4d06cfe57b",
+  "size_bytes": 1581,
+  "document_class": null,
+  "uses_packages": [],
+  "downloaded_at": "2026-08-02T13:07:31.494Z",
+  "categories": [
+    "thesis"
+  ],
+  "description": "Unofficial thesis template for Chalmers University of Technology."
+}

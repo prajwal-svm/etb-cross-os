@@ -1,0 +1,37 @@
+{
+  "id": "overleaf/ol-template-wassp-2023-ccen-ufpe-rjrgrnnqznbk",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "misc",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/template-wassp-2023-ccen-ufpe/rjrgrnnqznbk",
+  "original_author": "De Bastiani",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/overleaf__ol-template-wassp-2023-ccen-ufpe-rjrgrnnqznbk/main.tex",
+  "relative_path": "processed/latex/cross-engine/overleaf__ol-template-wassp-2023-ccen-ufpe-rjrgrnnqznbk/main.tex",
+  "sha256": "0b10a450d9fd75d5999872a1de9f9662054ac663e7df5efce16e3bd341594646",
+  "size_bytes": 1770,
+  "document_class": "article",
+  "uses_packages": [
+    "a4wide",
+    "amscd",
+    "amsfonts",
+    "amsmath",
+    "amssymb",
+    "amsthm",
+    "fancyhdr",
+    "graphicx",
+    "hyperref",
+    "lipsum"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 395,
+  "downloaded_at": "2026-08-02T14:15:35.557Z",
+  "filtered_at": "2026-08-02T17:34:41.964Z"
+}

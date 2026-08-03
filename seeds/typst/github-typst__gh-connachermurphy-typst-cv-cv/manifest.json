@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-connachermurphy-typst-cv-cv",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "cv",
+  "license": "MIT",
+  "source_url": "https://github.com/connachermurphy/typst-cv",
+  "original_author": "connachermurphy",
+  "stars": 0,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-connachermurphy-typst-cv-cv/cv.typ",
+  "relative_path": "raw/github-typst/gh-connachermurphy-typst-cv-cv/cv.typ",
+  "main_doc": "cv.typ",
+  "sha256": "878cb3626302064f35ac7bad03ee817de31a1bcadbd8abb123fb1336359ae1b3",
+  "size_bytes": 1012,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "cv.typ",
+  "downloaded_at": "2026-08-02T14:15:55.088Z"
+}

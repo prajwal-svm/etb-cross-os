@@ -1,0 +1,23 @@
+{
+  "id": "template-packs/one-page-cv",
+  "source": "template-packs",
+  "format": "latex",
+  "category": "cv",
+  "category_raw": "CVs & Resumes",
+  "license": "CC0-1.0",
+  "source_url": "https://github.com/Oleafly/template-packs",
+  "original_author": "Oleafly",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/template-packs/one-page-cv/main.tex",
+  "relative_path": "raw/template-packs/one-page-cv/main.tex",
+  "main_doc": "main.tex",
+  "sha256": "8b8107f28aea4968abdb3e4fadcefff427c10f0f118f4ffb01e002144bc71efc",
+  "size_bytes": 1783,
+  "document_class": "article",
+  "uses_packages": [
+    "enumitem",
+    "geometry",
+    "hyperref"
+  ],
+  "engine_hint": "xetex",
+  "downloaded_at": "2026-08-02T13:05:15.848Z"
+}

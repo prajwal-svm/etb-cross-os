@@ -1,0 +1,20 @@
+{
+  "id": "overleaf/ol-german-modern-formal-letter-gbxkhhdbmgbc",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "letter",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/german-modern-formal-letter/gbxkhhdbmgbc",
+  "original_author": "Jan Mattfeld",
+  "title": "German Modern Formal Letter",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/overleaf/ol-german-modern-formal-letter-gbxkhhdbmgbc/Brief.tex",
+  "relative_path": "raw/overleaf/ol-german-modern-formal-letter-gbxkhhdbmgbc/Brief.tex",
+  "main_doc": "Brief.tex",
+  "sha256": "379bdcceb18e20e09d97aeb14c9639d2d0ad4ec8dc7407fc67b00c2f21918acd",
+  "size_bytes": 1485,
+  "document_class": "scrlttr2",
+  "uses_packages": [],
+  "download_method": "github:https://github.com/janmattfeld/latex-briefvorlage",
+  "github_url": "https://github.com/janmattfeld/latex-briefvorlage",
+  "downloaded_at": "2026-08-02T16:00:38.863Z"
+}

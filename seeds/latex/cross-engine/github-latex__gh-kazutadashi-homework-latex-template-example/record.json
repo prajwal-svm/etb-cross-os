@@ -1,0 +1,35 @@
+{
+  "id": "github-latex/gh-kazutadashi-homework-latex-template-example",
+  "source": "github-latex",
+  "format": "latex",
+  "category": "coursework",
+  "license": "MIT",
+  "source_url": "https://github.com/Kazutadashi/homework-latex-template",
+  "original_author": "Kazutadashi",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/github-latex__gh-kazutadashi-homework-latex-template-example/Example.tex",
+  "relative_path": "processed/latex/cross-engine/github-latex__gh-kazutadashi-homework-latex-template-example/Example.tex",
+  "sha256": "3b0d3c2842a9c3be97cf408ec0ed09940b3df429ca65e017c7aafb7ebc1c68a4",
+  "size_bytes": 8138,
+  "document_class": "article",
+  "uses_packages": [
+    "amsfonts",
+    "amsmath",
+    "amssymb",
+    "amsthm",
+    "enumitem",
+    "extramarks",
+    "fancyhdr",
+    "mathtools"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 318,
+  "downloaded_at": "2026-08-02T13:48:58.940Z",
+  "filtered_at": "2026-08-02T17:34:43.000Z"
+}

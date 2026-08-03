@@ -1,0 +1,30 @@
+{
+  "id": "overleaf/ol-ferit-diplomski-rad-mywmjxcznxgg",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "misc",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/ferit-diplomski-rad/mywmjxcznxgg",
+  "original_author": "Matija Kelemen",
+  "title": "FERIT Diplomski rad",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/overleaf/ol-ferit-diplomski-rad-mywmjxcznxgg/main.tex",
+  "relative_path": "raw/overleaf/ol-ferit-diplomski-rad-mywmjxcznxgg/main.tex",
+  "main_doc": "main.tex",
+  "sha256": "cfb2b8c8e8a069ff8497b0e73c469899104a4986ffbee60cfdf4c252f524aaf0",
+  "size_bytes": 857,
+  "document_class": "article",
+  "uses_packages": [
+    "babel",
+    "fancyhdr",
+    "float",
+    "geometry",
+    "hyperref",
+    "indentfirst",
+    "inputenc",
+    "pdfpages",
+    "tocbibind"
+  ],
+  "download_method": "view-source-modal",
+  "github_url": null,
+  "downloaded_at": "2026-08-02T15:17:55.887Z"
+}

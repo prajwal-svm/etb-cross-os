@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-kognise-golden-pleading-impl-1",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "venue",
+  "license": "MIT",
+  "source_url": "https://github.com/kognise/golden-pleading",
+  "original_author": "kognise",
+  "stars": 3,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-kognise-golden-pleading-impl-1/impl.typ",
+  "relative_path": "raw/github-typst/gh-kognise-golden-pleading-impl-1/impl.typ",
+  "main_doc": "impl.typ",
+  "sha256": "3462e19021512ba2fa2ac7feb1d3ea70762ae684b88c9b90c03f50f17f3573d9",
+  "size_bytes": 12086,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "impl.typ",
+  "downloaded_at": "2026-08-02T14:09:18.458Z"
+}

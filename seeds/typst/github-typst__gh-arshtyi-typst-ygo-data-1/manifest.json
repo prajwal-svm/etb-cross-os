@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-arshtyi-typst-ygo-data-1",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "misc",
+  "license": "MIT",
+  "source_url": "https://github.com/arshtyi/typst-ygo",
+  "original_author": "arshtyi",
+  "stars": 0,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-arshtyi-typst-ygo-data-1/data.typ",
+  "relative_path": "raw/github-typst/gh-arshtyi-typst-ygo-data-1/data.typ",
+  "main_doc": "data.typ",
+  "sha256": "491e04d6a941057a5f771d99a42d7e1eb67e433753147d0826cfd619d8dd9b63",
+  "size_bytes": 248,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "lib/ot/data.typ",
+  "downloaded_at": "2026-08-02T14:18:03.126Z"
+}

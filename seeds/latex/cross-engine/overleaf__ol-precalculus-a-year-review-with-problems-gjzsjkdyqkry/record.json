@@ -1,0 +1,31 @@
+{
+  "id": "overleaf/ol-precalculus-a-year-review-with-problems-gjzsjkdyqkry",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "misc",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/precalculus-a-year-review-with-problems/gjzsjkdyqkry",
+  "original_author": "Shrey Joshi",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/overleaf__ol-precalculus-a-year-review-with-problems-gjzsjkdyqkry/main.tex",
+  "relative_path": "processed/latex/cross-engine/overleaf__ol-precalculus-a-year-review-with-problems-gjzsjkdyqkry/main.tex",
+  "sha256": "9b0c6b529122822f67b5fdaa8944dd1e36d3889f2c8536cac266c24b92f46dfa",
+  "size_bytes": 16232,
+  "document_class": "article",
+  "uses_packages": [
+    "amsmath",
+    "fullpage",
+    "parskip",
+    "tikz"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 505,
+  "downloaded_at": "2026-08-02T14:39:57.549Z",
+  "filtered_at": "2026-08-02T17:34:41.676Z"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "overleaf/ol-unb-logo-tmmmpnzkkrqq",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "misc",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/unb-logo/tmmmpnzkkrqq",
+  "original_author": "Lucas Correa Lopes",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/overleaf__ol-unb-logo-tmmmpnzkkrqq/main.tex",
+  "relative_path": "processed/latex/cross-engine/overleaf__ol-unb-logo-tmmmpnzkkrqq/main.tex",
+  "sha256": "e9c9e100b136a405e44412180bfaefc919bfad6a4db91c491de61484295add23",
+  "size_bytes": 2981,
+  "document_class": "standalone",
+  "uses_packages": [
+    "inputenc",
+    "tikz"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 378,
+  "downloaded_at": "2026-08-02T15:29:56.826Z",
+  "filtered_at": "2026-08-02T17:34:42.073Z"
+}

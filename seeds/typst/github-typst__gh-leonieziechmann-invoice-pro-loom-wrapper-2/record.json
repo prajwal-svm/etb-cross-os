@@ -1,0 +1,26 @@
+{
+  "id": "github-typst/gh-leonieziechmann-invoice-pro-loom-wrapper-2",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "business",
+  "license": "MIT",
+  "source_url": "https://github.com/leonieziechmann/invoice-pro",
+  "original_author": "leonieziechmann",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/github-typst__gh-leonieziechmann-invoice-pro-loom-wrapper-2/loom-wrapper.typ",
+  "relative_path": "processed/typst/github-typst__gh-leonieziechmann-invoice-pro-loom-wrapper-2/loom-wrapper.typ",
+  "sha256": "d384c7c97f47db373cf12fa765a1306fc89c529863c7ff7486fe4b0d0ed7a44f",
+  "size_bytes": 547,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 17,
+  "downloaded_at": "2026-08-02T14:04:08.356Z",
+  "filtered_at": "2026-08-02T17:34:45.201Z"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "github-latex/gh-clarkfitzg-templates-report-2",
+  "source": "github-latex",
+  "format": "latex",
+  "category": "report",
+  "license": "MIT",
+  "source_url": "https://github.com/clarkfitzg/templates",
+  "original_author": "clarkfitzg",
+  "stars": 1,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-latex/gh-clarkfitzg-templates-report-2/report.tex",
+  "relative_path": "raw/github-latex/gh-clarkfitzg-templates-report-2/report.tex",
+  "main_doc": "report.tex",
+  "sha256": "f5175abf6e6bea2aa295561f9d00fb0c7650df3e7007aa902702845c99002133",
+  "size_bytes": 1553,
+  "document_class": "article",
+  "uses_packages": [
+    "amsfonts",
+    "amsmath",
+    "amsthm",
+    "booktabs",
+    "geometry",
+    "graphicx",
+    "hyperref",
+    "inconsolata",
+    "listings",
+    "parskip",
+    "siunitx"
+  ],
+  "repo_path": "latex/preamble/report.tex",
+  "downloaded_at": "2026-08-02T13:42:29.793Z"
+}

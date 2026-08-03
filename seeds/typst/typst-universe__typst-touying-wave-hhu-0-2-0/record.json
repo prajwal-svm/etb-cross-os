@@ -1,0 +1,26 @@
+{
+  "id": "typst-universe/typst-touying-wave-hhu-0-2-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "beamer",
+  "license": "MIT",
+  "source_url": "https://github.com/HPDell/touying-wave-hhu",
+  "original_author": "HPDell",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/typst-universe__typst-touying-wave-hhu-0-2-0/main.typ",
+  "relative_path": "processed/typst/typst-universe__typst-touying-wave-hhu-0-2-0/main.typ",
+  "sha256": "c0967429500fe6bcd1dc5a4ec8fbb6ff9b1b4e2b8c8544c8b3433f6a876e3b0d",
+  "size_bytes": 330,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 330,
+  "downloaded_at": "2026-08-02T13:14:27.972Z",
+  "filtered_at": "2026-08-02T17:34:44.311Z"
+}

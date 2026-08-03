@@ -1,0 +1,26 @@
+{
+  "id": "typst-universe/typst-sunny-orasis-0-1-1",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "venue",
+  "license": "MIT-0",
+  "source_url": "https://github.com/edgaremy/typst-sunny-orasis",
+  "original_author": "Edgar Remy",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/typst-universe__typst-sunny-orasis-0-1-1/main.typ",
+  "relative_path": "processed/typst/typst-universe__typst-sunny-orasis-0-1-1/main.typ",
+  "sha256": "481c85a92e30c94f49515b9bbe8f746ff4bdff4a3f135ab5982b2b6adee8b17b",
+  "size_bytes": 3346,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 269,
+  "downloaded_at": "2026-08-02T13:13:35.189Z",
+  "filtered_at": "2026-08-02T17:34:44.234Z"
+}

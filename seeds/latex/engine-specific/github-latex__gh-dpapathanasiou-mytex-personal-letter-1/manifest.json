@@ -1,0 +1,23 @@
+{
+  "id": "github-latex/gh-dpapathanasiou-mytex-personal-letter-1",
+  "source": "github-latex",
+  "format": "latex",
+  "category": "letter",
+  "license": "MIT",
+  "source_url": "https://github.com/dpapathanasiou/MyTeX",
+  "original_author": "dpapathanasiou",
+  "stars": 5,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-latex/gh-dpapathanasiou-mytex-personal-letter-1/personal-letter.tex",
+  "relative_path": "raw/github-latex/gh-dpapathanasiou-mytex-personal-letter-1/personal-letter.tex",
+  "main_doc": "personal-letter.tex",
+  "sha256": "8d21c24d5cb142f424b831afd8d18c99c3e5210cd19e0f5ad194c1789afcf2c1",
+  "size_bytes": 2575,
+  "document_class": "letter",
+  "uses_packages": [
+    "fontspec",
+    "hyphenat",
+    "xunicode"
+  ],
+  "repo_path": "personal-letter.tex",
+  "downloaded_at": "2026-08-02T13:27:34.597Z"
+}

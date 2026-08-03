@@ -1,0 +1,26 @@
+{
+  "id": "typst-universe/typst-lyceum-0-1-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "book",
+  "license": "MIT",
+  "source_url": "https://typst.app/universe/package/lyceum",
+  "original_author": "Naaktgeboren, C.",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/typst-universe__typst-lyceum-0-1-0/main.typ",
+  "relative_path": "processed/typst/typst-universe__typst-lyceum-0-1-0/main.typ",
+  "sha256": "f22ca9c894118e37cdf8277e530b4c60e07ba24c0b525cf2b5af2e7774c33dcc",
+  "size_bytes": 3349,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 234,
+  "downloaded_at": "2026-08-02T13:10:05.955Z",
+  "filtered_at": "2026-08-02T17:34:43.960Z"
+}

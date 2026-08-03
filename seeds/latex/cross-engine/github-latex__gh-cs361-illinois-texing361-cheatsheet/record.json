@@ -1,0 +1,37 @@
+{
+  "id": "github-latex/gh-cs361-illinois-texing361-cheatsheet",
+  "source": "github-latex",
+  "format": "latex",
+  "category": "coursework",
+  "license": "MIT",
+  "source_url": "https://github.com/cs361-illinois/TeXing361",
+  "original_author": "cs361-illinois",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/github-latex__gh-cs361-illinois-texing361-cheatsheet/cheatsheet.tex",
+  "relative_path": "processed/latex/cross-engine/github-latex__gh-cs361-illinois-texing361-cheatsheet/cheatsheet.tex",
+  "sha256": "0216b405081638903a202a05484ac18fcf134d7c9459f4f03fbc75237b73daaa",
+  "size_bytes": 17262,
+  "document_class": "article",
+  "uses_packages": [
+    "amsfonts",
+    "amsmath",
+    "amssymb",
+    "amsthm",
+    "calc",
+    "geometry",
+    "hyperref",
+    "ifthen",
+    "multicol",
+    "multirow"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 527,
+  "downloaded_at": "2026-08-02T13:38:28.736Z",
+  "filtered_at": "2026-08-02T17:34:42.605Z"
+}

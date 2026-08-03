@@ -1,0 +1,26 @@
+{
+  "id": "typst-universe/typst-bone-resume-0-3-1",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "cv",
+  "license": "Apache-2.0",
+  "source_url": "https://typst.app/universe/package/bone-resume",
+  "original_author": "zrr1999",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/typst-universe__typst-bone-resume-0-3-1/main.typ",
+  "relative_path": "processed/typst/typst-universe__typst-bone-resume-0-3-1/main.typ",
+  "sha256": "3e86433cda6fe842ffb0c961626f8be748add24176e3634fdbd81fffa86d7f5c",
+  "size_bytes": 3866,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 309,
+  "downloaded_at": "2026-08-02T13:06:15.342Z",
+  "filtered_at": "2026-08-02T17:34:43.654Z"
+}

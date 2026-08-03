@@ -1,0 +1,26 @@
+{
+  "id": "typst-universe/typst-silky-slides-insa-0-2-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "beamer",
+  "license": "MIT",
+  "source_url": "https://github.com/SkytAsul/INSA-Typst-Template",
+  "original_author": "SkytAsul",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/typst-universe__typst-silky-slides-insa-0-2-0/main.typ",
+  "relative_path": "processed/typst/typst-universe__typst-silky-slides-insa-0-2-0/main.typ",
+  "sha256": "b1d5ddb04ba2206648c84c90f3f512c408d916aa0dba2d15e3afe96f16c142f7",
+  "size_bytes": 570,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 373,
+  "downloaded_at": "2026-08-02T13:12:53.273Z",
+  "filtered_at": "2026-08-02T17:34:44.176Z"
+}

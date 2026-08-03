@@ -1,0 +1,23 @@
+{
+  "id": "typst-universe/typst-modern-iu-thesis-0-1-5",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "thesis",
+  "license": "MIT",
+  "source_url": "https://github.com/bojohnson5/modern-iu-thesis",
+  "original_author": "Bo Johnson",
+  "package_name": "modern-iu-thesis",
+  "package_version": "0.1.5",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/typst-universe/typst-modern-iu-thesis-0-1-5/main.typ",
+  "relative_path": "raw/typst-universe/typst-modern-iu-thesis-0-1-5/main.typ",
+  "main_doc": "main.typ",
+  "sha256": "fdd8aa029e3df7492ef27d86a84777927baecf7ce5644410804f0a28ba711bd5",
+  "size_bytes": 1003,
+  "document_class": null,
+  "uses_packages": [],
+  "downloaded_at": "2026-08-02T13:10:47.642Z",
+  "categories": [
+    "thesis"
+  ],
+  "description": "Modern Typst thesis template for Indiana University"
+}

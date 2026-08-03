@@ -1,0 +1,26 @@
+{
+  "id": "typst-universe/typst-harvard-gsas-thesis-oat-0-1-5",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "thesis",
+  "license": "MIT",
+  "source_url": "https://github.com/Moelf/harvard-gsas-thesis-oat",
+  "original_author": "Moelf",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/typst-universe__typst-harvard-gsas-thesis-oat-0-1-5/main.typ",
+  "relative_path": "processed/typst/typst-universe__typst-harvard-gsas-thesis-oat-0-1-5/main.typ",
+  "sha256": "0fc4a2dab348bf7133627e2e2508eafa786161772585618c7d7c608c465f815d",
+  "size_bytes": 2107,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 271,
+  "downloaded_at": "2026-08-02T13:08:54.723Z",
+  "filtered_at": "2026-08-02T17:34:43.867Z"
+}

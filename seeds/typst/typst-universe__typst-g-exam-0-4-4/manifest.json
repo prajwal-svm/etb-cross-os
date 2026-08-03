@@ -1,0 +1,23 @@
+{
+  "id": "typst-universe/typst-g-exam-0-4-4",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "business",
+  "license": "MIT",
+  "source_url": "https://github.com/MatheSchool/typst-g-exam",
+  "original_author": "Andrés Giménez Muñoz",
+  "package_name": "g-exam",
+  "package_version": "0.4.4",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/typst-universe/typst-g-exam-0-4-4/1er exam.typ",
+  "relative_path": "raw/typst-universe/typst-g-exam-0-4-4/1er exam.typ",
+  "main_doc": "1er exam.typ",
+  "sha256": "283e765c729d90a18a34e7581a6ee7be83717639954a037c2dbfd572433fef54",
+  "size_bytes": 1167,
+  "document_class": null,
+  "uses_packages": [],
+  "downloaded_at": "2026-08-02T13:08:38.090Z",
+  "categories": [
+    "office"
+  ],
+  "description": "Create exams with student information, grade chart, score control, questions, and sub-questions."
+}

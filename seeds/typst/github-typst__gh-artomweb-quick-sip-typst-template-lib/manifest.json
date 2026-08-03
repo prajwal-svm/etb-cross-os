@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-artomweb-quick-sip-typst-template-lib",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "book",
+  "license": "MIT",
+  "source_url": "https://github.com/artomweb/Quick-Sip-Typst-Template",
+  "original_author": "artomweb",
+  "stars": 10,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-artomweb-quick-sip-typst-template-lib/lib.typ",
+  "relative_path": "raw/github-typst/gh-artomweb-quick-sip-typst-template-lib/lib.typ",
+  "main_doc": "lib.typ",
+  "sha256": "6aa367d7a526233317ac42334777b4415462478614de596d0a41ca0ddfba6f1d",
+  "size_bytes": 9691,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "lib.typ",
+  "downloaded_at": "2026-08-02T14:06:10.947Z"
+}

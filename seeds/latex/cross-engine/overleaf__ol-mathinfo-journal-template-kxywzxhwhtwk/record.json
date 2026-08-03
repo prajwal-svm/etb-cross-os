@@ -1,0 +1,26 @@
+{
+  "id": "overleaf/ol-mathinfo-journal-template-kxywzxhwhtwk",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "venue",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/mathinfo-journal-template/kxywzxhwhtwk",
+  "original_author": "Dept. Mathematics, Sebelas Maret University",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/overleaf__ol-mathinfo-journal-template-kxywzxhwhtwk/main.tex",
+  "relative_path": "processed/latex/cross-engine/overleaf__ol-mathinfo-journal-template-kxywzxhwhtwk/main.tex",
+  "sha256": "0dc2c5b2f5fe509f0b46a8cd728c0a9f752667639b29af6bf56676ef21168a4e",
+  "size_bytes": 3288,
+  "document_class": "article",
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 246,
+  "downloaded_at": "2026-08-02T14:52:47.761Z",
+  "filtered_at": "2026-08-02T17:34:41.380Z"
+}

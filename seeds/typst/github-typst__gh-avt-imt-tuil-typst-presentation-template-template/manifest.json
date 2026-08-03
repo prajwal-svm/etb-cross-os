@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-avt-imt-tuil-typst-presentation-template-template",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "beamer",
+  "license": "MIT",
+  "source_url": "https://github.com/avt-imt/tuil_typst_presentation_template",
+  "original_author": "avt-imt",
+  "stars": 0,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-avt-imt-tuil-typst-presentation-template-template/template.typ",
+  "relative_path": "raw/github-typst/gh-avt-imt-tuil-typst-presentation-template-template/template.typ",
+  "main_doc": "template.typ",
+  "sha256": "34788595444dc373ab4dda296520bea1b4366f04ed6a05a9f37dff1ae1f0c03f",
+  "size_bytes": 2862,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "template.typ",
+  "downloaded_at": "2026-08-02T14:14:23.621Z"
+}

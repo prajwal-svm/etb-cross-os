@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-lowlevelsubmarine-hsd-medien-typst-template-template",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "misc",
+  "license": "MIT",
+  "source_url": "https://github.com/LowLevelSubmarine/hsd-medien-typst-template",
+  "original_author": "LowLevelSubmarine",
+  "stars": 0,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-lowlevelsubmarine-hsd-medien-typst-template-template/template.typ",
+  "relative_path": "raw/github-typst/gh-lowlevelsubmarine-hsd-medien-typst-template-template/template.typ",
+  "main_doc": "template.typ",
+  "sha256": "2758fa4e7743f3e960ec3eb220425436608ce477bc21deae4a96ee0e7604e6e7",
+  "size_bytes": 3859,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "template.typ",
+  "downloaded_at": "2026-08-02T14:16:21.245Z"
+}

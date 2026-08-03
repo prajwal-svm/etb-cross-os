@@ -1,0 +1,35 @@
+{
+  "id": "overleaf/ol-cover-letter-simple-xccnpvnxqbcp",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "letter",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/cover-letter-simple/xccnpvnxqbcp",
+  "original_author": "Aswath Subramanian",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/engine-specific/overleaf__ol-cover-letter-simple-xccnpvnxqbcp/main.tex",
+  "relative_path": "processed/latex/engine-specific/overleaf__ol-cover-letter-simple-xccnpvnxqbcp/main.tex",
+  "sha256": "e4a8c86cc59da0776f7c833b18d7936c1abccbd464fc69597055c3ef14ec480c",
+  "size_bytes": 2253,
+  "document_class": "letter",
+  "uses_packages": [
+    "fancyhdr",
+    "fontawesome",
+    "geometry",
+    "graphicx",
+    "hyperref",
+    "inputenc",
+    "setspace",
+    "sourcesanspro"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": false,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "engine-specific",
+  "compile_time_ms": 645,
+  "downloaded_at": "2026-08-02T16:34:40.319Z",
+  "filtered_at": "2026-08-02T17:34:41.032Z"
+}

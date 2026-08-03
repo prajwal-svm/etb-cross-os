@@ -1,0 +1,22 @@
+{
+  "id": "ctan/ctan-glossaries-samplepeople",
+  "source": "ctan",
+  "format": "latex",
+  "category": "package-example",
+  "license": "LPPL-1.3c",
+  "source_url": "https://ctan.org/pkg/glossaries",
+  "original_author": "CTAN package: glossaries",
+  "package": "glossaries",
+  "original_path": "/usr/local/texlive/2025/texmf-dist/doc/latex/glossaries/samples/samplePeople.tex",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/ctan/ctan-glossaries-samplepeople/samplePeople.tex",
+  "relative_path": "raw/ctan/ctan-glossaries-samplepeople/samplePeople.tex",
+  "main_doc": "samplePeople.tex",
+  "sha256": "1907c8b2b6ca2110905f58620336bc061b4190367486332835ba617245e1770c",
+  "size_bytes": 1545,
+  "document_class": "report",
+  "uses_packages": [
+    "glossaries",
+    "hyperref"
+  ],
+  "downloaded_at": "2026-08-02T13:04:56.432Z"
+}

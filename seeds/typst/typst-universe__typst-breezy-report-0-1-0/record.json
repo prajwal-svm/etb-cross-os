@@ -1,0 +1,26 @@
+{
+  "id": "typst-universe/typst-breezy-report-0-1-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "report",
+  "license": "MIT",
+  "source_url": "https://github.com/brebarra/breezy-report",
+  "original_author": "Breanna Barraclough",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/typst-universe__typst-breezy-report-0-1-0/main.typ",
+  "relative_path": "processed/typst/typst-universe__typst-breezy-report-0-1-0/main.typ",
+  "sha256": "1dcf6721ea33a7b5a06451de1d27627959081d73937388180944feaf8b696a8b",
+  "size_bytes": 729,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 205,
+  "downloaded_at": "2026-08-02T13:06:19.434Z",
+  "filtered_at": "2026-08-02T17:34:43.658Z"
+}

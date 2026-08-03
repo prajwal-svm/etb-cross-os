@@ -1,0 +1,32 @@
+{
+  "id": "github-latex/gh-doowzs-assignment-templates-demo-1",
+  "source": "github-latex",
+  "format": "latex",
+  "category": "coursework",
+  "license": "MIT",
+  "source_url": "https://github.com/doowzs/Assignment-Templates",
+  "original_author": "doowzs",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/github-latex__gh-doowzs-assignment-templates-demo-1/demo.tex",
+  "relative_path": "processed/latex/cross-engine/github-latex__gh-doowzs-assignment-templates-demo-1/demo.tex",
+  "sha256": "efd7627f010b4d4a8358442a0e6d051c5ebee8ea2a314f14b4b24e80cd54b62b",
+  "size_bytes": 9107,
+  "document_class": "beamer",
+  "uses_packages": [
+    "appendixnumberbeamer",
+    "booktabs",
+    "ccicons",
+    "pgfplots",
+    "xspace"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 2467,
+  "downloaded_at": "2026-08-02T13:31:16.028Z",
+  "filtered_at": "2026-08-02T17:34:42.669Z"
+}

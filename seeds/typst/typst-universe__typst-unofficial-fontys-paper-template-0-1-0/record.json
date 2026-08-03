@@ -1,0 +1,26 @@
+{
+  "id": "typst-universe/typst-unofficial-fontys-paper-template-0-1-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "venue",
+  "license": "MIT",
+  "source_url": "https://github.com/TomVer99/Fontys-paper-template",
+  "original_author": "TomVer99",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/typst-universe__typst-unofficial-fontys-paper-template-0-1-0/main.typ",
+  "relative_path": "processed/typst/typst-universe__typst-unofficial-fontys-paper-template-0-1-0/main.typ",
+  "sha256": "c15f2358706fe7ff179efa4108f5281d18bcef06612b09f26ba469d10332ad6e",
+  "size_bytes": 356,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 254,
+  "downloaded_at": "2026-08-02T13:15:13.604Z",
+  "filtered_at": "2026-08-02T17:34:44.365Z"
+}

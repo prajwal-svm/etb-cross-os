@@ -1,0 +1,27 @@
+{
+  "id": "overleaf/ol-homework-2-cs-3510-qdpwxfkdfcbb",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "coursework",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/homework-2-cs-3510/qdpwxfkdfcbb",
+  "original_author": "John Schmidt",
+  "title": "Homework 2 CS 3510",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/overleaf/ol-homework-2-cs-3510-qdpwxfkdfcbb/main.tex",
+  "relative_path": "raw/overleaf/ol-homework-2-cs-3510-qdpwxfkdfcbb/main.tex",
+  "main_doc": "main.tex",
+  "sha256": "1c2f6d130510ebe320645b339d8d5fcd98a731d4ceaa8b7cea07c948600bc357",
+  "size_bytes": 6732,
+  "document_class": "article",
+  "uses_packages": [
+    "amsmath",
+    "amssymb",
+    "amsthm",
+    "geometry",
+    "graphicx",
+    "latexsym"
+  ],
+  "download_method": "view-source-modal",
+  "github_url": null,
+  "downloaded_at": "2026-08-02T16:54:48.839Z"
+}

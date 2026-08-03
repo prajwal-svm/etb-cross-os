@@ -1,0 +1,23 @@
+{
+  "id": "typst-universe/typst-normale-internship-0-1-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "report",
+  "license": "MIT",
+  "source_url": "https://github.com/Gavroche1/typst-report-template-ens/",
+  "original_author": "Gavroche",
+  "package_name": "normale-internship",
+  "package_version": "0.1.0",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/typst-universe/typst-normale-internship-0-1-0/main.typ",
+  "relative_path": "raw/typst-universe/typst-normale-internship-0-1-0/main.typ",
+  "main_doc": "main.typ",
+  "sha256": "36f5ad29805ff861c807d2d41018d48b14b47cb6a36a1733167184e076a2508d",
+  "size_bytes": 423,
+  "document_class": null,
+  "uses_packages": [],
+  "downloaded_at": "2026-08-02T13:11:38.382Z",
+  "categories": [
+    "report"
+  ],
+  "description": "A unofficial template for internship reports at ENS Paris-Saclay"
+}

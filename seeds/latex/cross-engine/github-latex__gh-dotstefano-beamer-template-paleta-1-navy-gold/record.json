@@ -1,0 +1,39 @@
+{
+  "id": "github-latex/gh-dotstefano-beamer-template-paleta-1-navy-gold",
+  "source": "github-latex",
+  "format": "latex",
+  "category": "beamer",
+  "license": "MIT",
+  "source_url": "https://github.com/DotStefano/Beamer-template",
+  "original_author": "DotStefano",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/github-latex__gh-dotstefano-beamer-template-paleta-1-navy-gold/Paleta-1-Navy-Gold.tex",
+  "relative_path": "processed/latex/cross-engine/github-latex__gh-dotstefano-beamer-template-paleta-1-navy-gold/Paleta-1-Navy-Gold.tex",
+  "sha256": "cdb31256c6638a6e8ce04af732880cab292af588283b164871471c90897360d8",
+  "size_bytes": 12809,
+  "document_class": "beamer",
+  "uses_packages": [
+    "FiraMono",
+    "FiraSans",
+    "amsmath",
+    "amssymb",
+    "babel",
+    "booktabs",
+    "fontenc",
+    "fontspec",
+    "graphicx",
+    "inputenc",
+    "pgfplots",
+    "siunitx"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 1874,
+  "downloaded_at": "2026-08-02T13:52:30.755Z",
+  "filtered_at": "2026-08-02T17:34:42.681Z"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "overleaf/ol-simplified-apa6-style-manuscript-how-to-make-basic-citations-bfrbhzvbgqtr",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "misc",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/simplified-apa6-style-manuscript-how-to-make-basic-citations/bfrbhzvbgqtr",
+  "original_author": "Dory Sheldan",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/overleaf__ol-simplified-apa6-style-manuscript-how-to-make-basic-citations-bfrbhzvbgqtr/main.tex",
+  "relative_path": "processed/latex/cross-engine/overleaf__ol-simplified-apa6-style-manuscript-how-to-make-basic-citations-bfrbhzvbgqtr/main.tex",
+  "sha256": "aed593e38c24169c993e29f325c9d4014968fea73a3c10be9376fd0d6018caa7",
+  "size_bytes": 1241,
+  "document_class": "apa6",
+  "uses_packages": [
+    "amsmath",
+    "babel",
+    "graphicx",
+    "inputenc"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 503,
+  "downloaded_at": "2026-08-02T15:57:19.218Z",
+  "filtered_at": "2026-08-02T17:34:41.831Z"
+}

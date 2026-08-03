@@ -1,0 +1,23 @@
+{
+  "id": "typst-universe/typst-accelerated-jacow-0-15-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "venue",
+  "license": "MIT",
+  "source_url": "https://github.com/eltos/accelerated-jacow/",
+  "original_author": "Philipp Niedermayer",
+  "package_name": "accelerated-jacow",
+  "package_version": "0.15.0",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/typst-universe/typst-accelerated-jacow-0-15-0/paper.typ",
+  "relative_path": "raw/typst-universe/typst-accelerated-jacow-0-15-0/paper.typ",
+  "main_doc": "paper.typ",
+  "sha256": "2105cfea1c7f75b23be73d8c5c41bcc170bbcec16a4f15b8677ec119096c7658",
+  "size_bytes": 9351,
+  "document_class": null,
+  "uses_packages": [],
+  "downloaded_at": "2026-08-02T13:05:34.699Z",
+  "categories": [
+    "paper"
+  ],
+  "description": "Paper template for conference proceedings in accelerator physics"
+}

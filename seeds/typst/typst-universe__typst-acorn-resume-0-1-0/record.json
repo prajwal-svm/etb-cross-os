@@ -1,0 +1,26 @@
+{
+  "id": "typst-universe/typst-acorn-resume-0-1-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "cv",
+  "license": "MIT",
+  "source_url": "https://github.com/Ruchita1010/acorn-resume",
+  "original_author": "Ruchita Gosavi",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/typst-universe__typst-acorn-resume-0-1-0/main.typ",
+  "relative_path": "processed/typst/typst-universe__typst-acorn-resume-0-1-0/main.typ",
+  "sha256": "fac655ad0af719fda6e2a9986e0d6b04d150731effbe612511769c22e089cf98",
+  "size_bytes": 4012,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 178,
+  "downloaded_at": "2026-08-02T13:05:35.686Z",
+  "filtered_at": "2026-08-02T17:34:43.599Z"
+}

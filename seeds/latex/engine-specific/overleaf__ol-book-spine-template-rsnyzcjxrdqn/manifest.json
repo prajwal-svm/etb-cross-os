@@ -1,0 +1,23 @@
+{
+  "id": "overleaf/ol-book-spine-template-rsnyzcjxrdqn",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "book",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/book-spine-template/rsnyzcjxrdqn",
+  "original_author": "Huangrui Mo",
+  "title": "Book Spine Template",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/overleaf/ol-book-spine-template-rsnyzcjxrdqn/latexspine.tex",
+  "relative_path": "raw/overleaf/ol-book-spine-template-rsnyzcjxrdqn/latexspine.tex",
+  "main_doc": "latexspine.tex",
+  "sha256": "eab9177a49657a5eea49db2f892eb3bc35a8a4642feeabd172c355bd08705cf6",
+  "size_bytes": 2965,
+  "document_class": "ctexbook",
+  "uses_packages": [
+    "geometry",
+    "graphicx"
+  ],
+  "download_method": "github:https://github.com/mohuangrui/latexspine",
+  "github_url": "https://github.com/mohuangrui/latexspine",
+  "downloaded_at": "2026-08-02T15:02:39.061Z"
+}

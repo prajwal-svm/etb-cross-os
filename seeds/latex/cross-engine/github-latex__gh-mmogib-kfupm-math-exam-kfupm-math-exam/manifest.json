@@ -1,0 +1,21 @@
+{
+  "id": "github-latex/gh-mmogib-kfupm-math-exam-kfupm-math-exam",
+  "source": "github-latex",
+  "format": "latex",
+  "category": "coursework",
+  "license": "MIT",
+  "source_url": "https://github.com/mmogib/kfupm-math-exam",
+  "original_author": "mmogib",
+  "stars": 1,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-latex/gh-mmogib-kfupm-math-exam-kfupm-math-exam/kfupm-math-exam.tex",
+  "relative_path": "raw/github-latex/gh-mmogib-kfupm-math-exam-kfupm-math-exam/kfupm-math-exam.tex",
+  "main_doc": "kfupm-math-exam.tex",
+  "sha256": "5357bd91bffa3633e41fad48df50c4a27518a935ddd178927c056224135ef62b",
+  "size_bytes": 1133,
+  "document_class": "article",
+  "uses_packages": [
+    "inputenc"
+  ],
+  "repo_path": "kfupm-math-exam/kfupm-math-exam.tex",
+  "downloaded_at": "2026-08-02T13:38:33.974Z"
+}

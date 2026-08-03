@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-w3rew-simple-letter-simple-letter",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "letter",
+  "license": "MIT",
+  "source_url": "https://github.com/w3rew/simple_letter",
+  "original_author": "w3rew",
+  "stars": 0,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-w3rew-simple-letter-simple-letter/simple_letter.typ",
+  "relative_path": "raw/github-typst/gh-w3rew-simple-letter-simple-letter/simple_letter.typ",
+  "main_doc": "simple_letter.typ",
+  "sha256": "69177951628c031d8931400686f7363e2c44d3e35a07ef893aacd12bb6037ca7",
+  "size_bytes": 1414,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "simple_letter.typ",
+  "downloaded_at": "2026-08-02T14:17:57.707Z"
+}

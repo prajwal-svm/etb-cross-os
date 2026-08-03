@@ -1,0 +1,26 @@
+{
+  "id": "typst-universe/typst-twilight-book-0-1-8",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "book",
+  "license": "MIT",
+  "source_url": "https://github.com/CrossDark/TwilightBook/",
+  "original_author": "跨越晨昏",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/typst-universe__typst-twilight-book-0-1-8/main.typ",
+  "relative_path": "processed/typst/typst-universe__typst-twilight-book-0-1-8/main.typ",
+  "sha256": "963bba05e63a375946baa1a6c36cc49025cc413ff87f8eded2a66cd5128c3c32",
+  "size_bytes": 778,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 352,
+  "downloaded_at": "2026-08-02T13:14:43.712Z",
+  "filtered_at": "2026-08-02T17:34:44.321Z"
+}

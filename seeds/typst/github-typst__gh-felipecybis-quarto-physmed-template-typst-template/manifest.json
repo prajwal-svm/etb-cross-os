@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-felipecybis-quarto-physmed-template-typst-template",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "beamer",
+  "license": "MIT",
+  "source_url": "https://github.com/FelipeCybis/quarto-physmed-template",
+  "original_author": "FelipeCybis",
+  "stars": 3,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-felipecybis-quarto-physmed-template-typst-template/typst-template.typ",
+  "relative_path": "raw/github-typst/gh-felipecybis-quarto-physmed-template-typst-template/typst-template.typ",
+  "main_doc": "typst-template.typ",
+  "sha256": "9dd576553c343ca6604af32cc9943c1fe5b7ae7e854cd49e281fd7a711803d1e",
+  "size_bytes": 6377,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "physmed-poster-landscape/_extensions/physmed-landscape/typst-template.typ",
+  "downloaded_at": "2026-08-02T14:09:01.158Z"
+}

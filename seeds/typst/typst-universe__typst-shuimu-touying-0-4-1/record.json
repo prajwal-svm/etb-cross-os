@@ -1,0 +1,26 @@
+{
+  "id": "typst-universe/typst-shuimu-touying-0-4-1",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "beamer",
+  "license": "MIT",
+  "source_url": "https://github.com/JSB-Unscarred/shuimu-touying",
+  "original_author": "Mason Chen",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/typst-universe__typst-shuimu-touying-0-4-1/main.typ",
+  "relative_path": "processed/typst/typst-universe__typst-shuimu-touying-0-4-1/main.typ",
+  "sha256": "789eb4abb10b1b90084d6ebd347e7868a430dc3ebb8d527d331a56eedb35a9c1",
+  "size_bytes": 4488,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 509,
+  "downloaded_at": "2026-08-02T13:12:46.250Z",
+  "filtered_at": "2026-08-02T17:34:44.168Z"
+}

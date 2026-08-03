@@ -1,0 +1,21 @@
+{
+  "id": "template-packs/tikzposter-landscape",
+  "source": "template-packs",
+  "format": "latex",
+  "category": "beamer",
+  "category_raw": "Posters",
+  "license": "CC0-1.0",
+  "source_url": "https://github.com/Oleafly/template-packs",
+  "original_author": "Oleafly",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/template-packs/tikzposter-landscape/main.tex",
+  "relative_path": "raw/template-packs/tikzposter-landscape/main.tex",
+  "main_doc": "main.tex",
+  "sha256": "2f4d9344633a76dc42fb0b6636bd6724b9f35836261cd230547a271a44aca254",
+  "size_bytes": 555,
+  "document_class": "tikzposter",
+  "uses_packages": [
+    "amsmath"
+  ],
+  "engine_hint": "xetex",
+  "downloaded_at": "2026-08-02T13:05:15.871Z"
+}

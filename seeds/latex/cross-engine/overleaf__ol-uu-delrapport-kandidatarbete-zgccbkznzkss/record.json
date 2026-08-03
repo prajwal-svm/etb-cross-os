@@ -1,0 +1,31 @@
+{
+  "id": "overleaf/ol-uu-delrapport-kandidatarbete-zgccbkznzkss",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "misc",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/uu-delrapport-kandidatarbete/zgccbkznzkss",
+  "original_author": "Johan Skrealid",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/overleaf__ol-uu-delrapport-kandidatarbete-zgccbkznzkss/main.tex",
+  "relative_path": "processed/latex/cross-engine/overleaf__ol-uu-delrapport-kandidatarbete-zgccbkznzkss/main.tex",
+  "sha256": "523c2f58a1ca169b0a3288cf34e30bf97861c105078ed554d54b09bb56d683b3",
+  "size_bytes": 1038,
+  "document_class": "article",
+  "uses_packages": [
+    "babel",
+    "comment",
+    "fullpage",
+    "inputenc"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 264,
+  "downloaded_at": "2026-08-02T15:50:11.139Z",
+  "filtered_at": "2026-08-02T17:34:42.134Z"
+}

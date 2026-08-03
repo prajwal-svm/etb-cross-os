@@ -1,0 +1,30 @@
+{
+  "id": "overleaf/ol-resonance-tube-lab-report-qsmscdpbnynt",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "report",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/resonance-tube-lab-report/qsmscdpbnynt",
+  "original_author": "Erin De Pree",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/overleaf__ol-resonance-tube-lab-report-qsmscdpbnynt/main.tex",
+  "relative_path": "processed/latex/cross-engine/overleaf__ol-resonance-tube-lab-report-qsmscdpbnynt/main.tex",
+  "sha256": "af6040f3f847cb227138e56f460271894562ef81e4a47c3da52b9062223c75aa",
+  "size_bytes": 2135,
+  "document_class": "article",
+  "uses_packages": [
+    "enumerate",
+    "physics",
+    "siunitx"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 388,
+  "downloaded_at": "2026-08-02T16:02:55.693Z",
+  "filtered_at": "2026-08-02T17:34:41.766Z"
+}

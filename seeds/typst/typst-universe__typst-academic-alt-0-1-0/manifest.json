@@ -1,0 +1,23 @@
+{
+  "id": "typst-universe/typst-academic-alt-0-1-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "coursework",
+  "license": "MIT",
+  "source_url": "https://github.com/alessandromason/typst-university-assignment",
+  "original_author": "Alessandro Mason",
+  "package_name": "academic-alt",
+  "package_version": "0.1.0",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/typst-universe/typst-academic-alt-0-1-0/main.typ",
+  "relative_path": "raw/typst-universe/typst-academic-alt-0-1-0/main.typ",
+  "main_doc": "main.typ",
+  "sha256": "c37b45579328477409653a7b92c4bdaf0454f34e2a30a2cb1bfa6c94ca156a32",
+  "size_bytes": 3795,
+  "document_class": null,
+  "uses_packages": [],
+  "downloaded_at": "2026-08-02T13:05:29.835Z",
+  "categories": [
+    "layout"
+  ],
+  "description": "A flexible template for university assignments, labs, and homework with customizable details"
+}

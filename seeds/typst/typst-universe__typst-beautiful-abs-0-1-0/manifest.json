@@ -1,0 +1,23 @@
+{
+  "id": "typst-universe/typst-beautiful-abs-0-1-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "misc",
+  "license": "MIT",
+  "source_url": "https://github.com/judgeNotFound/beautiful-abs",
+  "original_author": "Robert Richter",
+  "package_name": "beautiful-abs",
+  "package_version": "0.1.0",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/typst-universe/typst-beautiful-abs-0-1-0/main.typ",
+  "relative_path": "raw/typst-universe/typst-beautiful-abs-0-1-0/main.typ",
+  "main_doc": "main.typ",
+  "sha256": "c0ca35f27ec01fe95b37d6bc4aac5b4023d92c7ab732113847e6188e7e9ef712",
+  "size_bytes": 1015,
+  "document_class": null,
+  "uses_packages": [],
+  "downloaded_at": "2026-08-02T13:06:07.649Z",
+  "categories": [
+    "utility"
+  ],
+  "description": "A package for creating beautiful standard abbreviations like i.e. or e.g."
+}

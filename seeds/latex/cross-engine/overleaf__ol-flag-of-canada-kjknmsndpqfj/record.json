@@ -1,0 +1,30 @@
+{
+  "id": "overleaf/ol-flag-of-canada-kjknmsndpqfj",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "misc",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/flag-of-canada/kjknmsndpqfj",
+  "original_author": "Senan Sekhon",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/overleaf__ol-flag-of-canada-kjknmsndpqfj/main.tex",
+  "relative_path": "processed/latex/cross-engine/overleaf__ol-flag-of-canada-kjknmsndpqfj/main.tex",
+  "sha256": "9fa8d2a759a648ec4e5ee492b337f4c32886cee857322812d648bc92ee9ff605",
+  "size_bytes": 3189,
+  "document_class": "article",
+  "uses_packages": [
+    "geometry",
+    "tikz",
+    "xcolor"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 483,
+  "downloaded_at": "2026-08-02T15:50:21.009Z",
+  "filtered_at": "2026-08-02T17:34:41.159Z"
+}

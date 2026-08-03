@@ -1,0 +1,26 @@
+{
+  "id": "ctan/ctan-xcolor-xcolor1",
+  "source": "ctan",
+  "format": "latex",
+  "category": "package-example",
+  "license": "LPPL-1.3c",
+  "source_url": "https://ctan.org/pkg/xcolor",
+  "original_author": "CTAN package: xcolor",
+  "package": "xcolor",
+  "original_path": "/usr/local/texlive/2025/texmf-dist/doc/latex/xcolor/xcolor1.tex",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/ctan/ctan-xcolor-xcolor1/xcolor1.tex",
+  "relative_path": "raw/ctan/ctan-xcolor-xcolor1/xcolor1.tex",
+  "main_doc": "xcolor1.tex",
+  "sha256": "ed84ce529b4ef3687dd581c0790bf42f6602ce41552eafd09fed4a6cfffb1002",
+  "size_bytes": 5794,
+  "document_class": "article",
+  "uses_packages": [
+    "array",
+    "geometry",
+    "multicol",
+    "multido",
+    "textcomp",
+    "xcolor"
+  ],
+  "downloaded_at": "2026-08-02T13:04:47.888Z"
+}

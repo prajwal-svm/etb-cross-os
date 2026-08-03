@@ -1,0 +1,26 @@
+{
+  "id": "github-typst/gh-para-lipics-para-lipics-draft-2",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "misc",
+  "license": "MIT",
+  "source_url": "https://github.com/para-lipics/para-lipics",
+  "original_author": "para-lipics",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/github-typst__gh-para-lipics-para-lipics-draft-2/draft.typ",
+  "relative_path": "processed/typst/github-typst__gh-para-lipics-para-lipics-draft-2/draft.typ",
+  "sha256": "8029c2b1956d0235499412d707399fdc251fef7b8434f0dc5103bd7d1b2f6ec3",
+  "size_bytes": 3097,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 170,
+  "downloaded_at": "2026-08-02T14:06:40.642Z",
+  "filtered_at": "2026-08-02T17:34:45.456Z"
+}

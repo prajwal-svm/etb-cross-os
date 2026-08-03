@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-xrsl-nabcv-cv",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "cv",
+  "license": "MIT",
+  "source_url": "https://github.com/xrsl/nabcv",
+  "original_author": "xrsl",
+  "stars": 5,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-xrsl-nabcv-cv/cv.typ",
+  "relative_path": "raw/github-typst/gh-xrsl-nabcv-cv/cv.typ",
+  "main_doc": "cv.typ",
+  "sha256": "73b535da0614789881771cf1af8fd4c6aa7a02fd15d7b5591a89340549204073",
+  "size_bytes": 27010,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "src/cv.typ",
+  "downloaded_at": "2026-08-02T14:07:16.693Z"
+}

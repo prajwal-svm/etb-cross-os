@@ -1,0 +1,29 @@
+{
+  "id": "overleaf/ol-project-completion-report-qrtxrtgvjxzh",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "report",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/project-completion-report/qrtxrtgvjxzh",
+  "original_author": "Subhankar Mishra",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/overleaf__ol-project-completion-report-qrtxrtgvjxzh/main.tex",
+  "relative_path": "processed/latex/cross-engine/overleaf__ol-project-completion-report-qrtxrtgvjxzh/main.tex",
+  "sha256": "8d45be2dc24637881fc04ede6feb07fb147779ba1f7f76be231f099dfcb13671",
+  "size_bytes": 4269,
+  "document_class": "article",
+  "uses_packages": [
+    "geometry",
+    "graphicx"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 225,
+  "downloaded_at": "2026-08-02T14:44:29.121Z",
+  "filtered_at": "2026-08-02T17:34:41.693Z"
+}

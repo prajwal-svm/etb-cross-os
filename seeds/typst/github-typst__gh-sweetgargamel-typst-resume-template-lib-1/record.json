@@ -1,0 +1,26 @@
+{
+  "id": "github-typst/gh-sweetgargamel-typst-resume-template-lib-1",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "cv",
+  "license": "MIT",
+  "source_url": "https://github.com/SweetGargamel/typst-resume-template",
+  "original_author": "SweetGargamel",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/github-typst__gh-sweetgargamel-typst-resume-template-lib-1/lib.typ",
+  "relative_path": "processed/typst/github-typst__gh-sweetgargamel-typst-resume-template-lib-1/lib.typ",
+  "sha256": "aebb3b893aa1d25acd69ba1615794ffe4454a71390cf6fa1906f5216441bc405",
+  "size_bytes": 3006,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 8,
+  "downloaded_at": "2026-08-02T14:15:29.498Z",
+  "filtered_at": "2026-08-02T17:34:45.711Z"
+}

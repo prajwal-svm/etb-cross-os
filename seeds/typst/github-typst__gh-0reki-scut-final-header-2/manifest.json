@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-0reki-scut-final-header-2",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "coursework",
+  "license": "MIT",
+  "source_url": "https://github.com/0reki/SCUT_Final",
+  "original_author": "0reki",
+  "stars": 0,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-0reki-scut-final-header-2/header.typ",
+  "relative_path": "raw/github-typst/gh-0reki-scut-final-header-2/header.typ",
+  "main_doc": "header.typ",
+  "sha256": "c5714f25c9d3a0774c7bc154b3216b0b5f242b16759e903985e24a513ff4f61b",
+  "size_bytes": 4050,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "src/header.typ",
+  "downloaded_at": "2026-08-02T14:18:18.538Z"
+}

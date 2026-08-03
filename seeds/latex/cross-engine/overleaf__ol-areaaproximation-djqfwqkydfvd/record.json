@@ -1,0 +1,28 @@
+{
+  "id": "overleaf/ol-areaaproximation-djqfwqkydfvd",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "misc",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/areaaproximation/djqfwqkydfvd",
+  "original_author": "Javi Pérez",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/overleaf__ol-areaaproximation-djqfwqkydfvd/main.tex",
+  "relative_path": "processed/latex/cross-engine/overleaf__ol-areaaproximation-djqfwqkydfvd/main.tex",
+  "sha256": "412f6424788424e28fa7efa392fe4ba7daac076b8945b52f39b901750cfbf047",
+  "size_bytes": 1942,
+  "document_class": "beamer",
+  "uses_packages": [
+    "tikz"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 1457,
+  "downloaded_at": "2026-08-02T15:53:56.039Z",
+  "filtered_at": "2026-08-02T17:34:40.940Z"
+}

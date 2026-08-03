@@ -1,0 +1,26 @@
+{
+  "id": "typst-universe/typst-uepg-tcc-unofficial-0-1-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "thesis",
+  "license": "MIT",
+  "source_url": "https://github.com/ekspy/uepg-tcc-unofficial",
+  "original_author": "Enzo Serenato",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/typst-universe__typst-uepg-tcc-unofficial-0-1-0/main.typ",
+  "relative_path": "processed/typst/typst-universe__typst-uepg-tcc-unofficial-0-1-0/main.typ",
+  "sha256": "45df77767f32673f8edfc4aa43daaf1b9b64d5d2f95d8973ac9cb7f9010d5c97",
+  "size_bytes": 5873,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 259,
+  "downloaded_at": "2026-08-02T13:14:53.951Z",
+  "filtered_at": "2026-08-02T17:34:44.339Z"
+}

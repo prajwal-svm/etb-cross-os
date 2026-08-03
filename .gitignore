@@ -1,0 +1,12 @@
+node_modules/
+results/
+artifacts/
+logs/
+tmp/
+*.pdf
+*.log
+*.aux
+*.out
+*.toc
+.DS_Store
+Thumbs.db

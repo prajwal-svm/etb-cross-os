@@ -1,0 +1,22 @@
+{
+  "id": "github-latex/gh-tinoryj-uestc-thesis-latex-template-figure-1",
+  "source": "github-latex",
+  "format": "latex",
+  "category": "thesis",
+  "license": "MIT",
+  "source_url": "https://github.com/tinoryj/UESTC-Thesis-Latex-Template",
+  "original_author": "tinoryj",
+  "stars": 448,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-latex/gh-tinoryj-uestc-thesis-latex-template-figure-1/figure.tex",
+  "relative_path": "raw/github-latex/gh-tinoryj-uestc-thesis-latex-template-figure-1/figure.tex",
+  "main_doc": "figure.tex",
+  "sha256": "4da7f02672bc1d82ad5a3cb33673ce3284d9fac0ab74ef15f0d71ca39e2899ea",
+  "size_bytes": 68345,
+  "document_class": "article",
+  "uses_packages": [
+    "geometry",
+    "tikz"
+  ],
+  "repo_path": "pic/figure.tex",
+  "downloaded_at": "2026-08-02T13:11:48.387Z"
+}

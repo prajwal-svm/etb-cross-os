@@ -1,0 +1,27 @@
+{
+  "id": "overleaf/ol-colloquium-template-gjqxrxtmgdwy",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "misc",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/colloquium-template/gjqxrxtmgdwy",
+  "original_author": "Jacob Wilson",
+  "title": "Colloquium Template",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/overleaf/ol-colloquium-template-gjqxrxtmgdwy/main.tex",
+  "relative_path": "raw/overleaf/ol-colloquium-template-gjqxrxtmgdwy/main.tex",
+  "main_doc": "main.tex",
+  "sha256": "2f5f13586695ac7c1e456fe0fbcc7ec555c59f61f57845f73a31a9380eaaae56",
+  "size_bytes": 450,
+  "document_class": "article",
+  "uses_packages": [
+    "amsmath",
+    "babel",
+    "geometry",
+    "graphicx",
+    "inputenc",
+    "todonotes"
+  ],
+  "download_method": "view-source-modal",
+  "github_url": null,
+  "downloaded_at": "2026-08-02T14:29:30.654Z"
+}

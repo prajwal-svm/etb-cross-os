@@ -1,0 +1,31 @@
+{
+  "id": "overleaf/ol-template-wassp-2023-ccen-ufpe-rjrgrnnqznbk",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "misc",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/template-wassp-2023-ccen-ufpe/rjrgrnnqznbk",
+  "original_author": "De Bastiani",
+  "title": "Template-WASSP-2023-CCEN-UFPE",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/overleaf/ol-template-wassp-2023-ccen-ufpe-rjrgrnnqznbk/main.tex",
+  "relative_path": "raw/overleaf/ol-template-wassp-2023-ccen-ufpe-rjrgrnnqznbk/main.tex",
+  "main_doc": "main.tex",
+  "sha256": "0b10a450d9fd75d5999872a1de9f9662054ac663e7df5efce16e3bd341594646",
+  "size_bytes": 1770,
+  "document_class": "article",
+  "uses_packages": [
+    "a4wide",
+    "amscd",
+    "amsfonts",
+    "amsmath",
+    "amssymb",
+    "amsthm",
+    "fancyhdr",
+    "graphicx",
+    "hyperref",
+    "lipsum"
+  ],
+  "download_method": "view-source-modal",
+  "github_url": null,
+  "downloaded_at": "2026-08-02T14:15:35.557Z"
+}

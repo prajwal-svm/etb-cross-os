@@ -1,0 +1,25 @@
+{
+  "id": "template-packs/phd-thesis-modern",
+  "source": "template-packs",
+  "format": "latex",
+  "category": "thesis",
+  "category_raw": "Theses & Reports",
+  "license": "CC0-1.0",
+  "source_url": "https://github.com/Oleafly/template-packs",
+  "original_author": "Oleafly",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/template-packs/phd-thesis-modern/main.tex",
+  "relative_path": "raw/template-packs/phd-thesis-modern/main.tex",
+  "main_doc": "main.tex",
+  "sha256": "6a64d52c9385defde51c75c6ab2a23b78fe8b81b18a306d34825582b7ea4d751",
+  "size_bytes": 2564,
+  "document_class": "report",
+  "uses_packages": [
+    "geometry",
+    "hyperref",
+    "tikz",
+    "titlesec",
+    "xcolor"
+  ],
+  "engine_hint": "xetex",
+  "downloaded_at": "2026-08-02T13:05:15.754Z"
+}

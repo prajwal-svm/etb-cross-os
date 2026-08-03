@@ -1,0 +1,32 @@
+{
+  "id": "github-latex/gh-frangio-netlify-latex-main",
+  "source": "github-latex",
+  "format": "latex",
+  "category": "misc",
+  "license": "MIT",
+  "source_url": "https://github.com/frangio/netlify-latex",
+  "original_author": "frangio",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/github-latex__gh-frangio-netlify-latex-main/main.tex",
+  "relative_path": "processed/latex/cross-engine/github-latex__gh-frangio-netlify-latex-main/main.tex",
+  "sha256": "693b2ff41b8f4c87daf04808c09f5328f1097d8525417866a1b164149ce58f50",
+  "size_bytes": 27970,
+  "document_class": "article",
+  "uses_packages": [
+    "hyperref",
+    "inputenc",
+    "parskip",
+    "pgfplots",
+    "tikz"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 4165,
+  "downloaded_at": "2026-08-02T13:17:14.692Z",
+  "filtered_at": "2026-08-02T17:34:42.787Z"
+}

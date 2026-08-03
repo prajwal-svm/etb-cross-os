@@ -1,0 +1,26 @@
+{
+  "id": "typst-universe/typst-modern-class-presentation-0-1-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "beamer",
+  "license": "MIT",
+  "source_url": "https://github.com/aurghya-0/modern-class-presentation",
+  "original_author": "Modern Class Presentation contributors",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/typst-universe__typst-modern-class-presentation-0-1-0/main.typ",
+  "relative_path": "processed/typst/typst-universe__typst-modern-class-presentation-0-1-0/main.typ",
+  "sha256": "d677aa3700043314a0f371ff848eb8a4736d208fa1ac0330c597d990a402ce6d",
+  "size_bytes": 1398,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 197,
+  "downloaded_at": "2026-08-02T13:10:37.976Z",
+  "filtered_at": "2026-08-02T17:34:43.997Z"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "typst-universe/typst-upb-corporate-design-slides-0-1-3",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "beamer",
+  "license": "MIT",
+  "source_url": "https://codeberg.org/Kuchenmampfer/upb-corporate-design-slides",
+  "original_author": "Tammes Burghard",
+  "package_name": "upb-corporate-design-slides",
+  "package_version": "0.1.3",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/typst-universe/typst-upb-corporate-design-slides-0-1-3/main.typ",
+  "relative_path": "raw/typst-universe/typst-upb-corporate-design-slides-0-1-3/main.typ",
+  "main_doc": "main.typ",
+  "sha256": "cc552d56f5dcb13779c6e121ae3c060c5875c85b222851d7c8ff26aa4b59e2e9",
+  "size_bytes": 2319,
+  "document_class": null,
+  "uses_packages": [],
+  "downloaded_at": "2026-08-02T13:15:37.553Z",
+  "categories": [
+    "presentation"
+  ],
+  "description": "Presentation template for Paderborn University (UPB)"
+}

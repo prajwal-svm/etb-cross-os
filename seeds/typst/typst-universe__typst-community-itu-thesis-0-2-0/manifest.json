@@ -1,0 +1,23 @@
+{
+  "id": "typst-universe/typst-community-itu-thesis-0-2-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "thesis",
+  "license": "MIT",
+  "source_url": "https://github.com/hmzsnc96/itu-thesis",
+  "original_author": "Hamza Sancakdaroğlu",
+  "package_name": "community-itu-thesis",
+  "package_version": "0.2.0",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/typst-universe/typst-community-itu-thesis-0-2-0/main.typ",
+  "relative_path": "raw/typst-universe/typst-community-itu-thesis-0-2-0/main.typ",
+  "main_doc": "main.typ",
+  "sha256": "325f2437f152936ad82dfd288990d5204a2a6f2c08b23ee8903c547b5dab93e4",
+  "size_bytes": 4261,
+  "document_class": null,
+  "uses_packages": [],
+  "downloaded_at": "2026-08-02T13:07:20.144Z",
+  "categories": [
+    "thesis"
+  ],
+  "description": "İstanbul Teknik Üniversitesi (İTÜ) lisansüstü tez şablonu — Thesis template for Istanbul Technical University graduate theses."
+}

@@ -1,0 +1,28 @@
+{
+  "id": "overleaf/ol-modelo-de-relatorio-desenvolvimento-de-software-vbgvwzkcwjrr",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "misc",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/modelo-de-relatorio-desenvolvimento-de-software/vbgvwzkcwjrr",
+  "original_author": "Francisco Edimar Furtado Melo Filho",
+  "title": "Modelo de Relatório (Desenvolvimento de Software)",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/overleaf/ol-modelo-de-relatorio-desenvolvimento-de-software-vbgvwzkcwjrr/main.tex",
+  "relative_path": "raw/overleaf/ol-modelo-de-relatorio-desenvolvimento-de-software-vbgvwzkcwjrr/main.tex",
+  "main_doc": "main.tex",
+  "sha256": "28810db392d30bcc7a3420995303e3fa51ebe7108d4591ce8e7edbdec9817568",
+  "size_bytes": 2974,
+  "document_class": "article",
+  "uses_packages": [
+    "amsmath",
+    "babel",
+    "graphicx",
+    "indentfirst",
+    "inputenc",
+    "lipsum",
+    "multicol"
+  ],
+  "download_method": "view-source-modal",
+  "github_url": null,
+  "downloaded_at": "2026-08-02T14:57:20.011Z"
+}

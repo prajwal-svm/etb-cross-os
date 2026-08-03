@@ -1,0 +1,29 @@
+{
+  "id": "ctan/ctan-natbib-natnotes",
+  "source": "ctan",
+  "format": "latex",
+  "category": "package-example",
+  "license": "LPPL-1.3c",
+  "source_url": "https://ctan.org/pkg/natbib",
+  "original_author": "CTAN package: natbib",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/ctan__ctan-natbib-natnotes/natnotes.tex",
+  "relative_path": "processed/latex/cross-engine/ctan__ctan-natbib-natnotes/natnotes.tex",
+  "sha256": "f77de61139ecede61a8bcd2bc6dd313fc927d82a5c8538300617d48e3faca7d8",
+  "size_bytes": 15408,
+  "document_class": "article",
+  "uses_packages": [
+    "shortvrb",
+    "|\\thestyle|"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 252,
+  "downloaded_at": "2026-08-02T13:04:53.168Z",
+  "filtered_at": "2026-08-02T17:34:42.354Z"
+}

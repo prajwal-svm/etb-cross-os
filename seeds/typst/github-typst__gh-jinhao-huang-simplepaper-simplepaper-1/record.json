@@ -1,0 +1,26 @@
+{
+  "id": "github-typst/gh-jinhao-huang-simplepaper-simplepaper-1",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "venue",
+  "license": "MIT",
+  "source_url": "https://github.com/jinhao-huang/SimplePaper",
+  "original_author": "jinhao-huang",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/github-typst__gh-jinhao-huang-simplepaper-simplepaper-1/simplepaper.typ",
+  "relative_path": "processed/typst/github-typst__gh-jinhao-huang-simplepaper-simplepaper-1/simplepaper.typ",
+  "sha256": "d84f37dea47ca38f3a08cd44ab1925415343612f6f0e1c5eaefa30aa6558fcb5",
+  "size_bytes": 4050,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 12,
+  "downloaded_at": "2026-08-02T14:03:15.727Z",
+  "filtered_at": "2026-08-02T17:34:45.046Z"
+}

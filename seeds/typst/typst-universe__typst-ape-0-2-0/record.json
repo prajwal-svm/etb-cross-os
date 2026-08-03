@@ -1,0 +1,26 @@
+{
+  "id": "typst-universe/typst-ape-0-2-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "report",
+  "license": "MIT",
+  "source_url": "https://typst.app/universe/package/ape",
+  "original_author": "Izan",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/typst-universe__typst-ape-0-2-0/main.typ",
+  "relative_path": "processed/typst/typst-universe__typst-ape-0-2-0/main.typ",
+  "sha256": "7099bbb24095a0d2740a23d63cc5c57e0d902550db7c43ce73b8ea797fc1b580",
+  "size_bytes": 246,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 239,
+  "downloaded_at": "2026-08-02T13:05:46.461Z",
+  "filtered_at": "2026-08-02T17:34:43.610Z"
+}

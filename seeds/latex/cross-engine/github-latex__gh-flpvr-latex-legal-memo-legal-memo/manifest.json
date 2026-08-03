@@ -1,0 +1,27 @@
+{
+  "id": "github-latex/gh-flpvr-latex-legal-memo-legal-memo",
+  "source": "github-latex",
+  "format": "latex",
+  "category": "business",
+  "license": "CC0-1.0",
+  "source_url": "https://github.com/flpvr/LaTeX-Legal-Memo",
+  "original_author": "flpvr",
+  "stars": 0,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-latex/gh-flpvr-latex-legal-memo-legal-memo/Legal memo.tex",
+  "relative_path": "raw/github-latex/gh-flpvr-latex-legal-memo-legal-memo/Legal memo.tex",
+  "main_doc": "Legal memo.tex",
+  "sha256": "f2cbac7cb223f20e76c0bad3f1ae37eb4229fdd0c2fe5ad7008454c6e47b4595",
+  "size_bytes": 1167,
+  "document_class": "article",
+  "uses_packages": [
+    "fancyhdr",
+    "geometry",
+    "indentfirst",
+    "lastpage",
+    "lipsum",
+    "sectsty",
+    "setspace"
+  ],
+  "repo_path": "Legal memo.tex",
+  "downloaded_at": "2026-08-02T13:46:15.128Z"
+}

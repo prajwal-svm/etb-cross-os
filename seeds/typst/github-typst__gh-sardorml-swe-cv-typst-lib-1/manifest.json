@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-sardorml-swe-cv-typst-lib-1",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "cv",
+  "license": "MIT",
+  "source_url": "https://github.com/sardorml/swe-cv-typst",
+  "original_author": "sardorml",
+  "stars": 12,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-sardorml-swe-cv-typst-lib-1/lib.typ",
+  "relative_path": "raw/github-typst/gh-sardorml-swe-cv-typst-lib-1/lib.typ",
+  "main_doc": "lib.typ",
+  "sha256": "aeb693c44f39804617783a8c15319014754979ec7f35719e5095d4cbd8bad61a",
+  "size_bytes": 721,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "lib.typ",
+  "downloaded_at": "2026-08-02T14:05:51.887Z"
+}

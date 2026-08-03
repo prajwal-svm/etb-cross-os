@@ -1,0 +1,26 @@
+{
+  "id": "typst-universe/typst-unofficial-cambridge-polylux-theme-0-0-1",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "beamer",
+  "license": "MIT",
+  "source_url": "https://typst.app/universe/package/unofficial-cambridge-polylux-theme",
+  "original_author": "Matthew Ord",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/typst-universe__typst-unofficial-cambridge-polylux-theme-0-0-1/main.typ",
+  "relative_path": "processed/typst/typst-universe__typst-unofficial-cambridge-polylux-theme-0-0-1/main.typ",
+  "sha256": "7dba762a0b1a7f40413f39d643d7aec5b31dbd6e155ef7005c26bbd065a02c56",
+  "size_bytes": 1573,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 385,
+  "downloaded_at": "2026-08-02T13:15:07.510Z",
+  "filtered_at": "2026-08-02T17:34:44.358Z"
+}

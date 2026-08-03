@@ -1,0 +1,23 @@
+{
+  "id": "overleaf/ol-hyperref-example-2-rwxwycmywnfv",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "coursework",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/hyperref-example-2/rwxwycmywnfv",
+  "original_author": "Overleaf",
+  "title": "Hyperref Example 2",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/overleaf/ol-hyperref-example-2-rwxwycmywnfv/main.tex",
+  "relative_path": "raw/overleaf/ol-hyperref-example-2-rwxwycmywnfv/main.tex",
+  "main_doc": "main.tex",
+  "sha256": "f855670c487eaad21caa379609c376d19d4584a503109611f03aaf39dc69ed3d",
+  "size_bytes": 1104,
+  "document_class": "book",
+  "uses_packages": [
+    "blindtext",
+    "hyperref"
+  ],
+  "download_method": "view-source-modal",
+  "github_url": null,
+  "downloaded_at": "2026-08-02T14:18:09.168Z"
+}

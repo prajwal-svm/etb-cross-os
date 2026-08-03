@@ -1,0 +1,26 @@
+{
+  "id": "typst-universe/typst-vivid-cv-0-1-1",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "cv",
+  "license": "MIT",
+  "source_url": "https://github.com/loicfontaine/vivid-cv",
+  "original_author": "Loïc Fontaine",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/typst-universe__typst-vivid-cv-0-1-1/main.typ",
+  "relative_path": "processed/typst/typst-universe__typst-vivid-cv-0-1-1/main.typ",
+  "sha256": "528ac93d525082361db331e2306b056c0abfcb5e894f6675fba086e406dffaba",
+  "size_bytes": 6487,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 320,
+  "downloaded_at": "2026-08-02T13:15:48.710Z",
+  "filtered_at": "2026-08-02T17:34:44.405Z"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "typst-universe/typst-bluenote-ist-0-1-1",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "beamer",
+  "license": "MIT",
+  "source_url": "https://typst.app/universe/package/bluenote-ist",
+  "original_author": "co-gy",
+  "package_name": "bluenote-ist",
+  "package_version": "0.1.1",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/typst-universe/typst-bluenote-ist-0-1-1/main.typ",
+  "relative_path": "raw/typst-universe/typst-bluenote-ist-0-1-1/main.typ",
+  "main_doc": "main.typ",
+  "sha256": "09d5d829e8afebddf1a3d9268dcb5295de1f32c4da899127feebdefe0d2ee423",
+  "size_bytes": 595,
+  "document_class": null,
+  "uses_packages": [],
+  "downloaded_at": "2026-08-02T13:06:14.697Z",
+  "categories": [
+    "presentation"
+  ],
+  "description": "Seminar slides at the Institute of Science Tokyo."
+}

@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-osares10-qg-typst-template",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "coursework",
+  "license": "MIT",
+  "source_url": "https://github.com/Osares10/QG-Typst",
+  "original_author": "Osares10",
+  "stars": 1,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-osares10-qg-typst-template/template.typ",
+  "relative_path": "raw/github-typst/gh-osares10-qg-typst-template/template.typ",
+  "main_doc": "template.typ",
+  "sha256": "efe556734397f081f2c1802eda666e874c0df0bff936942a3a73e06506774042",
+  "size_bytes": 2444,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "template.typ",
+  "downloaded_at": "2026-08-02T14:12:13.408Z"
+}

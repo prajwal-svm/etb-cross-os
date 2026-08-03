@@ -1,0 +1,29 @@
+{
+  "id": "overleaf/ol-aapor-appendix-a-required-disclosure-elements-kqrpqqsjhfbr",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "misc",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/aapor-appendix-a-required-disclosure-elements/kqrpqqsjhfbr",
+  "original_author": "gb based on AAPOR (American Association for Public Opinion Research)",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/overleaf__ol-aapor-appendix-a-required-disclosure-elements-kqrpqqsjhfbr/main.tex",
+  "relative_path": "processed/latex/cross-engine/overleaf__ol-aapor-appendix-a-required-disclosure-elements-kqrpqqsjhfbr/main.tex",
+  "sha256": "4d7a391625b168d5758f3013f70124460354a10e61461ccf17babc36513e1f1f",
+  "size_bytes": 11578,
+  "document_class": "article",
+  "uses_packages": [
+    "hyperref",
+    "xcolor"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 385,
+  "downloaded_at": "2026-08-02T13:28:08.736Z",
+  "filtered_at": "2026-08-02T17:34:40.894Z"
+}

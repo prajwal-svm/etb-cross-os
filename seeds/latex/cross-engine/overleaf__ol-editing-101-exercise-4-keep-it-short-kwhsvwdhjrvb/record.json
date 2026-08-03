@@ -1,0 +1,28 @@
+{
+  "id": "overleaf/ol-editing-101-exercise-4-keep-it-short-kwhsvwdhjrvb",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "misc",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/editing-101-exercise-4-keep-it-short/kwhsvwdhjrvb",
+  "original_author": "Farah Qaiser",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/overleaf__ol-editing-101-exercise-4-keep-it-short-kwhsvwdhjrvb/main.tex",
+  "relative_path": "processed/latex/cross-engine/overleaf__ol-editing-101-exercise-4-keep-it-short-kwhsvwdhjrvb/main.tex",
+  "sha256": "6343f4201e7375f4fd4a0af415f60dc10a9568dbf6ccd198c63c50cda5d6cabc",
+  "size_bytes": 3680,
+  "document_class": "article",
+  "uses_packages": [
+    "inputenc"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 213,
+  "downloaded_at": "2026-08-02T15:01:30.733Z",
+  "filtered_at": "2026-08-02T17:34:41.105Z"
+}

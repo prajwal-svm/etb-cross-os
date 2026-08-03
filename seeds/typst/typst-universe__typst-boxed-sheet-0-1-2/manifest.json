@@ -1,0 +1,23 @@
+{
+  "id": "typst-universe/typst-boxed-sheet-0-1-2",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "report",
+  "license": "MIT",
+  "source_url": "https://github.com/LZHMS/boxed-sheet.git",
+  "original_author": "Zhihao Li",
+  "package_name": "boxed-sheet",
+  "package_version": "0.1.2",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/typst-universe/typst-boxed-sheet-0-1-2/boxedsheet.typ",
+  "relative_path": "raw/typst-universe/typst-boxed-sheet-0-1-2/boxedsheet.typ",
+  "main_doc": "boxedsheet.typ",
+  "sha256": "afd18e22c94a410abd10f97a67f711bb98b90dc8424be04fba590fbd681f417b",
+  "size_bytes": 13147,
+  "document_class": null,
+  "uses_packages": [],
+  "downloaded_at": "2026-08-02T13:06:18.691Z",
+  "categories": [
+    "report"
+  ],
+  "description": "An automatically colored and well organised cheatsheet template for writing daily notes with colored bounding box and line titles."
+}

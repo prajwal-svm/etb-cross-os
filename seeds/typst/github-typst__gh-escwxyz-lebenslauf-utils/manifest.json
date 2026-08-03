@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-escwxyz-lebenslauf-utils",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "cv",
+  "license": "MIT",
+  "source_url": "https://github.com/escwxyz/lebenslauf",
+  "original_author": "escwxyz",
+  "stars": 0,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-escwxyz-lebenslauf-utils/utils.typ",
+  "relative_path": "raw/github-typst/gh-escwxyz-lebenslauf-utils/utils.typ",
+  "main_doc": "utils.typ",
+  "sha256": "4bfa942ea74989a3d268ff95f7ac62fa7ffad4adb67622293a6142b52cc57196",
+  "size_bytes": 5100,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "src/utils.typ",
+  "downloaded_at": "2026-08-02T14:21:38.567Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-gga65-typst-apa7ish-definitions",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "misc",
+  "license": "MIT",
+  "source_url": "https://github.com/GGa65/typst-apa7ish",
+  "original_author": "GGa65",
+  "stars": 0,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-gga65-typst-apa7ish-definitions/definitions.typ",
+  "relative_path": "raw/github-typst/gh-gga65-typst-apa7ish-definitions/definitions.typ",
+  "main_doc": "definitions.typ",
+  "sha256": "65147d56ca13d40fa659db144a9066804493c5d8aaa60989a2b23d5c372d36c0",
+  "size_bytes": 483,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "src/definitions.typ",
+  "downloaded_at": "2026-08-02T14:18:17.458Z"
+}

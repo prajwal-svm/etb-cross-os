@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-lsacienne-utbm-internship-report-typst-utbm",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "report",
+  "license": "MIT",
+  "source_url": "https://github.com/lsacienne/UTBM-Internship-Report-Typst",
+  "original_author": "lsacienne",
+  "stars": 5,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-lsacienne-utbm-internship-report-typst-utbm/utbm.typ",
+  "relative_path": "raw/github-typst/gh-lsacienne-utbm-internship-report-typst-utbm/utbm.typ",
+  "main_doc": "utbm.typ",
+  "sha256": "1fd8a31da74cdc5c58b296aab3819613e5cbe766ae15cadb02570417596e000b",
+  "size_bytes": 5507,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "utbm.typ",
+  "downloaded_at": "2026-08-02T14:07:18.392Z"
+}

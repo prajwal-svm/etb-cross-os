@@ -1,0 +1,22 @@
+{
+  "id": "github-latex/gh-chillerb-tikz-chat-chat",
+  "source": "github-latex",
+  "format": "latex",
+  "category": "misc",
+  "license": "CC0-1.0",
+  "source_url": "https://github.com/chillerb/tikz-chat",
+  "original_author": "chillerb",
+  "stars": 0,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-latex/gh-chillerb-tikz-chat-chat/chat.tex",
+  "relative_path": "raw/github-latex/gh-chillerb-tikz-chat-chat/chat.tex",
+  "main_doc": "chat.tex",
+  "sha256": "328b0512e8cd2570e238240651d63016919264636b92926fcde5b07fcd434c52",
+  "size_bytes": 1626,
+  "document_class": "standalone",
+  "uses_packages": [
+    "hyperref",
+    "tikz"
+  ],
+  "repo_path": "chat.tex",
+  "downloaded_at": "2026-08-02T13:48:30.107Z"
+}

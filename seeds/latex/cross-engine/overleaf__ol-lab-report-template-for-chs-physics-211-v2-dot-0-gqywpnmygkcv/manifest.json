@@ -1,0 +1,30 @@
+{
+  "id": "overleaf/ol-lab-report-template-for-chs-physics-211-v2-dot-0-gqywpnmygkcv",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "report",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/lab-report-template-for-chs-physics-211-v2-dot-0/gqywpnmygkcv",
+  "original_author": "CHARLES CANESTARO",
+  "title": "Lab Report Template for CHS Physics 211 v2.0",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/overleaf/ol-lab-report-template-for-chs-physics-211-v2-dot-0-gqywpnmygkcv/main.tex",
+  "relative_path": "raw/overleaf/ol-lab-report-template-for-chs-physics-211-v2-dot-0-gqywpnmygkcv/main.tex",
+  "main_doc": "main.tex",
+  "sha256": "76a4220ff009655adc9829cb6c15934054d3c75c6c96677a3f6fe6dc7545d49f",
+  "size_bytes": 22368,
+  "document_class": "article",
+  "uses_packages": [
+    "amsmath",
+    "enumerate",
+    "geometry",
+    "pgfplots",
+    "pgfplotstable",
+    "physics",
+    "siunitx",
+    "tikz",
+    "wasysym"
+  ],
+  "download_method": "view-source-modal",
+  "github_url": null,
+  "downloaded_at": "2026-08-02T14:27:30.597Z"
+}

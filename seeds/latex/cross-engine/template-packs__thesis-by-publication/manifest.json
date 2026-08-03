@@ -1,0 +1,26 @@
+{
+  "id": "template-packs/thesis-by-publication",
+  "source": "template-packs",
+  "format": "latex",
+  "category": "thesis",
+  "category_raw": "Theses & Reports",
+  "license": "CC0-1.0",
+  "source_url": "https://github.com/Oleafly/template-packs",
+  "original_author": "Oleafly",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/template-packs/thesis-by-publication/main.tex",
+  "relative_path": "raw/template-packs/thesis-by-publication/main.tex",
+  "main_doc": "main.tex",
+  "sha256": "0f1b6aa9c332be8e4118fad7c06622762ed2c5a647fa37b6ba53b725d879908e",
+  "size_bytes": 4697,
+  "document_class": "book",
+  "uses_packages": [
+    "booktabs",
+    "geometry",
+    "hyperref",
+    "tabularx",
+    "titlesec",
+    "xcolor"
+  ],
+  "engine_hint": "xetex",
+  "downloaded_at": "2026-08-02T13:05:15.763Z"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "github-typst/gh-jskaza-preprintx-preprintx-1",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "venue",
+  "license": "MIT",
+  "source_url": "https://github.com/jskaza/preprintx",
+  "original_author": "jskaza",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/github-typst__gh-jskaza-preprintx-preprintx-1/preprintx.typ",
+  "relative_path": "processed/typst/github-typst__gh-jskaza-preprintx-preprintx-1/preprintx.typ",
+  "sha256": "e85c5ac87ff1f995e055d2840955554b0e3ad7cdeef4a7eb40894960d09eb63b",
+  "size_bytes": 2977,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 11,
+  "downloaded_at": "2026-08-02T14:10:09.693Z",
+  "filtered_at": "2026-08-02T17:34:45.091Z"
+}

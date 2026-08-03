@@ -1,0 +1,13 @@
+{
+  "name": "etb-cross-os",
+  "version": "1.0.0",
+  "description": "Engine-Transfer-Bench cross-OS compilation campaign (Ubuntu + Windows)",
+  "type": "module",
+  "private": true,
+  "license": "MIT",
+  "scripts": {
+    "compile": "node harness/compile-all.mjs --catalog-path catalog.json --skip-markdown",
+    "compile:smoke": "node harness/compile-all.mjs --catalog-path catalog.json --skip-markdown --limit 5",
+    "compile:latex": "node harness/compile-all.mjs --catalog-path catalog.json --skip-markdown --skip-typst --only latex"
+  }
+}

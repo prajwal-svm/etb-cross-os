@@ -1,0 +1,26 @@
+{
+  "id": "typst-universe/typst-revtyp-0-15-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "venue",
+  "license": "MIT",
+  "source_url": "https://github.com/eltos/revtyp",
+  "original_author": "Philipp Niedermayer",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/typst-universe__typst-revtyp-0-15-0/paper.typ",
+  "relative_path": "processed/typst/typst-universe__typst-revtyp-0-15-0/paper.typ",
+  "sha256": "6e2235725c8198caad0bb7a404fe92f782331bdf1fef63649359b91ee34e7280",
+  "size_bytes": 7870,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 449,
+  "downloaded_at": "2026-08-02T13:12:32.107Z",
+  "filtered_at": "2026-08-02T17:34:44.148Z"
+}

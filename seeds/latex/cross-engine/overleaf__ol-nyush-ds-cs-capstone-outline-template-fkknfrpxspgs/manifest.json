@@ -1,0 +1,23 @@
+{
+  "id": "overleaf/ol-nyush-ds-cs-capstone-outline-template-fkknfrpxspgs",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "misc",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/nyush-ds-cs-capstone-outline-template/fkknfrpxspgs",
+  "original_author": "Promethee Spathis",
+  "title": "NYUSH DS-CS Capstone Outline Template",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/overleaf/ol-nyush-ds-cs-capstone-outline-template-fkknfrpxspgs/main.tex",
+  "relative_path": "raw/overleaf/ol-nyush-ds-cs-capstone-outline-template-fkknfrpxspgs/main.tex",
+  "main_doc": "main.tex",
+  "sha256": "0b060110ae0cb6da6979ca726eb078c987688c1a717b8969ca766b0770e762ad",
+  "size_bytes": 3522,
+  "document_class": "article",
+  "uses_packages": [
+    "fancyhdr",
+    "hyperref"
+  ],
+  "download_method": "view-source-modal",
+  "github_url": null,
+  "downloaded_at": "2026-08-02T15:33:29.569Z"
+}

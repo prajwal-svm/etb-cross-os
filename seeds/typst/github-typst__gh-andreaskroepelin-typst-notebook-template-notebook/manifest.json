@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-andreaskroepelin-typst-notebook-template-notebook",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "venue",
+  "license": "MIT",
+  "source_url": "https://github.com/andreasKroepelin/typst-notebook",
+  "original_author": "andreasKroepelin",
+  "stars": 13,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-andreaskroepelin-typst-notebook-template-notebook/template-notebook.typ",
+  "relative_path": "raw/github-typst/gh-andreaskroepelin-typst-notebook-template-notebook/template-notebook.typ",
+  "main_doc": "template-notebook.typ",
+  "sha256": "7729ce69275c116c94417864ec70df72bf77a6eacd1f6b336658ad2decd5b12e",
+  "size_bytes": 4213,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "template-notebook.typ",
+  "downloaded_at": "2026-08-02T14:05:47.596Z"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "overleaf/ol-coles-resume-template-qhpynjcvjpcj",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "cv",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/coles-resume-template/qhpynjcvjpcj",
+  "original_author": "Cole Miller",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/overleaf__ol-coles-resume-template-qhpynjcvjpcj/main.tex",
+  "relative_path": "processed/latex/cross-engine/overleaf__ol-coles-resume-template-qhpynjcvjpcj/main.tex",
+  "sha256": "d3285797aaedd4809ea8a045477c3d8fac407468ff1a5d9ecb038135f7e5f6a3",
+  "size_bytes": 3589,
+  "document_class": "extarticle",
+  "uses_packages": [
+    "enumitem",
+    "geometry",
+    "hyperref",
+    "inputenc",
+    "titlesec"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 338,
+  "downloaded_at": "2026-08-02T15:31:57.605Z",
+  "filtered_at": "2026-08-02T17:34:41.013Z"
+}

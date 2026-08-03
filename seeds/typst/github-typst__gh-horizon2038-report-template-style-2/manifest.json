@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-horizon2038-report-template-style-2",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "report",
+  "license": "MIT",
+  "source_url": "https://github.com/horizon2038/report-template",
+  "original_author": "horizon2038",
+  "stars": 1,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-horizon2038-report-template-style-2/style.typ",
+  "relative_path": "raw/github-typst/gh-horizon2038-report-template-style-2/style.typ",
+  "main_doc": "style.typ",
+  "sha256": "da505d1efd8e37b85c77730791e0bf58df06757e4d90d5fd4e231e71abeeb4ea",
+  "size_bytes": 1516,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "components/style.typ",
+  "downloaded_at": "2026-08-02T14:12:27.756Z"
+}

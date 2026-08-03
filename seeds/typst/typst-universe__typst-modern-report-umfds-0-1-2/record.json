@@ -1,0 +1,26 @@
+{
+  "id": "typst-universe/typst-modern-report-umfds-0-1-2",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "report",
+  "license": "MIT-0",
+  "source_url": "https://github.com/UM-nerds/modern-report-umfds",
+  "original_author": "Pablo Laviron",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/typst-universe__typst-modern-report-umfds-0-1-2/main.typ",
+  "relative_path": "processed/typst/typst-universe__typst-modern-report-umfds-0-1-2/main.typ",
+  "sha256": "84654a018f8f16f8ed246e931f66c0038abb100b7511adc9aaaf5f6d8c1ca168",
+  "size_bytes": 654,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 281,
+  "downloaded_at": "2026-08-02T13:10:55.267Z",
+  "filtered_at": "2026-08-02T17:34:44.017Z"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "github-typst/gh-riccardotoniolodev-typurnotes-glossary-2",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "misc",
+  "license": "MIT",
+  "source_url": "https://github.com/RiccardoTonioloDev/TypUrNotes",
+  "original_author": "RiccardoTonioloDev",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/github-typst__gh-riccardotoniolodev-typurnotes-glossary-2/glossary.typ",
+  "relative_path": "processed/typst/github-typst__gh-riccardotoniolodev-typurnotes-glossary-2/glossary.typ",
+  "sha256": "043060e0dbe6cd2d05a232e9ac30af313d18522adb5e92d47f8a0b7caa11e647",
+  "size_bytes": 423,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 253,
+  "downloaded_at": "2026-08-02T14:19:11.124Z",
+  "filtered_at": "2026-08-02T17:34:45.574Z"
+}

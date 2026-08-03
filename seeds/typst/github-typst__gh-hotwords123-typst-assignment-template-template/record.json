@@ -1,0 +1,26 @@
+{
+  "id": "github-typst/gh-hotwords123-typst-assignment-template-template",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "coursework",
+  "license": "MIT",
+  "source_url": "https://github.com/hotwords123/typst-assignment-template",
+  "original_author": "hotwords123",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/github-typst__gh-hotwords123-typst-assignment-template-template/template.typ",
+  "relative_path": "processed/typst/github-typst__gh-hotwords123-typst-assignment-template-template/template.typ",
+  "sha256": "bb44ff832a4997143453ae68cb69ad3dc483c329ce56bf88e927caba4dfcfafe",
+  "size_bytes": 4932,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 13,
+  "downloaded_at": "2026-08-02T14:11:27.273Z",
+  "filtered_at": "2026-08-02T17:34:44.987Z"
+}

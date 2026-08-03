@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-laci556-elte-thesis-typst-elements-2",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "thesis",
+  "license": "MIT",
+  "source_url": "https://github.com/Laci556/elte-thesis-typst",
+  "original_author": "Laci556",
+  "stars": 0,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-laci556-elte-thesis-typst-elements-2/elements.typ",
+  "relative_path": "raw/github-typst/gh-laci556-elte-thesis-typst-elements-2/elements.typ",
+  "main_doc": "elements.typ",
+  "sha256": "f0ce5021c991b83f5d513db3ef092cd699481885f55aa8d2556be897926b7dab",
+  "size_bytes": 618,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "elements.typ",
+  "downloaded_at": "2026-08-02T14:22:02.040Z"
+}

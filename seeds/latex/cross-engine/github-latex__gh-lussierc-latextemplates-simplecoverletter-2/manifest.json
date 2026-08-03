@@ -1,0 +1,23 @@
+{
+  "id": "github-latex/gh-lussierc-latextemplates-simplecoverletter-2",
+  "source": "github-latex",
+  "format": "latex",
+  "category": "letter",
+  "license": "MIT",
+  "source_url": "https://github.com/lussierc/latexTemplates",
+  "original_author": "lussierc",
+  "stars": 3,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-latex/gh-lussierc-latextemplates-simplecoverletter-2/simpleCoverLetter.tex",
+  "relative_path": "raw/github-latex/gh-lussierc-latextemplates-simplecoverletter-2/simpleCoverLetter.tex",
+  "main_doc": "simpleCoverLetter.tex",
+  "sha256": "8bc249e89e412f622988653a3be9ff085d349040d5fbb57a2c4b690775a2274d",
+  "size_bytes": 1830,
+  "document_class": "letter",
+  "uses_packages": [
+    "blindtext",
+    "datetime2",
+    "geometry"
+  ],
+  "repo_path": "coverLetter/simpleCoverLetter.tex",
+  "downloaded_at": "2026-08-02T13:30:46.382Z"
+}

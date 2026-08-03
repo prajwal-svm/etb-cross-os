@@ -1,0 +1,27 @@
+{
+  "id": "overleaf/ol-cis-160-homework-dwnsvtqsmnwk",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "coursework",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/cis-160-homework/dwnsvtqsmnwk",
+  "original_author": "Austin",
+  "title": "CIS 160 Homework",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/overleaf/ol-cis-160-homework-dwnsvtqsmnwk/main.tex",
+  "relative_path": "raw/overleaf/ol-cis-160-homework-dwnsvtqsmnwk/main.tex",
+  "main_doc": "main.tex",
+  "sha256": "ee54b4749ca1ebe2d946b9ad09b713757ea17ad528008cd45e71cba712c5df3b",
+  "size_bytes": 415,
+  "document_class": "article",
+  "uses_packages": [
+    "amsmath",
+    "amssymb",
+    "enumitem",
+    "fancyhdr",
+    "geometry",
+    "tikz"
+  ],
+  "download_method": "view-source-modal",
+  "github_url": null,
+  "downloaded_at": "2026-08-02T14:29:02.174Z"
+}

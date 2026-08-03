@@ -1,0 +1,25 @@
+{
+  "id": "github-latex/gh-corrupt-texletter-letter",
+  "source": "github-latex",
+  "format": "latex",
+  "category": "letter",
+  "license": "CC0-1.0",
+  "source_url": "https://github.com/corrupt/texletter",
+  "original_author": "corrupt",
+  "stars": 0,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-latex/gh-corrupt-texletter-letter/letter.tex",
+  "relative_path": "raw/github-latex/gh-corrupt-texletter-letter/letter.tex",
+  "main_doc": "letter.tex",
+  "sha256": "9c7b1dd446d35dfd9f18907f77993d9d9acf753f55e2c7b77cf93ede2fb058c2",
+  "size_bytes": 1785,
+  "document_class": "scrlttr2",
+  "uses_packages": [
+    "babel",
+    "eurosym",
+    "fontenc",
+    "geometry",
+    "inputenc"
+  ],
+  "repo_path": "letter.tex",
+  "downloaded_at": "2026-08-02T13:47:22.655Z"
+}

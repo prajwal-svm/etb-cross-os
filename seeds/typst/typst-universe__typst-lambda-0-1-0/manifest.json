@@ -1,0 +1,24 @@
+{
+  "id": "typst-universe/typst-lambda-0-1-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "thesis",
+  "license": "MIT",
+  "source_url": "https://typst.app/universe/package/lambda",
+  "original_author": "Finn Linus Krauss",
+  "package_name": "lambda",
+  "package_version": "0.1.0",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/typst-universe/typst-lambda-0-1-0/main.typ",
+  "relative_path": "raw/typst-universe/typst-lambda-0-1-0/main.typ",
+  "main_doc": "main.typ",
+  "sha256": "452c02a97726e8681e09c618e6b4ea85f39cb6d61fba503020e3b1551f5dd4d8",
+  "size_bytes": 4906,
+  "document_class": null,
+  "uses_packages": [],
+  "downloaded_at": "2026-08-02T13:09:52.947Z",
+  "categories": [
+    "thesis",
+    "paper"
+  ],
+  "description": "A clean two-column scientific thesis and article template with an optional cover page, title block, abstract, and table of contents."
+}

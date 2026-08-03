@@ -1,0 +1,24 @@
+{
+  "id": "typst-universe/typst-minicise-0-1-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "report",
+  "license": "MIT",
+  "source_url": "https://codeberg.org/max-dau/minicise",
+  "original_author": "Max Daubmann",
+  "package_name": "minicise",
+  "package_version": "0.1.0",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/typst-universe/typst-minicise-0-1-0/main.typ",
+  "relative_path": "raw/typst-universe/typst-minicise-0-1-0/main.typ",
+  "main_doc": "main.typ",
+  "sha256": "0d1609a704870327acf400ec190862ab21d1337440b59c7e038ec11c8cba3085",
+  "size_bytes": 342,
+  "document_class": null,
+  "uses_packages": [],
+  "downloaded_at": "2026-08-02T13:10:24.312Z",
+  "categories": [
+    "layout",
+    "report"
+  ],
+  "description": "Minimal exercise sheet, providing a simple header and title."
+}

@@ -1,0 +1,33 @@
+{
+  "id": "overleaf/ol-curriculum-vitae-jjhmpqwcnjzx",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "cv",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/curriculum-vitae/jjhmpqwcnjzx",
+  "original_author": "Md Nazmus Sakib Miazi",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/overleaf__ol-curriculum-vitae-jjhmpqwcnjzx/main.tex",
+  "relative_path": "processed/latex/cross-engine/overleaf__ol-curriculum-vitae-jjhmpqwcnjzx/main.tex",
+  "sha256": "8a3a8af3e3f15e6726cc06ed69c3b584d783efbd53df1f9db5f2d5d4c4ca6822",
+  "size_bytes": 7056,
+  "document_class": "article",
+  "uses_packages": [
+    "fancyhdr",
+    "fixltx2e",
+    "fontenc",
+    "geometry",
+    "listings",
+    "multicol"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 750,
+  "downloaded_at": "2026-08-02T14:32:02.959Z",
+  "filtered_at": "2026-08-02T17:34:41.049Z"
+}

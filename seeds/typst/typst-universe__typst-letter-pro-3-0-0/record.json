@@ -1,0 +1,26 @@
+{
+  "id": "typst-universe/typst-letter-pro-3-0-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "business",
+  "license": "MIT",
+  "source_url": "https://github.com/Sematre/typst-letter-pro",
+  "original_author": "Sematre",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/typst-universe__typst-letter-pro-3-0-0/main.typ",
+  "relative_path": "processed/typst/typst-universe__typst-letter-pro-3-0-0/main.typ",
+  "sha256": "0492c665e55126fbc120bba0a7bde5fbd043ac4f9cd935b15bb83afd091f065b",
+  "size_bytes": 1225,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 189,
+  "downloaded_at": "2026-08-02T13:09:57.633Z",
+  "filtered_at": "2026-08-02T17:34:43.953Z"
+}

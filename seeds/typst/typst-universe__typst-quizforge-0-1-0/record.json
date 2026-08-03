@@ -1,0 +1,26 @@
+{
+  "id": "typst-universe/typst-quizforge-0-1-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "coursework",
+  "license": "MIT",
+  "source_url": "https://github.com/nipunbatra/quizforge",
+  "original_author": "Nipun Batra",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/typst-universe__typst-quizforge-0-1-0/main.typ",
+  "relative_path": "processed/typst/typst-universe__typst-quizforge-0-1-0/main.typ",
+  "sha256": "1cacaf3e7b9f60987b4e38769c4c17c6daffc620b1c0ab33f7f45ea9d66d16a0",
+  "size_bytes": 900,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 274,
+  "downloaded_at": "2026-08-02T13:12:23.708Z",
+  "filtered_at": "2026-08-02T17:34:44.136Z"
+}

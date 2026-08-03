@@ -1,0 +1,25 @@
+{
+  "id": "typst-universe/typst-classicthesis-0-1-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "book",
+  "license": "MIT",
+  "source_url": "https://github.com/adwiteeymauriya/classicthesis-typst",
+  "original_author": "Adwiteey Mauriya",
+  "package_name": "classicthesis",
+  "package_version": "0.1.0",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/typst-universe/typst-classicthesis-0-1-0/main.typ",
+  "relative_path": "raw/typst-universe/typst-classicthesis-0-1-0/main.typ",
+  "main_doc": "main.typ",
+  "sha256": "b98a02ba4f9e8b5e1689ff21adee146dc8419d466a3f9787c301299cc928f533",
+  "size_bytes": 2575,
+  "document_class": null,
+  "uses_packages": [],
+  "downloaded_at": "2026-08-02T13:06:53.741Z",
+  "categories": [
+    "book",
+    "thesis",
+    "report"
+  ],
+  "description": "Thesis inspired by André Miede's ClassicThesis style."
+}

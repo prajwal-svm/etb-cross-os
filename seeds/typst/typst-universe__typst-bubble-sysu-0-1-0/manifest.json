@@ -1,0 +1,23 @@
+{
+  "id": "typst-universe/typst-bubble-sysu-0-1-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "report",
+  "license": "MIT-0",
+  "source_url": "https://typst.app/universe/package/bubble-sysu",
+  "original_author": "Langxi Yuan",
+  "package_name": "bubble-sysu",
+  "package_version": "0.1.0",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/typst-universe/typst-bubble-sysu-0-1-0/main.typ",
+  "relative_path": "raw/typst-universe/typst-bubble-sysu-0-1-0/main.typ",
+  "main_doc": "main.typ",
+  "sha256": "427d2b5989f9f7653eda7dd35262aebbbb2b28cdda9b8a8a32b669b02ce2bc37",
+  "size_bytes": 272,
+  "document_class": null,
+  "uses_packages": [],
+  "downloaded_at": "2026-08-02T13:06:22.007Z",
+  "categories": [
+    "report"
+  ],
+  "description": "Reports at Sun Yat-Sen University."
+}

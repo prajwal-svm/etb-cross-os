@@ -1,0 +1,31 @@
+{
+  "id": "overleaf/ol-ma12lt1-btdqkryzqfpr",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "misc",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/ma12lt1/btdqkryzqfpr",
+  "original_author": "Paul",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/overleaf__ol-ma12lt1-btdqkryzqfpr/main.tex",
+  "relative_path": "processed/latex/cross-engine/overleaf__ol-ma12lt1-btdqkryzqfpr/main.tex",
+  "sha256": "a0223927dadcdcd82744762c71c129f7fee82eacc8eb34fd204bc8f272eb7cb2",
+  "size_bytes": 2693,
+  "document_class": "article",
+  "uses_packages": [
+    "amsfonts",
+    "amsmath",
+    "amssymb",
+    "graphicx"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 245,
+  "downloaded_at": "2026-08-02T14:20:01.527Z",
+  "filtered_at": "2026-08-02T17:34:41.340Z"
+}

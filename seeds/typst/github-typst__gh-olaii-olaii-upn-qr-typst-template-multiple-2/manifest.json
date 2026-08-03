@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-olaii-olaii-upn-qr-typst-template-multiple-2",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "misc",
+  "license": "MIT",
+  "source_url": "https://github.com/Olaii/olaii-upn-qr-typst-template",
+  "original_author": "Olaii",
+  "stars": 0,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-olaii-olaii-upn-qr-typst-template-multiple-2/multiple.typ",
+  "relative_path": "raw/github-typst/gh-olaii-olaii-upn-qr-typst-template-multiple-2/multiple.typ",
+  "main_doc": "multiple.typ",
+  "sha256": "74e0cdbcf3582eb69958138fc3a0c45fe34af0b5cf6bfc3292b3abdc05428b19",
+  "size_bytes": 2365,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "examples/multiple.typ",
+  "downloaded_at": "2026-08-02T14:17:29.006Z"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "template-packs/business-report",
+  "source": "template-packs",
+  "format": "latex",
+  "category": "business",
+  "license": "CC0-1.0",
+  "source_url": "https://github.com/Oleafly/template-packs",
+  "original_author": "Oleafly",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/template-packs__business-report/main.tex",
+  "relative_path": "processed/latex/cross-engine/template-packs__business-report/main.tex",
+  "sha256": "efcd27b148c5b87519e8422c584568451772063a13721fe4ade2819712c96972",
+  "size_bytes": 3329,
+  "document_class": "article",
+  "uses_packages": [
+    "booktabs",
+    "geometry",
+    "pgfplots",
+    "sourcesanspro",
+    "tabularx",
+    "xcolor"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 1028,
+  "downloaded_at": "2026-08-02T13:05:15.783Z",
+  "filtered_at": "2026-08-02T17:34:40.749Z"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "ctan/ctan-datetime2-datetime2-sample-calc",
+  "source": "ctan",
+  "format": "latex",
+  "category": "package-example",
+  "license": "LPPL-1.3c",
+  "source_url": "https://ctan.org/pkg/datetime2",
+  "original_author": "CTAN package: datetime2",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/ctan__ctan-datetime2-datetime2-sample-calc/datetime2-sample-calc.tex",
+  "relative_path": "processed/latex/cross-engine/ctan__ctan-datetime2-datetime2-sample-calc/datetime2-sample-calc.tex",
+  "sha256": "47ecdebce94b0119c9ab6c6880a1eb592a912e9c64c0266ee3b41e0ae0275914",
+  "size_bytes": 1587,
+  "document_class": "article",
+  "uses_packages": [
+    "datetime2"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 281,
+  "downloaded_at": "2026-08-02T13:05:03.513Z",
+  "filtered_at": "2026-08-02T17:34:42.235Z"
+}

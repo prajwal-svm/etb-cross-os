@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-l364cy-fm-typst-thesis-cover-2",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "thesis",
+  "license": "MIT",
+  "source_url": "https://github.com/L364CY-FM/typst-thesis",
+  "original_author": "L364CY-FM",
+  "stars": 3,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-l364cy-fm-typst-thesis-cover-2/cover.typ",
+  "relative_path": "raw/github-typst/gh-l364cy-fm-typst-thesis-cover-2/cover.typ",
+  "main_doc": "cover.typ",
+  "sha256": "ed36052d4c67e2df10eb5cb61c8b4251b6f658644795932bf9f08ce128f545c2",
+  "size_bytes": 1000,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "projektarbeit/templates/cover.typ",
+  "downloaded_at": "2026-08-02T14:08:49.096Z"
+}

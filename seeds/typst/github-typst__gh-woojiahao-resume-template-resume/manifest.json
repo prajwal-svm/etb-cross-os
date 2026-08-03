@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-woojiahao-resume-template-resume",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "cv",
+  "license": "MIT",
+  "source_url": "https://github.com/woojiahao/resume-template",
+  "original_author": "woojiahao",
+  "stars": 4,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-woojiahao-resume-template-resume/resume.typ",
+  "relative_path": "raw/github-typst/gh-woojiahao-resume-template-resume/resume.typ",
+  "main_doc": "resume.typ",
+  "sha256": "1326a4ba3684ad6d457973bafe2fec9aa60ca4ccc0865483a1ade034eb58675f",
+  "size_bytes": 3010,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "resume.typ",
+  "downloaded_at": "2026-08-02T14:08:02.751Z"
+}

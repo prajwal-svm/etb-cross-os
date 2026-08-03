@@ -1,0 +1,23 @@
+{
+  "id": "typst-universe/typst-touying-simpl-nudt-0-1-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "beamer",
+  "license": "MIT",
+  "source_url": "https://github.com/yelpevade/touying-nudt",
+  "original_author": "yelpevade",
+  "package_name": "touying-simpl-nudt",
+  "package_version": "0.1.0",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/typst-universe/typst-touying-simpl-nudt-0-1-0/main.typ",
+  "relative_path": "raw/typst-universe/typst-touying-simpl-nudt-0-1-0/main.typ",
+  "main_doc": "main.typ",
+  "sha256": "6c8da9c75d60d2833128e55518baf05dc079a0bdcd5f0bc694f8d30fd566ae61",
+  "size_bytes": 856,
+  "document_class": null,
+  "uses_packages": [],
+  "downloaded_at": "2026-08-02T13:14:21.911Z",
+  "categories": [
+    "presentation"
+  ],
+  "description": "国防科技大学 Touying 幻灯片主题 (Touying Slide Theme for NUDT)"
+}

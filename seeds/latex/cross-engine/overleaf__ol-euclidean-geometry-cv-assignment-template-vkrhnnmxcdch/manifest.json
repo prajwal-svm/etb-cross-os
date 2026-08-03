@@ -1,0 +1,22 @@
+{
+  "id": "overleaf/ol-euclidean-geometry-cv-assignment-template-vkrhnnmxcdch",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "cv",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/euclidean-geometry-cv-assignment-template/vkrhnnmxcdch",
+  "original_author": "Theron J Hitchman",
+  "title": "Euclidean Geometry CV Assignment Template",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/overleaf/ol-euclidean-geometry-cv-assignment-template-vkrhnnmxcdch/main.tex",
+  "relative_path": "raw/overleaf/ol-euclidean-geometry-cv-assignment-template-vkrhnnmxcdch/main.tex",
+  "main_doc": "main.tex",
+  "sha256": "12878c4485e4ae98a98856611ed73ab1cc7a1c65cf555886c29251a3bf045a66",
+  "size_bytes": 654,
+  "document_class": "amsart",
+  "uses_packages": [
+    "paralist"
+  ],
+  "download_method": "view-source-modal",
+  "github_url": null,
+  "downloaded_at": "2026-08-02T15:06:06.004Z"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "github-latex/gh-davidgasquez-project-latex-template-project",
+  "source": "github-latex",
+  "format": "latex",
+  "category": "coursework",
+  "license": "MIT",
+  "source_url": "https://github.com/davidgasquez/project-latex-template",
+  "original_author": "davidgasquez",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/github-latex__gh-davidgasquez-project-latex-template-project/project.tex",
+  "relative_path": "processed/latex/cross-engine/github-latex__gh-davidgasquez-project-latex-template-project/project.tex",
+  "sha256": "f53f8ca67fc63c8f9d6dea0272bf4a304bf7fbb5a7343095981a59d6eb2f3858",
+  "size_bytes": 6769,
+  "document_class": "article",
+  "uses_packages": [
+    "a4wide",
+    "amsfonts",
+    "amsmath",
+    "amssymb",
+    "anyfontsize",
+    "babel",
+    "booktabs",
+    "fancyhdr",
+    "fontenc",
+    "graphicx",
+    "hyperref",
+    "inputenc",
+    "lmodern",
+    "microtype",
+    "parskip",
+    "tocbibind"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 499,
+  "downloaded_at": "2026-08-02T13:26:43.251Z",
+  "filtered_at": "2026-08-02T17:34:42.624Z"
+}

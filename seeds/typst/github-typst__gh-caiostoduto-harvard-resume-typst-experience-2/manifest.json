@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-caiostoduto-harvard-resume-typst-experience-2",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "cv",
+  "license": "MIT",
+  "source_url": "https://github.com/caiostoduto/harvard-resume-typst",
+  "original_author": "caiostoduto",
+  "stars": 0,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-caiostoduto-harvard-resume-typst-experience-2/experience.typ",
+  "relative_path": "raw/github-typst/gh-caiostoduto-harvard-resume-typst-experience-2/experience.typ",
+  "main_doc": "experience.typ",
+  "sha256": "725f0717235ac46bebaae185994f74c8dcc0cadcda2f8967ea68dfb855c7f30c",
+  "size_bytes": 1315,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "sections/experience.typ",
+  "downloaded_at": "2026-08-02T14:17:46.819Z"
+}

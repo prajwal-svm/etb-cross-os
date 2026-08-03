@@ -1,0 +1,23 @@
+{
+  "id": "typst-universe/typst-hanzi-calligraphy-0-2-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "misc",
+  "license": "MIT",
+  "source_url": "https://github.com/yuegeao/hanzi-calligraphy",
+  "original_author": "yuegeao",
+  "package_name": "hanzi-calligraphy",
+  "package_version": "0.2.0",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/typst-universe/typst-hanzi-calligraphy-0-2-0/template.typ",
+  "relative_path": "raw/typst-universe/typst-hanzi-calligraphy-0-2-0/template.typ",
+  "main_doc": "template.typ",
+  "sha256": "49e2d65118913c688e568869a3b80bc1f14c949ae80493099829967acbd562aa",
+  "size_bytes": 1763,
+  "document_class": null,
+  "uses_packages": [],
+  "downloaded_at": "2026-08-02T13:08:54.050Z",
+  "categories": [
+    "fun"
+  ],
+  "description": "用于书法练习的田字格模板，支持传统竖排文字。A calligraphy practice template with traditional vertical text support for Chinese and Japanese."
+}

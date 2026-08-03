@@ -1,0 +1,40 @@
+{
+  "id": "overleaf/ol-formal-letter-official-addressee-spykjymnxxxs",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "letter",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/formal-letter-official-addressee/spykjymnxxxs",
+  "original_author": "Tanmoy Talukdar",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/overleaf__ol-formal-letter-official-addressee-spykjymnxxxs/main.tex",
+  "relative_path": "processed/latex/cross-engine/overleaf__ol-formal-letter-official-addressee-spykjymnxxxs/main.tex",
+  "sha256": "a512d029188bdc864522e948dbacb1979ad33a2a17f8d9b10e4b89b568153c37",
+  "size_bytes": 2216,
+  "document_class": "letter",
+  "uses_packages": [
+    "amsmath",
+    "amssymb",
+    "bookman",
+    "fancyhdr",
+    "fontenc",
+    "geometry",
+    "graphicx",
+    "hyperref",
+    "hyphenat",
+    "lipsum",
+    "multicol",
+    "ragged2e",
+    "xcolor"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 448,
+  "downloaded_at": "2026-08-02T15:23:50.479Z",
+  "filtered_at": "2026-08-02T17:34:41.171Z"
+}

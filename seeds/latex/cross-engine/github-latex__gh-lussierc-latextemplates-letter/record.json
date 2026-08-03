@@ -1,0 +1,30 @@
+{
+  "id": "github-latex/gh-lussierc-latextemplates-letter",
+  "source": "github-latex",
+  "format": "latex",
+  "category": "letter",
+  "license": "MIT",
+  "source_url": "https://github.com/lussierc/latexTemplates",
+  "original_author": "lussierc",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/github-latex__gh-lussierc-latextemplates-letter/letter.tex",
+  "relative_path": "processed/latex/cross-engine/github-latex__gh-lussierc-latextemplates-letter/letter.tex",
+  "sha256": "a7540796f0aa37f64dd9171d459a4d64963ce799985084c4e235e1a1cd987a6f",
+  "size_bytes": 1332,
+  "document_class": "letter",
+  "uses_packages": [
+    "blindtext",
+    "datetime2",
+    "geometry"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 288,
+  "downloaded_at": "2026-08-02T13:30:46.025Z",
+  "filtered_at": "2026-08-02T17:34:43.103Z"
+}

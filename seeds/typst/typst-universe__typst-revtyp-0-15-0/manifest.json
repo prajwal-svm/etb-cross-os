@@ -1,0 +1,23 @@
+{
+  "id": "typst-universe/typst-revtyp-0-15-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "venue",
+  "license": "MIT",
+  "source_url": "https://github.com/eltos/revtyp",
+  "original_author": "Philipp Niedermayer",
+  "package_name": "revtyp",
+  "package_version": "0.15.0",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/typst-universe/typst-revtyp-0-15-0/paper.typ",
+  "relative_path": "raw/typst-universe/typst-revtyp-0-15-0/paper.typ",
+  "main_doc": "paper.typ",
+  "sha256": "6e2235725c8198caad0bb7a404fe92f782331bdf1fef63649359b91ee34e7280",
+  "size_bytes": 7870,
+  "document_class": null,
+  "uses_packages": [],
+  "downloaded_at": "2026-08-02T13:12:32.107Z",
+  "categories": [
+    "paper"
+  ],
+  "description": "Prepare papers in the style of the APS Physical Review journals"
+}

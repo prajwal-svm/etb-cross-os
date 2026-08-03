@@ -1,0 +1,26 @@
+{
+  "id": "typst-universe/typst-fine-lncs-0-6-5",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "venue",
+  "license": "MIT",
+  "source_url": "https://github.com/Jozott00/typst-fine-lncs",
+  "original_author": "jozott",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/typst-universe__typst-fine-lncs-0-6-5/main.typ",
+  "relative_path": "processed/typst/typst-universe__typst-fine-lncs-0-6-5/main.typ",
+  "sha256": "5fac75ac1e3f113d7a3516b5fdd781cbc04125b2972ec55ab4ef0fa928eb1ed7",
+  "size_bytes": 4867,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 291,
+  "downloaded_at": "2026-08-02T13:08:25.500Z",
+  "filtered_at": "2026-08-02T17:34:43.823Z"
+}

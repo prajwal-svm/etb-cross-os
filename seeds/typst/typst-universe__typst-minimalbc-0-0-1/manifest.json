@@ -1,0 +1,23 @@
+{
+  "id": "typst-universe/typst-minimalbc-0-0-1",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "business",
+  "license": "MIT",
+  "source_url": "https://github.com/sevehub/minimalbc",
+  "original_author": "S. Tessarin",
+  "package_name": "minimalbc",
+  "package_version": "0.0.1",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/typst-universe/typst-minimalbc-0-0-1/main.typ",
+  "relative_path": "raw/typst-universe/typst-minimalbc-0-0-1/main.typ",
+  "main_doc": "main.typ",
+  "sha256": "e6e77921e43355cd2425b39765867514606703a3f19d3ef67e28a9574319bd50",
+  "size_bytes": 412,
+  "document_class": null,
+  "uses_packages": [],
+  "downloaded_at": "2026-08-02T13:10:30.527Z",
+  "categories": [
+    "office"
+  ],
+  "description": "Sleek, minimalist design for professional business cards. Emphasizing clarity and elegance."
+}

@@ -1,0 +1,23 @@
+{
+  "id": "typst-universe/typst-briefs-0-3-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "business",
+  "license": "MIT",
+  "source_url": "https://github.com/tndrle/briefs",
+  "original_author": "Tobias Enderle",
+  "package_name": "briefs",
+  "package_version": "0.3.0",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/typst-universe/typst-briefs-0-3-0/main.typ",
+  "relative_path": "raw/typst-universe/typst-briefs-0-3-0/main.typ",
+  "main_doc": "main.typ",
+  "sha256": "c636857a05d983b021bda3d9ccad057f6f701249cd0e79d47b93d6106797836e",
+  "size_bytes": 682,
+  "document_class": null,
+  "uses_packages": [],
+  "downloaded_at": "2026-08-02T13:06:20.149Z",
+  "categories": [
+    "office"
+  ],
+  "description": "A simple template for letters"
+}

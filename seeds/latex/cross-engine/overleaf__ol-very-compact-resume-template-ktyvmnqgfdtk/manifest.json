@@ -1,0 +1,24 @@
+{
+  "id": "overleaf/ol-very-compact-resume-template-ktyvmnqgfdtk",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "cv",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/very-compact-resume-template/ktyvmnqgfdtk",
+  "original_author": "Lauren QU",
+  "title": "Very compact resume template",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/overleaf/ol-very-compact-resume-template-ktyvmnqgfdtk/main.tex",
+  "relative_path": "raw/overleaf/ol-very-compact-resume-template-ktyvmnqgfdtk/main.tex",
+  "main_doc": "main.tex",
+  "sha256": "a2ec630ec98079b56032c49707697e9963f3277ab3a1ebbda564da297aa661f1",
+  "size_bytes": 3345,
+  "document_class": "article",
+  "uses_packages": [
+    "amsmath",
+    "enumitem",
+    "geometry"
+  ],
+  "download_method": "view-source-modal",
+  "github_url": null,
+  "downloaded_at": "2026-08-02T16:21:13.676Z"
+}

@@ -1,0 +1,215 @@
+name: Cross-OS Compilation
+
+on:
+  workflow_dispatch:
+    inputs:
+      limit:
+        description: 'Max documents per format (0 = all)'
+        required: false
+        default: '0'
+      skip_typst:
+        description: 'Skip Typst track (true/false)'
+        required: false
+        default: 'false'
+      latex_only:
+        description: 'LaTeX only (true/false)'
+        required: false
+        default: 'false'
+
+jobs:
+  compile:
+    strategy:
+      fail-fast: false
+      matrix:
+        include:
+          - os: ubuntu-latest
+            label: ubuntu-x64
+          - os: windows-latest
+            label: windows-x64
+    runs-on: ${{ matrix.os }}
+    timeout-minutes: 360
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      # ---------- Tectonic ----------
+      - name: Install Tectonic (Linux)
+        if: runner.os == 'Linux'
+        run: |
+          set -e
+          curl --proto '=https' --tlsv1.2 -fsSL https://drop-sh.fullyjustified.net | sh
+          echo "$HOME/.cargo/bin" >> "$GITHUB_PATH"
+          echo "$HOME/.local/bin" >> "$GITHUB_PATH"
+          # also try prebuilt release if cargo install path empty
+          if ! command -v tectonic >/dev/null 2>&1; then
+            curl -fsSL -o tectonic.tar.gz \
+              "https://github.com/tectonic-typesetting/tectonic/releases/download/tectonic%400.15.0/tectonic-0.15.0-x86_64-unknown-linux-gnu.tar.gz" \
+              || true
+            if [ -f tectonic.tar.gz ]; then
+              tar -xzf tectonic.tar.gz
+              sudo mv tectonic /usr/local/bin/ || mv tectonic "$HOME/.local/bin/"
+            fi
+          fi
+          tectonic --version || echo "WARN: tectonic missing"
+
+      - name: Install Tectonic (Windows)
+        if: runner.os == 'Windows'
+        shell: pwsh
+        run: |
+          $ErrorActionPreference = "Continue"
+          $url = "https://github.com/tectonic-typesetting/tectonic/releases/download/tectonic%400.15.0/tectonic-0.15.0-x86_64-pc-windows-msvc.zip"
+          Invoke-WebRequest -Uri $url -OutFile tectonic.zip -UseBasicParsing
+          Expand-Archive tectonic.zip -DestinationPath $env:RUNNER_TEMP\tectonic -Force
+          $bin = Get-ChildItem -Path $env:RUNNER_TEMP\tectonic -Recurse -Filter tectonic.exe | Select-Object -First 1
+          if ($bin) {
+            New-Item -ItemType Directory -Force -Path "$env:USERPROFILE\.local\bin" | Out-Null
+            Copy-Item $bin.FullName "$env:USERPROFILE\.local\bin\tectonic.exe" -Force
+            Add-Content $env:GITHUB_PATH "$env:USERPROFILE\.local\bin"
+          }
+          & "$env:USERPROFILE\.local\bin\tectonic.exe" --version
+
+      # ---------- Typst ----------
+      - name: Install Typst (Linux)
+        if: runner.os == 'Linux' && inputs.skip_typst != 'true'
+        run: |
+          set -e
+          curl -fsSL -o typst.tar.xz \
+            "https://github.com/typst/typst/releases/download/v0.13.1/typst-x86_64-unknown-linux-musl.tar.xz" \
+            || curl -fsSL -o typst.tar.xz \
+            "https://github.com/typst/typst/releases/latest/download/typst-x86_64-unknown-linux-musl.tar.xz"
+          tar -xf typst.tar.xz
+          sudo install -m 755 typst-*/typst /usr/local/bin/typst || install -m 755 typst-*/typst "$HOME/.local/bin/typst"
+          typst --version
+
+      - name: Install Typst (Windows)
+        if: runner.os == 'Windows' && inputs.skip_typst != 'true'
+        shell: pwsh
+        run: |
+          $url = "https://github.com/typst/typst/releases/download/v0.13.1/typst-x86_64-pc-windows-msvc.zip"
+          try {
+            Invoke-WebRequest -Uri $url -OutFile typst.zip -UseBasicParsing
+          } catch {
+            $url = "https://github.com/typst/typst/releases/latest/download/typst-x86_64-pc-windows-msvc.zip"
+            Invoke-WebRequest -Uri $url -OutFile typst.zip -UseBasicParsing
+          }
+          Expand-Archive typst.zip -DestinationPath $env:RUNNER_TEMP\typst -Force
+          $bin = Get-ChildItem -Path $env:RUNNER_TEMP\typst -Recurse -Filter typst.exe | Select-Object -First 1
+          New-Item -ItemType Directory -Force -Path "$env:USERPROFILE\.local\bin" | Out-Null
+          Copy-Item $bin.FullName "$env:USERPROFILE\.local\bin\typst.exe" -Force
+          Add-Content $env:GITHUB_PATH "$env:USERPROFILE\.local\bin"
+          & "$env:USERPROFILE\.local\bin\typst.exe" --version
+
+      # ---------- TeX engines ----------
+      - name: Install TeX Live subset (Linux)
+        if: runner.os == 'Linux'
+        run: |
+          set -e
+          sudo apt-get update
+          sudo DEBIAN_FRONTEND=noninteractive apt-get install -y --no-install-recommends \
+            texlive-latex-base \
+            texlive-latex-recommended \
+            texlive-latex-extra \
+            texlive-fonts-recommended \
+            texlive-fonts-extra \
+            texlive-science \
+            texlive-pictures \
+            texlive-publishers \
+            texlive-bibtex-extra \
+            texlive-xetex \
+            texlive-luatex \
+            lmodern \
+            poppler-utils \
+            time
+          which pdflatex xelatex lualatex pdftotext pdfinfo
+          pdflatex --version | head -1
+          xelatex --version | head -1
+          lualatex --version | head -1
+
+      - name: Install MiKTeX (Windows)
+        if: runner.os == 'Windows'
+        shell: pwsh
+        run: |
+          choco install miktex -y --no-progress
+          $miktex = "C:\Program Files\MiKTeX\miktex\bin\x64"
+          if (-not (Test-Path $miktex)) {
+            $miktex = "C:\Program Files\MiKTeX\miktex\bin"
+          }
+          Add-Content $env:GITHUB_PATH $miktex
+          # poppler via chocolatey if available
+          choco install poppler -y --no-progress || true
+          # MiKTeX auto-install packages
+          & "$miktex\initexmf.exe" --set-config-value=[MPM]AutoInstall=1
+          & "$miktex\pdflatex.exe" --version
+          & "$miktex\xelatex.exe" --version
+          & "$miktex\lualatex.exe" --version
+
+      - name: Pre-warm Tectonic
+        shell: bash
+        run: |
+          set +e
+          WARMUP=$(mktemp /tmp/warmupXXXX.tex 2>/dev/null || echo warmup.tex)
+          printf '%s\n' '\documentclass{article}\begin{document}Hello\end{document}' > "$WARMUP"
+          tectonic -X compile "$WARMUP" || tectonic "$WARMUP" || true
+          rm -f "$WARMUP" warmup.pdf 2>/dev/null || true
+
+      - name: Run compilation harness
+        shell: bash
+        env:
+          LIMIT: ${{ inputs.limit }}
+          SKIP_TYPST: ${{ inputs.skip_typst }}
+          LATEX_ONLY: ${{ inputs.latex_only }}
+          HOST_LABEL: ${{ matrix.label }}
+        run: |
+          set -e
+          mkdir -p results
+          EXTRA=""
+          if [ "$SKIP_TYPST" = "true" ] || [ "$LATEX_ONLY" = "true" ]; then
+            EXTRA="$EXTRA --skip-typst"
+          fi
+          if [ "$LATEX_ONLY" = "true" ]; then
+            EXTRA="$EXTRA --only latex"
+          fi
+          if [ -n "$LIMIT" ] && [ "$LIMIT" != "0" ]; then
+            EXTRA="$EXTRA --limit $LIMIT"
+          fi
+          echo "Running with: host=$HOST_LABEL $EXTRA"
+          node harness/compile-all.mjs \
+            --catalog-path catalog.json \
+            --dataset-root . \
+            --host "$HOST_LABEL" \
+            --skip-markdown \
+            --out "results/per-engine-results-${HOST_LABEL}.jsonl" \
+            $EXTRA
+
+      - name: Print success rates
+        shell: bash
+        run: |
+          node -e '
+          const fs=require("fs");
+          const f="results/per-engine-results-${{ matrix.label }}.jsonl";
+          if(!fs.existsSync(f)){console.log("no results file"); process.exit(0);}
+          const lines=fs.readFileSync(f,"utf8").trim().split(/\n/).filter(Boolean).map(l=>JSON.parse(l));
+          const by={};
+          for(const r of lines){by[r.engine]=by[r.engine]||{n:0,ok:0};by[r.engine].n++;if(r.success)by[r.engine].ok++;}
+          console.log("=== ${{ matrix.label }} SUCCESS RATES ===");
+          console.log("rows", lines.length, "host", lines[0]&&lines[0].host);
+          for(const [e,v] of Object.entries(by).sort()) console.log(e, (100*v.ok/v.n).toFixed(1)+"%", v.ok+"/"+v.n);
+          '
+
+      - name: Upload results
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: etb-results-${{ matrix.label }}
+          path: |
+            results/per-engine-results-${{ matrix.label }}.jsonl
+            results/run-meta-${{ matrix.label }}.json
+            results/progress-${{ matrix.label }}.json
+            logs/
+          retention-days: 90
+          if-no-files-found: warn

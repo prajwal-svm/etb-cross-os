@@ -1,0 +1,29 @@
+{
+  "id": "overleaf/ol-modelo-relatorio-medidas-eletricas-bphksjfdqrdr",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "misc",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/modelo-relatorio-medidas-eletricas/bphksjfdqrdr",
+  "original_author": "Lazaro Silva",
+  "title": "Modelo Relatório Medidas Elétricas",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/overleaf/ol-modelo-relatorio-medidas-eletricas-bphksjfdqrdr/main.tex",
+  "relative_path": "raw/overleaf/ol-modelo-relatorio-medidas-eletricas-bphksjfdqrdr/main.tex",
+  "main_doc": "main.tex",
+  "sha256": "c61bf279f1f9fc2a6fec086b1e5bd73e6aceb094f07d3d576831878400aa3014",
+  "size_bytes": 3352,
+  "document_class": "article",
+  "uses_packages": [
+    "amsmath",
+    "babel",
+    "geometry",
+    "graphicx",
+    "indentfirst",
+    "inputenc",
+    "lipsum",
+    "multicol"
+  ],
+  "download_method": "view-source-modal",
+  "github_url": null,
+  "downloaded_at": "2026-08-02T15:43:28.451Z"
+}

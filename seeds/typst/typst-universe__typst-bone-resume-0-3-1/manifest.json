@@ -1,0 +1,23 @@
+{
+  "id": "typst-universe/typst-bone-resume-0-3-1",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "cv",
+  "license": "Apache-2.0",
+  "source_url": "https://typst.app/universe/package/bone-resume",
+  "original_author": "zrr1999",
+  "package_name": "bone-resume",
+  "package_version": "0.3.1",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/typst-universe/typst-bone-resume-0-3-1/main.typ",
+  "relative_path": "raw/typst-universe/typst-bone-resume-0-3-1/main.typ",
+  "main_doc": "main.typ",
+  "sha256": "3e86433cda6fe842ffb0c961626f8be748add24176e3634fdbd81fffa86d7f5c",
+  "size_bytes": 3866,
+  "document_class": null,
+  "uses_packages": [],
+  "downloaded_at": "2026-08-02T13:06:15.342Z",
+  "categories": [
+    "cv"
+  ],
+  "description": "A colorful resume template for chinese."
+}

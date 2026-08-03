@@ -1,0 +1,39 @@
+{
+  "id": "github-latex/gh-elcarrillo-academic-cv-latex-bio-cv-example",
+  "source": "github-latex",
+  "format": "latex",
+  "category": "cv",
+  "license": "MIT",
+  "source_url": "https://github.com/elcarrillo/academic_cv_latex",
+  "original_author": "elcarrillo",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/engine-specific/github-latex__gh-elcarrillo-academic-cv-latex-bio-cv-example/bio_CV_example.tex",
+  "relative_path": "processed/latex/engine-specific/github-latex__gh-elcarrillo-academic-cv-latex-bio-cv-example/bio_CV_example.tex",
+  "sha256": "adf4fcf960518cbdfe0938646cc302e44776f389114e029dee54919936ecfef4",
+  "size_bytes": 10027,
+  "document_class": "article",
+  "uses_packages": [
+    "datetime",
+    "enumitem",
+    "fancyhdr",
+    "fontawesome",
+    "geometry",
+    "hanging",
+    "helvet",
+    "hyperref",
+    "setspace",
+    "tabularx",
+    "titlesec",
+    "xcolor"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": false,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "engine-specific",
+  "compile_time_ms": 622,
+  "downloaded_at": "2026-08-02T13:49:59.470Z",
+  "filtered_at": "2026-08-02T17:34:42.712Z"
+}

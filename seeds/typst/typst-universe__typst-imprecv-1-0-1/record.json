@@ -1,0 +1,26 @@
+{
+  "id": "typst-universe/typst-imprecv-1-0-1",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "cv",
+  "license": "Apache-2.0",
+  "source_url": "https://github.com/jskherman/imprecv",
+  "original_author": "Je Sian Keith Herman",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/typst-universe__typst-imprecv-1-0-1/template.typ",
+  "relative_path": "processed/typst/typst-universe__typst-imprecv-1-0-1/template.typ",
+  "sha256": "3c638821468d1df2f58fbe640784a3cc33207db1f01fc84c08f28fcf98de313e",
+  "size_bytes": 1582,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 216,
+  "downloaded_at": "2026-08-02T13:09:16.938Z",
+  "filtered_at": "2026-08-02T17:34:43.889Z"
+}

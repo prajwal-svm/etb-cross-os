@@ -1,0 +1,33 @@
+{
+  "id": "overleaf/ol-5-year-plan-template-vvpndktfxmvw",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "misc",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/5-year-plan-template/vvpndktfxmvw",
+  "original_author": "Catherine Arnett",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/overleaf__ol-5-year-plan-template-vvpndktfxmvw/main.tex",
+  "relative_path": "processed/latex/cross-engine/overleaf__ol-5-year-plan-template-vvpndktfxmvw/main.tex",
+  "sha256": "a33b009f1951b13df7818c9ae63cf6f8a5fd1c1bb28ee0ecb809102b879a5c02",
+  "size_bytes": 779,
+  "document_class": "article",
+  "uses_packages": [
+    "enumerate",
+    "enumitem",
+    "geometry",
+    "inputenc",
+    "multicol",
+    "tabularx"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 259,
+  "downloaded_at": "2026-08-02T14:34:07.829Z",
+  "filtered_at": "2026-08-02T17:34:40.885Z"
+}

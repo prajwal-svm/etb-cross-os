@@ -1,0 +1,26 @@
+{
+  "id": "typst-universe/typst-may-0-1-2",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "business",
+  "license": "MIT",
+  "source_url": "https://github.com/Carlos-Mero/may",
+  "original_author": "Carlos-Mero",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/typst-universe__typst-may-0-1-2/main.typ",
+  "relative_path": "processed/typst/typst-universe__typst-may-0-1-2/main.typ",
+  "sha256": "7bec6bfb2cb64e1207f5aeb1c0b7d6d17699da6a304e953275601bd6ef284da0",
+  "size_bytes": 1495,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 361,
+  "downloaded_at": "2026-08-02T13:10:13.699Z",
+  "filtered_at": "2026-08-02T17:34:43.970Z"
+}

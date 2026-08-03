@@ -1,0 +1,29 @@
+{
+  "id": "ctan/ctan-glossaries-sample-chap-hyperfirst",
+  "source": "ctan",
+  "format": "latex",
+  "category": "package-example",
+  "license": "LPPL-1.3c",
+  "source_url": "https://ctan.org/pkg/glossaries",
+  "original_author": "CTAN package: glossaries",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/ctan__ctan-glossaries-sample-chap-hyperfirst/sample-chap-hyperfirst.tex",
+  "relative_path": "processed/latex/cross-engine/ctan__ctan-glossaries-sample-chap-hyperfirst/sample-chap-hyperfirst.tex",
+  "sha256": "29102c40b6cb529b98696c1d96aca98754c6aec8e05f44a4aef0987760816f4d",
+  "size_bytes": 1508,
+  "document_class": "report",
+  "uses_packages": [
+    "glossaries",
+    "hyperref"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 644,
+  "downloaded_at": "2026-08-02T13:04:56.455Z",
+  "filtered_at": "2026-08-02T17:34:42.288Z"
+}

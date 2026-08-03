@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-b3sser-typst-tressym-character-sheet-1",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "creative",
+  "license": "MIT",
+  "source_url": "https://github.com/b3sser/typst-tressym",
+  "original_author": "b3sser",
+  "stars": 7,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-b3sser-typst-tressym-character-sheet-1/character-sheet.typ",
+  "relative_path": "raw/github-typst/gh-b3sser-typst-tressym-character-sheet-1/character-sheet.typ",
+  "main_doc": "character-sheet.typ",
+  "sha256": "b00e8869581e1659592d22925dbb47384902d42911f72f8428aa69b8bc3db75e",
+  "size_bytes": 24039,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "character-sheet.typ",
+  "downloaded_at": "2026-08-02T14:06:44.642Z"
+}

@@ -1,0 +1,11 @@
+{
+  "source": "GitHub",
+  "source_url": "https://github.com/mcanouil/quarto-invoice",
+  "original_author": "mcanouil",
+  "license": "MIT",
+  "license_url": "https://opensource.org/licenses/MIT",
+  "downloaded_at": "2026-08-02T14:03:56.014Z",
+  "stars": 48,
+  "full_name": "mcanouil/quarto-invoice",
+  "path": "_extensions/invoice/typst-template.typ"
+}

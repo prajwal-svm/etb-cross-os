@@ -1,0 +1,25 @@
+{
+  "id": "github-latex/gh-polychora-org-8up-zine-8up-zine",
+  "source": "github-latex",
+  "format": "latex",
+  "category": "misc",
+  "license": "MIT",
+  "source_url": "https://github.com/polychora-org/8up-zine",
+  "original_author": "polychora-org",
+  "stars": 65,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-latex/gh-polychora-org-8up-zine-8up-zine/8up-zine.tex",
+  "relative_path": "raw/github-latex/gh-polychora-org-8up-zine-8up-zine/8up-zine.tex",
+  "main_doc": "8up-zine.tex",
+  "sha256": "5880296f728f1a75180af428caa8064d3b5a2b43cf25961e6007b53f04c11bf4",
+  "size_bytes": 1166,
+  "document_class": "memoir",
+  "uses_packages": [
+    "eso-pic",
+    "geometry",
+    "kantlipsum",
+    "libertine",
+    "transparent"
+  ],
+  "repo_path": "8up-zine.tex",
+  "downloaded_at": "2026-08-02T13:13:38.146Z"
+}

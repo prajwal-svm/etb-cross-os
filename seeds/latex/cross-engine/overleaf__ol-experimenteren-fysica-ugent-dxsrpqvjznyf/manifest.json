@@ -1,0 +1,31 @@
+{
+  "id": "overleaf/ol-experimenteren-fysica-ugent-dxsrpqvjznyf",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "misc",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/experimenteren-fysica-ugent/dxsrpqvjznyf",
+  "original_author": "Bjorge Meulemeester",
+  "title": "Experimenteren Fysica UGent",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/overleaf/ol-experimenteren-fysica-ugent-dxsrpqvjznyf/main.tex",
+  "relative_path": "raw/overleaf/ol-experimenteren-fysica-ugent-dxsrpqvjznyf/main.tex",
+  "main_doc": "main.tex",
+  "sha256": "1b4ff936d19c01b73c1cec6f8d0a9d304dc37d5b271c7f2bd3af34ef957e0b25",
+  "size_bytes": 2940,
+  "document_class": "article",
+  "uses_packages": [
+    "amsfonts",
+    "amsmath",
+    "amssymb",
+    "babel",
+    "flafter",
+    "float",
+    "graphicx",
+    "hyperref",
+    "inputenc",
+    "textcomp"
+  ],
+  "download_method": "view-source-modal",
+  "github_url": null,
+  "downloaded_at": "2026-08-02T14:58:50.456Z"
+}

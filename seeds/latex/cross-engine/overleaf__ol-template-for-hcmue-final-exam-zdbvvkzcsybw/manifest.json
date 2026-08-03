@@ -1,0 +1,31 @@
+{
+  "id": "overleaf/ol-template-for-hcmue-final-exam-zdbvvkzcsybw",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "coursework",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/template-for-hcmue-final-exam/zdbvvkzcsybw",
+  "original_author": "N.L. Anh &amp; L.L. Hai",
+  "title": "Template for HCMUE final exam",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/overleaf/ol-template-for-hcmue-final-exam-zdbvvkzcsybw/main.tex",
+  "relative_path": "raw/overleaf/ol-template-for-hcmue-final-exam-zdbvvkzcsybw/main.tex",
+  "main_doc": "main.tex",
+  "sha256": "bca180bd90fcab3a3fdaea4990f6e17657c7ea24c274c523271976f27c779275",
+  "size_bytes": 4857,
+  "document_class": "article",
+  "uses_packages": [
+    "amsfonts",
+    "amsmath",
+    "amssymb",
+    "enumitem",
+    "graphicx",
+    "indentfirst",
+    "longtable",
+    "mathrsfs",
+    "multirow",
+    "vietnam"
+  ],
+  "download_method": "view-source-modal",
+  "github_url": null,
+  "downloaded_at": "2026-08-02T14:23:39.376Z"
+}

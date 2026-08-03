@@ -1,0 +1,23 @@
+{
+  "id": "typst-universe/typst-jabiz-0-1-3",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "business",
+  "license": "MIT-0",
+  "source_url": "https://github.com/kimushun1101/typst-jabiz",
+  "original_author": "Shunsuke Kimura",
+  "package_name": "jabiz",
+  "package_version": "0.1.3",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/typst-universe/typst-jabiz-0-1-3/main.typ",
+  "relative_path": "raw/typst-universe/typst-jabiz-0-1-3/main.typ",
+  "main_doc": "main.typ",
+  "sha256": "b9836fa8aca2bdb4e809cd9156be660b5e475c1137f4ab73b899da71e067f7e9",
+  "size_bytes": 1975,
+  "document_class": null,
+  "uses_packages": [],
+  "downloaded_at": "2026-08-02T13:09:35.267Z",
+  "categories": [
+    "office"
+  ],
+  "description": "Template for Japanese business documents. 日本語のビジネス文書テンプレート"
+}

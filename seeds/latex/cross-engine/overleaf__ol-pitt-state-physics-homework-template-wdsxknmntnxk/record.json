@@ -1,0 +1,36 @@
+{
+  "id": "overleaf/ol-pitt-state-physics-homework-template-wdsxknmntnxk",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "coursework",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/pitt-state-physics-homework-template/wdsxknmntnxk",
+  "original_author": "David W. Pearson",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/overleaf__ol-pitt-state-physics-homework-template-wdsxknmntnxk/main.tex",
+  "relative_path": "processed/latex/cross-engine/overleaf__ol-pitt-state-physics-homework-template-wdsxknmntnxk/main.tex",
+  "sha256": "ead5d27007b2f09d43ebbbf886e526a73a00054fa82753538abe6ea62616d911",
+  "size_bytes": 2785,
+  "document_class": "article",
+  "uses_packages": [
+    "amsfonts",
+    "amsmath",
+    "amssymb",
+    "enumitem",
+    "geometry",
+    "hyperref",
+    "newtxmath",
+    "newtxtext",
+    "titling"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 667,
+  "downloaded_at": "2026-08-02T14:50:18.880Z",
+  "filtered_at": "2026-08-02T17:34:41.632Z"
+}

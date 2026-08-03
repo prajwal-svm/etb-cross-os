@@ -1,0 +1,36 @@
+{
+  "id": "overleaf/ol-ats-compatible-arabic-cv-template-wszkstpvzhgg",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "cv",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/ats-compatible-arabic-cv-template/wszkstpvzhgg",
+  "original_author": "Samr Al-Hawsawi",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/engine-specific/overleaf__ol-ats-compatible-arabic-cv-template-wszkstpvzhgg/main.tex",
+  "relative_path": "processed/latex/engine-specific/overleaf__ol-ats-compatible-arabic-cv-template-wszkstpvzhgg/main.tex",
+  "sha256": "8f39e974ea08e73a49f071cc6dec0db94d814627cddf6957c113e5d9129277c6",
+  "size_bytes": 6056,
+  "document_class": "article",
+  "uses_packages": [
+    "bidi",
+    "enumitem",
+    "fontawesome",
+    "fontspec",
+    "geometry",
+    "graphicx",
+    "hyperref",
+    "multicol",
+    "setspace"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": false
+  },
+  "engine_class": "engine-specific",
+  "compile_time_ms": 684,
+  "downloaded_at": "2026-08-02T16:21:44.868Z",
+  "filtered_at": "2026-08-02T17:34:40.953Z"
+}

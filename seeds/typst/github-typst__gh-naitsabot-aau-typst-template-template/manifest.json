@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-naitsabot-aau-typst-template-template",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "report",
+  "license": "MIT",
+  "source_url": "https://github.com/Naitsabot/AAU-Typst-Template",
+  "original_author": "Naitsabot",
+  "stars": 0,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-naitsabot-aau-typst-template-template/template.typ",
+  "relative_path": "raw/github-typst/gh-naitsabot-aau-typst-template-template/template.typ",
+  "main_doc": "template.typ",
+  "sha256": "e86ee1ac827c09649f1bdd9e07340848c22a8d3d892f45f1aa7ed13fb1579012",
+  "size_bytes": 28469,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "aau-quick-report/template.typ",
+  "downloaded_at": "2026-08-02T14:15:35.111Z"
+}

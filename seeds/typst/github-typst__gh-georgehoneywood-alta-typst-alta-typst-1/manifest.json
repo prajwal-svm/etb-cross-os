@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-georgehoneywood-alta-typst-alta-typst-1",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "cv",
+  "license": "MIT",
+  "source_url": "https://github.com/GeorgeHoneywood/alta-typst",
+  "original_author": "GeorgeHoneywood",
+  "stars": 191,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-georgehoneywood-alta-typst-alta-typst-1/alta-typst.typ",
+  "relative_path": "raw/github-typst/gh-georgehoneywood-alta-typst-alta-typst-1/alta-typst.typ",
+  "main_doc": "alta-typst.typ",
+  "sha256": "5fd2ee28b772e57943dddaffb816ce2aff92e857fced231f47473bf3181fe245",
+  "size_bytes": 3643,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "alta-typst.typ",
+  "downloaded_at": "2026-08-02T14:03:14.952Z"
+}

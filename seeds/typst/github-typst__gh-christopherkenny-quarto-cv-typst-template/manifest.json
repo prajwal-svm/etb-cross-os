@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-christopherkenny-quarto-cv-typst-template",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "cv",
+  "license": "MIT",
+  "source_url": "https://github.com/christopherkenny/quarto-cv",
+  "original_author": "christopherkenny",
+  "stars": 6,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-christopherkenny-quarto-cv-typst-template/typst-template.typ",
+  "relative_path": "raw/github-typst/gh-christopherkenny-quarto-cv-typst-template/typst-template.typ",
+  "main_doc": "typst-template.typ",
+  "sha256": "4bf847ee5e96b4a96e6e2f126bcac469b5b1bea38b785dfd8ddcce5297c3cf41",
+  "size_bytes": 5111,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "_extensions/cv/typst-template.typ",
+  "downloaded_at": "2026-08-02T14:07:02.296Z"
+}

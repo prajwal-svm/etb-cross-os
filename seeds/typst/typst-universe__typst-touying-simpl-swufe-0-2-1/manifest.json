@@ -1,0 +1,23 @@
+{
+  "id": "typst-universe/typst-touying-simpl-swufe-0-2-1",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "beamer",
+  "license": "MIT",
+  "source_url": "https://github.com/leichaol/touying-simpl-swufe",
+  "original_author": "leichao",
+  "package_name": "touying-simpl-swufe",
+  "package_version": "0.2.1",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/typst-universe/typst-touying-simpl-swufe-0-2-1/main.typ",
+  "relative_path": "raw/typst-universe/typst-touying-simpl-swufe-0-2-1/main.typ",
+  "main_doc": "main.typ",
+  "sha256": "50584744682f6dfc356ff2e1024cda22070b7c0b8b2a1d246ba3200e57c2aae2",
+  "size_bytes": 1651,
+  "document_class": null,
+  "uses_packages": [],
+  "downloaded_at": "2026-08-02T13:14:25.402Z",
+  "categories": [
+    "presentation"
+  ],
+  "description": "Touying slide theme for SWUFE (Southwestern University of Finance and Economics)"
+}

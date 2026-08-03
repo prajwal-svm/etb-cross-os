@@ -1,0 +1,26 @@
+{
+  "id": "typst-universe/typst-noteworks-0-2-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "book",
+  "license": "MIT",
+  "source_url": "https://github.com/sihooleebd/noteworks",
+  "original_author": "Sihoo Lee",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/typst-universe__typst-noteworks-0-2-0/main.typ",
+  "relative_path": "processed/typst/typst-universe__typst-noteworks-0-2-0/main.typ",
+  "sha256": "07ca594423c75b93ed4c06a1b365b2c182808e091d3fee16c8de5045ffd8ab8c",
+  "size_bytes": 41147,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 4869,
+  "downloaded_at": "2026-08-02T13:11:41.987Z",
+  "filtered_at": "2026-08-02T17:34:44.072Z"
+}

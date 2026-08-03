@@ -1,0 +1,24 @@
+{
+  "id": "typst-universe/typst-typsidian-0-0-3",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "report",
+  "license": "MIT",
+  "source_url": "https://github.com/k0src/Typsidian",
+  "original_author": "@k0src",
+  "package_name": "typsidian",
+  "package_version": "0.0.3",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/typst-universe/typst-typsidian-0-0-3/main.typ",
+  "relative_path": "raw/typst-universe/typst-typsidian-0-0-3/main.typ",
+  "main_doc": "main.typ",
+  "sha256": "df3aea596e1edea823040ed2dcffc25832f382964ca151fb1d2909c15d75bd03",
+  "size_bytes": 272,
+  "document_class": null,
+  "uses_packages": [],
+  "downloaded_at": "2026-08-02T13:14:49.230Z",
+  "categories": [
+    "report",
+    "components"
+  ],
+  "description": "A modern note-taking, outlining, and knowledge management template."
+}

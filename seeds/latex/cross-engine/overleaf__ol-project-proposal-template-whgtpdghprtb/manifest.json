@@ -1,0 +1,23 @@
+{
+  "id": "overleaf/ol-project-proposal-template-whgtpdghprtb",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "misc",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/project-proposal-template/whgtpdghprtb",
+  "original_author": "Vishnu",
+  "title": "Project Proposal Template",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/overleaf/ol-project-proposal-template-whgtpdghprtb/main.tex",
+  "relative_path": "raw/overleaf/ol-project-proposal-template-whgtpdghprtb/main.tex",
+  "main_doc": "main.tex",
+  "sha256": "c1e31e2332d859920e35572b225c01fdc813dd04aeaa5a433b7a58ea8f266858",
+  "size_bytes": 746,
+  "document_class": "extarticle",
+  "uses_packages": [
+    "cite",
+    "inputenc"
+  ],
+  "download_method": "view-source-modal",
+  "github_url": null,
+  "downloaded_at": "2026-08-02T16:51:31.298Z"
+}

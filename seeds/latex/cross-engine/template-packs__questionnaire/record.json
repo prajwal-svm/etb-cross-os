@@ -1,0 +1,33 @@
+{
+  "id": "template-packs/questionnaire",
+  "source": "template-packs",
+  "format": "latex",
+  "category": "business",
+  "license": "CC0-1.0",
+  "source_url": "https://github.com/Oleafly/template-packs",
+  "original_author": "Oleafly",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/template-packs__questionnaire/main.tex",
+  "relative_path": "processed/latex/cross-engine/template-packs__questionnaire/main.tex",
+  "sha256": "acdaf25290540a244b6ad25e67e8207b875ac62d9519097c2d71d0249679839c",
+  "size_bytes": 3609,
+  "document_class": "article",
+  "uses_packages": [
+    "amssymb",
+    "booktabs",
+    "geometry",
+    "sourcesanspro",
+    "tabularx",
+    "xcolor"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 658,
+  "downloaded_at": "2026-08-02T13:05:15.793Z",
+  "filtered_at": "2026-08-02T17:34:40.836Z"
+}

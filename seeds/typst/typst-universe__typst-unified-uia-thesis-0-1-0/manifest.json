@@ -1,0 +1,23 @@
+{
+  "id": "typst-universe/typst-unified-uia-thesis-0-1-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "thesis",
+  "license": "MIT",
+  "source_url": "https://github.com/sebastos1/unified-uia-thesis",
+  "original_author": "Sebastian Knudsen",
+  "package_name": "unified-uia-thesis",
+  "package_version": "0.1.0",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/typst-universe/typst-unified-uia-thesis-0-1-0/main.typ",
+  "relative_path": "raw/typst-universe/typst-unified-uia-thesis-0-1-0/main.typ",
+  "main_doc": "main.typ",
+  "sha256": "3b52dfeeefbd49451bcdc409aaca42807deda05dac7ae58f662f008920711bd4",
+  "size_bytes": 3122,
+  "document_class": null,
+  "uses_packages": [],
+  "downloaded_at": "2026-08-02T13:15:02.045Z",
+  "categories": [
+    "thesis"
+  ],
+  "description": "Port of the UiA bachelor/master thesis template to Typst."
+}

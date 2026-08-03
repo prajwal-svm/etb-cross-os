@@ -1,0 +1,26 @@
+{
+  "id": "typst-universe/typst-silky-letter-insa-0-2-3",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "business",
+  "license": "MIT",
+  "source_url": "https://github.com/SkytAsul/INSA-Typst-Template",
+  "original_author": "SkytAsul",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/typst-universe__typst-silky-letter-insa-0-2-3/main.typ",
+  "relative_path": "processed/typst/typst-universe__typst-silky-letter-insa-0-2-3/main.typ",
+  "sha256": "2dd8afb92e0f2b0706c6ff5f78626874628cf980e290a98d09778262aad18623",
+  "size_bytes": 1044,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 232,
+  "downloaded_at": "2026-08-02T13:12:49.729Z",
+  "filtered_at": "2026-08-02T17:34:44.172Z"
+}

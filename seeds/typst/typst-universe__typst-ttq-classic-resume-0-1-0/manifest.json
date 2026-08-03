@@ -1,0 +1,23 @@
+{
+  "id": "typst-universe/typst-ttq-classic-resume-0-1-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "cv",
+  "license": "MIT",
+  "source_url": "https://github.com/nibsbin/ttq-classic-resume",
+  "original_author": "Nibs",
+  "package_name": "ttq-classic-resume",
+  "package_version": "0.1.0",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/typst-universe/typst-ttq-classic-resume-0-1-0/resume.typ",
+  "relative_path": "raw/typst-universe/typst-ttq-classic-resume-0-1-0/resume.typ",
+  "main_doc": "resume.typ",
+  "sha256": "912d2fa38ebf590eb801b642ebe5b6533daf104af108d8f1b06466d2cb001888",
+  "size_bytes": 8444,
+  "document_class": null,
+  "uses_packages": [],
+  "downloaded_at": "2026-08-02T13:14:32.815Z",
+  "categories": [
+    "cv"
+  ],
+  "description": "A clean and modern resume."
+}

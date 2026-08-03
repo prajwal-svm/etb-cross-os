@@ -1,0 +1,26 @@
+{
+  "id": "typst-universe/typst-unofficial-jascome-34j-1-0-4",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "venue",
+  "license": "MIT-0",
+  "source_url": "https://github.com/34j/typst-unofficial-jascome-34j",
+  "original_author": "34j",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/typst-universe__typst-unofficial-jascome-34j-1-0-4/main.typ",
+  "relative_path": "processed/typst/typst-universe__typst-unofficial-jascome-34j-1-0-4/main.typ",
+  "sha256": "bf0ad2ff0ebe78e902fbb4f2c65de7f9860062ff733f7cd520509cfb2dc167d2",
+  "size_bytes": 10039,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 802,
+  "downloaded_at": "2026-08-02T13:15:17.771Z",
+  "filtered_at": "2026-08-02T17:34:44.369Z"
+}

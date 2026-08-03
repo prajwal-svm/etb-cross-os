@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-fabian-heinrich-typst-homework-homework-template-1",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "coursework",
+  "license": "MIT",
+  "source_url": "https://github.com/Fabian-Heinrich/typst_homework",
+  "original_author": "Fabian-Heinrich",
+  "stars": 0,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-fabian-heinrich-typst-homework-homework-template-1/homework_template.typ",
+  "relative_path": "raw/github-typst/gh-fabian-heinrich-typst-homework-homework-template-1/homework_template.typ",
+  "main_doc": "homework_template.typ",
+  "sha256": "aeb8948ef1a52834a300748ede12a9aa445d6987d1898758978c800d22eba5c4",
+  "size_bytes": 1906,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "homework_template.typ",
+  "downloaded_at": "2026-08-02T14:14:50.557Z"
+}

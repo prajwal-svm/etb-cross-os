@@ -1,0 +1,25 @@
+{
+  "id": "github-latex/gh-anujkapoor-arch-resume-builder-kit-03-cover-letter-template-1",
+  "source": "github-latex",
+  "format": "latex",
+  "category": "cv",
+  "license": "MIT",
+  "source_url": "https://github.com/anujkapoor-arch/resume-builder-kit",
+  "original_author": "anujkapoor-arch",
+  "stars": 0,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-latex/gh-anujkapoor-arch-resume-builder-kit-03-cover-letter-template-1/03_COVER_LETTER_TEMPLATE.tex",
+  "relative_path": "raw/github-latex/gh-anujkapoor-arch-resume-builder-kit-03-cover-letter-template-1/03_COVER_LETTER_TEMPLATE.tex",
+  "main_doc": "03_COVER_LETTER_TEMPLATE.tex",
+  "sha256": "94b966cfd1cc6003dd2440a337f96986d3c384c05f688c1d04935c6d0e19f8ae",
+  "size_bytes": 5181,
+  "document_class": "article",
+  "uses_packages": [
+    "fontenc",
+    "geometry",
+    "hyperref",
+    "parskip",
+    "xcolor"
+  ],
+  "repo_path": "03_COVER_LETTER_TEMPLATE.tex",
+  "downloaded_at": "2026-08-02T14:00:48.153Z"
+}

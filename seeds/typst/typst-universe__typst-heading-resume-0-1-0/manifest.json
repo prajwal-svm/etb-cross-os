@@ -1,0 +1,23 @@
+{
+  "id": "typst-universe/typst-heading-resume-0-1-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "cv",
+  "license": "MIT-0",
+  "source_url": "https://typst.app/universe/package/heading-resume",
+  "original_author": "Ezra Cerpac",
+  "package_name": "heading-resume",
+  "package_version": "0.1.0",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/typst-universe/typst-heading-resume-0-1-0/main.typ",
+  "relative_path": "raw/typst-universe/typst-heading-resume-0-1-0/main.typ",
+  "main_doc": "main.typ",
+  "sha256": "b1a8103ffaaede13bb69dcac9604c211bfcb9cca9aa876367967d6edfefe6a1d",
+  "size_bytes": 4709,
+  "document_class": null,
+  "uses_packages": [],
+  "downloaded_at": "2026-08-02T13:08:59.003Z",
+  "categories": [
+    "cv"
+  ],
+  "description": "Editorial resume with a crisp two-column layout."
+}

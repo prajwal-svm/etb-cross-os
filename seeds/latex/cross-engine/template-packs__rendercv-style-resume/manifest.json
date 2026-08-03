@@ -1,0 +1,23 @@
+{
+  "id": "template-packs/rendercv-style-resume",
+  "source": "template-packs",
+  "format": "latex",
+  "category": "cv",
+  "category_raw": "CVs & Resumes",
+  "license": "CC0-1.0",
+  "source_url": "https://github.com/Oleafly/template-packs",
+  "original_author": "Oleafly",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/template-packs/rendercv-style-resume/main.tex",
+  "relative_path": "raw/template-packs/rendercv-style-resume/main.tex",
+  "main_doc": "main.tex",
+  "sha256": "3e9c5413363c4aeb8d6100658a14d9b9236a959d1c612033cafd07ddbe40de9e",
+  "size_bytes": 1053,
+  "document_class": "article",
+  "uses_packages": [
+    "enumitem",
+    "geometry",
+    "hyperref"
+  ],
+  "engine_hint": "xetex",
+  "downloaded_at": "2026-08-02T13:05:15.860Z"
+}

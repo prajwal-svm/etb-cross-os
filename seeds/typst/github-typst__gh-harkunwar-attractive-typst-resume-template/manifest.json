@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-harkunwar-attractive-typst-resume-template",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "cv",
+  "license": "MIT",
+  "source_url": "https://github.com/Harkunwar/attractive-typst-resume",
+  "original_author": "Harkunwar",
+  "stars": 111,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-harkunwar-attractive-typst-resume-template/template.typ",
+  "relative_path": "raw/github-typst/gh-harkunwar-attractive-typst-resume-template/template.typ",
+  "main_doc": "template.typ",
+  "sha256": "356327bd8012f95584144523dc31036fdada83407a428b953ddc48aefcca2edd",
+  "size_bytes": 3058,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "template.typ",
+  "downloaded_at": "2026-08-02T14:03:28.980Z"
+}

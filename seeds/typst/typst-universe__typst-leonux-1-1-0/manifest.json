@@ -1,0 +1,23 @@
+{
+  "id": "typst-universe/typst-leonux-1-1-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "beamer",
+  "license": "MIT",
+  "source_url": "https://github.com/LordBlacky/leonux",
+  "original_author": "LordBlacky",
+  "package_name": "leonux",
+  "package_version": "1.1.0",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/typst-universe/typst-leonux-1-1-0/main.typ",
+  "relative_path": "raw/typst-universe/typst-leonux-1-1-0/main.typ",
+  "main_doc": "main.typ",
+  "sha256": "18a958afb2788bce54b0b417ede5e1e243004fe6e17d2b7a2480ced4076f59e6",
+  "size_bytes": 1257,
+  "document_class": null,
+  "uses_packages": [],
+  "downloaded_at": "2026-08-02T13:09:57.429Z",
+  "categories": [
+    "presentation"
+  ],
+  "description": "Minimalistic Typst slides (similar to LaTeX beamer)"
+}

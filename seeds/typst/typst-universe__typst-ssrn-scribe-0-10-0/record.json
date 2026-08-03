@@ -1,0 +1,26 @@
+{
+  "id": "typst-universe/typst-ssrn-scribe-0-10-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "venue",
+  "license": "MIT",
+  "source_url": "https://typst.app/universe/package/ssrn-scribe",
+  "original_author": "Academic Template Collective",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/typst-universe__typst-ssrn-scribe-0-10-0/main.typ",
+  "relative_path": "processed/typst/typst-universe__typst-ssrn-scribe-0-10-0/main.typ",
+  "sha256": "cf9c903ed418af6438acdc887948a4503f38102219a449c98dbe54d7996c4481",
+  "size_bytes": 810,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 211,
+  "downloaded_at": "2026-08-02T13:13:13.192Z",
+  "filtered_at": "2026-08-02T17:34:44.208Z"
+}

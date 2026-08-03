@@ -1,0 +1,30 @@
+{
+  "id": "github-latex/gh-loukasiatrou-ats-cv-tailor-sample-cv-tailored",
+  "source": "github-latex",
+  "format": "latex",
+  "category": "cv",
+  "license": "MIT",
+  "source_url": "https://github.com/LoukasIatrou/ats-cv-tailor",
+  "original_author": "LoukasIatrou",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/github-latex__gh-loukasiatrou-ats-cv-tailor-sample-cv-tailored/sample-cv-tailored.tex",
+  "relative_path": "processed/latex/cross-engine/github-latex__gh-loukasiatrou-ats-cv-tailor-sample-cv-tailored/sample-cv-tailored.tex",
+  "sha256": "20a3ea08dc333b0f376e4fa341f88d2aeab9e3cbe4d155c45bbf9d69be028cdb",
+  "size_bytes": 1659,
+  "document_class": "article",
+  "uses_packages": [
+    "enumitem",
+    "geometry",
+    "hyperref"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 303,
+  "downloaded_at": "2026-08-02T13:39:15.192Z",
+  "filtered_at": "2026-08-02T17:34:43.089Z"
+}

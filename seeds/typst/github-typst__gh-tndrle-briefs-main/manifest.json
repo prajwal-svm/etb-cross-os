@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-tndrle-briefs-main",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "letter",
+  "license": "MIT",
+  "source_url": "https://github.com/tndrle/briefs",
+  "original_author": "tndrle",
+  "stars": 17,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-tndrle-briefs-main/main.typ",
+  "relative_path": "raw/github-typst/gh-tndrle-briefs-main/main.typ",
+  "main_doc": "main.typ",
+  "sha256": "d890466149c357ea753a31e6cad314e99f20cfab0ac755f327e72d35cea704fd",
+  "size_bytes": 740,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "template/main.typ",
+  "downloaded_at": "2026-08-02T14:05:17.886Z"
+}

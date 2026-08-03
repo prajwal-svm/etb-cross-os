@@ -1,0 +1,35 @@
+{
+  "id": "template-packs/scientific-report",
+  "source": "template-packs",
+  "format": "latex",
+  "category": "report",
+  "license": "CC0-1.0",
+  "source_url": "https://github.com/Oleafly/template-packs",
+  "original_author": "Oleafly",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/template-packs__scientific-report/main.tex",
+  "relative_path": "processed/latex/cross-engine/template-packs__scientific-report/main.tex",
+  "sha256": "b6cddf06b3b7ef7fba7badcf0841b27b25c0bfe1b188e6a50564e268e3670034",
+  "size_bytes": 3759,
+  "document_class": "article",
+  "uses_packages": [
+    "enumitem",
+    "geometry",
+    "hyperref",
+    "pgfplots",
+    "siunitx",
+    "tcolorbox",
+    "titlesec",
+    "xcolor"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 1048,
+  "downloaded_at": "2026-08-02T13:05:15.855Z",
+  "filtered_at": "2026-08-02T17:34:40.846Z"
+}

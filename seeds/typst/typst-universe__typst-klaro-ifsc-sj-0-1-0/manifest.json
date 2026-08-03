@@ -1,0 +1,23 @@
+{
+  "id": "typst-universe/typst-klaro-ifsc-sj-0-1-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "report",
+  "license": "MIT-0",
+  "source_url": "https://github.com/gabrielluizep/klaro-ifsc-sj",
+  "original_author": "Gabriel Luiz Espindola Pedro",
+  "package_name": "klaro-ifsc-sj",
+  "package_version": "0.1.0",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/typst-universe/typst-klaro-ifsc-sj-0-1-0/main.typ",
+  "relative_path": "raw/typst-universe/typst-klaro-ifsc-sj-0-1-0/main.typ",
+  "main_doc": "main.typ",
+  "sha256": "6203d84bba8d67d5dce14ce771377b4c9b78e41d744ddb00b504efc109fb1fbb",
+  "size_bytes": 454,
+  "document_class": null,
+  "uses_packages": [],
+  "downloaded_at": "2026-08-02T13:09:46.597Z",
+  "categories": [
+    "report"
+  ],
+  "description": "Report Typst template for IFSC."
+}

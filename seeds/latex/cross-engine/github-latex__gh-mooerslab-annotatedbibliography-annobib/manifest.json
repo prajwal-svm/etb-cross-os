@@ -1,0 +1,24 @@
+{
+  "id": "github-latex/gh-mooerslab-annotatedbibliography-annobib",
+  "source": "github-latex",
+  "format": "latex",
+  "category": "misc",
+  "license": "MIT",
+  "source_url": "https://github.com/MooersLab/annotatedBibliography",
+  "original_author": "MooersLab",
+  "stars": 4,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-latex/gh-mooerslab-annotatedbibliography-annobib/AnnoBib.tex",
+  "relative_path": "raw/github-latex/gh-mooerslab-annotatedbibliography-annobib/AnnoBib.tex",
+  "main_doc": "AnnoBib.tex",
+  "sha256": "2696515d5632ae801f2db199ff22394a409313198efb4edfdfad1a1e45b2319b",
+  "size_bytes": 1234,
+  "document_class": "article",
+  "uses_packages": [
+    "apacite",
+    "fancyhdr",
+    "geometry",
+    "lastpage"
+  ],
+  "repo_path": "AnnoBib.tex",
+  "downloaded_at": "2026-08-02T13:29:24.698Z"
+}

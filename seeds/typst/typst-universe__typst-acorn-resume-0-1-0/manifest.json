@@ -1,0 +1,23 @@
+{
+  "id": "typst-universe/typst-acorn-resume-0-1-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "cv",
+  "license": "MIT",
+  "source_url": "https://github.com/Ruchita1010/acorn-resume",
+  "original_author": "Ruchita Gosavi",
+  "package_name": "acorn-resume",
+  "package_version": "0.1.0",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/typst-universe/typst-acorn-resume-0-1-0/main.typ",
+  "relative_path": "raw/typst-universe/typst-acorn-resume-0-1-0/main.typ",
+  "main_doc": "main.typ",
+  "sha256": "fac655ad0af719fda6e2a9986e0d6b04d150731effbe612511769c22e089cf98",
+  "size_bytes": 4012,
+  "document_class": null,
+  "uses_packages": [],
+  "downloaded_at": "2026-08-02T13:05:35.686Z",
+  "categories": [
+    "cv"
+  ],
+  "description": "A clean, minimal resume template with flexible, customizable sections."
+}

@@ -1,0 +1,31 @@
+{
+  "id": "overleaf/ol-lined-paper-notebook-fgckcgkxpzwh",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "venue",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/lined-paper-notebook/fgckcgkxpzwh",
+  "original_author": "ess3sq",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/overleaf__ol-lined-paper-notebook-fgckcgkxpzwh/main.tex",
+  "relative_path": "processed/latex/cross-engine/overleaf__ol-lined-paper-notebook-fgckcgkxpzwh/main.tex",
+  "sha256": "3ab93ac6dceacf8793ce7806f9b4ab1c7838df3519db9fc7bd30af289d4bc48b",
+  "size_bytes": 680,
+  "document_class": "article",
+  "uses_packages": [
+    "background",
+    "geometry",
+    "lipsum",
+    "tikzpagenodes"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 1614,
+  "downloaded_at": "2026-08-02T15:21:09.134Z",
+  "filtered_at": "2026-08-02T17:34:41.332Z"
+}

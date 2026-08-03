@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-timpaasche-typst-template-thesis-style-1",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "thesis",
+  "license": "MIT",
+  "source_url": "https://github.com/TimPaasche/Typst.Template.Thesis",
+  "original_author": "TimPaasche",
+  "stars": 0,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-timpaasche-typst-template-thesis-style-1/style.typ",
+  "relative_path": "raw/github-typst/gh-timpaasche-typst-template-thesis-style-1/style.typ",
+  "main_doc": "style.typ",
+  "sha256": "13ec86b178607dac737303bc035fd25ca353ec166e14f973199a94db933127bf",
+  "size_bytes": 8540,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "template/style.typ",
+  "downloaded_at": "2026-08-02T14:15:51.018Z"
+}

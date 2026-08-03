@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-hugoledoux-almost-tud-letter-lib",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "letter",
+  "license": "MIT",
+  "source_url": "https://github.com/hugoledoux/almost-tud-letter",
+  "original_author": "hugoledoux",
+  "stars": 2,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-hugoledoux-almost-tud-letter-lib/lib.typ",
+  "relative_path": "raw/github-typst/gh-hugoledoux-almost-tud-letter-lib/lib.typ",
+  "main_doc": "lib.typ",
+  "sha256": "a95c80ab65db01b4694482eb268dd5ba04640fa027472c7e50193ca475aa5cb2",
+  "size_bytes": 2382,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "src/lib.typ",
+  "downloaded_at": "2026-08-02T14:10:20.653Z"
+}

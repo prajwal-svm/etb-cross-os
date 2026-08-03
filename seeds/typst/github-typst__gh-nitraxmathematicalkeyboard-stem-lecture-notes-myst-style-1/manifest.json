@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-nitraxmathematicalkeyboard-stem-lecture-notes-myst-style-1",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "coursework",
+  "license": "MIT",
+  "source_url": "https://github.com/NitraxMathematicalKeyboard/stem-lecture-notes-myst",
+  "original_author": "NitraxMathematicalKeyboard",
+  "stars": 0,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-nitraxmathematicalkeyboard-stem-lecture-notes-myst-style-1/style.typ",
+  "relative_path": "raw/github-typst/gh-nitraxmathematicalkeyboard-stem-lecture-notes-myst-style-1/style.typ",
+  "main_doc": "style.typ",
+  "sha256": "827f3cb54c77bf0692cf8d54c2da353bb85df6b96a86bec23a2d98685a8cb4f9",
+  "size_bytes": 5111,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "style.typ",
+  "downloaded_at": "2026-08-02T14:19:25.145Z"
+}

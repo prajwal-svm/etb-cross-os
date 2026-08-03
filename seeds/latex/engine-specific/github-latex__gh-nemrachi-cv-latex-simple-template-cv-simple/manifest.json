@@ -1,0 +1,30 @@
+{
+  "id": "github-latex/gh-nemrachi-cv-latex-simple-template-cv-simple",
+  "source": "github-latex",
+  "format": "latex",
+  "category": "cv",
+  "license": "CC0-1.0",
+  "source_url": "https://github.com/nemrachi/CV-latex-simple-template",
+  "original_author": "nemrachi",
+  "stars": 0,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-latex/gh-nemrachi-cv-latex-simple-template-cv-simple/CV_simple.tex",
+  "relative_path": "raw/github-latex/gh-nemrachi-cv-latex-simple-template-cv-simple/CV_simple.tex",
+  "main_doc": "CV_simple.tex",
+  "sha256": "d1adf0b729682fd932787d3b24cba54de13b7d8d278cdcb3c985a5cf815648d2",
+  "size_bytes": 2485,
+  "document_class": "article",
+  "uses_packages": [
+    "avant",
+    "babel",
+    "fancyhdr",
+    "fontawesome",
+    "fontenc",
+    "geometry",
+    "inputenc",
+    "multicol",
+    "tabto",
+    "titlesec"
+  ],
+  "repo_path": "CV_simple.tex",
+  "downloaded_at": "2026-08-02T13:47:42.393Z"
+}

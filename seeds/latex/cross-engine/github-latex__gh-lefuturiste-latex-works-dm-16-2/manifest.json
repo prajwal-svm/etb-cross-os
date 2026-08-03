@@ -1,0 +1,32 @@
+{
+  "id": "github-latex/gh-lefuturiste-latex-works-dm-16-2",
+  "source": "github-latex",
+  "format": "latex",
+  "category": "coursework",
+  "license": "MIT",
+  "source_url": "https://github.com/lefuturiste/latex-works",
+  "original_author": "lefuturiste",
+  "stars": 1,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-latex/gh-lefuturiste-latex-works-dm-16-2/DM_16.tex",
+  "relative_path": "raw/github-latex/gh-lefuturiste-latex-works-dm-16-2/DM_16.tex",
+  "main_doc": "DM_16.tex",
+  "sha256": "887f551135d65a3bd13084fc783628f86f4a4c1f9a3dcfc4d1c8dfd1a17f0889",
+  "size_bytes": 12365,
+  "document_class": "article",
+  "uses_packages": [
+    "amsfonts",
+    "amsmath",
+    "babel",
+    "fancyhdr",
+    "geometry",
+    "hyperref",
+    "indentfirst",
+    "inputenc",
+    "mathrsfs",
+    "mathtools",
+    "tikz",
+    "tikz-3dplot"
+  ],
+  "repo_path": "DM_16.tex",
+  "downloaded_at": "2026-08-02T13:38:33.453Z"
+}

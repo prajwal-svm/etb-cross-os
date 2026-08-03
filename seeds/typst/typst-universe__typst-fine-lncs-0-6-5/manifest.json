@@ -1,0 +1,23 @@
+{
+  "id": "typst-universe/typst-fine-lncs-0-6-5",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "venue",
+  "license": "MIT",
+  "source_url": "https://github.com/Jozott00/typst-fine-lncs",
+  "original_author": "jozott",
+  "package_name": "fine-lncs",
+  "package_version": "0.6.5",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/typst-universe/typst-fine-lncs-0-6-5/main.typ",
+  "relative_path": "raw/typst-universe/typst-fine-lncs-0-6-5/main.typ",
+  "main_doc": "main.typ",
+  "sha256": "5fac75ac1e3f113d7a3516b5fdd781cbc04125b2972ec55ab4ef0fa928eb1ed7",
+  "size_bytes": 4867,
+  "document_class": null,
+  "uses_packages": [],
+  "downloaded_at": "2026-08-02T13:08:25.500Z",
+  "categories": [
+    "paper"
+  ],
+  "description": "A Springer's Lecture Notes in Computer Science (LNCS) styled template."
+}

@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-tfachada-thesist-glossary-2",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "thesis",
+  "license": "MIT",
+  "source_url": "https://github.com/tfachada/thesist",
+  "original_author": "tfachada",
+  "stars": 4,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-tfachada-thesist-glossary-2/Glossary.typ",
+  "relative_path": "raw/github-typst/gh-tfachada-thesist-glossary-2/Glossary.typ",
+  "main_doc": "Glossary.typ",
+  "sha256": "97726f0cd78559862346a3c55694b0e4d7c05018b608072e8e70f00251e83d74",
+  "size_bytes": 1231,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "template/Beginning/Glossary.typ",
+  "downloaded_at": "2026-08-02T14:07:58.857Z"
+}

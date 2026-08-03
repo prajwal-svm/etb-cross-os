@@ -1,0 +1,33 @@
+{
+  "id": "overleaf/ol-math-333-weekly-homework-template-jspkqvzgmxdm",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "coursework",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/math-333-weekly-homework-template/jspkqvzgmxdm",
+  "original_author": "Jill Tysse",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/overleaf__ol-math-333-weekly-homework-template-jspkqvzgmxdm/main.tex",
+  "relative_path": "processed/latex/cross-engine/overleaf__ol-math-333-weekly-homework-template-jspkqvzgmxdm/main.tex",
+  "sha256": "e9c2f2dbabc5ae7f689149d9370f65bc8a39d16430c336746f7c0a543e81ff1c",
+  "size_bytes": 778,
+  "document_class": "article",
+  "uses_packages": [
+    "amsfonts",
+    "amsmath",
+    "amssymb",
+    "amsthm",
+    "inputenc",
+    "latexsym"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 270,
+  "downloaded_at": "2026-08-02T14:34:02.235Z",
+  "filtered_at": "2026-08-02T17:34:41.370Z"
+}

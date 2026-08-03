@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-jozott00-typst-fine-lncs-theorem-proof-cnf-2",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "misc",
+  "license": "MIT",
+  "source_url": "https://github.com/Jozott00/typst-fine-lncs",
+  "original_author": "Jozott00",
+  "stars": 17,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-jozott00-typst-fine-lncs-theorem-proof-cnf-2/theorem_proof_cnf.typ",
+  "relative_path": "raw/github-typst/gh-jozott00-typst-fine-lncs-theorem-proof-cnf-2/theorem_proof_cnf.typ",
+  "main_doc": "theorem_proof_cnf.typ",
+  "sha256": "c8838376b38eb86676d64369107ead598c873619c26fdbc6890d7bbea34eec98",
+  "size_bytes": 2490,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "src/theorem_proof_cnf.typ",
+  "downloaded_at": "2026-08-02T14:05:10.989Z"
+}

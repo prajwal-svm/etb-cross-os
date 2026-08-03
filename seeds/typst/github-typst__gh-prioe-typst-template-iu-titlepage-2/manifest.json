@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-prioe-typst-template-iu-titlepage-2",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "venue",
+  "license": "MIT",
+  "source_url": "https://github.com/Prioe/typst-template-iu",
+  "original_author": "Prioe",
+  "stars": 0,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-prioe-typst-template-iu-titlepage-2/titlepage.typ",
+  "relative_path": "raw/github-typst/gh-prioe-typst-template-iu-titlepage-2/titlepage.typ",
+  "main_doc": "titlepage.typ",
+  "sha256": "fa9d027140bba182f25ec9760a417e558373380b5f9e8c7b34a06aed354e8a01",
+  "size_bytes": 724,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "titlepage.typ",
+  "downloaded_at": "2026-08-02T14:15:50.293Z"
+}

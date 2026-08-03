@@ -1,0 +1,23 @@
+{
+  "id": "typst-universe/typst-resumania-1-0-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "cv",
+  "license": "MIT",
+  "source_url": "https://github.com/kcmw3e/resumania",
+  "original_author": "Casey Walker",
+  "package_name": "resumania",
+  "package_version": "1.0.0",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/typst-universe/typst-resumania-1-0-0/main.typ",
+  "relative_path": "raw/typst-universe/typst-resumania-1-0-0/main.typ",
+  "main_doc": "main.typ",
+  "sha256": "211bc8dcb6c6c6f649b4695e20185ccc5573c0c6c9b523e2156d18009e1ccab4",
+  "size_bytes": 3124,
+  "document_class": null,
+  "uses_packages": [],
+  "downloaded_at": "2026-08-02T13:12:30.530Z",
+  "categories": [
+    "cv"
+  ],
+  "description": "Procedural resume building."
+}

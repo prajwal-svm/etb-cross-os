@@ -1,0 +1,26 @@
+{
+  "id": "github-typst/gh-akshat157-resume-template-resume",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "cv",
+  "license": "MIT",
+  "source_url": "https://github.com/akshat157/resume-template",
+  "original_author": "akshat157",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/github-typst__gh-akshat157-resume-template-resume/resume.typ",
+  "relative_path": "processed/typst/github-typst__gh-akshat157-resume-template-resume/resume.typ",
+  "sha256": "8e74647cc0c5e94563d74487a7ef9ec5700332183f5fb727f97ef28e15f40087",
+  "size_bytes": 3909,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 245,
+  "downloaded_at": "2026-08-02T14:12:15.559Z",
+  "filtered_at": "2026-08-02T17:34:44.474Z"
+}

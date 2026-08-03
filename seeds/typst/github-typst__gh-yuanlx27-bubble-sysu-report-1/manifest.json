@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-yuanlx27-bubble-sysu-report-1",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "report",
+  "license": "MIT",
+  "source_url": "https://github.com/yuanlx27/bubble-sysu",
+  "original_author": "yuanlx27",
+  "stars": 1,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-yuanlx27-bubble-sysu-report-1/report.typ",
+  "relative_path": "raw/github-typst/gh-yuanlx27-bubble-sysu-report-1/report.typ",
+  "main_doc": "report.typ",
+  "sha256": "ba29d0acb3ddc6c9b7cf728ad2335c551403f6930aaeb3bfec2acf192bc822a6",
+  "size_bytes": 1946,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "src/report.typ",
+  "downloaded_at": "2026-08-02T14:12:36.657Z"
+}

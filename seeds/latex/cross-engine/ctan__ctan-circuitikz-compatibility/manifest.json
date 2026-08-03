@@ -1,0 +1,22 @@
+{
+  "id": "ctan/ctan-circuitikz-compatibility",
+  "source": "ctan",
+  "format": "latex",
+  "category": "package-example",
+  "license": "LPPL-1.3c",
+  "source_url": "https://ctan.org/pkg/circuitikz",
+  "original_author": "CTAN package: circuitikz",
+  "package": "circuitikz",
+  "original_path": "/usr/local/texlive/2025/texmf-dist/doc/latex/circuitikz/compatibility.tex",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/ctan/ctan-circuitikz-compatibility/compatibility.tex",
+  "relative_path": "raw/ctan/ctan-circuitikz-compatibility/compatibility.tex",
+  "main_doc": "compatibility.tex",
+  "sha256": "1e5bebdad7c4bcf72c08e4a18d990c7d5a6ce8b93d03e14567e708bd5d405f59",
+  "size_bytes": 418,
+  "document_class": "standalone",
+  "uses_packages": [
+    "circuitikz",
+    "tikz"
+  ],
+  "downloaded_at": "2026-08-02T13:04:55.376Z"
+}

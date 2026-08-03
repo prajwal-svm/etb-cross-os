@@ -1,0 +1,26 @@
+{
+  "id": "overleaf/ol-mnpef-projeto-de-qualificacao-ufsc-vxrzhrgvmvrr",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "misc",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/mnpef-projeto-de-qualificacao-ufsc/vxrzhrgvmvrr",
+  "original_author": "Daniel Girardi",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/engine-specific/overleaf__ol-mnpef-projeto-de-qualificacao-ufsc-vxrzhrgvmvrr/main.tex",
+  "relative_path": "processed/latex/engine-specific/overleaf__ol-mnpef-projeto-de-qualificacao-ufsc-vxrzhrgvmvrr/main.tex",
+  "sha256": "562090e7aa6e9c5b391d25d0a398ff0bf2f43c60dfc1f39b437cda98429fdd56",
+  "size_bytes": 1529,
+  "document_class": "abntex2",
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": false
+  },
+  "engine_class": "engine-specific",
+  "compile_time_ms": 1261,
+  "downloaded_at": "2026-08-02T13:58:28.428Z",
+  "filtered_at": "2026-08-02T17:34:41.425Z"
+}

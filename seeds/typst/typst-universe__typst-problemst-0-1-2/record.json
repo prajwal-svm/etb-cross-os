@@ -1,0 +1,26 @@
+{
+  "id": "typst-universe/typst-problemst-0-1-2",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "report",
+  "license": "MIT",
+  "source_url": "https://github.com/carreter/problemst",
+  "original_author": "Willow Carretero Chavez",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/typst-universe__typst-problemst-0-1-2/main.typ",
+  "relative_path": "processed/typst/typst-universe__typst-problemst-0-1-2/main.typ",
+  "sha256": "89f3a50ceea2315036ce21fe1b0c474c67bd3f7f794d9accaab0afb9f9b28508",
+  "size_bytes": 756,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 204,
+  "downloaded_at": "2026-08-02T13:12:16.590Z",
+  "filtered_at": "2026-08-02T17:34:44.131Z"
+}

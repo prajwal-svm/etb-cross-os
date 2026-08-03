@@ -1,0 +1,28 @@
+{
+  "id": "github-latex/gh-jassielof-typst-templates-letter-2",
+  "source": "github-latex",
+  "format": "latex",
+  "category": "letter",
+  "license": "Apache-2.0",
+  "source_url": "https://github.com/jassielof/typst-templates",
+  "original_author": "jassielof",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/github-latex__gh-jassielof-typst-templates-letter-2/letter.tex",
+  "relative_path": "processed/latex/cross-engine/github-latex__gh-jassielof-typst-templates-letter-2/letter.tex",
+  "sha256": "e396583267bbae90dbe7862c91d440b2d51cf9ee9a4a988c0241948a4f7142d4",
+  "size_bytes": 1210,
+  "document_class": "letter",
+  "uses_packages": [
+    "hyperref"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 305,
+  "downloaded_at": "2026-08-02T13:14:27.006Z",
+  "filtered_at": "2026-08-02T17:34:42.935Z"
+}

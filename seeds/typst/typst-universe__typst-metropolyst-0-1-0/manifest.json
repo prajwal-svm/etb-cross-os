@@ -1,0 +1,24 @@
+{
+  "id": "typst-universe/typst-metropolyst-0-1-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "beamer",
+  "license": "MIT",
+  "source_url": "https://github.com/benzipperer/metropolyst",
+  "original_author": "Ben Zipperer",
+  "package_name": "metropolyst",
+  "package_version": "0.1.0",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/typst-universe/typst-metropolyst-0-1-0/main.typ",
+  "relative_path": "raw/typst-universe/typst-metropolyst-0-1-0/main.typ",
+  "main_doc": "main.typ",
+  "sha256": "f37d7f9d5e70ca5b4d1d27f5ed0bf3fbfaaaf8f5c27c4e320b8979554673a158",
+  "size_bytes": 2366,
+  "document_class": null,
+  "uses_packages": [],
+  "downloaded_at": "2026-08-02T13:10:16.821Z",
+  "categories": [
+    "presentation",
+    "layout"
+  ],
+  "description": "Configurable Metropolis presentation theme for Touying."
+}

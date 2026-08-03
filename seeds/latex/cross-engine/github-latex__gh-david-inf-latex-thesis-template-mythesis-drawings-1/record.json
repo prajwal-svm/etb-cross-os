@@ -1,0 +1,39 @@
+{
+  "id": "github-latex/gh-david-inf-latex-thesis-template-mythesis-drawings-1",
+  "source": "github-latex",
+  "format": "latex",
+  "category": "thesis",
+  "license": "MIT",
+  "source_url": "https://github.com/david-inf/latex-thesis-template",
+  "original_author": "david-inf",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/github-latex__gh-david-inf-latex-thesis-template-mythesis-drawings-1/MyThesis-drawings.tex",
+  "relative_path": "processed/latex/cross-engine/github-latex__gh-david-inf-latex-thesis-template-mythesis-drawings-1/MyThesis-drawings.tex",
+  "sha256": "a8890423b304eea1952a5c2925a77fac1048216615380df5de057a5e1a3d7307",
+  "size_bytes": 1764,
+  "document_class": "standalone",
+  "uses_packages": [
+    "amsfonts",
+    "amsmath",
+    "amssymb",
+    "babel",
+    "enumitem",
+    "fontenc",
+    "inputenc",
+    "microtype",
+    "pgf-pie",
+    "pgfplots",
+    "siunitx",
+    "textcomp"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 876,
+  "downloaded_at": "2026-08-02T13:53:27.725Z",
+  "filtered_at": "2026-08-02T17:34:42.621Z"
+}

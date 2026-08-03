@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-marmare314-typst-presentation-slides-1",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "beamer",
+  "license": "MIT",
+  "source_url": "https://github.com/Marmare314/typst-presentation",
+  "original_author": "Marmare314",
+  "stars": 5,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-marmare314-typst-presentation-slides-1/slides.typ",
+  "relative_path": "raw/github-typst/gh-marmare314-typst-presentation-slides-1/slides.typ",
+  "main_doc": "slides.typ",
+  "sha256": "7c5f533ebc6850154e040f41c0a788ebfbf1af800f1c83852a2f29a32faa4912",
+  "size_bytes": 3592,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "slides.typ",
+  "downloaded_at": "2026-08-02T14:07:22.975Z"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "github-typst/gh-constellation-infinity-typst-template-template",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "misc",
+  "license": "MIT",
+  "source_url": "https://github.com/constellation-infinity/typst-template",
+  "original_author": "constellation-infinity",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/github-typst__gh-constellation-infinity-typst-template-template/template.typ",
+  "relative_path": "processed/typst/github-typst__gh-constellation-infinity-typst-template-template/template.typ",
+  "sha256": "65caf21d6bf5465d3dac6a3ca4fb3774637aa1898d04bad51ee35631eb1344e3",
+  "size_bytes": 6524,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 18,
+  "downloaded_at": "2026-08-02T14:11:12.494Z",
+  "filtered_at": "2026-08-02T17:34:44.690Z"
+}

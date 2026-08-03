@@ -1,0 +1,23 @@
+{
+  "id": "typst-universe/typst-minerva-report-fcfm-0-2-2",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "report",
+  "license": "MIT-0",
+  "source_url": "https://github.com/Dav1com/minerva-report-fcfm",
+  "original_author": "David Ibáñez",
+  "package_name": "minerva-report-fcfm",
+  "package_version": "0.2.2",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/typst-universe/typst-minerva-report-fcfm-0-2-2/main.typ",
+  "relative_path": "raw/typst-universe/typst-minerva-report-fcfm-0-2-2/main.typ",
+  "main_doc": "main.typ",
+  "sha256": "19ebda31d15681aa8c12a3d52f0cc3b7db189a97771710e3a3e3f4fad613c7a4",
+  "size_bytes": 1965,
+  "document_class": null,
+  "uses_packages": [],
+  "downloaded_at": "2026-08-02T13:10:22.634Z",
+  "categories": [
+    "report"
+  ],
+  "description": "Template de artículos, informes y tareas para la Facultad de Ciencias Físicas y Matemáticas (FCFM)."
+}

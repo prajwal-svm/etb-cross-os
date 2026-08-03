@@ -1,0 +1,30 @@
+{
+  "id": "overleaf/ol-uiuc-ling-415-cjzzbjzrbfxc",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "misc",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/uiuc-ling-415/cjzzbjzrbfxc",
+  "original_author": "Lane Schwartz",
+  "title": "UIUC LING 415",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/overleaf/ol-uiuc-ling-415-cjzzbjzrbfxc/main.tex",
+  "relative_path": "raw/overleaf/ol-uiuc-ling-415-cjzzbjzrbfxc/main.tex",
+  "main_doc": "main.tex",
+  "sha256": "076735e41e4cda02c42e7c11b6d52e940e286d5964d76efe9602da3a9b49a779",
+  "size_bytes": 2058,
+  "document_class": "report",
+  "uses_packages": [
+    "amsmath",
+    "babel",
+    "fontenc",
+    "geometry",
+    "graphicx",
+    "hyperref",
+    "inputenc",
+    "natbib",
+    "todonotes"
+  ],
+  "download_method": "view-source-modal",
+  "github_url": null,
+  "downloaded_at": "2026-08-02T15:35:23.711Z"
+}

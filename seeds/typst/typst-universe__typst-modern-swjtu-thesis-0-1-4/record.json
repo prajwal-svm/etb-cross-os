@@ -1,0 +1,26 @@
+{
+  "id": "typst-universe/typst-modern-swjtu-thesis-0-1-4",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "thesis",
+  "license": "MIT",
+  "source_url": "https://github.com/somnus0917/modern-swjtu-thesis",
+  "original_author": "somnus",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/typst-universe__typst-modern-swjtu-thesis-0-1-4/thesis.typ",
+  "relative_path": "processed/typst/typst-universe__typst-modern-swjtu-thesis-0-1-4/thesis.typ",
+  "sha256": "24f85932fce534487e0a4aa174b68ed10ed75ad6f8a9d152688df57c38109d7d",
+  "size_bytes": 5958,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 417,
+  "downloaded_at": "2026-08-02T13:11:00.588Z",
+  "filtered_at": "2026-08-02T17:34:44.021Z"
+}

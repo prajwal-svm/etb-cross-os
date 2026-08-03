@@ -1,0 +1,30 @@
+{
+  "id": "github-latex/gh-antsfamily-latextemplates-elsarticle-template-2",
+  "source": "github-latex",
+  "format": "latex",
+  "category": "venue",
+  "license": "MIT",
+  "source_url": "https://github.com/antsfamily/LatexTemplates",
+  "original_author": "antsfamily",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/github-latex__gh-antsfamily-latextemplates-elsarticle-template-2/elsarticle-template.tex",
+  "relative_path": "processed/latex/cross-engine/github-latex__gh-antsfamily-latextemplates-elsarticle-template-2/elsarticle-template.tex",
+  "sha256": "29886cc399956d4ffc6f7b9b98917525b51476d204e10265355e19cbbcc4fbb5",
+  "size_bytes": 4103,
+  "document_class": "elsarticle",
+  "uses_packages": [
+    "hyperref",
+    "lineno",
+    "numcompress"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 570,
+  "downloaded_at": "2026-08-02T13:30:45.521Z",
+  "filtered_at": "2026-08-02T17:34:42.459Z"
+}

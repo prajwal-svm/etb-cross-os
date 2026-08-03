@@ -1,0 +1,19 @@
+{
+  "id": "github-latex/gh-tundeakins-nature-latex-nature-template",
+  "source": "github-latex",
+  "format": "latex",
+  "category": "misc",
+  "license": "MIT",
+  "source_url": "https://github.com/tundeakins/Nature_latex",
+  "original_author": "tundeakins",
+  "stars": 2,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-latex/gh-tundeakins-nature-latex-nature-template/nature-template.tex",
+  "relative_path": "raw/github-latex/gh-tundeakins-nature-latex-nature-template/nature-template.tex",
+  "main_doc": "nature-template.tex",
+  "sha256": "00f134a4eb239e8d107be7114749bbe280c36d0d51512385336bb99e6ec14ca1",
+  "size_bytes": 4991,
+  "document_class": "nature",
+  "uses_packages": [],
+  "repo_path": "nature-template.tex",
+  "downloaded_at": "2026-08-02T13:34:05.341Z"
+}

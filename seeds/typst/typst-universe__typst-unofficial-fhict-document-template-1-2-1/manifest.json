@@ -1,0 +1,25 @@
+{
+  "id": "typst-universe/typst-unofficial-fhict-document-template-1-2-1",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "report",
+  "license": "MIT",
+  "source_url": "https://github.com/TomVer99/FHICT-typst-template",
+  "original_author": "TomVer99",
+  "package_name": "unofficial-fhict-document-template",
+  "package_version": "1.2.1",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/typst-universe/typst-unofficial-fhict-document-template-1-2-1/main.typ",
+  "relative_path": "raw/typst-universe/typst-unofficial-fhict-document-template-1-2-1/main.typ",
+  "main_doc": "main.typ",
+  "sha256": "50998f786c6e6fb49dd4ad6b33b0f9e9a9279eb8da4d39ef420755558bae0f44",
+  "size_bytes": 1325,
+  "document_class": null,
+  "uses_packages": [],
+  "downloaded_at": "2026-08-02T13:15:12.105Z",
+  "categories": [
+    "report",
+    "layout",
+    "thesis"
+  ],
+  "description": "This is a document template for creating professional-looking documents with Typst, tailored for FHICT (Fontys Hogeschool ICT)."
+}

@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-tuto193-typst-uos-thesis-glossaries-2",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "thesis",
+  "license": "MIT",
+  "source_url": "https://github.com/tuto193/typst-uos-thesis",
+  "original_author": "tuto193",
+  "stars": 0,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-tuto193-typst-uos-thesis-glossaries-2/glossaries.typ",
+  "relative_path": "raw/github-typst/gh-tuto193-typst-uos-thesis-glossaries-2/glossaries.typ",
+  "main_doc": "glossaries.typ",
+  "sha256": "a6dd5693344e849c9e52cccd39ca57652660da1e0b18b01252b183c36e24697b",
+  "size_bytes": 592,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "glossaries.typ",
+  "downloaded_at": "2026-08-02T14:15:53.103Z"
+}

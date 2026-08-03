@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-qjcg-typstry-letter-2",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "coursework",
+  "license": "MIT",
+  "source_url": "https://github.com/qjcg/typstry",
+  "original_author": "qjcg",
+  "stars": 11,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-qjcg-typstry-letter-2/letter.typ",
+  "relative_path": "raw/github-typst/gh-qjcg-typstry-letter-2/letter.typ",
+  "main_doc": "letter.typ",
+  "sha256": "15c4fdef33a30a466ad126f0e4ba1674e611369a7ba049b4e3c6c54c1f129760",
+  "size_bytes": 567,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "templates/letter/letter.typ",
+  "downloaded_at": "2026-08-02T14:06:04.997Z"
+}

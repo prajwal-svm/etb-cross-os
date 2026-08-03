@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-juraph-dev-usyd-slides-typst-usyd-polylux-theme-1",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "beamer",
+  "license": "MIT",
+  "source_url": "https://github.com/juraph-dev/usyd-slides-typst",
+  "original_author": "juraph-dev",
+  "stars": 6,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-juraph-dev-usyd-slides-typst-usyd-polylux-theme-1/usyd_polylux_theme.typ",
+  "relative_path": "raw/github-typst/gh-juraph-dev-usyd-slides-typst-usyd-polylux-theme-1/usyd_polylux_theme.typ",
+  "main_doc": "usyd_polylux_theme.typ",
+  "sha256": "006077ea0c818958720b03ceaa0b672004f2c9378bc1a79fca52ddb49d138154",
+  "size_bytes": 10450,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "usyd_polylux_theme.typ",
+  "downloaded_at": "2026-08-02T14:07:03.341Z"
+}

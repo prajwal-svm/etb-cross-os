@@ -1,0 +1,33 @@
+{
+  "id": "overleaf/ol-collingwood-template-wwwkcxrrcyqt",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "misc",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/collingwood-template/wwwkcxrrcyqt",
+  "original_author": "Krishna Panchapagesan",
+  "title": "Collingwood Template",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/overleaf/ol-collingwood-template-wwwkcxrrcyqt/main.tex",
+  "relative_path": "raw/overleaf/ol-collingwood-template-wwwkcxrrcyqt/main.tex",
+  "main_doc": "main.tex",
+  "sha256": "8fba59f44eb7417482cbc867ff41e5095e74b498344300b74cd371302b26ecca",
+  "size_bytes": 1404,
+  "document_class": "article",
+  "uses_packages": [
+    "amsmath",
+    "amssymb",
+    "cancel",
+    "enumitem",
+    "fullpage",
+    "gensymb",
+    "geometry",
+    "graphicx",
+    "hyperref",
+    "indentfirst",
+    "inputenc",
+    "xcolor"
+  ],
+  "download_method": "view-source-modal",
+  "github_url": null,
+  "downloaded_at": "2026-08-02T14:19:02.266Z"
+}

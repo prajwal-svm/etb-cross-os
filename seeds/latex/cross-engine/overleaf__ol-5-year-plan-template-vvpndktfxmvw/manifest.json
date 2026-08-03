@@ -1,0 +1,27 @@
+{
+  "id": "overleaf/ol-5-year-plan-template-vvpndktfxmvw",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "misc",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/5-year-plan-template/vvpndktfxmvw",
+  "original_author": "Catherine Arnett",
+  "title": "5-year plan template",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/overleaf/ol-5-year-plan-template-vvpndktfxmvw/main.tex",
+  "relative_path": "raw/overleaf/ol-5-year-plan-template-vvpndktfxmvw/main.tex",
+  "main_doc": "main.tex",
+  "sha256": "a33b009f1951b13df7818c9ae63cf6f8a5fd1c1bb28ee0ecb809102b879a5c02",
+  "size_bytes": 779,
+  "document_class": "article",
+  "uses_packages": [
+    "enumerate",
+    "enumitem",
+    "geometry",
+    "inputenc",
+    "multicol",
+    "tabularx"
+  ],
+  "download_method": "view-source-modal",
+  "github_url": null,
+  "downloaded_at": "2026-08-02T14:34:07.829Z"
+}

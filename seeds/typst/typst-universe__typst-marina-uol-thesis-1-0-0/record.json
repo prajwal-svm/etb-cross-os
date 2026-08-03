@@ -1,0 +1,26 @@
+{
+  "id": "typst-universe/typst-marina-uol-thesis-1-0-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "thesis",
+  "license": "MIT",
+  "source_url": "https://github.com/krisjdev/university-of-lincoln-thesis",
+  "original_author": "Kristaps Jurkans",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/typst-universe__typst-marina-uol-thesis-1-0-0/main.typ",
+  "relative_path": "processed/typst/typst-universe__typst-marina-uol-thesis-1-0-0/main.typ",
+  "sha256": "6493b26c17d8eeeee4914bdbb4e898b66a798d4e471cab7a804f48ed003f8312",
+  "size_bytes": 756,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 195,
+  "downloaded_at": "2026-08-02T13:10:12.231Z",
+  "filtered_at": "2026-08-02T17:34:43.968Z"
+}

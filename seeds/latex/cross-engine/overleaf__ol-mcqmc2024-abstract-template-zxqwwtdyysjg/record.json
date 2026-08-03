@@ -1,0 +1,28 @@
+{
+  "id": "overleaf/ol-mcqmc2024-abstract-template-zxqwwtdyysjg",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "misc",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/mcqmc2024-abstract-template/zxqwwtdyysjg",
+  "original_author": "Ben Feng",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/overleaf__ol-mcqmc2024-abstract-template-zxqwwtdyysjg/main.tex",
+  "relative_path": "processed/latex/cross-engine/overleaf__ol-mcqmc2024-abstract-template-zxqwwtdyysjg/main.tex",
+  "sha256": "50937de4c2fc8da3eee56deb6c677fb364e49ba0243efed1c2c90f20108ba679",
+  "size_bytes": 2124,
+  "document_class": "standalone",
+  "uses_packages": [
+    "authblk"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 271,
+  "downloaded_at": "2026-08-02T15:28:52.064Z",
+  "filtered_at": "2026-08-02T17:34:41.396Z"
+}

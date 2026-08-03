@@ -1,0 +1,31 @@
+{
+  "id": "ctan/ctan-datatool-sample-sort",
+  "source": "ctan",
+  "format": "latex",
+  "category": "package-example",
+  "license": "LPPL-1.3c",
+  "source_url": "https://ctan.org/pkg/datatool",
+  "original_author": "CTAN package: datatool",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/ctan__ctan-datatool-sample-sort/sample-sort.tex",
+  "relative_path": "processed/latex/cross-engine/ctan__ctan-datatool-sample-sort/sample-sort.tex",
+  "sha256": "cb480e66d4e03807ed35ef8351213606aadc8abd2cb710378aa776fa55504ff8",
+  "size_bytes": 3100,
+  "document_class": "article",
+  "uses_packages": [
+    "datatool",
+    "fontenc",
+    "geometry",
+    "inputenc"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 1851,
+  "downloaded_at": "2026-08-02T13:05:04.432Z",
+  "filtered_at": "2026-08-02T17:34:42.232Z"
+}

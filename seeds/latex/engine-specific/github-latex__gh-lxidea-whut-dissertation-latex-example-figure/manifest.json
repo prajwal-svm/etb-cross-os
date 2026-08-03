@@ -1,0 +1,21 @@
+{
+  "id": "github-latex/gh-lxidea-whut-dissertation-latex-example-figure",
+  "source": "github-latex",
+  "format": "latex",
+  "category": "thesis",
+  "license": "Apache-2.0",
+  "source_url": "https://github.com/lxidea/WHUT-dissertation-latex",
+  "original_author": "lxidea",
+  "stars": 2,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-latex/gh-lxidea-whut-dissertation-latex-example-figure/example-figure.tex",
+  "relative_path": "raw/github-latex/gh-lxidea-whut-dissertation-latex-example-figure/example-figure.tex",
+  "main_doc": "example-figure.tex",
+  "sha256": "1f198184317972175bd778d0d660ea4a7140f5437a92cb00370e469f7c9dcfc6",
+  "size_bytes": 778,
+  "document_class": "standalone",
+  "uses_packages": [
+    "ctex"
+  ],
+  "repo_path": "figures/example-figure.tex",
+  "downloaded_at": "2026-08-02T13:34:32.800Z"
+}

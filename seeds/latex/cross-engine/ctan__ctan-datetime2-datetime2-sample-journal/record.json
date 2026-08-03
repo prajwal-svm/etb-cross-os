@@ -1,0 +1,30 @@
+{
+  "id": "ctan/ctan-datetime2-datetime2-sample-journal",
+  "source": "ctan",
+  "format": "latex",
+  "category": "venue",
+  "license": "LPPL-1.3c",
+  "source_url": "https://ctan.org/pkg/datetime2",
+  "original_author": "CTAN package: datetime2",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/ctan__ctan-datetime2-datetime2-sample-journal/datetime2-sample-journal.tex",
+  "relative_path": "processed/latex/cross-engine/ctan__ctan-datetime2-datetime2-sample-journal/datetime2-sample-journal.tex",
+  "sha256": "b16c2e25886111add912db3b5c495d03319a427c0e76239b2ac74e55c88fa9ea",
+  "size_bytes": 2552,
+  "document_class": "memoir",
+  "uses_packages": [
+    "datetime2",
+    "hyperref",
+    "lipsum"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 606,
+  "downloaded_at": "2026-08-02T13:05:03.511Z",
+  "filtered_at": "2026-08-02T17:34:42.239Z"
+}

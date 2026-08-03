@@ -1,0 +1,28 @@
+{
+  "id": "github-latex/gh-kaicheng001-tikz-collection-basic-venn-2",
+  "source": "github-latex",
+  "format": "latex",
+  "category": "coursework",
+  "license": "MIT",
+  "source_url": "https://github.com/kaicheng001/TikZ-Collection",
+  "original_author": "kaicheng001",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/github-latex__gh-kaicheng001-tikz-collection-basic-venn-2/basic_venn.tex",
+  "relative_path": "processed/latex/cross-engine/github-latex__gh-kaicheng001-tikz-collection-basic-venn-2/basic_venn.tex",
+  "sha256": "5032211df52debbc806258ec41d7852c6a0b80dc90e74d309ee624cfa3766060",
+  "size_bytes": 584,
+  "document_class": "standalone",
+  "uses_packages": [
+    "tikz"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 375,
+  "downloaded_at": "2026-08-02T13:29:41.869Z",
+  "filtered_at": "2026-08-02T17:34:42.991Z"
+}

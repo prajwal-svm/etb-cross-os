@@ -1,0 +1,26 @@
+{
+  "id": "typst-universe/typst-slydst-0-1-5",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "beamer",
+  "license": "MIT",
+  "source_url": "https://github.com/glambrechts/slydst",
+  "original_author": "Gaspard Lambrechts",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/typst-universe__typst-slydst-0-1-5/main.typ",
+  "relative_path": "processed/typst/typst-universe__typst-slydst-0-1-5/main.typ",
+  "sha256": "d87e722cf46c3d74be11a3b5ae432c51c119eeb91de00fe3140e6e9a36c10633",
+  "size_bytes": 1651,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 208,
+  "downloaded_at": "2026-08-02T13:13:10.228Z",
+  "filtered_at": "2026-08-02T17:34:44.199Z"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "ctan/ctan-glossaries-samplefnacrdesc",
+  "source": "ctan",
+  "format": "latex",
+  "category": "package-example",
+  "license": "LPPL-1.3c",
+  "source_url": "https://ctan.org/pkg/glossaries",
+  "original_author": "CTAN package: glossaries",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/ctan__ctan-glossaries-samplefnacrdesc/sampleFnAcrDesc.tex",
+  "relative_path": "processed/latex/cross-engine/ctan__ctan-glossaries-samplefnacrdesc/sampleFnAcrDesc.tex",
+  "sha256": "bc44a8d9ab29290abc12f12c6271339b7c39624d36c1a46fc7cbc68c86fb4bff",
+  "size_bytes": 2544,
+  "document_class": "report",
+  "uses_packages": [
+    "fontenc",
+    "glossaries",
+    "hyperref"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 480,
+  "downloaded_at": "2026-08-02T13:04:56.434Z",
+  "filtered_at": "2026-08-02T17:34:42.337Z"
+}

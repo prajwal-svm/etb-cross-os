@@ -1,0 +1,23 @@
+{
+  "id": "typst-universe/typst-endfield-doc-0-1-1",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "business",
+  "license": "MIT",
+  "source_url": "https://github.com/Ives-Natsume/typst-endfield-doc-theme.git",
+  "original_author": "metasequoiaNI",
+  "package_name": "endfield-doc",
+  "package_version": "0.1.1",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/typst-universe/typst-endfield-doc-0-1-1/main.typ",
+  "relative_path": "raw/typst-universe/typst-endfield-doc-0-1-1/main.typ",
+  "main_doc": "main.typ",
+  "sha256": "a16e2b34f9344fab7a49c58781df6b5ba386a10cde5fce967c6490b65d9ed680",
+  "size_bytes": 2905,
+  "document_class": null,
+  "uses_packages": [],
+  "downloaded_at": "2026-08-02T13:08:04.809Z",
+  "categories": [
+    "office"
+  ],
+  "description": "A4 document theme styled after the Arknights: Endfield aesthetic."
+}

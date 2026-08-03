@@ -1,0 +1,25 @@
+{
+  "id": "overleaf/ol-integral-flashcards-pvvqjmfsmwvg",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "misc",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/integral-flashcards/pvvqjmfsmwvg",
+  "original_author": "Caleb McWhorter",
+  "title": "Integral Flashcards",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/overleaf/ol-integral-flashcards-pvvqjmfsmwvg/main.tex",
+  "relative_path": "raw/overleaf/ol-integral-flashcards-pvvqjmfsmwvg/main.tex",
+  "main_doc": "main.tex",
+  "sha256": "dcad205a3379b4b6b418e302a921e404a56a429370fd7a6198118c4bd18aa702",
+  "size_bytes": 4028,
+  "document_class": "flashcards",
+  "uses_packages": [
+    "amsmath",
+    "fontenc",
+    "geometry",
+    "mathdesign"
+  ],
+  "download_method": "view-source-modal",
+  "github_url": null,
+  "downloaded_at": "2026-08-02T13:46:59.137Z"
+}

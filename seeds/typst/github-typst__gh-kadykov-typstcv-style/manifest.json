@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-kadykov-typstcv-style",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "letter",
+  "license": "MIT",
+  "source_url": "https://github.com/kadykov/typstCV",
+  "original_author": "kadykov",
+  "stars": 2,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-kadykov-typstcv-style/style.typ",
+  "relative_path": "raw/github-typst/gh-kadykov-typstcv-style/style.typ",
+  "main_doc": "style.typ",
+  "sha256": "8c7696bc3895c4b31ec13439014985e459d495679f3bf2429f41f87aa87b3527",
+  "size_bytes": 5794,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "style.typ",
+  "downloaded_at": "2026-08-02T14:10:56.661Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "github-latex/gh-bogdando-papers-ieee-position-paper-1570506394",
+  "source": "github-latex",
+  "format": "latex",
+  "category": "venue",
+  "license": "Apache-2.0",
+  "source_url": "https://github.com/bogdando/papers-ieee",
+  "original_author": "bogdando",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/github-latex__gh-bogdando-papers-ieee-position-paper-1570506394/position_paper_1570506394.tex",
+  "relative_path": "processed/latex/cross-engine/github-latex__gh-bogdando-papers-ieee-position-paper-1570506394/position_paper_1570506394.tex",
+  "sha256": "a99110f09d58f50cfc01161e88d88662496124a21a4670bff31a500a3f193d23",
+  "size_bytes": 37520,
+  "document_class": "IEEEtran",
+  "uses_packages": [
+    "algorithmic",
+    "amsfonts",
+    "amsmath",
+    "amssymb",
+    "cite",
+    "forest",
+    "graphicx",
+    "textcomp",
+    "url",
+    "xcolor"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 878,
+  "downloaded_at": "2026-08-02T13:43:11.522Z",
+  "filtered_at": "2026-08-02T17:34:42.538Z"
+}

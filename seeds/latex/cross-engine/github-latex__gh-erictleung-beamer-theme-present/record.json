@@ -1,0 +1,31 @@
+{
+  "id": "github-latex/gh-erictleung-beamer-theme-present",
+  "source": "github-latex",
+  "format": "latex",
+  "category": "beamer",
+  "license": "MIT",
+  "source_url": "https://github.com/erictleung/beamer-theme",
+  "original_author": "erictleung",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/github-latex__gh-erictleung-beamer-theme-present/present.tex",
+  "relative_path": "processed/latex/cross-engine/github-latex__gh-erictleung-beamer-theme-present/present.tex",
+  "sha256": "55cdc56f6c214ad1c2491f78802489b9a1afb8e00ecc4b8b7bfeaee9a3bfff3b",
+  "size_bytes": 809,
+  "document_class": "beamer",
+  "uses_packages": [
+    "amsmath",
+    "graphicx",
+    "pgfplots",
+    "tikz"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 1121,
+  "downloaded_at": "2026-08-02T13:30:16.083Z",
+  "filtered_at": "2026-08-02T17:34:42.731Z"
+}

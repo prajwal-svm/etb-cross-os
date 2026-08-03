@@ -1,0 +1,25 @@
+{
+  "id": "github-latex/gh-acdmammoths-accsthesis-accsthesis",
+  "source": "github-latex",
+  "format": "latex",
+  "category": "thesis",
+  "license": "Apache-2.0",
+  "source_url": "https://github.com/acdmammoths/accsthesis",
+  "original_author": "acdmammoths",
+  "stars": 0,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-latex/gh-acdmammoths-accsthesis-accsthesis/accsthesis.tex",
+  "relative_path": "raw/github-latex/gh-acdmammoths-accsthesis-accsthesis/accsthesis.tex",
+  "main_doc": "accsthesis.tex",
+  "sha256": "6f8fcbb5fb48053f0fd8a73e9b4980c49a67d8462a85b2ff62b7fe1230cfd6b5",
+  "size_bytes": 3252,
+  "document_class": "report",
+  "uses_packages": [
+    "geometry",
+    "inconsolata",
+    "libertinus",
+    "lipsum",
+    "setspace"
+  ],
+  "repo_path": "accsthesis.tex",
+  "downloaded_at": "2026-08-02T13:45:32.897Z"
+}

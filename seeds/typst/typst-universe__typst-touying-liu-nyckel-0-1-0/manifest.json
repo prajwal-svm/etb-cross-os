@@ -1,0 +1,23 @@
+{
+  "id": "typst-universe/typst-touying-liu-nyckel-0-1-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "beamer",
+  "license": "MIT",
+  "source_url": "https://gitlab.liu.se/erifr93/touying-liu-nyckel",
+  "original_author": "Erik Frisk",
+  "package_name": "touying-liu-nyckel",
+  "package_version": "0.1.0",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/typst-universe/typst-touying-liu-nyckel-0-1-0/main.typ",
+  "relative_path": "raw/typst-universe/typst-touying-liu-nyckel-0-1-0/main.typ",
+  "main_doc": "main.typ",
+  "sha256": "83dc392871437f2c5a6a1d020584969a97bcd47d00ac65853aae2d79972582ef",
+  "size_bytes": 10667,
+  "document_class": null,
+  "uses_packages": [],
+  "downloaded_at": "2026-08-02T13:14:08.732Z",
+  "categories": [
+    "presentation"
+  ],
+  "description": "A Simple Touying Theme for LiU (Linköping University, Sweden) branded slides."
+}

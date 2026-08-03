@@ -1,0 +1,25 @@
+{
+  "id": "typst-universe/typst-slydst-0-1-5",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "beamer",
+  "license": "MIT",
+  "source_url": "https://github.com/glambrechts/slydst",
+  "original_author": "Gaspard Lambrechts",
+  "package_name": "slydst",
+  "package_version": "0.1.5",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/typst-universe/typst-slydst-0-1-5/main.typ",
+  "relative_path": "raw/typst-universe/typst-slydst-0-1-5/main.typ",
+  "main_doc": "main.typ",
+  "sha256": "d87e722cf46c3d74be11a3b5ae432c51c119eeb91de00fe3140e6e9a36c10633",
+  "size_bytes": 1651,
+  "document_class": null,
+  "uses_packages": [],
+  "downloaded_at": "2026-08-02T13:13:10.228Z",
+  "categories": [
+    "presentation",
+    "layout",
+    "components"
+  ],
+  "description": "Create simple static slides using standard headings"
+}

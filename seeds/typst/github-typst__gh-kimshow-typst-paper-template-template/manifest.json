@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-kimshow-typst-paper-template-template",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "venue",
+  "license": "MIT",
+  "source_url": "https://github.com/kimshow/typst-paper-template",
+  "original_author": "kimshow",
+  "stars": 0,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-kimshow-typst-paper-template-template/template.typ",
+  "relative_path": "raw/github-typst/gh-kimshow-typst-paper-template-template/template.typ",
+  "main_doc": "template.typ",
+  "sha256": "bbcd994ae40b68d7331679ee47b708b50741268314874a240f992299aaa39250",
+  "size_bytes": 25402,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "template.typ",
+  "downloaded_at": "2026-08-02T14:15:32.033Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-xbttkunhao-storytiles-lib",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "business",
+  "license": "MIT",
+  "source_url": "https://github.com/xbttkunhao/storytiles",
+  "original_author": "xbttkunhao",
+  "stars": 3,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-xbttkunhao-storytiles-lib/lib.typ",
+  "relative_path": "raw/github-typst/gh-xbttkunhao-storytiles-lib/lib.typ",
+  "main_doc": "lib.typ",
+  "sha256": "95de5017999fe5bd5e63cd7b0906c9ee89fd39fbd6cfd5df90b4def94f4368bc",
+  "size_bytes": 19270,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "0.0.1/lib.typ",
+  "downloaded_at": "2026-08-02T14:09:16.016Z"
+}

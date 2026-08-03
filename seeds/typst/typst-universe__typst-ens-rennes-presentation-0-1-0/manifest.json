@@ -1,0 +1,23 @@
+{
+  "id": "typst-universe/typst-ens-rennes-presentation-0-1-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "beamer",
+  "license": "MIT",
+  "source_url": "https://github.com/zacharie-moughanim/ens-rennes-presentation",
+  "original_author": "Zacharie",
+  "package_name": "ens-rennes-presentation",
+  "package_version": "0.1.0",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/typst-universe/typst-ens-rennes-presentation-0-1-0/main.typ",
+  "relative_path": "raw/typst-universe/typst-ens-rennes-presentation-0-1-0/main.typ",
+  "main_doc": "main.typ",
+  "sha256": "a41572ef895e74ec13d310d249e2d0fefb14058d63fad1df3ed976a9eaffe561",
+  "size_bytes": 594,
+  "document_class": null,
+  "uses_packages": [],
+  "downloaded_at": "2026-08-02T13:08:05.834Z",
+  "categories": [
+    "presentation"
+  ],
+  "description": "Slides theme respecting the ENS Rennes graphical chart."
+}

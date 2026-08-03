@@ -1,0 +1,28 @@
+{
+  "id": "overleaf/ol-kaufvertrag-qhghqwtywrsv",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "misc",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/kaufvertrag/qhghqwtywrsv",
+  "original_author": "Paul Peyrot",
+  "title": "Kaufvertrag",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/overleaf/ol-kaufvertrag-qhghqwtywrsv/main.tex",
+  "relative_path": "raw/overleaf/ol-kaufvertrag-qhghqwtywrsv/main.tex",
+  "main_doc": "main.tex",
+  "sha256": "ecfb00ef8920b8ffa84a21b6c0799cb96d164c392efd6f3673c5b50555971601",
+  "size_bytes": 11404,
+  "document_class": "scrreprt",
+  "uses_packages": [
+    "babel",
+    "color",
+    "fontenc",
+    "geometry",
+    "inputenc",
+    "lmodern",
+    "scrjura"
+  ],
+  "download_method": "view-source-modal",
+  "github_url": null,
+  "downloaded_at": "2026-08-02T15:56:45.362Z"
+}

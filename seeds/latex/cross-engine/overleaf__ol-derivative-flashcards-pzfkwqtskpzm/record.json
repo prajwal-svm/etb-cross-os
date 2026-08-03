@@ -1,0 +1,31 @@
+{
+  "id": "overleaf/ol-derivative-flashcards-pzfkwqtskpzm",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "misc",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/derivative-flashcards/pzfkwqtskpzm",
+  "original_author": "Caleb McWhorter",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/overleaf__ol-derivative-flashcards-pzfkwqtskpzm/main.tex",
+  "relative_path": "processed/latex/cross-engine/overleaf__ol-derivative-flashcards-pzfkwqtskpzm/main.tex",
+  "sha256": "c51dce1406c9547cb9aea8be58a07323c2040c11ca7339ccedb0149b0b1f30e5",
+  "size_bytes": 4037,
+  "document_class": "flashcards",
+  "uses_packages": [
+    "amsmath",
+    "fontenc",
+    "geometry",
+    "mathdesign"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 316,
+  "downloaded_at": "2026-08-02T13:46:57.828Z",
+  "filtered_at": "2026-08-02T17:34:41.073Z"
+}

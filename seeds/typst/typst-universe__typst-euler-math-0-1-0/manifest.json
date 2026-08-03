@@ -1,0 +1,24 @@
+{
+  "id": "typst-universe/typst-euler-math-0-1-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "report",
+  "license": "MIT",
+  "source_url": "https://github.com/gmborjasb/euler-math",
+  "original_author": "gmborjasb",
+  "package_name": "euler-math",
+  "package_version": "0.1.0",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/typst-universe/typst-euler-math-0-1-0/main.typ",
+  "relative_path": "raw/typst-universe/typst-euler-math-0-1-0/main.typ",
+  "main_doc": "main.typ",
+  "sha256": "83e62282287efeebb36fdfe3d0ad700bb5f764f3da445149332447c2f54ff901",
+  "size_bytes": 1944,
+  "document_class": null,
+  "uses_packages": [],
+  "downloaded_at": "2026-08-02T13:08:16.569Z",
+  "categories": [
+    "report",
+    "components"
+  ],
+  "description": "Modern and robust Math Olympiad problems and exams template."
+}

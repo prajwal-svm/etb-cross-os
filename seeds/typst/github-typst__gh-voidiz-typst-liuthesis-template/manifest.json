@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-voidiz-typst-liuthesis-template",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "thesis",
+  "license": "MIT",
+  "source_url": "https://github.com/voidiz/typst-liuthesis",
+  "original_author": "voidiz",
+  "stars": 1,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-voidiz-typst-liuthesis-template/template.typ",
+  "relative_path": "raw/github-typst/gh-voidiz-typst-liuthesis-template/template.typ",
+  "main_doc": "template.typ",
+  "sha256": "d9c605a3536cc10dd306b147ff3c3aa299815aa21f1c0c4c1ab5fe25b1ac55ea",
+  "size_bytes": 8360,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "template.typ",
+  "downloaded_at": "2026-08-02T14:11:42.648Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-jdc-pub-vita-contact-1",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "cv",
+  "license": "MIT",
+  "source_url": "https://github.com/jdc-pub/vita",
+  "original_author": "jdc-pub",
+  "stars": 1,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-jdc-pub-vita-contact-1/contact.typ",
+  "relative_path": "raw/github-typst/gh-jdc-pub-vita-contact-1/contact.typ",
+  "main_doc": "contact.typ",
+  "sha256": "59d95df5d68a574d7f7b880d91b0dfc4e736dc6ae129b94a6c09add5d126a7e9",
+  "size_bytes": 573,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "src/contact.typ",
+  "downloaded_at": "2026-08-02T14:12:00.552Z"
+}

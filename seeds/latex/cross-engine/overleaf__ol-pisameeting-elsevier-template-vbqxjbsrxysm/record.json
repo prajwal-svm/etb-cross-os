@@ -1,0 +1,31 @@
+{
+  "id": "overleaf/ol-pisameeting-elsevier-template-vbqxjbsrxysm",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "business",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/pisameeting-elsevier-template/vbqxjbsrxysm",
+  "original_author": "PisaMeeting Teamd with Elsevier",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/overleaf__ol-pisameeting-elsevier-template-vbqxjbsrxysm/main.tex",
+  "relative_path": "processed/latex/cross-engine/overleaf__ol-pisameeting-elsevier-template-vbqxjbsrxysm/main.tex",
+  "sha256": "b5dc85650633d404f7a751741150ccb35447c664d30fff4a3d38e30c2ceb7c4f",
+  "size_bytes": 5304,
+  "document_class": "elsarticle",
+  "uses_packages": [
+    "amsmath",
+    "graphicx",
+    "hyperref",
+    "lineno"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 863,
+  "downloaded_at": "2026-08-02T16:32:30.901Z",
+  "filtered_at": "2026-08-02T17:34:41.629Z"
+}

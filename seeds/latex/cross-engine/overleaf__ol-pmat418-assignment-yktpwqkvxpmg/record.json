@@ -1,0 +1,29 @@
+{
+  "id": "overleaf/ol-pmat418-assignment-yktpwqkvxpmg",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "coursework",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/pmat418-assignment/yktpwqkvxpmg",
+  "original_author": "Steven Walker",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/overleaf__ol-pmat418-assignment-yktpwqkvxpmg/main.tex",
+  "relative_path": "processed/latex/cross-engine/overleaf__ol-pmat418-assignment-yktpwqkvxpmg/main.tex",
+  "sha256": "5865dd357d92c138cfc6692e3fbfa9397992c7585fb9137eef6818c6538afe0e",
+  "size_bytes": 614,
+  "document_class": "assignment",
+  "uses_packages": [
+    "graphicx",
+    "subfigure"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 235,
+  "downloaded_at": "2026-08-02T14:32:33.105Z",
+  "filtered_at": "2026-08-02T17:34:41.650Z"
+}

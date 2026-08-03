@@ -1,0 +1,28 @@
+{
+  "id": "github-latex/gh-hauliang-phd-application-template-cv",
+  "source": "github-latex",
+  "format": "latex",
+  "category": "cv",
+  "license": "Apache-2.0",
+  "source_url": "https://github.com/HauLiang/PhD-Application-Template",
+  "original_author": "HauLiang",
+  "stars": 111,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-latex/gh-hauliang-phd-application-template-cv/cv.tex",
+  "relative_path": "raw/github-latex/gh-hauliang-phd-application-template-cv/cv.tex",
+  "main_doc": "cv.tex",
+  "sha256": "51cb27092c32867cb72d239237f9441737bb49af8d625f0e4d031c45f1645a9e",
+  "size_bytes": 10214,
+  "document_class": "moderncv",
+  "uses_packages": [
+    "CJKutf8",
+    "fontawesome",
+    "geometry",
+    "import",
+    "inputenc",
+    "multicol",
+    "ragged2e",
+    "tabularx"
+  ],
+  "repo_path": "CV/cv.tex",
+  "downloaded_at": "2026-08-02T13:12:53.441Z"
+}

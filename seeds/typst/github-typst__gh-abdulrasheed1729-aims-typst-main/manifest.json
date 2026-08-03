@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-abdulrasheed1729-aims-typst-main",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "misc",
+  "license": "MIT",
+  "source_url": "https://github.com/Abdulrasheed1729/aims-typst",
+  "original_author": "Abdulrasheed1729",
+  "stars": 0,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-abdulrasheed1729-aims-typst-main/main.typ",
+  "relative_path": "raw/github-typst/gh-abdulrasheed1729-aims-typst-main/main.typ",
+  "main_doc": "main.typ",
+  "sha256": "4209d7909bd239e8c94aa4b2d74526effaf8af5a33a074361e71537bf9f9cc1f",
+  "size_bytes": 6494,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "main.typ",
+  "downloaded_at": "2026-08-02T14:18:01.207Z"
+}

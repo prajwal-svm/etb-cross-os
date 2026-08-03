@@ -1,0 +1,33 @@
+{
+  "id": "overleaf/ol-homework-2-cs-3510-qdpwxfkdfcbb",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "coursework",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/homework-2-cs-3510/qdpwxfkdfcbb",
+  "original_author": "John Schmidt",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/engine-specific/overleaf__ol-homework-2-cs-3510-qdpwxfkdfcbb/main.tex",
+  "relative_path": "processed/latex/engine-specific/overleaf__ol-homework-2-cs-3510-qdpwxfkdfcbb/main.tex",
+  "sha256": "1c2f6d130510ebe320645b339d8d5fcd98a731d4ceaa8b7cea07c948600bc357",
+  "size_bytes": 6732,
+  "document_class": "article",
+  "uses_packages": [
+    "amsmath",
+    "amssymb",
+    "amsthm",
+    "geometry",
+    "graphicx",
+    "latexsym"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": false,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "engine-specific",
+  "compile_time_ms": 272,
+  "downloaded_at": "2026-08-02T16:54:48.839Z",
+  "filtered_at": "2026-08-02T17:34:41.216Z"
+}

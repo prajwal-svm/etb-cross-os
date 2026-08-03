@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-nindalf-resume-template-lib-2",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "cv",
+  "license": "MIT",
+  "source_url": "https://github.com/nindalf/resume-template",
+  "original_author": "nindalf",
+  "stars": 0,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-nindalf-resume-template-lib-2/lib.typ",
+  "relative_path": "raw/github-typst/gh-nindalf-resume-template-lib-2/lib.typ",
+  "main_doc": "lib.typ",
+  "sha256": "babb26c74eccd4adeb7e4a952603e73eb4a247d0505171fcda0f22369d2a71ab",
+  "size_bytes": 5676,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "lib.typ",
+  "downloaded_at": "2026-08-02T14:16:04.478Z"
+}

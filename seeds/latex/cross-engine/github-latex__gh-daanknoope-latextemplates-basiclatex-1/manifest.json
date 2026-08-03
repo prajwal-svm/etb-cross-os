@@ -1,0 +1,26 @@
+{
+  "id": "github-latex/gh-daanknoope-latextemplates-basiclatex-1",
+  "source": "github-latex",
+  "format": "latex",
+  "category": "misc",
+  "license": "Apache-2.0",
+  "source_url": "https://github.com/daanknoope/LatexTemplates",
+  "original_author": "daanknoope",
+  "stars": 0,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-latex/gh-daanknoope-latextemplates-basiclatex-1/basicLaTeX.tex",
+  "relative_path": "raw/github-latex/gh-daanknoope-latextemplates-basiclatex-1/basicLaTeX.tex",
+  "main_doc": "basicLaTeX.tex",
+  "sha256": "c078cc4a35d00bfc3564cf46f36efa2d5014b6a74ff1fca86819dca92b8222c4",
+  "size_bytes": 409,
+  "document_class": "article",
+  "uses_packages": [
+    "amsmath",
+    "babel",
+    "cite",
+    "inputenc",
+    "parskip",
+    "url"
+  ],
+  "repo_path": "basicLaTeX.tex",
+  "downloaded_at": "2026-08-02T13:43:13.121Z"
+}

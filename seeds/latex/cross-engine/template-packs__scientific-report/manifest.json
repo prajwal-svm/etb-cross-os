@@ -1,0 +1,28 @@
+{
+  "id": "template-packs/scientific-report",
+  "source": "template-packs",
+  "format": "latex",
+  "category": "report",
+  "category_raw": "Theses & Reports",
+  "license": "CC0-1.0",
+  "source_url": "https://github.com/Oleafly/template-packs",
+  "original_author": "Oleafly",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/template-packs/scientific-report/main.tex",
+  "relative_path": "raw/template-packs/scientific-report/main.tex",
+  "main_doc": "main.tex",
+  "sha256": "b6cddf06b3b7ef7fba7badcf0841b27b25c0bfe1b188e6a50564e268e3670034",
+  "size_bytes": 3759,
+  "document_class": "article",
+  "uses_packages": [
+    "enumitem",
+    "geometry",
+    "hyperref",
+    "pgfplots",
+    "siunitx",
+    "tcolorbox",
+    "titlesec",
+    "xcolor"
+  ],
+  "engine_hint": "xetex",
+  "downloaded_at": "2026-08-02T13:05:15.855Z"
+}

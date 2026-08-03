@@ -1,0 +1,26 @@
+{
+  "id": "overleaf/ol-template-voor-een-onderzoeksverslag-xjswxwcttgsj",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "misc",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/template-voor-een-onderzoeksverslag/xjswxwcttgsj",
+  "original_author": "G. Bouma",
+  "title": "Template voor een onderzoeksverslag",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/overleaf/ol-template-voor-een-onderzoeksverslag-xjswxwcttgsj/main.tex",
+  "relative_path": "raw/overleaf/ol-template-voor-een-onderzoeksverslag-xjswxwcttgsj/main.tex",
+  "main_doc": "main.tex",
+  "sha256": "608fd7d9afae420902edabf80b852683a1c6c64a4b66ee6b4036059f77c9f172",
+  "size_bytes": 2808,
+  "document_class": "article",
+  "uses_packages": [
+    "a4wide",
+    "babel",
+    "booktabs",
+    "hyperref",
+    "inputenc"
+  ],
+  "download_method": "view-source-modal",
+  "github_url": null,
+  "downloaded_at": "2026-08-02T13:34:56.052Z"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "overleaf/ol-flag-of-australia-fgxynxpytbcz",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "misc",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/flag-of-australia/fgxynxpytbcz",
+  "original_author": "Senan Sekhon",
+  "title": "Flag of Australia",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/overleaf/ol-flag-of-australia-fgxynxpytbcz/main.tex",
+  "relative_path": "raw/overleaf/ol-flag-of-australia-fgxynxpytbcz/main.tex",
+  "main_doc": "main.tex",
+  "sha256": "b6d62f4ad2923f0cb5a9c5b062ba995f00c644c830ac5c051815473381257b52",
+  "size_bytes": 5070,
+  "document_class": "article",
+  "uses_packages": [
+    "geometry",
+    "tikz",
+    "xcolor"
+  ],
+  "download_method": "view-source-modal",
+  "github_url": null,
+  "downloaded_at": "2026-08-02T15:12:22.714Z"
+}

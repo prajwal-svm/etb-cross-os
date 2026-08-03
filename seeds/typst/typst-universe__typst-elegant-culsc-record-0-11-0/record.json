@@ -1,0 +1,26 @@
+{
+  "id": "typst-universe/typst-elegant-culsc-record-0-11-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "report",
+  "license": "MIT",
+  "source_url": "https://github.com/SchrodingerBlume/typst-culsc-record",
+  "original_author": "Schrödinger Blume",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/typst-universe__typst-elegant-culsc-record-0-11-0/example.typ",
+  "relative_path": "processed/typst/typst-universe__typst-elegant-culsc-record-0-11-0/example.typ",
+  "sha256": "90b60bffe8986b26e24441f3af699779ad1564e793d37bbd23d6445119cadeb3",
+  "size_bytes": 8660,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 1131,
+  "downloaded_at": "2026-08-02T13:07:58.619Z",
+  "filtered_at": "2026-08-02T17:34:43.790Z"
+}

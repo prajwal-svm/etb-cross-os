@@ -1,0 +1,24 @@
+{
+  "id": "typst-universe/typst-twilight-book-0-1-8",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "book",
+  "license": "MIT",
+  "source_url": "https://github.com/CrossDark/TwilightBook/",
+  "original_author": "跨越晨昏",
+  "package_name": "twilight-book",
+  "package_version": "0.1.8",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/typst-universe/typst-twilight-book-0-1-8/main.typ",
+  "relative_path": "raw/typst-universe/typst-twilight-book-0-1-8/main.typ",
+  "main_doc": "main.typ",
+  "sha256": "963bba05e63a375946baa1a6c36cc49025cc413ff87f8eded2a66cd5128c3c32",
+  "size_bytes": 778,
+  "document_class": null,
+  "uses_packages": [],
+  "downloaded_at": "2026-08-02T13:14:43.712Z",
+  "categories": [
+    "book",
+    "layout"
+  ],
+  "description": "Provide numerous light and dark themes."
+}

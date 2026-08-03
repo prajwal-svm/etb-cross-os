@@ -1,0 +1,26 @@
+{
+  "id": "github-typst/gh-botaemeveryday-reports-itmo-general-2",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "report",
+  "license": "MIT",
+  "source_url": "https://github.com/botaemeveryday/reports",
+  "original_author": "botaemeveryday",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/github-typst__gh-botaemeveryday-reports-itmo-general-2/itmo-general.typ",
+  "relative_path": "processed/typst/github-typst__gh-botaemeveryday-reports-itmo-general-2/itmo-general.typ",
+  "sha256": "cf66470fd31e8038ada78345222ec3ee543aaf906b62fbe55b6591abf7f9dfca",
+  "size_bytes": 2063,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 10,
+  "downloaded_at": "2026-08-02T14:16:53.077Z",
+  "filtered_at": "2026-08-02T17:34:44.572Z"
+}

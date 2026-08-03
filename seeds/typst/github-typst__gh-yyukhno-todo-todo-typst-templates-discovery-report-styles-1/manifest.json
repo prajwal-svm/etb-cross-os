@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-yyukhno-todo-todo-typst-templates-discovery-report-styles-1",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "report",
+  "license": "MIT",
+  "source_url": "https://github.com/yyukhno-todo/ToDo-Typst-Templates",
+  "original_author": "yyukhno-todo",
+  "stars": 0,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-yyukhno-todo-todo-typst-templates-discovery-report-styles-1/Discovery-Report-Styles.typ",
+  "relative_path": "raw/github-typst/gh-yyukhno-todo-todo-typst-templates-discovery-report-styles-1/Discovery-Report-Styles.typ",
+  "main_doc": "Discovery-Report-Styles.typ",
+  "sha256": "f9b5125f4eefee498263586f2e12bab6d9c00e96780e8b9fc7e966157bf29e19",
+  "size_bytes": 7353,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "res/Discovery-Report-Styles.typ",
+  "downloaded_at": "2026-08-02T14:16:13.714Z"
+}

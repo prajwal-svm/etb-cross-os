@@ -1,0 +1,11 @@
+{
+  "source": "Typst Universe",
+  "source_url": "https://github.com/pku-typst/pkuthss-typst",
+  "original_author": "Gabriel Wu",
+  "license": "MIT",
+  "license_url": "https://opensource.org/licenses/MIT",
+  "downloaded_at": "2026-08-02T13:10:53.526Z",
+  "package": "modern-pku-thesis",
+  "version": "0.2.3",
+  "universe_url": "https://typst.app/universe/package/modern-pku-thesis"
+}

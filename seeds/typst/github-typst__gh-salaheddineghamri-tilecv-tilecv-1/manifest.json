@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-salaheddineghamri-tilecv-tilecv-1",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "cv",
+  "license": "Apache-2.0",
+  "source_url": "https://github.com/SalahEddineGhamri/TileCV",
+  "original_author": "SalahEddineGhamri",
+  "stars": 0,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-salaheddineghamri-tilecv-tilecv-1/tilecv.typ",
+  "relative_path": "raw/github-typst/gh-salaheddineghamri-tilecv-tilecv-1/tilecv.typ",
+  "main_doc": "tilecv.typ",
+  "sha256": "11e824734d234fb71d40094012be4b81fc364fdf1bdc53e020a553bf764dbd19",
+  "size_bytes": 4972,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "tilecv.typ",
+  "downloaded_at": "2026-08-02T14:20:36.054Z"
+}

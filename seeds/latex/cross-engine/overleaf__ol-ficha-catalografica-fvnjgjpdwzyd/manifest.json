@@ -1,0 +1,26 @@
+{
+  "id": "overleaf/ol-ficha-catalografica-fvnjgjpdwzyd",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "misc",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/ficha-catalografica/fvnjgjpdwzyd",
+  "original_author": "Francisco Reinaldo",
+  "title": "Ficha Catalográfica",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/overleaf/ol-ficha-catalografica-fvnjgjpdwzyd/main.tex",
+  "relative_path": "raw/overleaf/ol-ficha-catalografica-fvnjgjpdwzyd/main.tex",
+  "main_doc": "main.tex",
+  "sha256": "81ae5f2dda29ba7f25b5f6a6516072d4b5f378fed8815cd6cec5f87b020f86d3",
+  "size_bytes": 3289,
+  "document_class": "abntex2",
+  "uses_packages": [
+    "fontenc",
+    "inputenc",
+    "lastpage",
+    "microtype",
+    "paralist"
+  ],
+  "download_method": "view-source-modal",
+  "github_url": null,
+  "downloaded_at": "2026-08-02T15:59:04.070Z"
+}

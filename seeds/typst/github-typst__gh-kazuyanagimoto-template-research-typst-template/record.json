@@ -1,0 +1,26 @@
+{
+  "id": "github-typst/gh-kazuyanagimoto-template-research-typst-template",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "beamer",
+  "license": "MIT",
+  "source_url": "https://github.com/kazuyanagimoto/template-research",
+  "original_author": "kazuyanagimoto",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/github-typst__gh-kazuyanagimoto-template-research-typst-template/typst-template.typ",
+  "relative_path": "processed/typst/github-typst__gh-kazuyanagimoto-template-research-typst-template/typst-template.typ",
+  "sha256": "54a9bc93637d8ca2aef83738f88970bfe2b3ca0ac1d66c0bbc4633984f6d58b8",
+  "size_bytes": 5398,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 34,
+  "downloaded_at": "2026-08-02T14:19:02.333Z",
+  "filtered_at": "2026-08-02T17:34:45.138Z"
+}

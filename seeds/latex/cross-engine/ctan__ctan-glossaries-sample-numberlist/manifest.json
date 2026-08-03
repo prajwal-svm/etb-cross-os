@@ -1,0 +1,22 @@
+{
+  "id": "ctan/ctan-glossaries-sample-numberlist",
+  "source": "ctan",
+  "format": "latex",
+  "category": "package-example",
+  "license": "LPPL-1.3c",
+  "source_url": "https://ctan.org/pkg/glossaries",
+  "original_author": "CTAN package: glossaries",
+  "package": "glossaries",
+  "original_path": "/usr/local/texlive/2025/texmf-dist/doc/latex/glossaries/samples/sample-numberlist.tex",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/ctan/ctan-glossaries-sample-numberlist/sample-numberlist.tex",
+  "relative_path": "raw/ctan/ctan-glossaries-sample-numberlist/sample-numberlist.tex",
+  "main_doc": "sample-numberlist.tex",
+  "sha256": "624bbdc7a6c3f1baac68bd39df668bdce27a9a1d6f55d91160900bc0a9852878",
+  "size_bytes": 1211,
+  "document_class": "report",
+  "uses_packages": [
+    "glossaries",
+    "hyperref"
+  ],
+  "downloaded_at": "2026-08-02T13:04:56.446Z"
+}

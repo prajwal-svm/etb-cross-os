@@ -1,0 +1,28 @@
+{
+  "id": "overleaf/ol-template-postmortem-soen-390-hpdpkychchjr",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "misc",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/template-postmortem-soen-390/hpdpkychchjr",
+  "original_author": "TAs",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/overleaf__ol-template-postmortem-soen-390-hpdpkychchjr/main.tex",
+  "relative_path": "processed/latex/cross-engine/overleaf__ol-template-postmortem-soen-390-hpdpkychchjr/main.tex",
+  "sha256": "ebfb36c5a59843af05a4b9e0be89f4ead39a14643e2ac8939c586d9351c221c4",
+  "size_bytes": 468,
+  "document_class": "article",
+  "uses_packages": [
+    "inputenc"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 210,
+  "downloaded_at": "2026-08-02T16:00:02.280Z",
+  "filtered_at": "2026-08-02T17:34:41.949Z"
+}

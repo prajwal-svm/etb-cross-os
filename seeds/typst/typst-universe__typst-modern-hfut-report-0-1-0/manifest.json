@@ -1,0 +1,23 @@
+{
+  "id": "typst-universe/typst-modern-hfut-report-0-1-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "report",
+  "license": "MIT",
+  "source_url": "https://github.com/KercyDing/modern-hfut-report",
+  "original_author": "KercyDing",
+  "package_name": "modern-hfut-report",
+  "package_version": "0.1.0",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/typst-universe/typst-modern-hfut-report-0-1-0/report.typ",
+  "relative_path": "raw/typst-universe/typst-modern-hfut-report-0-1-0/report.typ",
+  "main_doc": "report.typ",
+  "sha256": "f56a4182b4c410b06e59cca2054f08f3cfa86722e966cb72137b06e276384390",
+  "size_bytes": 3140,
+  "document_class": null,
+  "uses_packages": [],
+  "downloaded_at": "2026-08-02T13:10:45.322Z",
+  "categories": [
+    "report"
+  ],
+  "description": "合肥工业大学课程现代设计报告模板。Modern report template for HFUT."
+}

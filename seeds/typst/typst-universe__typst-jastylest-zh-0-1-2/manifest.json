@@ -1,0 +1,24 @@
+{
+  "id": "typst-universe/typst-jastylest-zh-0-1-2",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "report",
+  "license": "MIT",
+  "source_url": "https://github.com/mike-unk/jastylest-zh.git",
+  "original_author": "mike-unk",
+  "package_name": "jastylest-zh",
+  "package_version": "0.1.2",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/typst-universe/typst-jastylest-zh-0-1-2/document.typ",
+  "relative_path": "raw/typst-universe/typst-jastylest-zh-0-1-2/document.typ",
+  "main_doc": "document.typ",
+  "sha256": "171d8bc70713129ddf3027d6f4af8a3fb4c876060eb242f633f3ba7fcbdc0c3b",
+  "size_bytes": 2930,
+  "document_class": null,
+  "uses_packages": [],
+  "downloaded_at": "2026-08-02T13:09:38.804Z",
+  "categories": [
+    "report",
+    "paper"
+  ],
+  "description": "Article optimized for Chinese typesetting"
+}

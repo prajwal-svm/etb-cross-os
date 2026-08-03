@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-lebinyu-typst-thesis-template-cover-style-1",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "thesis",
+  "license": "Apache-2.0",
+  "source_url": "https://github.com/lebinyu/typst-thesis-template",
+  "original_author": "lebinyu",
+  "stars": 3,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-lebinyu-typst-thesis-template-cover-style-1/cover_style.typ",
+  "relative_path": "raw/github-typst/gh-lebinyu-typst-thesis-template-cover-style-1/cover_style.typ",
+  "main_doc": "cover_style.typ",
+  "sha256": "3bfd300ebf0fbec341ad94ed32b232843e4a0bdee2155dcbb0d0e5957a2b949c",
+  "size_bytes": 1628,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "template/cover_style.typ",
+  "downloaded_at": "2026-08-02T14:09:27.404Z"
+}

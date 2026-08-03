@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-profession-ai-data-engineering-master-profession-ai-data-engineering-progetto",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "report",
+  "license": "MIT",
+  "source_url": "https://github.com/profession-ai-data-engineering-master/profession_ai_data_engineering_progetto11",
+  "original_author": "profession-ai-data-engineering-master",
+  "stars": 0,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-profession-ai-data-engineering-master-profession-ai-data-engineering-progetto/02_dati_sintetici.typ",
+  "relative_path": "raw/github-typst/gh-profession-ai-data-engineering-master-profession-ai-data-engineering-progetto/02_dati_sintetici.typ",
+  "main_doc": "02_dati_sintetici.typ",
+  "sha256": "caabf4499367c71597afcc9fc167479b5b2f7079dce3cb527ff63ca7c03bd580",
+  "size_bytes": 13318,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "src/sections/02_dati_sintetici.typ",
+  "downloaded_at": "2026-08-02T14:21:10.221Z"
+}

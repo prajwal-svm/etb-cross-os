@@ -1,0 +1,26 @@
+{
+  "id": "typst-universe/typst-fun-article-0-2-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "venue",
+  "license": "MIT",
+  "source_url": "https://typst.app/universe/package/fun-article",
+  "original_author": "Casper van Elteren",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/typst-universe__typst-fun-article-0-2-0/main.typ",
+  "relative_path": "processed/typst/typst-universe__typst-fun-article-0-2-0/main.typ",
+  "sha256": "ddae118dab90e6637acb1a6e62eb9378434aea0430754275ee7d0c49fd03aedd",
+  "size_bytes": 2206,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 291,
+  "downloaded_at": "2026-08-02T13:08:36.266Z",
+  "filtered_at": "2026-08-02T17:34:43.839Z"
+}

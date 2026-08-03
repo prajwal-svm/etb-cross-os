@@ -1,0 +1,23 @@
+{
+  "id": "typst-universe/typst-touying-matcha-0-1-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "beamer",
+  "license": "MIT",
+  "source_url": "https://codeberg.org/songwupei/touying-matcha",
+  "original_author": "songwupei",
+  "package_name": "touying-matcha",
+  "package_version": "0.1.0",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/typst-universe/typst-touying-matcha-0-1-0/main.typ",
+  "relative_path": "raw/typst-universe/typst-touying-matcha-0-1-0/main.typ",
+  "main_doc": "main.typ",
+  "sha256": "bf4faebeb39025eb651cd8d42bc76df4f71215631f7891d144a4a08ce4c5e5f6",
+  "size_bytes": 386,
+  "document_class": null,
+  "uses_packages": [],
+  "downloaded_at": "2026-08-02T13:14:09.392Z",
+  "categories": [
+    "presentation"
+  ],
+  "description": "A fresh matcha-green theme for the Touying presentation framework, featuring clean headers, slide counters, and focus slides."
+}

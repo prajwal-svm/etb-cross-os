@@ -1,0 +1,31 @@
+{
+  "id": "overleaf/ol-acm-mile-high-video-conference-abstract-template-ccfhtzxhphpy",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "venue",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/acm-mile-high-video-conference-abstract-template/ccfhtzxhphpy",
+  "original_author": "Ekrem Cetinkaya, Minh Nguyen",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/engine-specific/overleaf__ol-acm-mile-high-video-conference-abstract-template-ccfhtzxhphpy/main.tex",
+  "relative_path": "processed/latex/engine-specific/overleaf__ol-acm-mile-high-video-conference-abstract-template-ccfhtzxhphpy/main.tex",
+  "sha256": "937aa4dba52315a4a9315c46043806bbc8d90da99bc415dadf0c989894c7d75d",
+  "size_bytes": 1916,
+  "document_class": "acmart",
+  "uses_packages": [
+    "balance",
+    "graphicx",
+    "subcaption",
+    "url"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": false,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "engine-specific",
+  "compile_time_ms": 6198,
+  "downloaded_at": "2026-08-02T16:25:34.500Z",
+  "filtered_at": "2026-08-02T17:34:40.911Z"
+}

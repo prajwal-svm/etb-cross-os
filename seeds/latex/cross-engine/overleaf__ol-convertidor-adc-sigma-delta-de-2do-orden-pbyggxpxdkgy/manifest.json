@@ -1,0 +1,24 @@
+{
+  "id": "overleaf/ol-convertidor-adc-sigma-delta-de-2do-orden-pbyggxpxdkgy",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "misc",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/convertidor-adc-sigma-delta-de-2do-orden/pbyggxpxdkgy",
+  "original_author": "Ramón Jaramillo",
+  "title": "Convertidor ADC Sigma Delta de 2do Orden",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/overleaf/ol-convertidor-adc-sigma-delta-de-2do-orden-pbyggxpxdkgy/main.tex",
+  "relative_path": "raw/overleaf/ol-convertidor-adc-sigma-delta-de-2do-orden-pbyggxpxdkgy/main.tex",
+  "main_doc": "main.tex",
+  "sha256": "6106f97fe87a341d9f0eca87e0bdd79c4300cfb3eb5e96d737060b44cc19b652",
+  "size_bytes": 4145,
+  "document_class": "standalone",
+  "uses_packages": [
+    "circuitikz",
+    "helvet",
+    "verbatim"
+  ],
+  "download_method": "view-source-modal",
+  "github_url": null,
+  "downloaded_at": "2026-08-02T14:24:11.778Z"
+}

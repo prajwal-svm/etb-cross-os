@@ -1,0 +1,23 @@
+{
+  "id": "typst-universe/typst-dashing-dept-news-0-1-1",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "business",
+  "license": "MIT-0",
+  "source_url": "https://github.com/typst/templates",
+  "original_author": "Typst GmbH",
+  "package_name": "dashing-dept-news",
+  "package_version": "0.1.1",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/typst-universe/typst-dashing-dept-news-0-1-1/main.typ",
+  "relative_path": "raw/typst-universe/typst-dashing-dept-news-0-1-1/main.typ",
+  "main_doc": "main.typ",
+  "sha256": "d05349d8da73929f13ec4cd0df928110c265fcded5c2edbae25a17c7c0d3808e",
+  "size_bytes": 2761,
+  "document_class": null,
+  "uses_packages": [],
+  "downloaded_at": "2026-08-02T13:07:37.222Z",
+  "categories": [
+    "office"
+  ],
+  "description": "Share the news with bold graphic design and a modern layout"
+}

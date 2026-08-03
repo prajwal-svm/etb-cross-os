@@ -1,0 +1,28 @@
+{
+  "id": "overleaf/ol-academic-paper-summary-rcxkskkzdyzy",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "venue",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/academic-paper-summary/rcxkskkzdyzy",
+  "original_author": "Colin Fitzsimons",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/overleaf__ol-academic-paper-summary-rcxkskkzdyzy/main.tex",
+  "relative_path": "processed/latex/cross-engine/overleaf__ol-academic-paper-summary-rcxkskkzdyzy/main.tex",
+  "sha256": "62827cdf2bf1d752f59c9e834191e3455b943328b6e5830e340788a5df23955f",
+  "size_bytes": 393,
+  "document_class": "article",
+  "uses_packages": [
+    "inputenc"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 207,
+  "downloaded_at": "2026-08-02T14:59:05.495Z",
+  "filtered_at": "2026-08-02T17:34:40.907Z"
+}

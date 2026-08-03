@@ -1,0 +1,22 @@
+{
+  "id": "overleaf/ol-tesis-itam-qyqsmymwwfyr",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "misc",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/tesis-itam/qyqsmymwwfyr",
+  "original_author": "Lorena Mejía Domenzain",
+  "title": "Tesis ITAM",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/overleaf/ol-tesis-itam-qyqsmymwwfyr/main.tex",
+  "relative_path": "raw/overleaf/ol-tesis-itam-qyqsmymwwfyr/main.tex",
+  "main_doc": "main.tex",
+  "sha256": "097669c6ab26fa8dcc051401eeaee5094e5723a810e695ded8f6f9baf6c991e4",
+  "size_bytes": 1191,
+  "document_class": "article",
+  "uses_packages": [
+    "inputenc"
+  ],
+  "download_method": "view-source-modal",
+  "github_url": null,
+  "downloaded_at": "2026-08-02T13:44:56.587Z"
+}

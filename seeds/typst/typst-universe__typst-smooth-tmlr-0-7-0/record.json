@@ -1,0 +1,26 @@
+{
+  "id": "typst-universe/typst-smooth-tmlr-0-7-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "venue",
+  "license": "MIT",
+  "source_url": "https://github.com/daskol/typst-templates",
+  "original_author": "Daniel Bershatsky",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/typst-universe__typst-smooth-tmlr-0-7-0/main.typ",
+  "relative_path": "processed/typst/typst-universe__typst-smooth-tmlr-0-7-0/main.typ",
+  "sha256": "16ae94d62aa3186d00ed4aaad0c861bc8d34484870b3ef98ef003376fa0fb048",
+  "size_bytes": 15199,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 283,
+  "downloaded_at": "2026-08-02T13:13:10.901Z",
+  "filtered_at": "2026-08-02T17:34:44.202Z"
+}

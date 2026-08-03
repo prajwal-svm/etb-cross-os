@@ -1,0 +1,26 @@
+{
+  "id": "github-typst/gh-sxdl-mcm-typst-template-lib-1",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "misc",
+  "license": "Apache-2.0",
+  "source_url": "https://github.com/sxdl/MCM-Typst-template",
+  "original_author": "sxdl",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/github-typst__gh-sxdl-mcm-typst-template-lib-1/lib.typ",
+  "relative_path": "processed/typst/github-typst__gh-sxdl-mcm-typst-template-lib-1/lib.typ",
+  "sha256": "0bb1acb06ebfb097f3c0da9c3c48bb906a77473dcc42b6fb2eca75a5684227d4",
+  "size_bytes": 6157,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 13,
+  "downloaded_at": "2026-08-02T14:06:26.294Z",
+  "filtered_at": "2026-08-02T17:34:45.713Z"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "typst-universe/typst-folklore-0-2-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "book",
+  "license": "MIT",
+  "source_url": "https://github.com/wade-cheng/folklore",
+  "original_author": "",
+  "package_name": "folklore",
+  "package_version": "0.2.0",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/typst-universe/typst-folklore-0-2-0/main.typ",
+  "relative_path": "raw/typst-universe/typst-folklore-0-2-0/main.typ",
+  "main_doc": "main.typ",
+  "sha256": "d634882aa2c836673a1fcb8abef1323d96f5606d84d9e1892b1cc9deec618277",
+  "size_bytes": 1229,
+  "document_class": null,
+  "uses_packages": [],
+  "downloaded_at": "2026-08-02T13:08:30.596Z",
+  "categories": [
+    "layout",
+    "book"
+  ],
+  "description": "Typeset fiction novels, with facilities for author commentary."
+}

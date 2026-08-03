@@ -1,0 +1,26 @@
+{
+  "id": "typst-universe/typst-isc-hei-tb-assignment-0-8-1",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "business",
+  "license": "MIT",
+  "source_url": "https://github.com/ISC-HEI/isc-hei-student-templates",
+  "original_author": "Pierre-André Mudry",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/typst-universe__typst-isc-hei-tb-assignment-0-8-1/tb_assignment.typ",
+  "relative_path": "processed/typst/typst-universe__typst-isc-hei-tb-assignment-0-8-1/tb_assignment.typ",
+  "sha256": "b6ca2807a503d11b2a99e67f6c7c06848ed87fa17dade3d8c1684c5b18ceebfc",
+  "size_bytes": 6098,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 346,
+  "downloaded_at": "2026-08-02T13:09:33.903Z",
+  "filtered_at": "2026-08-02T17:34:43.911Z"
+}

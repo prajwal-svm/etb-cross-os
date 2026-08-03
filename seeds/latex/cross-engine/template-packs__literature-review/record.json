@@ -1,0 +1,33 @@
+{
+  "id": "template-packs/literature-review",
+  "source": "template-packs",
+  "format": "latex",
+  "category": "report",
+  "license": "CC0-1.0",
+  "source_url": "https://github.com/Oleafly/template-packs",
+  "original_author": "Oleafly",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/template-packs__literature-review/main.tex",
+  "relative_path": "processed/latex/cross-engine/template-packs__literature-review/main.tex",
+  "sha256": "8334c964606ab3fcf35465a2e921b45cd80050b98a61b2c30725da2f4cf114ad",
+  "size_bytes": 2853,
+  "document_class": "article",
+  "uses_packages": [
+    "booktabs",
+    "geometry",
+    "hyperref",
+    "tabularx",
+    "titlesec",
+    "xcolor"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 396,
+  "downloaded_at": "2026-08-02T13:05:15.748Z",
+  "filtered_at": "2026-08-02T17:34:40.809Z"
+}

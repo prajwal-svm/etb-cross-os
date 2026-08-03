@@ -1,0 +1,23 @@
+{
+  "id": "typst-universe/typst-conforming-uio-master-1-0-1",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "thesis",
+  "license": "MIT-0",
+  "source_url": "https://typst.app/universe/package/conforming-uio-master",
+  "original_author": "Åsmund Olai Sand-Larsen",
+  "package_name": "conforming-uio-master",
+  "package_version": "1.0.1",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/typst-universe/typst-conforming-uio-master-1-0-1/main.typ",
+  "relative_path": "raw/typst-universe/typst-conforming-uio-master-1-0-1/main.typ",
+  "main_doc": "main.typ",
+  "sha256": "d5f34facf9af11c8c0b6668fa135f6fc0db71c5d8b11e3bf7f45221d7dadb5d6",
+  "size_bytes": 624,
+  "document_class": null,
+  "uses_packages": [],
+  "downloaded_at": "2026-08-02T13:07:28.140Z",
+  "categories": [
+    "thesis"
+  ],
+  "description": "Unofficcial Master's thesis at the University of Oslo."
+}

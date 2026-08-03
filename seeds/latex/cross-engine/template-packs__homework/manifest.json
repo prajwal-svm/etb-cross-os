@@ -1,0 +1,28 @@
+{
+  "id": "template-packs/homework",
+  "source": "template-packs",
+  "format": "latex",
+  "category": "coursework",
+  "category_raw": "Assignments",
+  "license": "CC0-1.0",
+  "source_url": "https://github.com/Oleafly/template-packs",
+  "original_author": "Oleafly",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/template-packs/homework/main.tex",
+  "relative_path": "raw/template-packs/homework/main.tex",
+  "main_doc": "main.tex",
+  "sha256": "dbb3157cb6c2cb469e14a442bd7f78ce121b8047aa1f3a8412e8cec57aefb3b0",
+  "size_bytes": 2571,
+  "document_class": "article",
+  "uses_packages": [
+    "amsmath",
+    "amssymb",
+    "amsthm",
+    "fancyhdr",
+    "geometry",
+    "lmodern",
+    "tcolorbox",
+    "xcolor"
+  ],
+  "engine_hint": "xetex",
+  "downloaded_at": "2026-08-02T13:05:15.821Z"
+}

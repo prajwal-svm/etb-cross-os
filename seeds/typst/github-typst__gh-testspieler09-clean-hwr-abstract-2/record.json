@@ -1,0 +1,26 @@
+{
+  "id": "github-typst/gh-testspieler09-clean-hwr-abstract-2",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "misc",
+  "license": "MIT",
+  "source_url": "https://github.com/Testspieler09/clean-hwr",
+  "original_author": "Testspieler09",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/github-typst__gh-testspieler09-clean-hwr-abstract-2/abstract.typ",
+  "relative_path": "processed/typst/github-typst__gh-testspieler09-clean-hwr-abstract-2/abstract.typ",
+  "sha256": "4cb48a1a9e740eba4cc2647064fc270b1c83cfc19730d12d3c80ccf7a3bf3773",
+  "size_bytes": 1515,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 12,
+  "downloaded_at": "2026-08-02T14:09:06.440Z",
+  "filtered_at": "2026-08-02T17:34:45.740Z"
+}

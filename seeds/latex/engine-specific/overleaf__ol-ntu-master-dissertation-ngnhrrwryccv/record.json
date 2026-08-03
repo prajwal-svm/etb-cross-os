@@ -1,0 +1,42 @@
+{
+  "id": "overleaf/ol-ntu-master-dissertation-ngnhrrwryccv",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "thesis",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/ntu-master-dissertation/ngnhrrwryccv",
+  "original_author": "W.M. Zhao",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/engine-specific/overleaf__ol-ntu-master-dissertation-ngnhrrwryccv/main.tex",
+  "relative_path": "processed/latex/engine-specific/overleaf__ol-ntu-master-dissertation-ngnhrrwryccv/main.tex",
+  "sha256": "ce678ce31408ea70faa91c69621c61ca1641f48dcc3170732f34225cfade5129",
+  "size_bytes": 1303,
+  "document_class": "article",
+  "uses_packages": [
+    "amsmath",
+    "caption",
+    "cite",
+    "courier",
+    "float",
+    "geometry",
+    "graphicx",
+    "hyperref",
+    "inputenc",
+    "mathptmx",
+    "setspace",
+    "subfigure",
+    "tabularx",
+    "todonotes",
+    "url"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": false
+  },
+  "engine_class": "engine-specific",
+  "compile_time_ms": 1687,
+  "downloaded_at": "2026-08-02T13:52:59.443Z",
+  "filtered_at": "2026-08-02T17:34:41.563Z"
+}

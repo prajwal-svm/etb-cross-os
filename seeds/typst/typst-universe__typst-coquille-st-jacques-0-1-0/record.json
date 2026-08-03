@@ -1,0 +1,26 @@
+{
+  "id": "typst-universe/typst-coquille-st-jacques-0-1-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "report",
+  "license": "Apache-2.0",
+  "source_url": "https://github.com/dmetzler/un-cours-avec-l-ia",
+  "original_author": "Damien Metzler",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/typst-universe__typst-coquille-st-jacques-0-1-0/main.typ",
+  "relative_path": "processed/typst/typst-universe__typst-coquille-st-jacques-0-1-0/main.typ",
+  "sha256": "c63036fe14c81796b1ce85bb94ca05d34554b09673412593d5b07c4b9fcdc0e4",
+  "size_bytes": 1740,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 181,
+  "downloaded_at": "2026-08-02T13:07:28.523Z",
+  "filtered_at": "2026-08-02T17:34:43.755Z"
+}

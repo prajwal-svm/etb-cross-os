@@ -1,0 +1,32 @@
+{
+  "id": "overleaf/ol-100-integrals-rewritten-jtbtnrsxzmjr",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "misc",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/100-integrals-rewritten/jtbtnrsxzmjr",
+  "original_author": "josiah",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/overleaf__ol-100-integrals-rewritten-jtbtnrsxzmjr/main.tex",
+  "relative_path": "processed/latex/cross-engine/overleaf__ol-100-integrals-rewritten-jtbtnrsxzmjr/main.tex",
+  "sha256": "7d5c159a8986ac1b4fc23b2dba2b4300b990cec9a3e03aa2086f54dbb8b034d0",
+  "size_bytes": 69908,
+  "document_class": "article",
+  "uses_packages": [
+    "amsfonts",
+    "amsmath",
+    "amssymb",
+    "bigints",
+    "inputenc"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 398,
+  "downloaded_at": "2026-08-02T14:27:40.820Z",
+  "filtered_at": "2026-08-02T17:34:40.881Z"
+}

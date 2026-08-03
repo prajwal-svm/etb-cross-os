@@ -1,0 +1,32 @@
+{
+  "id": "template-packs/tikz-gallery",
+  "source": "template-packs",
+  "format": "latex",
+  "category": "creative",
+  "license": "CC0-1.0",
+  "source_url": "https://github.com/Oleafly/template-packs",
+  "original_author": "Oleafly",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/template-packs__tikz-gallery/main.tex",
+  "relative_path": "processed/latex/cross-engine/template-packs__tikz-gallery/main.tex",
+  "sha256": "4a16f97c9b6579df4a93ec113cd9443c9bd8a5775c09b0f62672aef2a8908335",
+  "size_bytes": 3992,
+  "document_class": "article",
+  "uses_packages": [
+    "geometry",
+    "pgfplots",
+    "sourcesanspro",
+    "tikz",
+    "xcolor"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 1204,
+  "downloaded_at": "2026-08-02T13:05:15.838Z",
+  "filtered_at": "2026-08-02T17:34:40.856Z"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "typst-universe/typst-arkheion-0-1-2",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "venue",
+  "license": "MIT",
+  "source_url": "https://github.com/mgoulao/arkheion",
+  "original_author": "Manuel Goulão",
+  "package_name": "arkheion",
+  "package_version": "0.1.2",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/typst-universe/typst-arkheion-0-1-2/main.typ",
+  "relative_path": "raw/typst-universe/typst-arkheion-0-1-2/main.typ",
+  "main_doc": "main.typ",
+  "sha256": "f7f711c546b4583e0513dcb9075612efe6eef0589a1b5928a08f84c57781661d",
+  "size_bytes": 2730,
+  "document_class": null,
+  "uses_packages": [],
+  "downloaded_at": "2026-08-02T13:05:48.669Z",
+  "categories": [
+    "paper"
+  ],
+  "description": "A simple template reproducing popular arXiv templates."
+}

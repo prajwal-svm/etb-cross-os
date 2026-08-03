@@ -1,0 +1,26 @@
+{
+  "id": "overleaf/ol-discussion-essay-template-jdhdcsttjzqz",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "misc",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/discussion-essay-template/jdhdcsttjzqz",
+  "original_author": "AA",
+  "title": "Discussion Essay Template",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/overleaf/ol-discussion-essay-template-jdhdcsttjzqz/main.tex",
+  "relative_path": "raw/overleaf/ol-discussion-essay-template-jdhdcsttjzqz/main.tex",
+  "main_doc": "main.tex",
+  "sha256": "5cdcdf9d3d9e6ef989d0f6e1d27f1c9d299eb1a129b77f66aae46810363926e2",
+  "size_bytes": 1495,
+  "document_class": "article",
+  "uses_packages": [
+    "comment",
+    "fullpage",
+    "graphicx",
+    "lipsum",
+    "natbib"
+  ],
+  "download_method": "view-source-modal",
+  "github_url": null,
+  "downloaded_at": "2026-08-02T16:51:36.657Z"
+}

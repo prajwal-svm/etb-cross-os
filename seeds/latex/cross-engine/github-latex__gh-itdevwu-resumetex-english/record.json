@@ -1,0 +1,42 @@
+{
+  "id": "github-latex/gh-itdevwu-resumetex-english",
+  "source": "github-latex",
+  "format": "latex",
+  "category": "cv",
+  "license": "Apache-2.0",
+  "source_url": "https://github.com/itdevwu/resumeTeX",
+  "original_author": "itdevwu",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/github-latex__gh-itdevwu-resumetex-english/english.tex",
+  "relative_path": "processed/latex/cross-engine/github-latex__gh-itdevwu-resumetex-english/english.tex",
+  "sha256": "688a87b6c43e7ec49465bf821aa740576ebb03e1912e2510831fcf87878cf566",
+  "size_bytes": 9083,
+  "document_class": "article",
+  "uses_packages": [
+    "amsfonts",
+    "amsmath",
+    "amssymb",
+    "amsthm",
+    "enumitem",
+    "fontawesome5",
+    "geometry",
+    "graphicx",
+    "hyperref",
+    "hyperxmp",
+    "mathpazo",
+    "tabularx",
+    "tgpagella",
+    "times",
+    "xcolor"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 3118,
+  "downloaded_at": "2026-08-02T13:16:32.746Z",
+  "filtered_at": "2026-08-02T17:34:42.908Z"
+}

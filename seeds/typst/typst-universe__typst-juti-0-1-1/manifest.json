@@ -1,0 +1,23 @@
+{
+  "id": "typst-universe/typst-juti-0-1-1",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "venue",
+  "license": "MIT",
+  "source_url": "https://typst.app/universe/package/juti",
+  "original_author": "Moch. Nafkhan Alzamzami",
+  "package_name": "juti",
+  "package_version": "0.1.1",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/typst-universe/typst-juti-0-1-1/main.typ",
+  "relative_path": "raw/typst-universe/typst-juti-0-1-1/main.typ",
+  "main_doc": "main.typ",
+  "sha256": "6bce43b073a5b65b5120a4d9e34f18646e1c937c5cc96359de3e3912ca3ef27e",
+  "size_bytes": 5701,
+  "document_class": null,
+  "uses_packages": [],
+  "downloaded_at": "2026-08-02T13:09:43.694Z",
+  "categories": [
+    "paper"
+  ],
+  "description": "Template for writing articles for JUTI: Jurnal Ilmiah Teknologi Informasi"
+}

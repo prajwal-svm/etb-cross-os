@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-lpgonzalez-uc3m-tfg-typst-template-es-02-soa-2",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "misc",
+  "license": "MIT",
+  "source_url": "https://github.com/lpgonzalez/uc3m_tfg_typst_template_es",
+  "original_author": "lpgonzalez",
+  "stars": 2,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-lpgonzalez-uc3m-tfg-typst-template-es-02-soa-2/02_soa.typ",
+  "relative_path": "raw/github-typst/gh-lpgonzalez-uc3m-tfg-typst-template-es-02-soa-2/02_soa.typ",
+  "main_doc": "02_soa.typ",
+  "sha256": "d3852a3da0d1a755393724e09bed2eb5c9a2f897c7b23cf84aa639b8c41e2456",
+  "size_bytes": 282,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "chapters/02_soa.typ",
+  "downloaded_at": "2026-08-02T14:10:14.453Z"
+}

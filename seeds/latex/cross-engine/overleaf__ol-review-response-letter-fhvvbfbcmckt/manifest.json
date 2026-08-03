@@ -1,0 +1,22 @@
+{
+  "id": "overleaf/ol-review-response-letter-fhvvbfbcmckt",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "letter",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/review-response-letter/fhvvbfbcmckt",
+  "original_author": "Aliakbar Akbaritabar",
+  "title": "Review response letter",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/overleaf/ol-review-response-letter-fhvvbfbcmckt/main.tex",
+  "relative_path": "raw/overleaf/ol-review-response-letter-fhvvbfbcmckt/main.tex",
+  "main_doc": "main.tex",
+  "sha256": "afa325f0e610b3e627eaa4f5644f7bd36f6d4daac1d9e37c8271ec4d42956a64",
+  "size_bytes": 1857,
+  "document_class": "article",
+  "uses_packages": [
+    "graphicx"
+  ],
+  "download_method": "view-source-modal",
+  "github_url": null,
+  "downloaded_at": "2026-08-02T15:03:18.897Z"
+}

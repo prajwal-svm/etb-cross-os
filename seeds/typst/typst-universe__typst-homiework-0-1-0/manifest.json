@@ -1,0 +1,23 @@
+{
+  "id": "typst-universe/typst-homiework-0-1-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "coursework",
+  "license": "MIT",
+  "source_url": "https://github.com/tcfollett/homework-template",
+  "original_author": "Tobias Follett",
+  "package_name": "homiework",
+  "package_version": "0.1.0",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/typst-universe/typst-homiework-0-1-0/main.typ",
+  "relative_path": "raw/typst-universe/typst-homiework-0-1-0/main.typ",
+  "main_doc": "main.typ",
+  "sha256": "fe1e892efae25a9df9953595a00e2a38750c20fc1f66a40a60f51da8c584ac3e",
+  "size_bytes": 3195,
+  "document_class": null,
+  "uses_packages": [],
+  "downloaded_at": "2026-08-02T13:09:04.852Z",
+  "categories": [
+    "components"
+  ],
+  "description": "Homework template for university students"
+}

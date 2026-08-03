@@ -1,0 +1,25 @@
+{
+  "id": "typst-universe/typst-modern-zhaw-thesis-0-4-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "thesis",
+  "license": "MIT-0",
+  "source_url": "https://github.com/stanlrt/typst-zhaw-thesis",
+  "original_author": "Stanislas Laurent",
+  "package_name": "modern-zhaw-thesis",
+  "package_version": "0.4.0",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/typst-universe/typst-modern-zhaw-thesis-0-4-0/main.typ",
+  "relative_path": "raw/typst-universe/typst-modern-zhaw-thesis-0-4-0/main.typ",
+  "main_doc": "main.typ",
+  "sha256": "0a96e41865606737b405838860582b7bca1d00f5c96fd359743b77d234b95c4c",
+  "size_bytes": 6340,
+  "document_class": null,
+  "uses_packages": [],
+  "downloaded_at": "2026-08-02T13:11:19.396Z",
+  "categories": [
+    "thesis",
+    "report",
+    "paper"
+  ],
+  "description": "Comprehensive template for ZHAW academic works (theses, exercises, reports...), adapted from the official branding and guidelines."
+}

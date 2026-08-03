@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-hhuslamlab-hhu-typst-template-theme-1",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "beamer",
+  "license": "MIT",
+  "source_url": "https://github.com/hhuslamlab/hhu-typst-template",
+  "original_author": "hhuslamlab",
+  "stars": 1,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-hhuslamlab-hhu-typst-template-theme-1/theme.typ",
+  "relative_path": "raw/github-typst/gh-hhuslamlab-hhu-typst-template-theme-1/theme.typ",
+  "main_doc": "theme.typ",
+  "sha256": "b53b086d43d5c0844b35b8acd66b4202ca42023f1cc0a2612abb19bdcc8e43b2",
+  "size_bytes": 10659,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "theme.typ",
+  "downloaded_at": "2026-08-02T14:11:26.774Z"
+}

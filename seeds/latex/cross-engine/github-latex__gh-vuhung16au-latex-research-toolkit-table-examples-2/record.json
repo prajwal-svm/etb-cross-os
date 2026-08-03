@@ -1,0 +1,39 @@
+{
+  "id": "github-latex/gh-vuhung16au-latex-research-toolkit-table-examples-2",
+  "source": "github-latex",
+  "format": "latex",
+  "category": "coursework",
+  "license": "MIT",
+  "source_url": "https://github.com/vuhung16au/LaTeX-Research-Toolkit",
+  "original_author": "vuhung16au",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/github-latex__gh-vuhung16au-latex-research-toolkit-table-examples-2/table-examples.tex",
+  "relative_path": "processed/latex/cross-engine/github-latex__gh-vuhung16au-latex-research-toolkit-table-examples-2/table-examples.tex",
+  "sha256": "91149e5943d8e75d661ed20d0d7bddcc38eaee71858492ead84a178060a33d4d",
+  "size_bytes": 7708,
+  "document_class": "article",
+  "uses_packages": [
+    "array",
+    "booktabs",
+    "colortbl",
+    "csvsimple",
+    "filecontents",
+    "graphicx",
+    "inputenc",
+    "longtable",
+    "makecell",
+    "multirow",
+    "tabularx",
+    "xcolor"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 318,
+  "downloaded_at": "2026-08-02T13:25:55.027Z",
+  "filtered_at": "2026-08-02T17:34:43.541Z"
+}

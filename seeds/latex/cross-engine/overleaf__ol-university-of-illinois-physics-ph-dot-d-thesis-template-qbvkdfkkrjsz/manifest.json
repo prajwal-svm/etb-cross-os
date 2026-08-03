@@ -1,0 +1,20 @@
+{
+  "id": "overleaf/ol-university-of-illinois-physics-ph-dot-d-thesis-template-qbvkdfkkrjsz",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "thesis",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/university-of-illinois-physics-ph-dot-d-thesis-template/qbvkdfkkrjsz",
+  "original_author": "Tim Head, Peter Czoschke, David Hull, Gregory Hart",
+  "title": "University of Illinois Physics Ph.D. Thesis template",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/overleaf/ol-university-of-illinois-physics-ph-dot-d-thesis-template-qbvkdfkkrjsz/main.tex",
+  "relative_path": "raw/overleaf/ol-university-of-illinois-physics-ph-dot-d-thesis-template-qbvkdfkkrjsz/main.tex",
+  "main_doc": "main.tex",
+  "sha256": "169e0c1f45cad2af3f2415d21ed3f715a7f86626a1764f5e74bdd0cc9472e861",
+  "size_bytes": 3215,
+  "document_class": "uiucthesis",
+  "uses_packages": [],
+  "download_method": "view-source-modal",
+  "github_url": null,
+  "downloaded_at": "2026-08-02T16:43:45.312Z"
+}

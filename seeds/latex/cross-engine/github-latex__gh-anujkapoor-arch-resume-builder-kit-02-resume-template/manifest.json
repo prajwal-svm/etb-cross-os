@@ -1,0 +1,27 @@
+{
+  "id": "github-latex/gh-anujkapoor-arch-resume-builder-kit-02-resume-template",
+  "source": "github-latex",
+  "format": "latex",
+  "category": "cv",
+  "license": "MIT",
+  "source_url": "https://github.com/anujkapoor-arch/resume-builder-kit",
+  "original_author": "anujkapoor-arch",
+  "stars": 0,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-latex/gh-anujkapoor-arch-resume-builder-kit-02-resume-template/02_RESUME_TEMPLATE.tex",
+  "relative_path": "raw/github-latex/gh-anujkapoor-arch-resume-builder-kit-02-resume-template/02_RESUME_TEMPLATE.tex",
+  "main_doc": "02_RESUME_TEMPLATE.tex",
+  "sha256": "8f39ff73410e8eef801c659927a4531112b0b3ec69be82665e670369ea3d2c8c",
+  "size_bytes": 8127,
+  "document_class": "article",
+  "uses_packages": [
+    "enumitem",
+    "fontenc",
+    "geometry",
+    "hyperref",
+    "tabularx",
+    "titlesec",
+    "xcolor"
+  ],
+  "repo_path": "02_RESUME_TEMPLATE.tex",
+  "downloaded_at": "2026-08-02T14:00:47.970Z"
+}

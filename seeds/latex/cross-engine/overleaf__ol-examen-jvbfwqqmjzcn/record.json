@@ -1,0 +1,41 @@
+{
+  "id": "overleaf/ol-examen-jvbfwqqmjzcn",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "coursework",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/examen/jvbfwqqmjzcn",
+  "original_author": "Pontoni Emanuel",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/overleaf__ol-examen-jvbfwqqmjzcn/main.tex",
+  "relative_path": "processed/latex/cross-engine/overleaf__ol-examen-jvbfwqqmjzcn/main.tex",
+  "sha256": "f192b99bc12e78336264c04d052815a601a41c92e3f9ed4a1720e63a5f7ed7fd",
+  "size_bytes": 3554,
+  "document_class": "exam",
+  "uses_packages": [
+    "amsfonts",
+    "amsmath",
+    "amssymb",
+    "babel",
+    "geometry",
+    "graphicx",
+    "inputenc",
+    "lipsum",
+    "makecell",
+    "mathexam",
+    "mathptmx",
+    "mathtools",
+    "pzc",
+    "showframe"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 358,
+  "downloaded_at": "2026-08-02T15:00:31.213Z",
+  "filtered_at": "2026-08-02T17:34:41.134Z"
+}

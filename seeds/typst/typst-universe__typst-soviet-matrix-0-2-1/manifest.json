@@ -1,0 +1,23 @@
+{
+  "id": "typst-universe/typst-soviet-matrix-0-2-1",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "misc",
+  "license": "MIT",
+  "source_url": "https://github.com/YouXam/soviet-matrix",
+  "original_author": "YouXam",
+  "package_name": "soviet-matrix",
+  "package_version": "0.2.1",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/typst-universe/typst-soviet-matrix-0-2-1/main.typ",
+  "relative_path": "raw/typst-universe/typst-soviet-matrix-0-2-1/main.typ",
+  "main_doc": "main.typ",
+  "sha256": "da7c05f2951cb98d0672620bc7b6040fff48ded0f0a0029197bb847a40110931",
+  "size_bytes": 237,
+  "document_class": null,
+  "uses_packages": [],
+  "downloaded_at": "2026-08-02T13:13:12.996Z",
+  "categories": [
+    "fun"
+  ],
+  "description": "Tetris game in Typst"
+}

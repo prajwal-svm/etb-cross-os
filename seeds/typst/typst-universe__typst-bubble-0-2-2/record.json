@@ -1,0 +1,26 @@
+{
+  "id": "typst-universe/typst-bubble-0-2-2",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "venue",
+  "license": "MIT-0",
+  "source_url": "https://github.com/hzkonor/bubble-template",
+  "original_author": "Conor",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/typst-universe__typst-bubble-0-2-2/main.typ",
+  "relative_path": "processed/typst/typst-universe__typst-bubble-0-2-2/main.typ",
+  "sha256": "46abc7986574597f8e090e55929b518485684cb11cdbe7557eaa9e31ec35d8f9",
+  "size_bytes": 1061,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 235,
+  "downloaded_at": "2026-08-02T13:06:21.043Z",
+  "filtered_at": "2026-08-02T17:34:43.662Z"
+}

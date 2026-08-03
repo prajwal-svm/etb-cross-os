@@ -1,0 +1,28 @@
+{
+  "id": "overleaf/ol-modelo-de-relatorio-dnxhwsjdmpyb",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "misc",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/modelo-de-relatorio/dnxhwsjdmpyb",
+  "original_author": "Lazaro Silva",
+  "title": "Modelo de Relatório",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/overleaf/ol-modelo-de-relatorio-dnxhwsjdmpyb/main.tex",
+  "relative_path": "raw/overleaf/ol-modelo-de-relatorio-dnxhwsjdmpyb/main.tex",
+  "main_doc": "main.tex",
+  "sha256": "06f5f14fa0679748a0fa44dd3cf0e0a95d2748239c311b749d4095f221ffec24",
+  "size_bytes": 2832,
+  "document_class": "article",
+  "uses_packages": [
+    "amsmath",
+    "babel",
+    "graphicx",
+    "indentfirst",
+    "inputenc",
+    "lipsum",
+    "multicol"
+  ],
+  "download_method": "view-source-modal",
+  "github_url": null,
+  "downloaded_at": "2026-08-02T14:14:04.866Z"
+}

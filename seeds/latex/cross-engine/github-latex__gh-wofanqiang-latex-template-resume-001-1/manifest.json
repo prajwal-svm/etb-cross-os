@@ -1,0 +1,27 @@
+{
+  "id": "github-latex/gh-wofanqiang-latex-template-resume-001-1",
+  "source": "github-latex",
+  "format": "latex",
+  "category": "cv",
+  "license": "Apache-2.0",
+  "source_url": "https://github.com/wofanqiang/Latex_Template",
+  "original_author": "wofanqiang",
+  "stars": 0,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-latex/gh-wofanqiang-latex-template-resume-001-1/resume_001.tex",
+  "relative_path": "raw/github-latex/gh-wofanqiang-latex-template-resume-001-1/resume_001.tex",
+  "main_doc": "resume_001.tex",
+  "sha256": "422e221bc5e6e75e07ca4dcbfef527e5296bee5e8fe6e83ac79bbf2b6da56418",
+  "size_bytes": 7258,
+  "document_class": "moderncv",
+  "uses_packages": [
+    "CJKutf8",
+    "geometry",
+    "inputenc",
+    "multibib",
+    "multicol",
+    "pdfpages",
+    "xpatch"
+  ],
+  "repo_path": "resume/resume_001/resume_001.tex",
+  "downloaded_at": "2026-08-02T13:43:18.172Z"
+}

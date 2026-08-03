@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-nack098-note-template-title-template-2",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "misc",
+  "license": "MIT",
+  "source_url": "https://github.com/nack098/note-template",
+  "original_author": "nack098",
+  "stars": 0,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-nack098-note-template-title-template-2/title_template.typ",
+  "relative_path": "raw/github-typst/gh-nack098-note-template-title-template-2/title_template.typ",
+  "main_doc": "title_template.typ",
+  "sha256": "77496150b61b01dab51f0b68e7e6dba40272ec70d29700ab4bada8c42c8c16d3",
+  "size_bytes": 3431,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "templates/title_template.typ",
+  "downloaded_at": "2026-08-02T14:18:06.996Z"
+}

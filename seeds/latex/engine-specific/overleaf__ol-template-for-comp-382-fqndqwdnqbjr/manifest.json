@@ -1,0 +1,33 @@
+{
+  "id": "overleaf/ol-template-for-comp-382-fqndqwdnqbjr",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "misc",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/template-for-comp-382/fqndqwdnqbjr",
+  "original_author": "Jesse McCree",
+  "title": "Template for COMP 382",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/overleaf/ol-template-for-comp-382-fqndqwdnqbjr/main.tex",
+  "relative_path": "raw/overleaf/ol-template-for-comp-382-fqndqwdnqbjr/main.tex",
+  "main_doc": "main.tex",
+  "sha256": "e91c5eb29dc67fa165ed28c0f1574a029a57ad7d77008458e8d64dd9ef5ef565",
+  "size_bytes": 823,
+  "document_class": "article",
+  "uses_packages": [
+    "algorithm2e",
+    "amsmath",
+    "amssymb",
+    "enumitem",
+    "fancyhdr",
+    "fullpage",
+    "graphicx",
+    "mathtools",
+    "scrextend",
+    "times",
+    "titlesec",
+    "ulem"
+  ],
+  "download_method": "view-source-modal",
+  "github_url": null,
+  "downloaded_at": "2026-08-02T16:53:20.203Z"
+}

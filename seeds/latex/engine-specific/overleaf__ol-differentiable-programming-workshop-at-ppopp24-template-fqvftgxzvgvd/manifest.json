@@ -1,0 +1,23 @@
+{
+  "id": "overleaf/ol-differentiable-programming-workshop-at-ppopp24-template-fqvftgxzvgvd",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "misc",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/differentiable-programming-workshop-at-ppopp24-template/fqvftgxzvgvd",
+  "original_author": "Ludger Paehler, Jan Hueckelheim",
+  "title": "Differentiable Programming Workshop at PPoPP'24 Template",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/overleaf/ol-differentiable-programming-workshop-at-ppopp24-template-fqvftgxzvgvd/main.tex",
+  "relative_path": "raw/overleaf/ol-differentiable-programming-workshop-at-ppopp24-template-fqvftgxzvgvd/main.tex",
+  "main_doc": "main.tex",
+  "sha256": "c94cc741187b96465ae50525ca25ffc7aa193c4599f8489056637700824be89d",
+  "size_bytes": 7753,
+  "document_class": "acmart",
+  "uses_packages": [
+    "booktabs",
+    "subcaption"
+  ],
+  "download_method": "view-source-modal",
+  "github_url": null,
+  "downloaded_at": "2026-08-02T15:28:09.072Z"
+}

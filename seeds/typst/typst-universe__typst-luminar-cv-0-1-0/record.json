@@ -1,0 +1,26 @@
+{
+  "id": "typst-universe/typst-luminar-cv-0-1-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "cv",
+  "license": "MIT",
+  "source_url": "https://typst.app/universe/package/luminar-cv",
+  "original_author": "Florian Vogt",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/typst-universe__typst-luminar-cv-0-1-0/cv.typ",
+  "relative_path": "processed/typst/typst-universe__typst-luminar-cv-0-1-0/cv.typ",
+  "sha256": "c1015e092595db9a9749dd0a2fb89495b83b09230ad9465702f3689aa0dbd3c1",
+  "size_bytes": 4869,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 281,
+  "downloaded_at": "2026-08-02T13:10:05.143Z",
+  "filtered_at": "2026-08-02T17:34:43.959Z"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "github-typst/gh-edwinchang24-typst-gru-lib",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "misc",
+  "license": "MIT",
+  "source_url": "https://github.com/EdwinChang24/typst-gru",
+  "original_author": "EdwinChang24",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/github-typst__gh-edwinchang24-typst-gru-lib/lib.typ",
+  "relative_path": "processed/typst/github-typst__gh-edwinchang24-typst-gru-lib/lib.typ",
+  "sha256": "58131e0a2110a9396b0259a8656970bab7ac10661e3e4514a79ac48597851d3f",
+  "size_bytes": 669,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 8,
+  "downloaded_at": "2026-08-02T14:06:58.992Z",
+  "filtered_at": "2026-08-02T17:34:44.783Z"
+}

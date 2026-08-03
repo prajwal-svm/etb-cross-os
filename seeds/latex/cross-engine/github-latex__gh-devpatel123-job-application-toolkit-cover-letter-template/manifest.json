@@ -1,0 +1,28 @@
+{
+  "id": "github-latex/gh-devpatel123-job-application-toolkit-cover-letter-template",
+  "source": "github-latex",
+  "format": "latex",
+  "category": "cv",
+  "license": "MIT",
+  "source_url": "https://github.com/devpatel123/job-application-toolkit",
+  "original_author": "devpatel123",
+  "stars": 0,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-latex/gh-devpatel123-job-application-toolkit-cover-letter-template/cover_letter_template.tex",
+  "relative_path": "raw/github-latex/gh-devpatel123-job-application-toolkit-cover-letter-template/cover_letter_template.tex",
+  "main_doc": "cover_letter_template.tex",
+  "sha256": "6a5a99db8d3db1bd27d105fbeaeadd00119886eac6563e91310c1583ef07b680",
+  "size_bytes": 2871,
+  "document_class": "article",
+  "uses_packages": [
+    "fontenc",
+    "geometry",
+    "hyperref",
+    "inputenc",
+    "newpxmath",
+    "newpxtext",
+    "parskip",
+    "xcolor"
+  ],
+  "repo_path": "templates/cover_letter_template.tex",
+  "downloaded_at": "2026-08-02T14:00:47.312Z"
+}

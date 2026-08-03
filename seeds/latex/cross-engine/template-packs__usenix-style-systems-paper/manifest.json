@@ -1,0 +1,26 @@
+{
+  "id": "template-packs/usenix-style-systems-paper",
+  "source": "template-packs",
+  "format": "latex",
+  "category": "venue",
+  "category_raw": "Journals & Conferences",
+  "license": "CC0-1.0",
+  "source_url": "https://github.com/Oleafly/template-packs",
+  "original_author": "Oleafly",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/template-packs/usenix-style-systems-paper/main.tex",
+  "relative_path": "raw/template-packs/usenix-style-systems-paper/main.tex",
+  "main_doc": "main.tex",
+  "sha256": "943916ae2e6def37f695483613bd451151d9d7307da9c00df7fd0a97f8e7ba83",
+  "size_bytes": 3317,
+  "document_class": "article",
+  "uses_packages": [
+    "amsmath",
+    "booktabs",
+    "geometry",
+    "hyperref",
+    "mathptmx",
+    "titlesec"
+  ],
+  "engine_hint": "xetex",
+  "downloaded_at": "2026-08-02T13:05:15.815Z"
+}

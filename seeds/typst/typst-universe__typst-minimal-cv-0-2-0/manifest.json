@@ -1,0 +1,23 @@
+{
+  "id": "typst-universe/typst-minimal-cv-0-2-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "cv",
+  "license": "MIT-0",
+  "source_url": "https://github.com/lelimacon/typst-minimal-cv",
+  "original_author": "lelimacon",
+  "package_name": "minimal-cv",
+  "package_version": "0.2.0",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/typst-universe/typst-minimal-cv-0-2-0/main.typ",
+  "relative_path": "raw/typst-universe/typst-minimal-cv-0-2-0/main.typ",
+  "main_doc": "main.typ",
+  "sha256": "96b3abc72a4b9df586fcd3a0955c79d5d9476c62a58ef1cd9512e0419234ca61",
+  "size_bytes": 5103,
+  "document_class": null,
+  "uses_packages": [],
+  "downloaded_at": "2026-08-02T13:10:25.008Z",
+  "categories": [
+    "cv"
+  ],
+  "description": "A clean and customizable CV template"
+}

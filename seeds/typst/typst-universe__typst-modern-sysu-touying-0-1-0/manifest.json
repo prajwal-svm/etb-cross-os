@@ -1,0 +1,23 @@
+{
+  "id": "typst-universe/typst-modern-sysu-touying-0-1-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "beamer",
+  "license": "MIT",
+  "source_url": "https://github.com/sysu/modern-sysu-touying",
+  "original_author": "Sunny Huang",
+  "package_name": "modern-sysu-touying",
+  "package_version": "0.1.0",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/typst-universe/typst-modern-sysu-touying-0-1-0/touying.typ",
+  "relative_path": "raw/typst-universe/typst-modern-sysu-touying-0-1-0/touying.typ",
+  "main_doc": "touying.typ",
+  "sha256": "00559928fef4e82acd32ca8e8e1d4d4ec40e5d8204c68f54900ef7652c6b6c93",
+  "size_bytes": 933,
+  "document_class": null,
+  "uses_packages": [],
+  "downloaded_at": "2026-08-02T13:11:01.637Z",
+  "categories": [
+    "presentation"
+  ],
+  "description": "中山大学幻灯片 Typst 模板，A Typst template for SYSU presentation"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-dasiretiring109-typst-resume-template-bracket-index-titles-1",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "cv",
+  "license": "MIT",
+  "source_url": "https://github.com/Dasiretiring109/Typst-resume-template",
+  "original_author": "Dasiretiring109",
+  "stars": 3,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-dasiretiring109-typst-resume-template-bracket-index-titles-1/bracket_index_titles.typ",
+  "relative_path": "raw/github-typst/gh-dasiretiring109-typst-resume-template-bracket-index-titles-1/bracket_index_titles.typ",
+  "main_doc": "bracket_index_titles.typ",
+  "sha256": "eb866fa35a3fe28d3a0dd142c48bc2dface13570df4e2221f68478ddd688f628",
+  "size_bytes": 3044,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "typ/bracket_index_titles.typ",
+  "downloaded_at": "2026-08-02T14:08:36.724Z"
+}

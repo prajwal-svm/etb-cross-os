@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-aliciafrancomartinez-typthesisafm-00-abstract-1",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "thesis",
+  "license": "MIT",
+  "source_url": "https://github.com/AliciaFrancoMartinez/typthesisAFM",
+  "original_author": "AliciaFrancoMartinez",
+  "stars": 0,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-aliciafrancomartinez-typthesisafm-00-abstract-1/00_abstract.typ",
+  "relative_path": "raw/github-typst/gh-aliciafrancomartinez-typthesisafm-00-abstract-1/00_abstract.typ",
+  "main_doc": "00_abstract.typ",
+  "sha256": "6ceb65dc3be5c2ca37f73492437c5518203ba49a4f6c894a5128c8d0b5a77ca0",
+  "size_bytes": 673,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "content/00_abstract.typ",
+  "downloaded_at": "2026-08-02T14:18:21.271Z"
+}

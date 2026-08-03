@@ -1,0 +1,27 @@
+{
+  "id": "template-packs/algorithm-pseudocode",
+  "source": "template-packs",
+  "format": "latex",
+  "category": "coursework",
+  "category_raw": "Assignments",
+  "license": "CC0-1.0",
+  "source_url": "https://github.com/Oleafly/template-packs",
+  "original_author": "Oleafly",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/template-packs/algorithm-pseudocode/main.tex",
+  "relative_path": "raw/template-packs/algorithm-pseudocode/main.tex",
+  "main_doc": "main.tex",
+  "sha256": "92af5e24d4ff1f245a03c7b59eb14c5a68be139909e334ca65ff1bb9d39b2001",
+  "size_bytes": 2804,
+  "document_class": "article",
+  "uses_packages": [
+    "algorithm2e",
+    "amsmath",
+    "amssymb",
+    "fancyhdr",
+    "geometry",
+    "lmodern",
+    "xcolor"
+  ],
+  "engine_hint": "xetex",
+  "downloaded_at": "2026-08-02T13:05:15.816Z"
+}

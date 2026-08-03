@@ -1,0 +1,23 @@
+{
+  "id": "typst-universe/typst-solo-lu-df-2-1-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "venue",
+  "license": "MIT-0",
+  "source_url": "https://github.com/kristoferssolo/LU-DF-Typst-Template",
+  "original_author": "Kristofers Solo",
+  "package_name": "solo-lu-df",
+  "package_version": "2.1.0",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/typst-universe/typst-solo-lu-df-2-1-0/main.typ",
+  "relative_path": "raw/typst-universe/typst-solo-lu-df-2-1-0/main.typ",
+  "main_doc": "main.typ",
+  "sha256": "00f43a75ec7f4b7b3592d76d84916692f94b0401c8beb32c043f405731a0d613",
+  "size_bytes": 2113,
+  "document_class": null,
+  "uses_packages": [],
+  "downloaded_at": "2026-08-02T13:13:12.270Z",
+  "categories": [
+    "paper"
+  ],
+  "description": "Write qualification papers, bachelor’s theses, and master’s theses for University of Latvia, Computer Science programme."
+}

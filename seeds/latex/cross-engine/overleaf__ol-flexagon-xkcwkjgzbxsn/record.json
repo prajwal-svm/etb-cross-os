@@ -1,0 +1,30 @@
+{
+  "id": "overleaf/ol-flexagon-xkcwkjgzbxsn",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "misc",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/flexagon/xkcwkjgzbxsn",
+  "original_author": "David",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/overleaf__ol-flexagon-xkcwkjgzbxsn/main.tex",
+  "relative_path": "processed/latex/cross-engine/overleaf__ol-flexagon-xkcwkjgzbxsn/main.tex",
+  "sha256": "8cf72476edf29ce4d904d7ae18e2f42308c59fe19b7e7e87111283ecc79115ae",
+  "size_bytes": 617,
+  "document_class": "article",
+  "uses_packages": [
+    "easytable",
+    "geometry",
+    "tabularx"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 841,
+  "downloaded_at": "2026-08-02T15:53:12.499Z",
+  "filtered_at": "2026-08-02T17:34:41.169Z"
+}

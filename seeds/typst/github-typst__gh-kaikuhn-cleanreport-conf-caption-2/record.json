@@ -1,0 +1,26 @@
+{
+  "id": "github-typst/gh-kaikuhn-cleanreport-conf-caption-2",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "report",
+  "license": "MIT",
+  "source_url": "https://github.com/kaikuhn/CleanReport",
+  "original_author": "kaikuhn",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/github-typst__gh-kaikuhn-cleanreport-conf-caption-2/conf_caption.typ",
+  "relative_path": "processed/typst/github-typst__gh-kaikuhn-cleanreport-conf-caption-2/conf_caption.typ",
+  "sha256": "82a14e17ba792fae76f4df867c83b1b9399764247d8aaadc92edbfbacd42fa18",
+  "size_bytes": 486,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 7,
+  "downloaded_at": "2026-08-02T14:18:46.843Z",
+  "filtered_at": "2026-08-02T17:34:45.129Z"
+}

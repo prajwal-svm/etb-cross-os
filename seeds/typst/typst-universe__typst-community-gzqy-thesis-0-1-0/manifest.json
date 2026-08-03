@@ -1,0 +1,23 @@
+{
+  "id": "typst-universe/typst-community-gzqy-thesis-0-1-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "thesis",
+  "license": "MIT",
+  "source_url": "https://typst.app/universe/package/community-gzqy-thesis",
+  "original_author": "isirin1131",
+  "package_name": "community-gzqy-thesis",
+  "package_version": "0.1.0",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/typst-universe/typst-community-gzqy-thesis-0-1-0/main.typ",
+  "relative_path": "raw/typst-universe/typst-community-gzqy-thesis-0-1-0/main.typ",
+  "main_doc": "main.typ",
+  "sha256": "08c1df3f076e1ae30b45e59242f5bf4eb3bc3f00c3b9d9b6d707327a95c7e261",
+  "size_bytes": 1320,
+  "document_class": null,
+  "uses_packages": [],
+  "downloaded_at": "2026-08-02T13:07:19.339Z",
+  "categories": [
+    "thesis"
+  ],
+  "description": "社区维护的贵州轻工职业技术学院毕业设计（论文）模板 | Community-maintained graduation project (thesis) template for Guizhou Light Industry Technical College"
+}

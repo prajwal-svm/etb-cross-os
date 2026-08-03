@@ -1,0 +1,22 @@
+{
+  "id": "ctan/ctan-glossaries-sample-newkeys",
+  "source": "ctan",
+  "format": "latex",
+  "category": "package-example",
+  "license": "LPPL-1.3c",
+  "source_url": "https://ctan.org/pkg/glossaries",
+  "original_author": "CTAN package: glossaries",
+  "package": "glossaries",
+  "original_path": "/usr/local/texlive/2025/texmf-dist/doc/latex/glossaries/samples/sample-newkeys.tex",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/ctan/ctan-glossaries-sample-newkeys/sample-newkeys.tex",
+  "relative_path": "raw/ctan/ctan-glossaries-sample-newkeys/sample-newkeys.tex",
+  "main_doc": "sample-newkeys.tex",
+  "sha256": "39337ad75fa04766283af62173ba872d9a86e84c3fe6ba57e4d2cdb6ffea347a",
+  "size_bytes": 1753,
+  "document_class": "article",
+  "uses_packages": [
+    "glossaries",
+    "hyperref"
+  ],
+  "downloaded_at": "2026-08-02T13:04:56.448Z"
+}

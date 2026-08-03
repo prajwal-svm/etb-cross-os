@@ -1,0 +1,19 @@
+{
+  "id": "github-latex/gh-dwysocki-beamer-themes-demo",
+  "source": "github-latex",
+  "format": "latex",
+  "category": "beamer",
+  "license": "MIT",
+  "source_url": "https://github.com/dwysocki/beamer-themes",
+  "original_author": "dwysocki",
+  "stars": 0,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-latex/gh-dwysocki-beamer-themes-demo/demo.tex",
+  "relative_path": "raw/github-latex/gh-dwysocki-beamer-themes-demo/demo.tex",
+  "main_doc": "demo.tex",
+  "sha256": "c7a2439f2ca9838cda90e69faa6d99d86f0487c321389f6c7b9d8d1112baddde",
+  "size_bytes": 318,
+  "document_class": "beamer",
+  "uses_packages": [],
+  "repo_path": "school/SUNY_Oswego/demo.tex",
+  "downloaded_at": "2026-08-02T13:51:54.683Z"
+}

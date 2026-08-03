@@ -1,0 +1,23 @@
+{
+  "id": "typst-universe/typst-scarif-0-1-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "report",
+  "license": "MIT",
+  "source_url": "https://github.com/T1mVo/scarif",
+  "original_author": "Tim Voßhenrich @T1mVo",
+  "package_name": "scarif",
+  "package_version": "0.1.0",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/typst-universe/typst-scarif-0-1-0/main.typ",
+  "relative_path": "raw/typst-universe/typst-scarif-0-1-0/main.typ",
+  "main_doc": "main.typ",
+  "sha256": "f8035495c56822e5e342b99665e3f3de18f700e40c1912f018609fb8d7814409",
+  "size_bytes": 990,
+  "document_class": null,
+  "uses_packages": [],
+  "downloaded_at": "2026-08-02T13:12:37.996Z",
+  "categories": [
+    "report"
+  ],
+  "description": "A beautifully designed template that brings tropical elegance to your documents."
+}

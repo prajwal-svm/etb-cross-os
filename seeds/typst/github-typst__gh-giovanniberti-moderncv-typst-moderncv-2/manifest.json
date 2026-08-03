@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-giovanniberti-moderncv-typst-moderncv-2",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "misc",
+  "license": "Apache-2.0",
+  "source_url": "https://github.com/giovanniberti/moderncv.typst",
+  "original_author": "giovanniberti",
+  "stars": 67,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-giovanniberti-moderncv-typst-moderncv-2/moderncv.typ",
+  "relative_path": "raw/github-typst/gh-giovanniberti-moderncv-typst-moderncv-2/moderncv.typ",
+  "main_doc": "moderncv.typ",
+  "sha256": "615aebb9c9cc3e3e4ffa9646183505cdd153070121b6c0b04b473e2e0b2dd7f0",
+  "size_bytes": 4491,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "moderncv.typ",
+  "downloaded_at": "2026-08-02T14:03:44.317Z"
+}

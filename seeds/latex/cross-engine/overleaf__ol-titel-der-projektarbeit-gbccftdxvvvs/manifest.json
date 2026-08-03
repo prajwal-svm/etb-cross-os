@@ -1,0 +1,27 @@
+{
+  "id": "overleaf/ol-titel-der-projektarbeit-gbccftdxvvvs",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "misc",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/titel-der-projektarbeit/gbccftdxvvvs",
+  "original_author": "Orkan Koerkel",
+  "title": "Titel der Projektarbeit",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/overleaf/ol-titel-der-projektarbeit-gbccftdxvvvs/main.tex",
+  "relative_path": "raw/overleaf/ol-titel-der-projektarbeit-gbccftdxvvvs/main.tex",
+  "main_doc": "main.tex",
+  "sha256": "877110d4600bf69ff02cd1e2e8ff6d2dd24b8816101a520c3ddb3ad7fe22af9e",
+  "size_bytes": 2156,
+  "document_class": "scrartcl",
+  "uses_packages": [
+    "amsmath",
+    "babel",
+    "fontenc",
+    "graphicx",
+    "inputenc",
+    "lmodern"
+  ],
+  "download_method": "view-source-modal",
+  "github_url": null,
+  "downloaded_at": "2026-08-02T14:22:24.784Z"
+}

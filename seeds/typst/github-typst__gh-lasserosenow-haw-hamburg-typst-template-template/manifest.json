@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-lasserosenow-haw-hamburg-typst-template-template",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "thesis",
+  "license": "MIT",
+  "source_url": "https://github.com/LasseRosenow/HAW-Hamburg-Typst-Template",
+  "original_author": "LasseRosenow",
+  "stars": 23,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-lasserosenow-haw-hamburg-typst-template-template/template.typ",
+  "relative_path": "raw/github-typst/gh-lasserosenow-haw-hamburg-typst-template-template/template.typ",
+  "main_doc": "template.typ",
+  "sha256": "c7256a629e77fa5f578fa46df7b0183d93c4a40bfa7cd880a086819f80055955",
+  "size_bytes": 5531,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "lib/template.typ",
+  "downloaded_at": "2026-08-02T14:04:41.517Z"
+}

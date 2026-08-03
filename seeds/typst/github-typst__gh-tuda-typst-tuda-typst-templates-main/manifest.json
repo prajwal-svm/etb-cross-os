@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-tuda-typst-tuda-typst-templates-main",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "misc",
+  "license": "MIT",
+  "source_url": "https://github.com/tuda-typst/tuda-typst-templates",
+  "original_author": "tuda-typst",
+  "stars": 44,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-tuda-typst-tuda-typst-templates-main/main.typ",
+  "relative_path": "raw/github-typst/gh-tuda-typst-tuda-typst-templates-main/main.typ",
+  "main_doc": "main.typ",
+  "sha256": "5d711acb6e7a4da33d35ea72d7d96b7df7011b8c86f9e80dc42fa97b15d9ef44",
+  "size_bytes": 970,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "tudabeamer/example/main.typ",
+  "downloaded_at": "2026-08-02T14:04:02.352Z"
+}

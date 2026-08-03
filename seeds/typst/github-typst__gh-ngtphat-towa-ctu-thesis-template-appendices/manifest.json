@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-ngtphat-towa-ctu-thesis-template-appendices",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "thesis",
+  "license": "MIT",
+  "source_url": "https://github.com/ngtphat-towa/CTU-Thesis-Template",
+  "original_author": "ngtphat-towa",
+  "stars": 6,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-ngtphat-towa-ctu-thesis-template-appendices/appendices.typ",
+  "relative_path": "raw/github-typst/gh-ngtphat-towa-ctu-thesis-template-appendices/appendices.typ",
+  "main_doc": "appendices.typ",
+  "sha256": "b6b6f74c636ee22db2f21a89aef78c5f3bab8df58879d314a28b605a0f8fe42f",
+  "size_bytes": 314,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "starter-template/backmatter/appendices.typ",
+  "downloaded_at": "2026-08-02T14:07:07.383Z"
+}

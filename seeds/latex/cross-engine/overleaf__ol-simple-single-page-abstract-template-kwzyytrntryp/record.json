@@ -1,0 +1,33 @@
+{
+  "id": "overleaf/ol-simple-single-page-abstract-template-kwzyytrntryp",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "misc",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/simple-single-page-abstract-template/kwzyytrntryp",
+  "original_author": "Markku Alho",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/overleaf__ol-simple-single-page-abstract-template-kwzyytrntryp/main.tex",
+  "relative_path": "processed/latex/cross-engine/overleaf__ol-simple-single-page-abstract-template-kwzyytrntryp/main.tex",
+  "sha256": "cda35040883333ff427d13593a5c8ce4c852a99dacab164f5a50034fe79b783e",
+  "size_bytes": 1664,
+  "document_class": "article",
+  "uses_packages": [
+    "amsfonts",
+    "amsmath",
+    "amssymb",
+    "graphicx",
+    "natbib",
+    "simplemargins"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 261,
+  "downloaded_at": "2026-08-02T15:47:01.593Z",
+  "filtered_at": "2026-08-02T17:34:41.828Z"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "template-packs/acl-style-paper",
+  "source": "template-packs",
+  "format": "latex",
+  "category": "venue",
+  "license": "CC0-1.0",
+  "source_url": "https://github.com/Oleafly/template-packs",
+  "original_author": "Oleafly",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/template-packs__acl-style-paper/main.tex",
+  "relative_path": "processed/latex/cross-engine/template-packs__acl-style-paper/main.tex",
+  "sha256": "fa77aaa734ca3eb66386189f3601a50687a38f9cadbd8466089c08566dbb044f",
+  "size_bytes": 3614,
+  "document_class": "article",
+  "uses_packages": [
+    "amsmath",
+    "geometry",
+    "mathptmx",
+    "titlesec"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 645,
+  "downloaded_at": "2026-08-02T13:05:15.797Z",
+  "filtered_at": "2026-08-02T17:34:40.708Z"
+}

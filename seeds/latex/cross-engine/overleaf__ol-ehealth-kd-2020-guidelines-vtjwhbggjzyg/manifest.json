@@ -1,0 +1,22 @@
+{
+  "id": "overleaf/ol-ehealth-kd-2020-guidelines-vtjwhbggjzyg",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "misc",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/ehealth-kd-2020-guidelines/vtjwhbggjzyg",
+  "original_author": "The eHealth-KD Organizing Committee",
+  "title": "eHealth-KD 2020 Guidelines",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/overleaf/ol-ehealth-kd-2020-guidelines-vtjwhbggjzyg/main.tex",
+  "relative_path": "raw/overleaf/ol-ehealth-kd-2020-guidelines-vtjwhbggjzyg/main.tex",
+  "main_doc": "main.tex",
+  "sha256": "01a6562d24dbf38a51412b61e38f090598f6f8bb84567770a4aa68c07ba2d981",
+  "size_bytes": 9229,
+  "document_class": "llncs",
+  "uses_packages": [
+    "graphicx"
+  ],
+  "download_method": "view-source-modal",
+  "github_url": null,
+  "downloaded_at": "2026-08-02T15:10:16.259Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-not-matthias-typst-jku-jku-1",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "misc",
+  "license": "MIT",
+  "source_url": "https://github.com/not-matthias/typst-jku",
+  "original_author": "not-matthias",
+  "stars": 3,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-not-matthias-typst-jku-jku-1/jku.typ",
+  "relative_path": "raw/github-typst/gh-not-matthias-typst-jku-jku-1/jku.typ",
+  "main_doc": "jku.typ",
+  "sha256": "06e261b52f4bbff13e019cd270715460f25e76d44f3c62b73748036825bf8a1d",
+  "size_bytes": 11446,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "jku.typ",
+  "downloaded_at": "2026-08-02T14:08:35.847Z"
+}

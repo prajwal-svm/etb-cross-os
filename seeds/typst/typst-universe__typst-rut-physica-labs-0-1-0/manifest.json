@@ -1,0 +1,23 @@
+{
+  "id": "typst-universe/typst-rut-physica-labs-0-1-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "report",
+  "license": "MIT",
+  "source_url": "https://github.com/unexpectedCoder/miit-phisica-labwork-typst",
+  "original_author": "unexpectedCoder",
+  "package_name": "rut-physica-labs",
+  "package_version": "0.1.0",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/typst-universe/typst-rut-physica-labs-0-1-0/lab.typ",
+  "relative_path": "raw/typst-universe/typst-rut-physica-labs-0-1-0/lab.typ",
+  "main_doc": "lab.typ",
+  "sha256": "0ae65f9dc459a387757a9fd4e48a4cd19bce550ba9361e95b02f8d1ebfaab003",
+  "size_bytes": 10705,
+  "document_class": null,
+  "uses_packages": [],
+  "downloaded_at": "2026-08-02T13:12:35.941Z",
+  "categories": [
+    "report"
+  ],
+  "description": "Шаблон отчёта по лабораторной работе кафедры «Физика» РУТ (МИИТ). Template for physics lab reports at Russian University of transport."
+}

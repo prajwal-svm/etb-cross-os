@@ -1,0 +1,24 @@
+{
+  "id": "overleaf/ol-actividad-4-gestores-de-referencias-mvqswxdkgctm",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "misc",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/actividad-4-gestores-de-referencias/mvqswxdkgctm",
+  "original_author": "Emmanuel Lopez",
+  "title": "Actividad 4 Gestores de Referencias",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/overleaf/ol-actividad-4-gestores-de-referencias-mvqswxdkgctm/main.tex",
+  "relative_path": "raw/overleaf/ol-actividad-4-gestores-de-referencias-mvqswxdkgctm/main.tex",
+  "main_doc": "main.tex",
+  "sha256": "ed76585b89949c51052f12b4f53527b206156b9bb09930ed0df859e0b09a54df",
+  "size_bytes": 1620,
+  "document_class": "article",
+  "uses_packages": [
+    "comment",
+    "fullpage",
+    "lipsum"
+  ],
+  "download_method": "view-source-modal",
+  "github_url": null,
+  "downloaded_at": "2026-08-02T16:02:12.035Z"
+}

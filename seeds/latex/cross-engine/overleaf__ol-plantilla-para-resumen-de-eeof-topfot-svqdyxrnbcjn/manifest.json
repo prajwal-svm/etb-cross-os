@@ -1,0 +1,29 @@
+{
+  "id": "overleaf/ol-plantilla-para-resumen-de-eeof-topfot-svqdyxrnbcjn",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "cv",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/plantilla-para-resumen-de-eeof-topfot/svqdyxrnbcjn",
+  "original_author": "marcelo luda",
+  "title": "Plantilla para resumen de EEOF-TOPFOT",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/overleaf/ol-plantilla-para-resumen-de-eeof-topfot-svqdyxrnbcjn/main.tex",
+  "relative_path": "raw/overleaf/ol-plantilla-para-resumen-de-eeof-topfot-svqdyxrnbcjn/main.tex",
+  "main_doc": "main.tex",
+  "sha256": "8311840079bb59f9fcb4091bce645c162628c7e249705ef409b1f17b61896db9",
+  "size_bytes": 2010,
+  "document_class": "article",
+  "uses_packages": [
+    "amsfonts",
+    "amsmath",
+    "amssymb",
+    "authblk",
+    "babel",
+    "graphicx",
+    "hyperref",
+    "inputenc"
+  ],
+  "download_method": "view-source-modal",
+  "github_url": null,
+  "downloaded_at": "2026-08-02T15:42:39.177Z"
+}

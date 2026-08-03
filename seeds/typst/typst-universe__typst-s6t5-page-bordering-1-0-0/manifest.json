@@ -1,0 +1,25 @@
+{
+  "id": "typst-universe/typst-s6t5-page-bordering-1-0-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "business",
+  "license": "MIT",
+  "source_url": "https://github.com/Shumpei-Tanaka/typst-s6t5-page-bordering",
+  "original_author": "Shumpei Tanaka",
+  "package_name": "s6t5-page-bordering",
+  "package_version": "1.0.0",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/typst-universe/typst-s6t5-page-bordering-1-0-0/s6t5-page-bordering.typ",
+  "relative_path": "raw/typst-universe/typst-s6t5-page-bordering-1-0-0/s6t5-page-bordering.typ",
+  "main_doc": "s6t5-page-bordering.typ",
+  "sha256": "45682d1ec69d35a149a6476acd0547d0cfe51328308a8a92eeef13b2c7c9d91e",
+  "size_bytes": 1407,
+  "document_class": null,
+  "uses_packages": [],
+  "downloaded_at": "2026-08-02T13:12:36.590Z",
+  "categories": [
+    "layout",
+    "office",
+    "report"
+  ],
+  "description": "Way to write border around page margin and header/footer."
+}

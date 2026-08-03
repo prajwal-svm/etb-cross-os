@@ -1,0 +1,30 @@
+{
+  "id": "github-latex/gh-fabianwe-gummibaum-const-1",
+  "source": "github-latex",
+  "format": "latex",
+  "category": "misc",
+  "license": "Apache-2.0",
+  "source_url": "https://github.com/FabianWe/gummibaum",
+  "original_author": "FabianWe",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/github-latex__gh-fabianwe-gummibaum-const-1/const.tex",
+  "relative_path": "processed/latex/cross-engine/github-latex__gh-fabianwe-gummibaum-const-1/const.tex",
+  "sha256": "69495419142ee1c6955a430a3d8c7c2d2172efb030eb45abe22dc34a2603241b",
+  "size_bytes": 277,
+  "document_class": "scrartcl",
+  "uses_packages": [
+    "babel",
+    "fontenc",
+    "inputenc"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 614,
+  "downloaded_at": "2026-08-02T13:37:26.104Z",
+  "filtered_at": "2026-08-02T17:34:42.745Z"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "github-typst/gh-puntitowo-template-informe-memoria-fcfm-constants-2",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "business",
+  "license": "MIT",
+  "source_url": "https://github.com/PuntitOwO/template-informe-memoria-fcfm",
+  "original_author": "PuntitOwO",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/github-typst__gh-puntitowo-template-informe-memoria-fcfm-constants-2/constants.typ",
+  "relative_path": "processed/typst/github-typst__gh-puntitowo-template-informe-memoria-fcfm-constants-2/constants.typ",
+  "sha256": "cc19476856dc46f9ba0f20b0f6d2df96cb55f7ac5aa93a6ff967cab04b18e013",
+  "size_bytes": 240,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 8,
+  "downloaded_at": "2026-08-02T14:05:44.925Z",
+  "filtered_at": "2026-08-02T17:34:45.515Z"
+}

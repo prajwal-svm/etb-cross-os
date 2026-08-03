@@ -1,0 +1,26 @@
+{
+  "id": "typst-universe/typst-simple-xd-resume-0-1-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "cv",
+  "license": "MIT",
+  "source_url": "https://github.com/HinnyTsang/simple-xd-resume",
+  "original_author": "Hinny Tsang",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/typst-universe__typst-simple-xd-resume-0-1-0/resume-example.typ",
+  "relative_path": "processed/typst/typst-universe__typst-simple-xd-resume-0-1-0/resume-example.typ",
+  "sha256": "3c8f28a5b8a32abcd07c31db39be5b3f6a8152eb67723b184eca6fffa810f9c5",
+  "size_bytes": 4190,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 354,
+  "downloaded_at": "2026-08-02T13:13:08.154Z",
+  "filtered_at": "2026-08-02T17:34:44.195Z"
+}

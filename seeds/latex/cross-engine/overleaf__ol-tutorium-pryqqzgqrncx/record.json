@@ -1,0 +1,29 @@
+{
+  "id": "overleaf/ol-tutorium-pryqqzgqrncx",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "misc",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/tutorium/pryqqzgqrncx",
+  "original_author": "Sona Baghdasaryan",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/overleaf__ol-tutorium-pryqqzgqrncx/main.tex",
+  "relative_path": "processed/latex/cross-engine/overleaf__ol-tutorium-pryqqzgqrncx/main.tex",
+  "sha256": "99e6d6ce01186e8e2a86c1739cc7b3f9b43a41d98cb2a6e7e99453ab6eecc5df",
+  "size_bytes": 2470,
+  "document_class": "beamer",
+  "uses_packages": [
+    "babel",
+    "inputenc"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 751,
+  "downloaded_at": "2026-08-02T13:38:35.968Z",
+  "filtered_at": "2026-08-02T17:34:42.028Z"
+}

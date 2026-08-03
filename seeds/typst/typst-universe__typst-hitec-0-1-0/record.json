@@ -1,0 +1,26 @@
+{
+  "id": "typst-universe/typst-hitec-0-1-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "book",
+  "license": "MIT",
+  "source_url": "https://github.com/ShabbyGayBar/hitec",
+  "original_author": "Brian Li",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/typst-universe__typst-hitec-0-1-0/main.typ",
+  "relative_path": "processed/typst/typst-universe__typst-hitec-0-1-0/main.typ",
+  "sha256": "359f645f5a3e867333b2cd9a82f0d7c0a8a778557217ff54e95c7980ad10ad47",
+  "size_bytes": 4351,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 267,
+  "downloaded_at": "2026-08-02T13:09:03.759Z",
+  "filtered_at": "2026-08-02T17:34:43.874Z"
+}

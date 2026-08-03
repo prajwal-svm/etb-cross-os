@@ -1,0 +1,20 @@
+{
+  "id": "overleaf/ol-uw-math-academic-staff-activity-report-byffxkgkdzdg",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "report",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/uw-math-academic-staff-activity-report/byffxkgkdzdg",
+  "original_author": "Sara Nagreen",
+  "title": "UW-Math-Academic-Staff-Activity-Report",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/overleaf/ol-uw-math-academic-staff-activity-report-byffxkgkdzdg/main.tex",
+  "relative_path": "raw/overleaf/ol-uw-math-academic-staff-activity-report-byffxkgkdzdg/main.tex",
+  "main_doc": "main.tex",
+  "sha256": "727eda668a88bb8c78f8e13bfe966c32ca7117306b580f402d18826e7a5cbde9",
+  "size_bytes": 1855,
+  "document_class": "amsart",
+  "uses_packages": [],
+  "download_method": "view-source-modal",
+  "github_url": null,
+  "downloaded_at": "2026-08-02T15:01:52.283Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "github-latex/gh-eduardotlc-iqusptex-example-1",
+  "source": "github-latex",
+  "format": "latex",
+  "category": "beamer",
+  "license": "MIT",
+  "source_url": "https://github.com/eduardotlc/IqUSPtex",
+  "original_author": "eduardotlc",
+  "stars": 5,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-latex/gh-eduardotlc-iqusptex-example-1/example.tex",
+  "relative_path": "raw/github-latex/gh-eduardotlc-iqusptex-example-1/example.tex",
+  "main_doc": "example.tex",
+  "sha256": "c0d4d97a85a1383870d5f729f565144a6f490972fa60601443c059c67c12a2cc",
+  "size_bytes": 2541,
+  "document_class": "standalone",
+  "uses_packages": [],
+  "repo_path": "Fluxograms/example.tex",
+  "downloaded_at": "2026-08-02T13:28:21.258Z"
+}

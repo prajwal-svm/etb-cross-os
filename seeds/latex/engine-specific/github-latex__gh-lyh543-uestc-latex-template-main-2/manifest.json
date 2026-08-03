@@ -1,0 +1,26 @@
+{
+  "id": "github-latex/gh-lyh543-uestc-latex-template-main-2",
+  "source": "github-latex",
+  "format": "latex",
+  "category": "misc",
+  "license": "MIT",
+  "source_url": "https://github.com/lyh543/UESTC_LaTeX_Template",
+  "original_author": "lyh543",
+  "stars": 76,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-latex/gh-lyh543-uestc-latex-template-main-2/main.tex",
+  "relative_path": "raw/github-latex/gh-lyh543-uestc-latex-template-main-2/main.tex",
+  "main_doc": "main.tex",
+  "sha256": "a2e2465a854ce42c13fa346a645840b469ef7c60aa4673e3bd2c70d3ae53715e",
+  "size_bytes": 2233,
+  "document_class": "ctexart",
+  "uses_packages": [
+    "fancyhdr",
+    "geometry",
+    "multicol",
+    "mwe",
+    "xeCJK",
+    "zhnumber"
+  ],
+  "repo_path": "Course_Thesis_others/心理学漫谈/main.tex",
+  "downloaded_at": "2026-08-02T13:13:22.181Z"
+}

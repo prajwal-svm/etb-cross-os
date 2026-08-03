@@ -1,0 +1,26 @@
+{
+  "id": "typst-universe/typst-inboisu-0-1-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "business",
+  "license": "MIT-0",
+  "source_url": "https://github.com/mkpoli/typst-inboisu",
+  "original_author": "mkpoli",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/typst-universe__typst-inboisu-0-1-0/invoice.typ",
+  "relative_path": "processed/typst/typst-universe__typst-inboisu-0-1-0/invoice.typ",
+  "sha256": "2f1d87e672972e080430116b9eb90d8fa218ac947683493b3b6f5d0ecc422724",
+  "size_bytes": 1754,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 329,
+  "downloaded_at": "2026-08-02T13:09:19.901Z",
+  "filtered_at": "2026-08-02T17:34:43.894Z"
+}

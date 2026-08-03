@@ -1,0 +1,26 @@
+{
+  "id": "typst-universe/typst-touying-simpl-neu-0-1-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "beamer",
+  "license": "MIT",
+  "source_url": "https://github.com/SchrodingerBlume/touying-simpl-neu",
+  "original_author": "SchrodingerBlume",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/typst-universe__typst-touying-simpl-neu-0-1-0/main.typ",
+  "relative_path": "processed/typst/typst-universe__typst-touying-simpl-neu-0-1-0/main.typ",
+  "sha256": "c5a8a5732b19e2bd700f713686135b9db3b8f0ea180b066b24ab5383f6635571",
+  "size_bytes": 834,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 431,
+  "downloaded_at": "2026-08-02T13:14:19.761Z",
+  "filtered_at": "2026-08-02T17:34:44.301Z"
+}

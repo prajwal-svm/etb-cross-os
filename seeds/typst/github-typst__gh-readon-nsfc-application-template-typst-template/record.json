@@ -1,0 +1,26 @@
+{
+  "id": "github-typst/gh-readon-nsfc-application-template-typst-template",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "misc",
+  "license": "MIT",
+  "source_url": "https://github.com/Readon/NSFC-application-template-typst",
+  "original_author": "Readon",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/github-typst__gh-readon-nsfc-application-template-typst-template/template.typ",
+  "relative_path": "processed/typst/github-typst__gh-readon-nsfc-application-template-typst-template/template.typ",
+  "sha256": "7e8fa8350793e6d894d2008661548987512a19b0b572c311f3f78da732ae0a10",
+  "size_bytes": 2861,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 11,
+  "downloaded_at": "2026-08-02T14:06:18.099Z",
+  "filtered_at": "2026-08-02T17:34:45.548Z"
+}

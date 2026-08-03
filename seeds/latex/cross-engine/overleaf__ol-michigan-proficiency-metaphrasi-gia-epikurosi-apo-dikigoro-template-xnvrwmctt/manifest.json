@@ -1,0 +1,23 @@
+{
+  "id": "overleaf/ol-michigan-proficiency-metaphrasi-gia-epikurosi-apo-dikigoro-template-xnvrwmctt",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "misc",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/michigan-proficiency-metaphrasi-gia-epikurosi-apo-dikigoro-template/xnvrwmctthhb",
+  "original_author": "Nikos Koutsopoulos",
+  "title": "Michigan Proficiency (Μετάφραση για επικύρωση από δικηγόρο) Template",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/overleaf/ol-michigan-proficiency-metaphrasi-gia-epikurosi-apo-dikigoro-template-xnvrwmctt/main.tex",
+  "relative_path": "raw/overleaf/ol-michigan-proficiency-metaphrasi-gia-epikurosi-apo-dikigoro-template-xnvrwmctt/main.tex",
+  "main_doc": "main.tex",
+  "sha256": "b4c46c53b7d0d8136806e54d8b4acf5f4fa27f5a8911d19b26bf79af41a9e57b",
+  "size_bytes": 2427,
+  "document_class": "article",
+  "uses_packages": [
+    "babel",
+    "inputenc"
+  ],
+  "download_method": "view-source-modal",
+  "github_url": null,
+  "downloaded_at": "2026-08-02T14:22:15.591Z"
+}

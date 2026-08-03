@@ -1,0 +1,26 @@
+{
+  "id": "typst-universe/typst-clean-print-cv-0-1-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "cv",
+  "license": "MIT",
+  "source_url": "https://github.com/guillermodotn/clean-print-cv",
+  "original_author": "guillermodotn",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/typst-universe__typst-clean-print-cv-0-1-0/main.typ",
+  "relative_path": "processed/typst/typst-universe__typst-clean-print-cv-0-1-0/main.typ",
+  "sha256": "867ca06f30155495eb4d74d9f438fcfef4af882eee9bd03de2b2857bbd13c5e7",
+  "size_bytes": 1457,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 208,
+  "downloaded_at": "2026-08-02T13:07:07.192Z",
+  "filtered_at": "2026-08-02T17:34:43.720Z"
+}

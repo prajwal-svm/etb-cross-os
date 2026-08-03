@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-mps9506-quarto-lapreprint-typst-template-1",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "venue",
+  "license": "MIT",
+  "source_url": "https://github.com/mps9506/quarto-lapreprint",
+  "original_author": "mps9506",
+  "stars": 2,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-mps9506-quarto-lapreprint-typst-template-1/typst-template.typ",
+  "relative_path": "raw/github-typst/gh-mps9506-quarto-lapreprint-typst-template-1/typst-template.typ",
+  "main_doc": "typst-template.typ",
+  "sha256": "257489faf6d99af32b6c8580cdfc00e89578b3d21fc07afe625150c8d322542d",
+  "size_bytes": 9972,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "_extensions/quarto-lapreprint/typst-template.typ",
+  "downloaded_at": "2026-08-02T14:10:13.049Z"
+}

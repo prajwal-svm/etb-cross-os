@@ -1,0 +1,26 @@
+{
+  "id": "github-typst/gh-n3m0-dev-typst-note-template-note",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "misc",
+  "license": "MIT",
+  "source_url": "https://github.com/N3M0-dev/typst-note-template",
+  "original_author": "N3M0-dev",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/github-typst__gh-n3m0-dev-typst-note-template-note/note.typ",
+  "relative_path": "processed/typst/github-typst__gh-n3m0-dev-typst-note-template-note/note.typ",
+  "sha256": "0914cc80f073068ab08e9ed5dc9fc999e2b9b309e169a36600370154ea3b5bde",
+  "size_bytes": 5264,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 9,
+  "downloaded_at": "2026-08-02T14:15:46.125Z",
+  "filtered_at": "2026-08-02T17:34:45.354Z"
+}

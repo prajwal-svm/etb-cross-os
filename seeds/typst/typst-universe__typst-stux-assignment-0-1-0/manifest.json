@@ -1,0 +1,24 @@
+{
+  "id": "typst-universe/typst-stux-assignment-0-1-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "report",
+  "license": "MIT-0",
+  "source_url": "https://github.com/StuxnetH4X/stux-assignment",
+  "original_author": "StuxH4X",
+  "package_name": "stux-assignment",
+  "package_version": "0.1.0",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/typst-universe/typst-stux-assignment-0-1-0/main.typ",
+  "relative_path": "raw/typst-universe/typst-stux-assignment-0-1-0/main.typ",
+  "main_doc": "main.typ",
+  "sha256": "9c7a9baa350c7076e908134031ebe5b5ff7ae7a2f7a3e50239d39ca69425d4e8",
+  "size_bytes": 625,
+  "document_class": null,
+  "uses_packages": [],
+  "downloaded_at": "2026-08-02T13:13:32.752Z",
+  "categories": [
+    "components",
+    "report"
+  ],
+  "description": "Themed assignment sheets with problem boxes and multi-author support."
+}

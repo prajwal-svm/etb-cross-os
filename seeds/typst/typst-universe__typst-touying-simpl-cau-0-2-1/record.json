@@ -1,0 +1,26 @@
+{
+  "id": "typst-universe/typst-touying-simpl-cau-0-2-1",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "beamer",
+  "license": "MIT",
+  "source_url": "https://github.com/maxchang3/touying-simpl-cau",
+  "original_author": "Yip Coekjan",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/typst-universe__typst-touying-simpl-cau-0-2-1/main.typ",
+  "relative_path": "processed/typst/typst-universe__typst-touying-simpl-cau-0-2-1/main.typ",
+  "sha256": "155a09870225b06e3533ee7bd7eca3dc1b932269627c874fc51a7497bedd7950",
+  "size_bytes": 778,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 322,
+  "downloaded_at": "2026-08-02T13:14:15.772Z",
+  "filtered_at": "2026-08-02T17:34:44.295Z"
+}

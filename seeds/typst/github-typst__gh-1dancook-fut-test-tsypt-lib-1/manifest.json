@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-1dancook-fut-test-tsypt-lib-1",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "misc",
+  "license": "MIT",
+  "source_url": "https://github.com/1dancook/fut-test-tsypt",
+  "original_author": "1dancook",
+  "stars": 1,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-1dancook-fut-test-tsypt-lib-1/lib.typ",
+  "relative_path": "raw/github-typst/gh-1dancook-fut-test-tsypt-lib-1/lib.typ",
+  "main_doc": "lib.typ",
+  "sha256": "6b42dce7b4e76a916dec0ad6f11e4395d8a8c8e9bee72e4f90824092b917269c",
+  "size_bytes": 30804,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "lib.typ",
+  "downloaded_at": "2026-08-02T14:12:43.496Z"
+}

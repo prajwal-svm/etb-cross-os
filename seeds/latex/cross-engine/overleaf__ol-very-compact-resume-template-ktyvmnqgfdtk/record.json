@@ -1,0 +1,30 @@
+{
+  "id": "overleaf/ol-very-compact-resume-template-ktyvmnqgfdtk",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "cv",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/very-compact-resume-template/ktyvmnqgfdtk",
+  "original_author": "Lauren QU",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/overleaf__ol-very-compact-resume-template-ktyvmnqgfdtk/main.tex",
+  "relative_path": "processed/latex/cross-engine/overleaf__ol-very-compact-resume-template-ktyvmnqgfdtk/main.tex",
+  "sha256": "a2ec630ec98079b56032c49707697e9963f3277ab3a1ebbda564da297aa661f1",
+  "size_bytes": 3345,
+  "document_class": "article",
+  "uses_packages": [
+    "amsmath",
+    "enumitem",
+    "geometry"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 245,
+  "downloaded_at": "2026-08-02T16:21:13.676Z",
+  "filtered_at": "2026-08-02T17:34:42.147Z"
+}

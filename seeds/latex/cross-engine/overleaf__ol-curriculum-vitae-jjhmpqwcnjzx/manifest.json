@@ -1,0 +1,27 @@
+{
+  "id": "overleaf/ol-curriculum-vitae-jjhmpqwcnjzx",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "cv",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/curriculum-vitae/jjhmpqwcnjzx",
+  "original_author": "Md Nazmus Sakib Miazi",
+  "title": "Curriculum Vitae",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/overleaf/ol-curriculum-vitae-jjhmpqwcnjzx/main.tex",
+  "relative_path": "raw/overleaf/ol-curriculum-vitae-jjhmpqwcnjzx/main.tex",
+  "main_doc": "main.tex",
+  "sha256": "8a3a8af3e3f15e6726cc06ed69c3b584d783efbd53df1f9db5f2d5d4c4ca6822",
+  "size_bytes": 7056,
+  "document_class": "article",
+  "uses_packages": [
+    "fancyhdr",
+    "fixltx2e",
+    "fontenc",
+    "geometry",
+    "listings",
+    "multicol"
+  ],
+  "download_method": "view-source-modal",
+  "github_url": null,
+  "downloaded_at": "2026-08-02T14:32:02.959Z"
+}

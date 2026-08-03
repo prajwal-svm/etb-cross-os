@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-linhduongtuan-bkhn-thesis-template-typst-acknowledgement-2",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "thesis",
+  "license": "Apache-2.0",
+  "source_url": "https://github.com/linhduongtuan/BKHN-Thesis_template_typst",
+  "original_author": "linhduongtuan",
+  "stars": 28,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-linhduongtuan-bkhn-thesis-template-typst-acknowledgement-2/acknowledgement.typ",
+  "relative_path": "raw/github-typst/gh-linhduongtuan-bkhn-thesis-template-typst-acknowledgement-2/acknowledgement.typ",
+  "main_doc": "acknowledgement.typ",
+  "sha256": "7b3fb779d3c7f113f7a185831b66b7f8ab8be3d09e3521b0f15ceb85ad3860c1",
+  "size_bytes": 1573,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "contents/acknowledgement.typ",
+  "downloaded_at": "2026-08-02T14:04:27.873Z"
+}

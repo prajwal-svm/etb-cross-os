@@ -1,0 +1,26 @@
+{
+  "id": "typst-universe/typst-clari-docs-0-1-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "beamer",
+  "license": "MIT-0",
+  "source_url": "https://typst.app/universe/package/clari-docs",
+  "original_author": "Joe02exe",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/typst-universe__typst-clari-docs-0-1-0/main.typ",
+  "relative_path": "processed/typst/typst-universe__typst-clari-docs-0-1-0/main.typ",
+  "sha256": "6c40741580e04824259d63f4f936d0d2ea03decb54c09f66d51e39abc9fb8deb",
+  "size_bytes": 11404,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 337,
+  "downloaded_at": "2026-08-02T13:06:45.962Z",
+  "filtered_at": "2026-08-02T17:34:43.700Z"
+}

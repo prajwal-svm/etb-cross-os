@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-yanwenywan-typst-packages-colours-1",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "creative",
+  "license": "Apache-2.0",
+  "source_url": "https://github.com/yanwenywan/typst-packages",
+  "original_author": "yanwenywan",
+  "stars": 10,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-yanwenywan-typst-packages-colours-1/colours.typ",
+  "relative_path": "raw/github-typst/gh-yanwenywan-typst-packages-colours-1/colours.typ",
+  "main_doc": "colours.typ",
+  "sha256": "aee50e8dad95a9e037d02ff177f62896cbf78c8ea40db91818a58ac169c62a8f",
+  "size_bytes": 839,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "colours.typ",
+  "downloaded_at": "2026-08-02T14:06:13.548Z"
+}

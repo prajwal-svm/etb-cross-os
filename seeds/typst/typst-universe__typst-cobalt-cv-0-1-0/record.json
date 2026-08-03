@@ -1,0 +1,26 @@
+{
+  "id": "typst-universe/typst-cobalt-cv-0-1-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "cv",
+  "license": "MIT",
+  "source_url": "https://typst.app/universe/package/cobalt-cv",
+  "original_author": "Vikram Saraph",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/typst-universe__typst-cobalt-cv-0-1-0/main.typ",
+  "relative_path": "processed/typst/typst-universe__typst-cobalt-cv-0-1-0/main.typ",
+  "sha256": "98b026e92770ebdf1f8fa8d828f71c5067719660a17168de9e6424753a86dd6a",
+  "size_bytes": 9273,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 288,
+  "downloaded_at": "2026-08-02T13:07:13.502Z",
+  "filtered_at": "2026-08-02T17:34:43.739Z"
+}

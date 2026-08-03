@@ -1,0 +1,23 @@
+{
+  "id": "typst-universe/typst-modern-wku-thesis-0-1-2",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "thesis",
+  "license": "MIT",
+  "source_url": "https://github.com/Timmycheng/wku-thesis",
+  "original_author": "Timmycheng",
+  "package_name": "modern-wku-thesis",
+  "package_version": "0.1.2",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/typst-universe/typst-modern-wku-thesis-0-1-2/main.typ",
+  "relative_path": "raw/typst-universe/typst-modern-wku-thesis-0-1-2/main.typ",
+  "main_doc": "main.typ",
+  "sha256": "197f6e0f924abdff96fb4d04eb15ae976da200752ac490d4129003bed8b3d326",
+  "size_bytes": 3967,
+  "document_class": null,
+  "uses_packages": [],
+  "downloaded_at": "2026-08-02T13:11:16.219Z",
+  "categories": [
+    "thesis"
+  ],
+  "description": "A Typst template for graduate thesis at Wenzhou-Kean University Computer Science and Mathematics department."
+}

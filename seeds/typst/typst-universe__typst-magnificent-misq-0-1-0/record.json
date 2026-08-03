@@ -1,0 +1,26 @@
+{
+  "id": "typst-universe/typst-magnificent-misq-0-1-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "venue",
+  "license": "MIT",
+  "source_url": "https://typst.app/universe/package/magnificent-misq",
+  "original_author": "Ryan Schuetzler",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/typst-universe__typst-magnificent-misq-0-1-0/main.typ",
+  "relative_path": "processed/typst/typst-universe__typst-magnificent-misq-0-1-0/main.typ",
+  "sha256": "2a5c02774134450c43d37f74ea883ea0fe152dad8af083eb5d6ee58d06b2c51c",
+  "size_bytes": 9791,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 318,
+  "downloaded_at": "2026-08-02T13:10:07.555Z",
+  "filtered_at": "2026-08-02T17:34:43.962Z"
+}

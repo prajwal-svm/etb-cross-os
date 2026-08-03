@@ -1,0 +1,26 @@
+{
+  "id": "github-latex/gh-diogocarapito-latex-python-template-cv",
+  "source": "github-latex",
+  "format": "latex",
+  "category": "cv",
+  "license": "Apache-2.0",
+  "source_url": "https://github.com/diogocarapito/latex_python_template",
+  "original_author": "diogocarapito",
+  "stars": 0,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-latex/gh-diogocarapito-latex-python-template-cv/cv.tex",
+  "relative_path": "raw/github-latex/gh-diogocarapito-latex-python-template-cv/cv.tex",
+  "main_doc": "cv.tex",
+  "sha256": "f770b488411256d05e793640d2bd7bfdacbe55a0770ce49a722b42d04f0d0c2a",
+  "size_bytes": 28677,
+  "document_class": "report",
+  "uses_packages": [
+    "enumitem",
+    "fontawesome",
+    "geometry",
+    "helvet",
+    "hyperref",
+    "titlesec"
+  ],
+  "repo_path": "cv_2019/cv.tex",
+  "downloaded_at": "2026-08-02T13:43:50.405Z"
+}

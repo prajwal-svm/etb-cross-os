@@ -1,0 +1,19 @@
+{
+  "id": "github-latex/gh-doowzs-assignment-templates-slides-2",
+  "source": "github-latex",
+  "format": "latex",
+  "category": "beamer",
+  "license": "MIT",
+  "source_url": "https://github.com/doowzs/Assignment-Templates",
+  "original_author": "doowzs",
+  "stars": 3,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-latex/gh-doowzs-assignment-templates-slides-2/slides.tex",
+  "relative_path": "raw/github-latex/gh-doowzs-assignment-templates-slides-2/slides.tex",
+  "main_doc": "slides.tex",
+  "sha256": "db70e8fac1ccb3c61bb682835cbfff64511ce1e60478c87e9f2f2d1534976782",
+  "size_bytes": 2930,
+  "document_class": "beamer",
+  "uses_packages": [],
+  "repo_path": "beamer-NJU-mod/slides.tex",
+  "downloaded_at": "2026-08-02T13:31:16.317Z"
+}

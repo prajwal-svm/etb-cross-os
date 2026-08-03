@@ -1,0 +1,23 @@
+{
+  "id": "typst-universe/typst-ensl-internship-0-1-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "report",
+  "license": "MIT",
+  "source_url": "https://github.com/AdrienGuimbal/typst-report-template-ens-lyon",
+  "original_author": "Gavroche",
+  "package_name": "ensl-internship",
+  "package_version": "0.1.0",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/typst-universe/typst-ensl-internship-0-1-0/main.typ",
+  "relative_path": "raw/typst-universe/typst-ensl-internship-0-1-0/main.typ",
+  "main_doc": "main.typ",
+  "sha256": "b53b4cb8ff1fa3d24783925a57513b4be935a27353391c8ad4e083c69db06b7f",
+  "size_bytes": 695,
+  "document_class": null,
+  "uses_packages": [],
+  "downloaded_at": "2026-08-02T13:08:07.703Z",
+  "categories": [
+    "report"
+  ],
+  "description": "A unofficial template for internship reports at ENS de Lyon"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-tri2820-basil-chapter-2",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "thesis",
+  "license": "MIT",
+  "source_url": "https://github.com/tri2820/basil",
+  "original_author": "tri2820",
+  "stars": 1,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-tri2820-basil-chapter-2/chapter.typ",
+  "relative_path": "raw/github-typst/gh-tri2820-basil-chapter-2/chapter.typ",
+  "main_doc": "chapter.typ",
+  "sha256": "e9fc524bcb9660c28c4e3587a0eefcd3e6514500ac462b63d18afdfd9e2c732a",
+  "size_bytes": 1292,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "chapter.typ",
+  "downloaded_at": "2026-08-02T14:11:58.392Z"
+}

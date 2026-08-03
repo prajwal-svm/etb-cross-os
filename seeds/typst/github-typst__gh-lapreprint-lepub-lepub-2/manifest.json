@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-lapreprint-lepub-lepub-2",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "venue",
+  "license": "MIT",
+  "source_url": "https://github.com/LaPreprint/LePub",
+  "original_author": "LaPreprint",
+  "stars": 5,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-lapreprint-lepub-lepub-2/lepub.typ",
+  "relative_path": "raw/github-typst/gh-lapreprint-lepub-lepub-2/lepub.typ",
+  "main_doc": "lepub.typ",
+  "sha256": "11cdfc573834518aa6314a36714544d1fdca076cf8dc6f9239e2ba487bd1b101",
+  "size_bytes": 12163,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "lepub.typ",
+  "downloaded_at": "2026-08-02T14:07:28.194Z"
+}

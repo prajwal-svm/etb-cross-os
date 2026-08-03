@@ -1,0 +1,28 @@
+{
+  "id": "github-latex/gh-pedrohcgs-claude-code-my-workflow-dag-mediation-2",
+  "source": "github-latex",
+  "format": "latex",
+  "category": "beamer",
+  "license": "MIT",
+  "source_url": "https://github.com/pedrohcgs/claude-code-my-workflow",
+  "original_author": "pedrohcgs",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/github-latex__gh-pedrohcgs-claude-code-my-workflow-dag-mediation-2/dag-mediation.tex",
+  "relative_path": "processed/latex/cross-engine/github-latex__gh-pedrohcgs-claude-code-my-workflow-dag-mediation-2/dag-mediation.tex",
+  "sha256": "6e52b45d1b884d63f202c57aa3025d7334eed108991dceab62417d60a4a675b8",
+  "size_bytes": 2053,
+  "document_class": "standalone",
+  "uses_packages": [
+    "tikz"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 412,
+  "downloaded_at": "2026-08-02T13:11:32.357Z",
+  "filtered_at": "2026-08-02T17:34:43.230Z"
+}

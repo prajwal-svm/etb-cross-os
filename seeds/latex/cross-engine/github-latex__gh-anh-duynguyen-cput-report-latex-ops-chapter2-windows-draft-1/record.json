@@ -1,0 +1,32 @@
+{
+  "id": "github-latex/gh-anh-duynguyen-cput-report-latex-ops-chapter2-windows-draft-1",
+  "source": "github-latex",
+  "format": "latex",
+  "category": "report",
+  "license": "MIT",
+  "source_url": "https://github.com/anh-duynguyen/CPUT_Report_LaTeX_OPS",
+  "original_author": "anh-duynguyen",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/github-latex__gh-anh-duynguyen-cput-report-latex-ops-chapter2-windows-draft-1/Chapter2_windows_draft.tex",
+  "relative_path": "processed/latex/cross-engine/github-latex__gh-anh-duynguyen-cput-report-latex-ops-chapter2-windows-draft-1/Chapter2_windows_draft.tex",
+  "sha256": "f03e3db6d96b52d69f9df2766eee5f4051c1de74acec30e38e6184bca2aba48f",
+  "size_bytes": 6959,
+  "document_class": "report",
+  "uses_packages": [
+    "geometry",
+    "graphicx",
+    "hyperref",
+    "inputenc",
+    "natbib"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 377,
+  "downloaded_at": "2026-08-02T13:59:32.663Z",
+  "filtered_at": "2026-08-02T17:34:42.454Z"
+}

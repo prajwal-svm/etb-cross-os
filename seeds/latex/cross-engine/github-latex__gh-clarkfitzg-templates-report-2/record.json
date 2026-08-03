@@ -1,0 +1,38 @@
+{
+  "id": "github-latex/gh-clarkfitzg-templates-report-2",
+  "source": "github-latex",
+  "format": "latex",
+  "category": "report",
+  "license": "MIT",
+  "source_url": "https://github.com/clarkfitzg/templates",
+  "original_author": "clarkfitzg",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/github-latex__gh-clarkfitzg-templates-report-2/report.tex",
+  "relative_path": "processed/latex/cross-engine/github-latex__gh-clarkfitzg-templates-report-2/report.tex",
+  "sha256": "f5175abf6e6bea2aa295561f9d00fb0c7650df3e7007aa902702845c99002133",
+  "size_bytes": 1553,
+  "document_class": "article",
+  "uses_packages": [
+    "amsfonts",
+    "amsmath",
+    "amsthm",
+    "booktabs",
+    "geometry",
+    "graphicx",
+    "hyperref",
+    "inconsolata",
+    "listings",
+    "parskip",
+    "siunitx"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 361,
+  "downloaded_at": "2026-08-02T13:42:29.793Z",
+  "filtered_at": "2026-08-02T17:34:42.595Z"
+}

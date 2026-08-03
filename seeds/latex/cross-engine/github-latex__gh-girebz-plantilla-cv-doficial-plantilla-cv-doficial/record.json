@@ -1,0 +1,41 @@
+{
+  "id": "github-latex/gh-girebz-plantilla-cv-doficial-plantilla-cv-doficial",
+  "source": "github-latex",
+  "format": "latex",
+  "category": "cv",
+  "license": "MIT",
+  "source_url": "https://github.com/girebz/Plantilla-CV-DOficial",
+  "original_author": "girebz",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/github-latex__gh-girebz-plantilla-cv-doficial-plantilla-cv-doficial/plantilla-CV-doficial.tex",
+  "relative_path": "processed/latex/cross-engine/github-latex__gh-girebz-plantilla-cv-doficial-plantilla-cv-doficial/plantilla-CV-doficial.tex",
+  "sha256": "d612ee79d41726786a79cf9722d261504cc28397fd3fb1a863bc870628d941eb",
+  "size_bytes": 7785,
+  "document_class": "article",
+  "uses_packages": [
+    "CJKutf8",
+    "amsfonts",
+    "amsmath",
+    "amssymb",
+    "babel",
+    "background",
+    "geometry",
+    "graphicx",
+    "hyperref",
+    "hyphenat",
+    "inputenc",
+    "multicol",
+    "ragged2e",
+    "xcolor"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 412,
+  "downloaded_at": "2026-08-02T13:51:07.918Z",
+  "filtered_at": "2026-08-02T17:34:42.810Z"
+}

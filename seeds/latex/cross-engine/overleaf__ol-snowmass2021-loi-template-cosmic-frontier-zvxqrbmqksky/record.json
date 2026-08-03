@@ -1,0 +1,40 @@
+{
+  "id": "overleaf/ol-snowmass2021-loi-template-cosmic-frontier-zvxqrbmqksky",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "misc",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/snowmass2021-loi-template-cosmic-frontier/zvxqrbmqksky",
+  "original_author": "Alex Drlica-Wagner",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/overleaf__ol-snowmass2021-loi-template-cosmic-frontier-zvxqrbmqksky/main.tex",
+  "relative_path": "processed/latex/cross-engine/overleaf__ol-snowmass2021-loi-template-cosmic-frontier-zvxqrbmqksky/main.tex",
+  "sha256": "8e879f64f1b8a5853841fa3d888a06630d869be40ee5b80e6aec99a46af9e411",
+  "size_bytes": 2205,
+  "document_class": "article",
+  "uses_packages": [
+    "amssymb",
+    "comment",
+    "enumitem",
+    "geometry",
+    "graphicx",
+    "hyperref",
+    "inputenc",
+    "multicol",
+    "natbib",
+    "ragged2e",
+    "times",
+    "url",
+    "xcolor"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 384,
+  "downloaded_at": "2026-08-02T14:20:59.306Z",
+  "filtered_at": "2026-08-02T17:34:41.837Z"
+}

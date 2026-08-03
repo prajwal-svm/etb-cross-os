@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-mobtgzhang-sues-thesis-typst-abstract-cn-2",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "thesis",
+  "license": "MIT",
+  "source_url": "https://github.com/MobtgZhang/sues-thesis-typst",
+  "original_author": "MobtgZhang",
+  "stars": 3,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-mobtgzhang-sues-thesis-typst-abstract-cn-2/abstract-cn.typ",
+  "relative_path": "raw/github-typst/gh-mobtgzhang-sues-thesis-typst-abstract-cn-2/abstract-cn.typ",
+  "main_doc": "abstract-cn.typ",
+  "sha256": "790cc4a2339fb4cb027392934e6564311fc5ed19dbafe6334fc5200436993cc4",
+  "size_bytes": 788,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "paper/chapters/abstract-cn.typ",
+  "downloaded_at": "2026-08-02T14:09:35.981Z"
+}

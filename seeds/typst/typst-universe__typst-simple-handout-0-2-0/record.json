@@ -1,0 +1,26 @@
+{
+  "id": "typst-universe/typst-simple-handout-0-2-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "book",
+  "license": "MIT",
+  "source_url": "https://github.com/chillcicada/simple-handout-template",
+  "original_author": "chillcicada",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/typst-universe__typst-simple-handout-0-2-0/main.typ",
+  "relative_path": "processed/typst/typst-universe__typst-simple-handout-0-2-0/main.typ",
+  "sha256": "5738a2d7a100c149f67e9c1346ee4b1f310823684b08849cb9ca60d57131286c",
+  "size_bytes": 2497,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 260,
+  "downloaded_at": "2026-08-02T13:12:57.418Z",
+  "filtered_at": "2026-08-02T17:34:44.184Z"
+}

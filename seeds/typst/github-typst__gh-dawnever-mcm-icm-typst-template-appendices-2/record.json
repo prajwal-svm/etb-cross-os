@@ -1,0 +1,26 @@
+{
+  "id": "github-typst/gh-dawnever-mcm-icm-typst-template-appendices-2",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "misc",
+  "license": "MIT",
+  "source_url": "https://github.com/DawnEver/mcm-icm-typst-template",
+  "original_author": "DawnEver",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/github-typst__gh-dawnever-mcm-icm-typst-template-appendices-2/appendices.typ",
+  "relative_path": "processed/typst/github-typst__gh-dawnever-mcm-icm-typst-template-appendices-2/appendices.typ",
+  "sha256": "b262dca97f42ad31292a02da73a5d024f62ada4df12158b0987f9d5b0a748492",
+  "size_bytes": 1207,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 12,
+  "downloaded_at": "2026-08-02T14:06:02.628Z",
+  "filtered_at": "2026-08-02T17:34:44.734Z"
+}

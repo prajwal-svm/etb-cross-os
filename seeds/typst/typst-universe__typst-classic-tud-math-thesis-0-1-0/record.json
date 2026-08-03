@@ -1,0 +1,26 @@
+{
+  "id": "typst-universe/typst-classic-tud-math-thesis-0-1-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "beamer",
+  "license": "MIT",
+  "source_url": "https://github.com/tibirius24/classic-tud-math-thesis",
+  "original_author": "Jonas Danker",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/typst-universe__typst-classic-tud-math-thesis-0-1-0/main.typ",
+  "relative_path": "processed/typst/typst-universe__typst-classic-tud-math-thesis-0-1-0/main.typ",
+  "sha256": "4d6d36d52a7e68de2b8dcccea66441fca7457904144f5c3b9182026b2ec1b0a4",
+  "size_bytes": 2737,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 198,
+  "downloaded_at": "2026-08-02T13:06:53.065Z",
+  "filtered_at": "2026-08-02T17:34:43.705Z"
+}

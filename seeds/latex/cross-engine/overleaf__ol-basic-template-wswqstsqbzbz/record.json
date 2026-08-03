@@ -1,0 +1,29 @@
+{
+  "id": "overleaf/ol-basic-template-wswqstsqbzbz",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "misc",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/basic-template/wswqstsqbzbz",
+  "original_author": "Robert B.",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/overleaf__ol-basic-template-wswqstsqbzbz/main.tex",
+  "relative_path": "processed/latex/cross-engine/overleaf__ol-basic-template-wswqstsqbzbz/main.tex",
+  "sha256": "15184a831daa5fb0534ebb3843ab58ebfa8638e2d778fe65f99926584580cc18",
+  "size_bytes": 454,
+  "document_class": "article",
+  "uses_packages": [
+    "graphicx",
+    "sectsty"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 229,
+  "downloaded_at": "2026-08-02T14:19:07.888Z",
+  "filtered_at": "2026-08-02T17:34:40.963Z"
+}

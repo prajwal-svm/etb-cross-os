@@ -1,0 +1,29 @@
+{
+  "id": "github-latex/gh-feiwofeifeixiaowo-scnu-cloudlab-report-template-cleanthesis-doc-1",
+  "source": "github-latex",
+  "format": "latex",
+  "category": "thesis",
+  "license": "MIT",
+  "source_url": "https://github.com/feiwofeifeixiaowo/SCNU-CloudLab-Report-Template",
+  "original_author": "feiwofeifeixiaowo",
+  "stars": 0,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-latex/gh-feiwofeifeixiaowo-scnu-cloudlab-report-template-cleanthesis-doc-1/cleanthesis-doc.tex",
+  "relative_path": "raw/github-latex/gh-feiwofeifeixiaowo-scnu-cloudlab-report-template-cleanthesis-doc-1/cleanthesis-doc.tex",
+  "main_doc": "cleanthesis-doc.tex",
+  "sha256": "960c2fb04a3404ec83916a9948db91fc7c17fa9b698131fb9c366df8bf2bb32d",
+  "size_bytes": 8615,
+  "document_class": "ltxdockit",
+  "uses_packages": [
+    "babel",
+    "booktabs",
+    "btxdockit",
+    "csquotes",
+    "inputenc",
+    "longtable",
+    "pifont",
+    "shortvrb",
+    "tabularx"
+  ],
+  "repo_path": "doc/cleanthesis-doc.tex",
+  "downloaded_at": "2026-08-02T13:58:31.375Z"
+}

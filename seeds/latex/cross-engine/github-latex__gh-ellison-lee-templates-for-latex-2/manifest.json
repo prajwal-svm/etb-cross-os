@@ -1,0 +1,27 @@
+{
+  "id": "github-latex/gh-ellison-lee-templates-for-latex-2",
+  "source": "github-latex",
+  "format": "latex",
+  "category": "beamer",
+  "license": "MIT",
+  "source_url": "https://github.com/Ellison-Lee/Templates-for-Latex",
+  "original_author": "Ellison-Lee",
+  "stars": 5,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-latex/gh-ellison-lee-templates-for-latex-2/英文作业.tex",
+  "relative_path": "raw/github-latex/gh-ellison-lee-templates-for-latex-2/英文作业.tex",
+  "main_doc": "英文作业.tex",
+  "sha256": "75adedaf304166ad60316ee9e6e7fe43f5b293e34445643e61e6e77f9485b74a",
+  "size_bytes": 733,
+  "document_class": "article",
+  "uses_packages": [
+    "amsmath",
+    "amssymb",
+    "amsthm",
+    "bm",
+    "graphicx",
+    "hyperref",
+    "mathrsfs"
+  ],
+  "repo_path": "简明Latex模板/英文作业.tex",
+  "downloaded_at": "2026-08-02T13:26:51.461Z"
+}

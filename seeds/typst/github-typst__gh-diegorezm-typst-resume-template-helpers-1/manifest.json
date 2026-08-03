@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-diegorezm-typst-resume-template-helpers-1",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "cv",
+  "license": "MIT",
+  "source_url": "https://github.com/diegorezm/typst-resume-template",
+  "original_author": "diegorezm",
+  "stars": 0,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-diegorezm-typst-resume-template-helpers-1/helpers.typ",
+  "relative_path": "raw/github-typst/gh-diegorezm-typst-resume-template-helpers-1/helpers.typ",
+  "main_doc": "helpers.typ",
+  "sha256": "86b040f0de8dc560c88afd540f6795bb6bab8dffbd651df42d388788a4591b25",
+  "size_bytes": 919,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "shared/helpers.typ",
+  "downloaded_at": "2026-08-02T14:15:42.472Z"
+}

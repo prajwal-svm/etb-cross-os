@@ -1,0 +1,26 @@
+{
+  "id": "github-latex/gh-patrick-benito-pats-resume-pats-resume-doc-1",
+  "source": "github-latex",
+  "format": "latex",
+  "category": "cv",
+  "license": "MIT",
+  "source_url": "https://github.com/patrick-benito/pats-resume",
+  "original_author": "patrick-benito",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/github-latex__gh-patrick-benito-pats-resume-pats-resume-doc-1/pats-resume-doc.tex",
+  "relative_path": "processed/latex/cross-engine/github-latex__gh-patrick-benito-pats-resume-pats-resume-doc-1/pats-resume-doc.tex",
+  "sha256": "ef9a6cfcb04e4bae00fa9e127645098446d87848bc746732a5352e6fe0876203",
+  "size_bytes": 2312,
+  "document_class": "ltxdoc",
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 234,
+  "downloaded_at": "2026-08-02T13:27:31.435Z",
+  "filtered_at": "2026-08-02T17:34:43.219Z"
+}

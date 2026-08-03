@@ -1,0 +1,23 @@
+{
+  "id": "typst-universe/typst-clean-ensam-0-1-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "report",
+  "license": "MIT",
+  "source_url": "https://github.com/ahmed-bahlaoui/clean-ensam",
+  "original_author": "BAHLAOUI Ahmed",
+  "package_name": "clean-ensam",
+  "package_version": "0.1.0",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/typst-universe/typst-clean-ensam-0-1-0/main.typ",
+  "relative_path": "raw/typst-universe/typst-clean-ensam-0-1-0/main.typ",
+  "main_doc": "main.typ",
+  "sha256": "02a18f8a464e1377074af43453e42ead57a8c3f867a0b294ea375525576358fd",
+  "size_bytes": 331,
+  "document_class": null,
+  "uses_packages": [],
+  "downloaded_at": "2026-08-02T13:07:01.258Z",
+  "categories": [
+    "report"
+  ],
+  "description": "Write academic reports for ENSAM Rabat."
+}

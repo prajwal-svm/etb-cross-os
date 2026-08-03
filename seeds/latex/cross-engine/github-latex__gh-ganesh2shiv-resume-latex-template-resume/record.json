@@ -1,0 +1,33 @@
+{
+  "id": "github-latex/gh-ganesh2shiv-resume-latex-template-resume",
+  "source": "github-latex",
+  "format": "latex",
+  "category": "cv",
+  "license": "Apache-2.0",
+  "source_url": "https://github.com/ganesh2shiv/resume-latex-template",
+  "original_author": "ganesh2shiv",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/github-latex__gh-ganesh2shiv-resume-latex-template-resume/resume.tex",
+  "relative_path": "processed/latex/cross-engine/github-latex__gh-ganesh2shiv-resume-latex-template-resume/resume.tex",
+  "sha256": "1bccaf53ba6d0773245c8410dcb87c4c8cf254f60e29d91a7a032fd01a134805",
+  "size_bytes": 9411,
+  "document_class": "article",
+  "uses_packages": [
+    "amsmath",
+    "amssymb",
+    "fancyhdr",
+    "fontenc",
+    "fullpage",
+    "lastpage"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 277,
+  "downloaded_at": "2026-08-02T13:14:09.257Z",
+  "filtered_at": "2026-08-02T17:34:42.799Z"
+}

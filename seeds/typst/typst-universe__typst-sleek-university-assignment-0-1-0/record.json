@@ -1,0 +1,26 @@
+{
+  "id": "typst-universe/typst-sleek-university-assignment-0-1-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "report",
+  "license": "MIT",
+  "source_url": "https://github.com/UtkarshVerma/sleek-university-assignment",
+  "original_author": "Utkarsh Verma",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/typst-universe__typst-sleek-university-assignment-0-1-0/main.typ",
+  "relative_path": "processed/typst/typst-universe__typst-sleek-university-assignment-0-1-0/main.typ",
+  "sha256": "d450f138efd66fd64bd4b535e1f37c375bc9a45903f3f023b3263b7b0ce5dbe4",
+  "size_bytes": 416,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 214,
+  "downloaded_at": "2026-08-02T13:13:09.533Z",
+  "filtered_at": "2026-08-02T17:34:44.198Z"
+}

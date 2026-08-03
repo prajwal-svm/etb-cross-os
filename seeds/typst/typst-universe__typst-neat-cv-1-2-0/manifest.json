@@ -1,0 +1,23 @@
+{
+  "id": "typst-universe/typst-neat-cv-1-2-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "cv",
+  "license": "MIT",
+  "source_url": "https://github.com/dialvarezs/neat-cv",
+  "original_author": "Diego Alvarez S.",
+  "package_name": "neat-cv",
+  "package_version": "1.2.0",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/typst-universe/typst-neat-cv-1-2-0/cv.typ",
+  "relative_path": "raw/typst-universe/typst-neat-cv-1-2-0/cv.typ",
+  "main_doc": "cv.typ",
+  "sha256": "575f0c66fa1072de8b533face1ae32e7604150dfb2b53c4516b0cb64c64fad81",
+  "size_bytes": 9385,
+  "document_class": null,
+  "uses_packages": [],
+  "downloaded_at": "2026-08-02T13:11:32.950Z",
+  "categories": [
+    "cv"
+  ],
+  "description": "A modern and elegant CV template, inspired by Awesome CV and simple-hisptercv."
+}

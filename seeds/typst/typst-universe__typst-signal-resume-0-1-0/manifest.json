@@ -1,0 +1,23 @@
+{
+  "id": "typst-universe/typst-signal-resume-0-1-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "cv",
+  "license": "MIT",
+  "source_url": "https://github.com/DavidSasson22/david-resume-template",
+  "original_author": "David Sasson",
+  "package_name": "signal-resume",
+  "package_version": "0.1.0",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/typst-universe/typst-signal-resume-0-1-0/main.typ",
+  "relative_path": "raw/typst-universe/typst-signal-resume-0-1-0/main.typ",
+  "main_doc": "main.typ",
+  "sha256": "5906b5c61c2ee4d94de911695708d46133b221964427f7a388ff4ff555f34ca6",
+  "size_bytes": 2518,
+  "document_class": null,
+  "uses_packages": [],
+  "downloaded_at": "2026-08-02T13:12:48.603Z",
+  "categories": [
+    "cv"
+  ],
+  "description": "Evidence-focused resumes built for reliable ATS parsing."
+}

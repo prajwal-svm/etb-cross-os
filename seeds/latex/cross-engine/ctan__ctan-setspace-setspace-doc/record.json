@@ -1,0 +1,30 @@
+{
+  "id": "ctan/ctan-setspace-setspace-doc",
+  "source": "ctan",
+  "format": "latex",
+  "category": "package-example",
+  "license": "LPPL-1.3c",
+  "source_url": "https://ctan.org/pkg/setspace",
+  "original_author": "CTAN package: setspace",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/ctan__ctan-setspace-setspace-doc/setspace-doc.tex",
+  "relative_path": "processed/latex/cross-engine/ctan__ctan-setspace-setspace-doc/setspace-doc.tex",
+  "sha256": "b01be955478c4ec46ed406617915343a723ec7d1931c10f33b6071bc2d69d771",
+  "size_bytes": 2354,
+  "document_class": "article",
+  "uses_packages": [
+    "lmodern",
+    "setspace",
+    "verbatim"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 272,
+  "downloaded_at": "2026-08-02T13:04:59.739Z",
+  "filtered_at": "2026-08-02T17:34:42.360Z"
+}

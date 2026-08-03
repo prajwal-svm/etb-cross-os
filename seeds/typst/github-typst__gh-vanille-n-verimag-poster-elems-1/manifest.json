@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-vanille-n-verimag-poster-elems-1",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "beamer",
+  "license": "CC0-1.0",
+  "source_url": "https://github.com/Vanille-N/verimag-poster",
+  "original_author": "Vanille-N",
+  "stars": 1,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-vanille-n-verimag-poster-elems-1/elems.typ",
+  "relative_path": "raw/github-typst/gh-vanille-n-verimag-poster-elems-1/elems.typ",
+  "main_doc": "elems.typ",
+  "sha256": "14bbc92983cddf31162b9f7218468230812c92eedef9ee4d8bda672fc9dd273b",
+  "size_bytes": 1271,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "src/template/elems.typ",
+  "downloaded_at": "2026-08-02T14:13:24.406Z"
+}

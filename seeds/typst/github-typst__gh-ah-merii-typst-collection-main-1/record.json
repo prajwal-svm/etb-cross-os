@@ -1,0 +1,26 @@
+{
+  "id": "github-typst/gh-ah-merii-typst-collection-main-1",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "misc",
+  "license": "MIT",
+  "source_url": "https://github.com/AH-Merii/typst-collection",
+  "original_author": "AH-Merii",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/github-typst__gh-ah-merii-typst-collection-main-1/main.typ",
+  "relative_path": "processed/typst/github-typst__gh-ah-merii-typst-collection-main-1/main.typ",
+  "sha256": "e3824681ba72f70fd0d3234b77d4ca9a9de7848b333e461ee5983336c3832938",
+  "size_bytes": 2792,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 9,
+  "downloaded_at": "2026-08-02T14:17:20.475Z",
+  "filtered_at": "2026-08-02T17:34:44.466Z"
+}

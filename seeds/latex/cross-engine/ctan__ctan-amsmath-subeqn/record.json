@@ -1,0 +1,28 @@
+{
+  "id": "ctan/ctan-amsmath-subeqn",
+  "source": "ctan",
+  "format": "latex",
+  "category": "package-example",
+  "license": "LPPL-1.3c",
+  "source_url": "https://ctan.org/pkg/amsmath",
+  "original_author": "CTAN package: amsmath",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/ctan__ctan-amsmath-subeqn/subeqn.tex",
+  "relative_path": "processed/latex/cross-engine/ctan__ctan-amsmath-subeqn/subeqn.tex",
+  "sha256": "247e1fd6c56390c2d04af3a26a8ebe5842b3a2ce195d812552dc64a0bf9a80d3",
+  "size_bytes": 6440,
+  "document_class": "article",
+  "uses_packages": [
+    "amsmath"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 293,
+  "downloaded_at": "2026-08-02T13:04:41.045Z",
+  "filtered_at": "2026-08-02T17:34:42.193Z"
+}

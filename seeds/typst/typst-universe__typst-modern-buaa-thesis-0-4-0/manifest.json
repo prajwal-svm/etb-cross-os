@@ -1,0 +1,23 @@
+{
+  "id": "typst-universe/typst-modern-buaa-thesis-0-4-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "thesis",
+  "license": "MIT",
+  "source_url": "https://github.com/wangjq4214/buaa-thesis",
+  "original_author": "wangjq4214",
+  "package_name": "modern-buaa-thesis",
+  "package_version": "0.4.0",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/typst-universe/typst-modern-buaa-thesis-0-4-0/thesis.typ",
+  "relative_path": "raw/typst-universe/typst-modern-buaa-thesis-0-4-0/thesis.typ",
+  "main_doc": "thesis.typ",
+  "sha256": "02b815d2d5822d5b1f10f3eeb6b177d64077f639abaf532e42825efb4b3a0cab",
+  "size_bytes": 5884,
+  "document_class": null,
+  "uses_packages": [],
+  "downloaded_at": "2026-08-02T13:10:37.293Z",
+  "categories": [
+    "thesis"
+  ],
+  "description": "A modern thesis template for BUAA."
+}

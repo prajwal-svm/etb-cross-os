@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-mawkler-cv-cv",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "cv",
+  "license": "MIT",
+  "source_url": "https://github.com/mawkler/cv",
+  "original_author": "mawkler",
+  "stars": 0,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-mawkler-cv-cv/cv.typ",
+  "relative_path": "raw/github-typst/gh-mawkler-cv-cv/cv.typ",
+  "main_doc": "cv.typ",
+  "sha256": "8701852e93eddb5e0918a893e90eae3731f1aaa77cdc528fc6872b24f8ec970c",
+  "size_bytes": 5010,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "cv.typ",
+  "downloaded_at": "2026-08-02T14:21:22.220Z"
+}

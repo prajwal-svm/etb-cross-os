@@ -1,0 +1,32 @@
+{
+  "id": "ctan/ctan-glossaries-sample-noidxapp-utf8",
+  "source": "ctan",
+  "format": "latex",
+  "category": "package-example",
+  "license": "LPPL-1.3c",
+  "source_url": "https://ctan.org/pkg/glossaries",
+  "original_author": "CTAN package: glossaries",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/ctan__ctan-glossaries-sample-noidxapp-utf8/sample-noidxapp-utf8.tex",
+  "relative_path": "processed/latex/cross-engine/ctan__ctan-glossaries-sample-noidxapp-utf8/sample-noidxapp-utf8.tex",
+  "sha256": "b564be45c9bad2e891bb7607629c0e10d4ecc1734c280fe07b03d5d8daed3eb3",
+  "size_bytes": 3683,
+  "document_class": "report",
+  "uses_packages": [
+    "fontenc",
+    "glossaries",
+    "glossary-mcols",
+    "hyperref",
+    "inputenc"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 712,
+  "downloaded_at": "2026-08-02T13:04:56.448Z",
+  "filtered_at": "2026-08-02T17:34:42.311Z"
+}

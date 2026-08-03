@@ -1,0 +1,32 @@
+{
+  "id": "overleaf/ol-shen-zhen-da-xue-kao-shi-da-ti-zhi-yi-lun-wen-bao-gao-deng-xing-shi-kao-he-zh",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "misc",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/shen-zhen-da-xue-kao-shi-da-ti-zhi-yi-lun-wen-bao-gao-deng-xing-shi-kao-he-zhuan-yong/cbpbxffvfpsd",
+  "original_author": "Misaka10875",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/engine-specific/overleaf__ol-shen-zhen-da-xue-kao-shi-da-ti-zhi-yi-lun-wen-bao-gao-deng-xing-shi-kao-he-zh/main.tex",
+  "relative_path": "processed/latex/engine-specific/overleaf__ol-shen-zhen-da-xue-kao-shi-da-ti-zhi-yi-lun-wen-bao-gao-deng-xing-shi-kao-he-zh/main.tex",
+  "sha256": "293e05d5dbe2adaffe30d60e097f2a6c3f0d35876171e8874c11c636aba37456",
+  "size_bytes": 1097,
+  "document_class": "article",
+  "uses_packages": [
+    "ctex",
+    "geometry",
+    "graphicx",
+    "setspace",
+    "tikz"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": false,
+    "xelatex": true,
+    "lualatex": false,
+    "typst": false
+  },
+  "engine_class": "engine-specific",
+  "compile_time_ms": 2932,
+  "downloaded_at": "2026-08-02T15:11:24.407Z",
+  "filtered_at": "2026-08-02T17:34:41.820Z"
+}

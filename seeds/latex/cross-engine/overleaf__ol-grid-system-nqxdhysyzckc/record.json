@@ -1,0 +1,38 @@
+{
+  "id": "overleaf/ol-grid-system-nqxdhysyzckc",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "misc",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/grid-system/nqxdhysyzckc",
+  "original_author": "Marcus Bitzl",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/overleaf__ol-grid-system-nqxdhysyzckc/main.tex",
+  "relative_path": "processed/latex/cross-engine/overleaf__ol-grid-system-nqxdhysyzckc/main.tex",
+  "sha256": "57224612e36bafb3bac15051f5f6daef31c3c4e2b33d094620f2c9afc1020b9d",
+  "size_bytes": 4782,
+  "document_class": "scrartcl",
+  "uses_packages": [
+    "babel",
+    "beramono",
+    "booktabs",
+    "fontenc",
+    "grid-system",
+    "hyperref",
+    "inputenc",
+    "listings",
+    "opensans",
+    "tabularx",
+    "xcolor"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 1789,
+  "downloaded_at": "2026-08-02T15:35:59.094Z",
+  "filtered_at": "2026-08-02T17:34:41.199Z"
+}

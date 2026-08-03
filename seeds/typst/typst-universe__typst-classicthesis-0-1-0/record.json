@@ -1,0 +1,26 @@
+{
+  "id": "typst-universe/typst-classicthesis-0-1-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "book",
+  "license": "MIT",
+  "source_url": "https://github.com/adwiteeymauriya/classicthesis-typst",
+  "original_author": "Adwiteey Mauriya",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/typst-universe__typst-classicthesis-0-1-0/main.typ",
+  "relative_path": "processed/typst/typst-universe__typst-classicthesis-0-1-0/main.typ",
+  "sha256": "b98a02ba4f9e8b5e1689ff21adee146dc8419d466a3f9787c301299cc928f533",
+  "size_bytes": 2575,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 227,
+  "downloaded_at": "2026-08-02T13:06:53.741Z",
+  "filtered_at": "2026-08-02T17:34:43.707Z"
+}

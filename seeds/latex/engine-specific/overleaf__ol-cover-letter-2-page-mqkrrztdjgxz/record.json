@@ -1,0 +1,40 @@
+{
+  "id": "overleaf/ol-cover-letter-2-page-mqkrrztdjgxz",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "letter",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/cover-letter-2-page/mqkrrztdjgxz",
+  "original_author": "Shinjini Basu",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/engine-specific/overleaf__ol-cover-letter-2-page-mqkrrztdjgxz/main.tex",
+  "relative_path": "processed/latex/engine-specific/overleaf__ol-cover-letter-2-page-mqkrrztdjgxz/main.tex",
+  "sha256": "74351a6ee7ba74970e530e516e98082100e1c64b4717219faabbf8378709d843",
+  "size_bytes": 2373,
+  "document_class": "letter",
+  "uses_packages": [
+    "babel",
+    "enumitem",
+    "fancyhdr",
+    "fontawesome",
+    "fontenc",
+    "geometry",
+    "graphicx",
+    "hyperref",
+    "inputenc",
+    "lipsum",
+    "microtype",
+    "ragged2e",
+    "xcolor"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": false,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "engine-specific",
+  "compile_time_ms": 670,
+  "downloaded_at": "2026-08-02T16:32:26.888Z",
+  "filtered_at": "2026-08-02T17:34:41.030Z"
+}

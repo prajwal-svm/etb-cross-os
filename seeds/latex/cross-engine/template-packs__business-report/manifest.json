@@ -1,0 +1,26 @@
+{
+  "id": "template-packs/business-report",
+  "source": "template-packs",
+  "format": "latex",
+  "category": "business",
+  "category_raw": "Business",
+  "license": "CC0-1.0",
+  "source_url": "https://github.com/Oleafly/template-packs",
+  "original_author": "Oleafly",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/template-packs/business-report/main.tex",
+  "relative_path": "raw/template-packs/business-report/main.tex",
+  "main_doc": "main.tex",
+  "sha256": "efcd27b148c5b87519e8422c584568451772063a13721fe4ade2819712c96972",
+  "size_bytes": 3329,
+  "document_class": "article",
+  "uses_packages": [
+    "booktabs",
+    "geometry",
+    "pgfplots",
+    "sourcesanspro",
+    "tabularx",
+    "xcolor"
+  ],
+  "engine_hint": "xetex",
+  "downloaded_at": "2026-08-02T13:05:15.783Z"
+}

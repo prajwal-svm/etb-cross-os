@@ -1,0 +1,26 @@
+{
+  "id": "typst-universe/typst-german-fx-invoice-0-2-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "business",
+  "license": "MIT-0",
+  "source_url": "https://github.com/2color/typst-german-invoice",
+  "original_author": "Daniel Norman",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/typst-universe__typst-german-fx-invoice-0-2-0/main.typ",
+  "relative_path": "processed/typst/typst-universe__typst-german-fx-invoice-0-2-0/main.typ",
+  "sha256": "66e28db9eb29e005133897628c90cc3946647a26a71cb4a74be6ee68bbeb35c4",
+  "size_bytes": 1752,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 1209,
+  "downloaded_at": "2026-08-02T13:08:41.950Z",
+  "filtered_at": "2026-08-02T17:34:43.846Z"
+}

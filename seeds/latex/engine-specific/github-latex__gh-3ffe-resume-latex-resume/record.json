@@ -1,0 +1,39 @@
+{
+  "id": "github-latex/gh-3ffe-resume-latex-resume",
+  "source": "github-latex",
+  "format": "latex",
+  "category": "cv",
+  "license": "MIT",
+  "source_url": "https://github.com/3ffe/resume-latex",
+  "original_author": "3ffe",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/engine-specific/github-latex__gh-3ffe-resume-latex-resume/resume.tex",
+  "relative_path": "processed/latex/engine-specific/github-latex__gh-3ffe-resume-latex-resume/resume.tex",
+  "sha256": "e963ee208f7727c9244ba3677cca13293c5ac2993238841d224c3d8708a28998",
+  "size_bytes": 4207,
+  "document_class": "article",
+  "uses_packages": [
+    "amsfonts",
+    "amsmath",
+    "amssymb",
+    "amsthm",
+    "enumitem",
+    "fontawesome",
+    "geometry",
+    "hyperref",
+    "marvosym",
+    "pifont",
+    "times",
+    "xcolor"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": false,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "engine-specific",
+  "compile_time_ms": 614,
+  "downloaded_at": "2026-08-02T13:38:52.412Z",
+  "filtered_at": "2026-08-02T17:34:42.376Z"
+}

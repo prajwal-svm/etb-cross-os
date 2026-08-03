@@ -1,0 +1,23 @@
+{
+  "id": "typst-universe/typst-appreciated-letter-0-1-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "business",
+  "license": "MIT-0",
+  "source_url": "https://github.com/typst/templates",
+  "original_author": "Typst GmbH",
+  "package_name": "appreciated-letter",
+  "package_version": "0.1.0",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/typst-universe/typst-appreciated-letter-0-1-0/main.typ",
+  "relative_path": "raw/typst-universe/typst-appreciated-letter-0-1-0/main.typ",
+  "main_doc": "main.typ",
+  "sha256": "8d2effb0c95655e491d3184d68b6deac7b007a6c5e2f1c94d3faaaf3c1a83b66",
+  "size_bytes": 432,
+  "document_class": null,
+  "uses_packages": [],
+  "downloaded_at": "2026-08-02T13:05:47.192Z",
+  "categories": [
+    "office"
+  ],
+  "description": "Correspond with business associates and your friends via mail"
+}

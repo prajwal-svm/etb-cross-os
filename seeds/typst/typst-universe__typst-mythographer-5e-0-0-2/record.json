@@ -1,0 +1,26 @@
+{
+  "id": "typst-universe/typst-mythographer-5e-0-0-2",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "book",
+  "license": "MIT",
+  "source_url": "https://github.com/sa1g/dnd-typst-template",
+  "original_author": "sa1g",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/typst-universe__typst-mythographer-5e-0-0-2/TheDarkTypst.typ",
+  "relative_path": "processed/typst/typst-universe__typst-mythographer-5e-0-0-2/TheDarkTypst.typ",
+  "sha256": "2170dcd6c625e9b4bf5e3848d04856ae0bd6a149268fef9b40cad58874f00cc7",
+  "size_bytes": 9885,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 621,
+  "downloaded_at": "2026-08-02T13:11:29.893Z",
+  "filtered_at": "2026-08-02T17:34:44.059Z"
+}

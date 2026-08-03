@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-xrsl-nabcv-letter-1",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "cv",
+  "license": "MIT",
+  "source_url": "https://github.com/xrsl/nabcv",
+  "original_author": "xrsl",
+  "stars": 5,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-xrsl-nabcv-letter-1/letter.typ",
+  "relative_path": "raw/github-typst/gh-xrsl-nabcv-letter-1/letter.typ",
+  "main_doc": "letter.typ",
+  "sha256": "3fb8c9c2bfe45e6e6e01433601e7d335a2da7563bd2d6ffeabe246d003226901",
+  "size_bytes": 6222,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "src/letter.typ",
+  "downloaded_at": "2026-08-02T14:07:17.015Z"
+}

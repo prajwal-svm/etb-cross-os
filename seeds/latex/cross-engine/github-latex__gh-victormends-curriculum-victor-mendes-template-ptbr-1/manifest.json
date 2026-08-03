@@ -1,0 +1,29 @@
+{
+  "id": "github-latex/gh-victormends-curriculum-victor-mendes-template-ptbr-1",
+  "source": "github-latex",
+  "format": "latex",
+  "category": "cv",
+  "license": "MIT",
+  "source_url": "https://github.com/victormends/curriculum-victor-mendes",
+  "original_author": "victormends",
+  "stars": 0,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-latex/gh-victormends-curriculum-victor-mendes-template-ptbr-1/template_ptbr.tex",
+  "relative_path": "raw/github-latex/gh-victormends-curriculum-victor-mendes-template-ptbr-1/template_ptbr.tex",
+  "main_doc": "template_ptbr.tex",
+  "sha256": "cfc0ce3e1e131bdac090965b1df1abf02d3f145d21d436b189a388e9c49521e1",
+  "size_bytes": 8141,
+  "document_class": "article",
+  "uses_packages": [
+    "babel",
+    "charter",
+    "enumitem",
+    "fontenc",
+    "geometry",
+    "hyperref",
+    "inputenc",
+    "titlesec",
+    "xcolor"
+  ],
+  "repo_path": "template_ptbr.tex",
+  "downloaded_at": "2026-08-02T13:51:21.458Z"
+}

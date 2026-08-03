@@ -1,0 +1,23 @@
+{
+  "id": "typst-universe/typst-thusliding-0-0-1",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "beamer",
+  "license": "MIT-0",
+  "source_url": "https://github.com/Jzzzi/slide-thu",
+  "original_author": "Jez (https://github.com/Jzzzi)",
+  "package_name": "thusliding",
+  "package_version": "0.0.1",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/typst-universe/typst-thusliding-0-0-1/main.typ",
+  "relative_path": "raw/typst-universe/typst-thusliding-0-0-1/main.typ",
+  "main_doc": "main.typ",
+  "sha256": "fbfdf01a126ad5e39a68d034ff7a3f416694a21d29142dd4219284149c5cbdf2",
+  "size_bytes": 580,
+  "document_class": null,
+  "uses_packages": [],
+  "downloaded_at": "2026-08-02T13:13:47.905Z",
+  "categories": [
+    "presentation"
+  ],
+  "description": "A slide template for Tsinghua University, modified from https://github.com/skriptum/Diatypst"
+}

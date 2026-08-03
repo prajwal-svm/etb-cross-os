@@ -1,0 +1,23 @@
+{
+  "id": "typst-universe/typst-unofficial-sorbonne-presentation-0-5-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "beamer",
+  "license": "MIT",
+  "source_url": "https://typst.app/universe/package/unofficial-sorbonne-presentation",
+  "original_author": "David Hajage",
+  "package_name": "unofficial-sorbonne-presentation",
+  "package_version": "0.5.0",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/typst-universe/typst-unofficial-sorbonne-presentation-0-5-0/main.typ",
+  "relative_path": "raw/typst-universe/typst-unofficial-sorbonne-presentation-0-5-0/main.typ",
+  "main_doc": "main.typ",
+  "sha256": "706cd2255d85738885ccfae1c917060f428d5d53a5fd998a580f0083cad1e244",
+  "size_bytes": 1574,
+  "document_class": null,
+  "uses_packages": [],
+  "downloaded_at": "2026-08-02T13:15:25.947Z",
+  "categories": [
+    "presentation"
+  ],
+  "description": "A unofficial structured presentation theme for Sorbonne University and IPLESP, based on presentate and navigator."
+}

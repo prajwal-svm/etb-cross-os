@@ -1,0 +1,26 @@
+{
+  "id": "typst-universe/typst-calligraphics-1-0-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "cv",
+  "license": "MIT",
+  "source_url": "https://github.com/Lieunoir/calligraphics",
+  "original_author": "Lieunoir",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/typst-universe__typst-calligraphics-1-0-0/resume.typ",
+  "relative_path": "processed/typst/typst-universe__typst-calligraphics-1-0-0/resume.typ",
+  "sha256": "431a11c4b92ded60ca5b99e715a8724a2b12d8478dcff355c13802b764531198",
+  "size_bytes": 2368,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 1378,
+  "downloaded_at": "2026-08-02T13:06:27.218Z",
+  "filtered_at": "2026-08-02T17:34:43.672Z"
+}

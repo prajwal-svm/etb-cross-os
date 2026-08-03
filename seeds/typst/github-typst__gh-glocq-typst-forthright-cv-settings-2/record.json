@@ -1,0 +1,26 @@
+{
+  "id": "github-typst/gh-glocq-typst-forthright-cv-settings-2",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "cv",
+  "license": "MIT",
+  "source_url": "https://github.com/glocq/typst-forthright-cv",
+  "original_author": "glocq",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/github-typst__gh-glocq-typst-forthright-cv-settings-2/settings.typ",
+  "relative_path": "processed/typst/github-typst__gh-glocq-typst-forthright-cv-settings-2/settings.typ",
+  "sha256": "ef01a8dd3f58b7145a435fa610ef28b69f6a527126f06d4bd91eed85bcd61b73",
+  "size_bytes": 2926,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 8,
+  "downloaded_at": "2026-08-02T14:07:25.734Z",
+  "filtered_at": "2026-08-02T17:34:44.921Z"
+}

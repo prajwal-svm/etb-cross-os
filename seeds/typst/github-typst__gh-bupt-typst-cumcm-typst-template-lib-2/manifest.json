@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-bupt-typst-cumcm-typst-template-lib-2",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "misc",
+  "license": "Apache-2.0",
+  "source_url": "https://github.com/BUPT-typst/CUMCM-typst-template",
+  "original_author": "BUPT-typst",
+  "stars": 1,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-bupt-typst-cumcm-typst-template-lib-2/lib.typ",
+  "relative_path": "raw/github-typst/gh-bupt-typst-cumcm-typst-template-lib-2/lib.typ",
+  "main_doc": "lib.typ",
+  "sha256": "b6cbb2a4f15be554f457932d231df400e2eecc73996cec8853a999145b33b1f4",
+  "size_bytes": 11318,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "report/lib.typ",
+  "downloaded_at": "2026-08-02T14:13:15.452Z"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "github-typst/gh-fslyy-dhbw-typst-index-of-attachments",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "thesis",
+  "license": "MIT",
+  "source_url": "https://github.com/fslyy/DHBW_Typst",
+  "original_author": "fslyy",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/github-typst__gh-fslyy-dhbw-typst-index-of-attachments/index_of_attachments.typ",
+  "relative_path": "processed/typst/github-typst__gh-fslyy-dhbw-typst-index-of-attachments/index_of_attachments.typ",
+  "sha256": "327cba14524dba35766f9d3c929f56a6095dc76639679dae5675e3e083e6b299",
+  "size_bytes": 525,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 6,
+  "downloaded_at": "2026-08-02T14:17:37.900Z",
+  "filtered_at": "2026-08-02T17:34:44.860Z"
+}

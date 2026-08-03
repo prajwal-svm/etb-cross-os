@@ -1,0 +1,26 @@
+{
+  "id": "typst-universe/typst-structured-mse-thesis-0-1-1",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "thesis",
+  "license": "MIT",
+  "source_url": "https://github.com/loicfontaine/mse-master-thesis-typst",
+  "original_author": "Loïc Fontaine",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/typst-universe__typst-structured-mse-thesis-0-1-1/thesis.typ",
+  "relative_path": "processed/typst/typst-universe__typst-structured-mse-thesis-0-1-1/thesis.typ",
+  "sha256": "4fed2b06f8cd118f98046dd39e38117876c94ef6973e203bfc6e6cf2323130bd",
+  "size_bytes": 559,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 363,
+  "downloaded_at": "2026-08-02T13:13:30.990Z",
+  "filtered_at": "2026-08-02T17:34:44.227Z"
+}

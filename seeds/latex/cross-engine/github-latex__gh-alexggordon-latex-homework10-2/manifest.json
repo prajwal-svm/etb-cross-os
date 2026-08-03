@@ -1,0 +1,27 @@
+{
+  "id": "github-latex/gh-alexggordon-latex-homework10-2",
+  "source": "github-latex",
+  "format": "latex",
+  "category": "coursework",
+  "license": "MIT",
+  "source_url": "https://github.com/alexggordon/latex",
+  "original_author": "alexggordon",
+  "stars": 0,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-latex/gh-alexggordon-latex-homework10-2/Homework10.tex",
+  "relative_path": "raw/github-latex/gh-alexggordon-latex-homework10-2/Homework10.tex",
+  "main_doc": "Homework10.tex",
+  "sha256": "c8aaf34bf15718fd4ab635672f8041c003e51a2eca9dc4c35b1fdac55e532798",
+  "size_bytes": 3341,
+  "document_class": "scrartcl",
+  "uses_packages": [
+    "amsmath",
+    "amssymb",
+    "calc",
+    "dsfont",
+    "fullpage",
+    "gensymb",
+    "multicol"
+  ],
+  "repo_path": "DiscreteMath/Homework10.tex",
+  "downloaded_at": "2026-08-02T13:48:56.843Z"
+}

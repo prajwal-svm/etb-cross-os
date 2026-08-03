@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-yanik-thurner-resume-containers-2",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "cv",
+  "license": "MIT",
+  "source_url": "https://github.com/yanik-thurner/resume",
+  "original_author": "yanik-thurner",
+  "stars": 0,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-yanik-thurner-resume-containers-2/containers.typ",
+  "relative_path": "raw/github-typst/gh-yanik-thurner-resume-containers-2/containers.typ",
+  "main_doc": "containers.typ",
+  "sha256": "7b4397bf67a62405066d3e3d7fe0e7a1527b1233ecb60d6668fa4d3742e1a3d2",
+  "size_bytes": 1012,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "src/containers.typ",
+  "downloaded_at": "2026-08-02T14:20:11.481Z"
+}

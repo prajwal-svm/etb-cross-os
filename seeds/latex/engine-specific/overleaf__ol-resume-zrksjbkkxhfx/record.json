@@ -1,0 +1,40 @@
+{
+  "id": "overleaf/ol-resume-zrksjbkkxhfx",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "cv",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/resume/zrksjbkkxhfx",
+  "original_author": "Mittapalli Pavan",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/engine-specific/overleaf__ol-resume-zrksjbkkxhfx/main.tex",
+  "relative_path": "processed/latex/engine-specific/overleaf__ol-resume-zrksjbkkxhfx/main.tex",
+  "sha256": "fb9d7d52a85bcfb5cf250ce34e65f6f3bb0e16acba012ebad49363a3295f901e",
+  "size_bytes": 15585,
+  "document_class": "article",
+  "uses_packages": [
+    "amsmath",
+    "babel",
+    "color",
+    "fix-cm",
+    "fontenc",
+    "geometry",
+    "inputenc",
+    "latexsym",
+    "pict2e",
+    "pxfonts",
+    "tikz",
+    "ucs",
+    "wasysym"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": false
+  },
+  "engine_class": "engine-specific",
+  "compile_time_ms": 1376,
+  "downloaded_at": "2026-08-02T15:16:20.993Z",
+  "filtered_at": "2026-08-02T17:34:41.781Z"
+}

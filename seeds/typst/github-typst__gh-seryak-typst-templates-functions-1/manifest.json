@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-seryak-typst-templates-functions-1",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "misc",
+  "license": "MIT",
+  "source_url": "https://github.com/seryak/typst-templates",
+  "original_author": "seryak",
+  "stars": 0,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-seryak-typst-templates-functions-1/functions.typ",
+  "relative_path": "raw/github-typst/gh-seryak-typst-templates-functions-1/functions.typ",
+  "main_doc": "functions.typ",
+  "sha256": "133c16bad5094c4c2c7952b442f6fcbc05c06d1a3ac250ecab0fcf5a1dad798c",
+  "size_bytes": 893,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "experiments/functions.typ",
+  "downloaded_at": "2026-08-02T14:14:29.377Z"
+}

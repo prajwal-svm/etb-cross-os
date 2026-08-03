@@ -1,0 +1,23 @@
+{
+  "id": "typst-universe/typst-caidan-0-1-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "creative",
+  "license": "MIT",
+  "source_url": "https://github.com/cu1ch3n/caidan",
+  "original_author": "Chen Cui",
+  "package_name": "caidan",
+  "package_version": "0.1.0",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/typst-universe/typst-caidan-0-1-0/main.typ",
+  "relative_path": "raw/typst-universe/typst-caidan-0-1-0/main.typ",
+  "main_doc": "main.typ",
+  "sha256": "4594e5f2a99272f791c91ff92e59163d414910f546bdb7a1872f843b70d71171",
+  "size_bytes": 6738,
+  "document_class": null,
+  "uses_packages": [],
+  "downloaded_at": "2026-08-02T13:06:26.515Z",
+  "categories": [
+    "flyer"
+  ],
+  "description": "A clean and minimal food menu template"
+}

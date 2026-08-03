@@ -1,0 +1,31 @@
+{
+  "id": "overleaf/ol-algoritmia-avanzada-fjnpnzxskcvc",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "misc",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/algoritmia-avanzada/fjnpnzxskcvc",
+  "original_author": "Karen Madelaine Gordo González",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/overleaf__ol-algoritmia-avanzada-fjnpnzxskcvc/main.tex",
+  "relative_path": "processed/latex/cross-engine/overleaf__ol-algoritmia-avanzada-fjnpnzxskcvc/main.tex",
+  "sha256": "78cc52520721430f000174b14bbb59deb7d33f202582e55aaea1d6490d9d1e68",
+  "size_bytes": 1467,
+  "document_class": "article",
+  "uses_packages": [
+    "graphicx",
+    "inputenc",
+    "natbib",
+    "url"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 228,
+  "downloaded_at": "2026-08-02T14:56:15.527Z",
+  "filtered_at": "2026-08-02T17:34:40.923Z"
+}

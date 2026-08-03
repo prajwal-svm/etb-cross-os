@@ -1,0 +1,33 @@
+{
+  "id": "overleaf/ol-cs109-pset-template-mnrbzkmhnbfx",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "misc",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/cs109-pset-template/mnrbzkmhnbfx",
+  "original_author": "Jacqueline Ennis",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/overleaf__ol-cs109-pset-template-mnrbzkmhnbfx/main.tex",
+  "relative_path": "processed/latex/cross-engine/overleaf__ol-cs109-pset-template-mnrbzkmhnbfx/main.tex",
+  "sha256": "3654d97fa0418b31bb93a53ba9a94870a11ed7a1ca524433089c64ed32c10304",
+  "size_bytes": 1411,
+  "document_class": "article",
+  "uses_packages": [
+    "amsmath",
+    "amssymb",
+    "fancyhdr",
+    "geometry",
+    "graphicx",
+    "relsize"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 262,
+  "downloaded_at": "2026-08-02T13:45:10.086Z",
+  "filtered_at": "2026-08-02T17:34:41.037Z"
+}

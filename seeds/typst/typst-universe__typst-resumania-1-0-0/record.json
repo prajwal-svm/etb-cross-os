@@ -1,0 +1,26 @@
+{
+  "id": "typst-universe/typst-resumania-1-0-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "cv",
+  "license": "MIT",
+  "source_url": "https://github.com/kcmw3e/resumania",
+  "original_author": "Casey Walker",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/typst-universe__typst-resumania-1-0-0/main.typ",
+  "relative_path": "processed/typst/typst-universe__typst-resumania-1-0-0/main.typ",
+  "sha256": "211bc8dcb6c6c6f649b4695e20185ccc5573c0c6c9b523e2156d18009e1ccab4",
+  "size_bytes": 3124,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 165,
+  "downloaded_at": "2026-08-02T13:12:30.530Z",
+  "filtered_at": "2026-08-02T17:34:44.145Z"
+}

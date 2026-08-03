@@ -1,0 +1,26 @@
+{
+  "id": "template-packs/typst-journal-article",
+  "source": "template-packs",
+  "format": "typst",
+  "category": "venue",
+  "license": "CC0-1.0",
+  "source_url": "https://github.com/Oleafly/template-packs",
+  "original_author": "Oleafly",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/template-packs__typst-journal-article/main.typ",
+  "relative_path": "processed/typst/template-packs__typst-journal-article/main.typ",
+  "sha256": "72ed703e294850d5e7740894f4f5bc6495c1692bd8c261aff8f3c1e66790d5ed",
+  "size_bytes": 897,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 210,
+  "downloaded_at": "2026-08-02T13:05:15.884Z",
+  "filtered_at": "2026-08-02T17:34:40.870Z"
+}

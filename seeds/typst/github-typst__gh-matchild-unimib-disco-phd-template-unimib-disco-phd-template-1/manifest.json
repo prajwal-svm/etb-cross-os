@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-matchild-unimib-disco-phd-template-unimib-disco-phd-template-1",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "beamer",
+  "license": "MIT",
+  "source_url": "https://github.com/matchild/unimib-DISCo-phd-template",
+  "original_author": "matchild",
+  "stars": 0,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-matchild-unimib-disco-phd-template-unimib-disco-phd-template-1/unimib-DISCo-phd-template.typ",
+  "relative_path": "raw/github-typst/gh-matchild-unimib-disco-phd-template-unimib-disco-phd-template-1/unimib-DISCo-phd-template.typ",
+  "main_doc": "unimib-DISCo-phd-template.typ",
+  "sha256": "4978043ab47f447819d4eaf3244234ba0cb9e813f87ee4193bc89c9ec4b57f20",
+  "size_bytes": 3697,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "template/unimib-DISCo-phd-template.typ",
+  "downloaded_at": "2026-08-02T14:18:50.675Z"
+}

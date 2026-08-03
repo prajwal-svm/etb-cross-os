@@ -1,0 +1,31 @@
+{
+  "id": "github-latex/gh-deluf-bare-metal-cv-main",
+  "source": "github-latex",
+  "format": "latex",
+  "category": "cv",
+  "license": "MIT",
+  "source_url": "https://github.com/deluf/bare-metal-cv",
+  "original_author": "deluf",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/github-latex__gh-deluf-bare-metal-cv-main/main.tex",
+  "relative_path": "processed/latex/cross-engine/github-latex__gh-deluf-bare-metal-cv-main/main.tex",
+  "sha256": "1d145f046f8a0e953ffe2c79a1cef2b9a6e23fad52bae5dd48e96f031874fb51",
+  "size_bytes": 7187,
+  "document_class": "article",
+  "uses_packages": [
+    "charter",
+    "enumitem",
+    "geometry",
+    "hyperref"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 360,
+  "downloaded_at": "2026-08-02T13:50:39.117Z",
+  "filtered_at": "2026-08-02T17:34:42.637Z"
+}

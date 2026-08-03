@@ -1,0 +1,25 @@
+{
+  "id": "typst-universe/typst-jastylest-0-2-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "report",
+  "license": "MIT-0",
+  "source_url": "https://github.com/raygo0312/jastylest.git",
+  "original_author": "raygo",
+  "package_name": "jastylest",
+  "package_version": "0.2.0",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/typst-universe/typst-jastylest-0-2-0/document.typ",
+  "relative_path": "raw/typst-universe/typst-jastylest-0-2-0/document.typ",
+  "main_doc": "document.typ",
+  "sha256": "b9f26eaabaf12d16195ac7976fd831dee53a02a916f951ef0619d61b163af042",
+  "size_bytes": 1717,
+  "document_class": null,
+  "uses_packages": [],
+  "downloaded_at": "2026-08-02T13:09:38.114Z",
+  "categories": [
+    "report",
+    "paper",
+    "presentation"
+  ],
+  "description": "You can set up style templates for writing reports, papers, and slides in Japanese. It works similarly to LaTeX."
+}

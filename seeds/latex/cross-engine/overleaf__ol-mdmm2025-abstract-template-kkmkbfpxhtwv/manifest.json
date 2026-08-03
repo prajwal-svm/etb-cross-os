@@ -1,0 +1,23 @@
+{
+  "id": "overleaf/ol-mdmm2025-abstract-template-kkmkbfpxhtwv",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "misc",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/mdmm2025-abstract-template/kkmkbfpxhtwv",
+  "original_author": "Edyta Dyguda-Kazimierowicz",
+  "title": "MDMM2025_abstract_template",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/overleaf/ol-mdmm2025-abstract-template-kkmkbfpxhtwv/main.tex",
+  "relative_path": "raw/overleaf/ol-mdmm2025-abstract-template-kkmkbfpxhtwv/main.tex",
+  "main_doc": "main.tex",
+  "sha256": "2580835df00c3e41287e02797f80ad1b2b6fecec321cc7bed083b8f731efc6d3",
+  "size_bytes": 2740,
+  "document_class": "article",
+  "uses_packages": [
+    "geometry",
+    "graphicx"
+  ],
+  "download_method": "view-source-modal",
+  "github_url": null,
+  "downloaded_at": "2026-08-02T16:12:35.934Z"
+}

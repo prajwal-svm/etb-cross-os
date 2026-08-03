@@ -1,0 +1,22 @@
+{
+  "id": "ctan/ctan-geometry-geometry-samples",
+  "source": "ctan",
+  "format": "latex",
+  "category": "package-example",
+  "license": "LPPL-1.3c",
+  "source_url": "https://ctan.org/pkg/geometry",
+  "original_author": "CTAN package: geometry",
+  "package": "geometry",
+  "original_path": "/usr/local/texlive/2025/texmf-dist/doc/latex/geometry/geometry-samples.tex",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/ctan/ctan-geometry-geometry-samples/geometry-samples.tex",
+  "relative_path": "raw/ctan/ctan-geometry-geometry-samples/geometry-samples.tex",
+  "main_doc": "geometry-samples.tex",
+  "sha256": "8bc7937bec7f36a075abf0ee9471fa564c6467f09ebbfa6320fdeedd0c9f25e4",
+  "size_bytes": 3239,
+  "document_class": "article",
+  "uses_packages": [
+    "geometry",
+    "lipsum"
+  ],
+  "downloaded_at": "2026-08-02T13:04:45.327Z"
+}

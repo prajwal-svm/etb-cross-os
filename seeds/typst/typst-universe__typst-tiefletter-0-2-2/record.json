@@ -1,0 +1,26 @@
+{
+  "id": "typst-universe/typst-tiefletter-0-2-2",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "business",
+  "license": "MIT",
+  "source_url": "https://github.com/Tiefseetauchner/TiefLetter",
+  "original_author": "Lena Tauchner",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/typst-universe__typst-tiefletter-0-2-2/main.typ",
+  "relative_path": "processed/typst/typst-universe__typst-tiefletter-0-2-2/main.typ",
+  "sha256": "5c90fa6c7e27e72ddab2366aad0f1cf0f2c7c7e453d19f74b999a89a98eb8285",
+  "size_bytes": 1040,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 238,
+  "downloaded_at": "2026-08-02T13:13:52.503Z",
+  "filtered_at": "2026-08-02T17:34:44.260Z"
+}

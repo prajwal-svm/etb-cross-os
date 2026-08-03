@@ -1,0 +1,23 @@
+{
+  "id": "typst-universe/typst-enunciado-facil-fcfm-0-1-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "report",
+  "license": "MIT",
+  "source_url": "https://github.com/bkorecic/enunciado-facil-fcfm",
+  "original_author": "Blaz Korecic",
+  "package_name": "enunciado-facil-fcfm",
+  "package_version": "0.1.0",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/typst-universe/typst-enunciado-facil-fcfm-0-1-0/main.typ",
+  "relative_path": "raw/typst-universe/typst-enunciado-facil-fcfm-0-1-0/main.typ",
+  "main_doc": "main.typ",
+  "sha256": "ef51da5b6a27902e2f123a747d95f22ec5d71e307010816603aea44ba742eb41",
+  "size_bytes": 1212,
+  "document_class": null,
+  "uses_packages": [],
+  "downloaded_at": "2026-08-02T13:08:09.063Z",
+  "categories": [
+    "report"
+  ],
+  "description": "Documentos de ejercicios (controles, auxiliares, tareas, pautas) para la FCFM, UChile"
+}

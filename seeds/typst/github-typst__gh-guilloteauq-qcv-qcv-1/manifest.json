@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-guilloteauq-qcv-qcv-1",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "cv",
+  "license": "MIT",
+  "source_url": "https://github.com/GuilloteauQ/qcv",
+  "original_author": "GuilloteauQ",
+  "stars": 1,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-guilloteauq-qcv-qcv-1/qcv.typ",
+  "relative_path": "raw/github-typst/gh-guilloteauq-qcv-qcv-1/qcv.typ",
+  "main_doc": "qcv.typ",
+  "sha256": "48313926df75b6a2d7ce4700330c08fc32be1a32b0ab231f79a9e704d2ea6c66",
+  "size_bytes": 2303,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "qcv.typ",
+  "downloaded_at": "2026-08-02T14:11:37.800Z"
+}

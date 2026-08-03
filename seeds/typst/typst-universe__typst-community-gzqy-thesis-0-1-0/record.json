@@ -1,0 +1,26 @@
+{
+  "id": "typst-universe/typst-community-gzqy-thesis-0-1-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "thesis",
+  "license": "MIT",
+  "source_url": "https://typst.app/universe/package/community-gzqy-thesis",
+  "original_author": "isirin1131",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/typst-universe__typst-community-gzqy-thesis-0-1-0/main.typ",
+  "relative_path": "processed/typst/typst-universe__typst-community-gzqy-thesis-0-1-0/main.typ",
+  "sha256": "08c1df3f076e1ae30b45e59242f5bf4eb3bc3f00c3b9d9b6d707327a95c7e261",
+  "size_bytes": 1320,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 415,
+  "downloaded_at": "2026-08-02T13:07:19.339Z",
+  "filtered_at": "2026-08-02T17:34:43.744Z"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "overleaf/ol-ctqs-fcdjyzbgpmfs",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "misc",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/ctqs/fcdjyzbgpmfs",
+  "original_author": null,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/overleaf__ol-ctqs-fcdjyzbgpmfs/main.tex",
+  "relative_path": "processed/latex/cross-engine/overleaf__ol-ctqs-fcdjyzbgpmfs/main.tex",
+  "sha256": "f6156c77f91f0fcf5db83df38b6240caf5019705a946e8b57f1005140d260221",
+  "size_bytes": 288,
+  "document_class": "article",
+  "uses_packages": [
+    "amsmath",
+    "graphicx"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 226,
+  "downloaded_at": "2026-08-02T15:53:28.799Z",
+  "filtered_at": "2026-08-02T17:34:41.046Z"
+}

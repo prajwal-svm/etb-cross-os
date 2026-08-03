@@ -1,0 +1,26 @@
+{
+  "id": "typst-universe/typst-basic-document-props-0-1-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "business",
+  "license": "MIT",
+  "source_url": "https://github.com/Notme112/typst-packages/",
+  "original_author": "Notme112",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/typst-universe__typst-basic-document-props-0-1-0/main.typ",
+  "relative_path": "processed/typst/typst-universe__typst-basic-document-props-0-1-0/main.typ",
+  "sha256": "40573a9656e11282134b10d49779b5e6ec68612f4a8ec96c22561c5738b9851d",
+  "size_bytes": 234,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 168,
+  "downloaded_at": "2026-08-02T13:06:02.310Z",
+  "filtered_at": "2026-08-02T17:34:43.637Z"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "typst-universe/typst-scholia-0-1-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "book",
+  "license": "MIT",
+  "source_url": "https://github.com/Eryc123Y/scholia",
+  "original_author": "Eric Yang",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/typst-universe__typst-scholia-0-1-0/main.typ",
+  "relative_path": "processed/typst/typst-universe__typst-scholia-0-1-0/main.typ",
+  "sha256": "cf0b598be3bbeedef52e859678ba24ba29450093a0ae67571291d0f8b2cc16b4",
+  "size_bytes": 1155,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 238,
+  "downloaded_at": "2026-08-02T13:12:41.173Z",
+  "filtered_at": "2026-08-02T17:34:44.162Z"
+}

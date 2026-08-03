@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-jorgexbeta-latexlike-report-lib-1",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "report",
+  "license": "MIT",
+  "source_url": "https://github.com/jorgexbeta/latexlike-report",
+  "original_author": "jorgexbeta",
+  "stars": 3,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-jorgexbeta-latexlike-report-lib-1/lib.typ",
+  "relative_path": "raw/github-typst/gh-jorgexbeta-latexlike-report-lib-1/lib.typ",
+  "main_doc": "lib.typ",
+  "sha256": "ca4054381a8717ede52fd51b19bed2e7041e9fb9e68b9e00d3f6ecad7a10abe2",
+  "size_bytes": 5765,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "lib.typ",
+  "downloaded_at": "2026-08-02T14:09:29.696Z"
+}

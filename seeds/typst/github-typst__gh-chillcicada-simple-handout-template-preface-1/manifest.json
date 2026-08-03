@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-chillcicada-simple-handout-template-preface-1",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "book",
+  "license": "MIT",
+  "source_url": "https://github.com/chillcicada/simple-handout-template",
+  "original_author": "chillcicada",
+  "stars": 2,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-chillcicada-simple-handout-template-preface-1/preface.typ",
+  "relative_path": "raw/github-typst/gh-chillcicada-simple-handout-template-preface-1/preface.typ",
+  "main_doc": "preface.typ",
+  "sha256": "882d7c568f106cb3ddd188a98c2e6f9eed925bb5b41cff9fb7aec8abec3c77ce",
+  "size_bytes": 1907,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "example/preface.typ",
+  "downloaded_at": "2026-08-02T14:10:26.638Z"
+}

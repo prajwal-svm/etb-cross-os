@@ -1,0 +1,23 @@
+{
+  "id": "typst-universe/typst-tatras-ieee-0-1-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "venue",
+  "license": "MIT",
+  "source_url": "https://github.com/MeheheCedy22/tatras-ieee",
+  "original_author": "Marek Čederle",
+  "package_name": "tatras-ieee",
+  "package_version": "0.1.0",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/typst-universe/typst-tatras-ieee-0-1-0/main.typ",
+  "relative_path": "raw/typst-universe/typst-tatras-ieee-0-1-0/main.typ",
+  "main_doc": "main.typ",
+  "sha256": "c2365d2f657fdff73011bb865cfc56073b5abfb62790559b8b7de1ac97bfafb4",
+  "size_bytes": 2310,
+  "document_class": null,
+  "uses_packages": [],
+  "downloaded_at": "2026-08-02T13:13:39.741Z",
+  "categories": [
+    "paper"
+  ],
+  "description": "An IEEE-style paper template for use with Slovak language"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-watasuke102-typst-template-lib-2",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "misc",
+  "license": "MIT",
+  "source_url": "https://github.com/watasuke102/typst-template",
+  "original_author": "watasuke102",
+  "stars": 1,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-watasuke102-typst-template-lib-2/lib.typ",
+  "relative_path": "raw/github-typst/gh-watasuke102-typst-template-lib-2/lib.typ",
+  "main_doc": "lib.typ",
+  "sha256": "1d456bc09b66947702d981a12b2646f59505fd4d09c4713bdda9f124fa0fc720",
+  "size_bytes": 6499,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "slide/1.0.0/lib.typ",
+  "downloaded_at": "2026-08-02T14:11:09.513Z"
+}

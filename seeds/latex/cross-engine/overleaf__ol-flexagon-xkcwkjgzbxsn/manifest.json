@@ -1,0 +1,24 @@
+{
+  "id": "overleaf/ol-flexagon-xkcwkjgzbxsn",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "misc",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/flexagon/xkcwkjgzbxsn",
+  "original_author": "David",
+  "title": "Flexagon",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/overleaf/ol-flexagon-xkcwkjgzbxsn/main.tex",
+  "relative_path": "raw/overleaf/ol-flexagon-xkcwkjgzbxsn/main.tex",
+  "main_doc": "main.tex",
+  "sha256": "8cf72476edf29ce4d904d7ae18e2f42308c59fe19b7e7e87111283ecc79115ae",
+  "size_bytes": 617,
+  "document_class": "article",
+  "uses_packages": [
+    "easytable",
+    "geometry",
+    "tabularx"
+  ],
+  "download_method": "view-source-modal",
+  "github_url": null,
+  "downloaded_at": "2026-08-02T15:53:12.499Z"
+}

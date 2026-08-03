@@ -1,0 +1,30 @@
+{
+  "id": "overleaf/ol-csci-3104-problem-set-template-vkypbmssvkcj",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "misc",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/csci-3104-problem-set-template/vkypbmssvkcj",
+  "original_author": "Justin Davis",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/overleaf__ol-csci-3104-problem-set-template-vkypbmssvkcj/main.tex",
+  "relative_path": "processed/latex/cross-engine/overleaf__ol-csci-3104-problem-set-template-vkypbmssvkcj/main.tex",
+  "sha256": "3a499ab7fd00cbd259777dc69cb3a4a24106a052b88412421e4dda13d9fce6fe",
+  "size_bytes": 1003,
+  "document_class": "article",
+  "uses_packages": [
+    "amsfonts",
+    "amsmath",
+    "amssymb"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 219,
+  "downloaded_at": "2026-08-02T14:41:04.297Z",
+  "filtered_at": "2026-08-02T17:34:41.042Z"
+}

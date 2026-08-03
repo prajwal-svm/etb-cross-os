@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-sardorml-vantage-typst-vantage-typst-1",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "cv",
+  "license": "MIT",
+  "source_url": "https://github.com/sardorml/vantage-typst",
+  "original_author": "sardorml",
+  "stars": 92,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-sardorml-vantage-typst-vantage-typst-1/vantage-typst.typ",
+  "relative_path": "raw/github-typst/gh-sardorml-vantage-typst-vantage-typst-1/vantage-typst.typ",
+  "main_doc": "vantage-typst.typ",
+  "sha256": "5259de8c5c01476570ca03af31e5b23af4fa7d6bd6ef03f2495d684f06774cb1",
+  "size_bytes": 2464,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "vantage-typst.typ",
+  "downloaded_at": "2026-08-02T14:03:39.560Z"
+}

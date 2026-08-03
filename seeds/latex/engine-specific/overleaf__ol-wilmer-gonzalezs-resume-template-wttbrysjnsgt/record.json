@@ -1,0 +1,42 @@
+{
+  "id": "overleaf/ol-wilmer-gonzalezs-resume-template-wttbrysjnsgt",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "cv",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/wilmer-gonzalezs-resume-template/wttbrysjnsgt",
+  "original_author": "Wilmer Gonzalez",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/engine-specific/overleaf__ol-wilmer-gonzalezs-resume-template-wttbrysjnsgt/source.tex",
+  "relative_path": "processed/latex/engine-specific/overleaf__ol-wilmer-gonzalezs-resume-template-wttbrysjnsgt/source.tex",
+  "sha256": "83de71f02982ae325399d907cc7c0c4cd0d515129b6294a3e9181672d035bb4f",
+  "size_bytes": 22909,
+  "document_class": "article",
+  "uses_packages": [
+    "babel",
+    "color",
+    "enumitem",
+    "fancyhdr",
+    "fontawesome",
+    "fullpage",
+    "hyperref",
+    "latexsym",
+    "lato",
+    "marvosym",
+    "pagecolor",
+    "tabularx",
+    "tcolorbox",
+    "titlesec",
+    "verbatim"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": false,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "engine-specific",
+  "compile_time_ms": 1390,
+  "downloaded_at": "2026-08-02T14:22:46.184Z",
+  "filtered_at": "2026-08-02T17:34:42.160Z"
+}

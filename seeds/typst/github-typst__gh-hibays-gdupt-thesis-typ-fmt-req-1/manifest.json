@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-hibays-gdupt-thesis-typ-fmt-req-1",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "thesis",
+  "license": "MIT",
+  "source_url": "https://github.com/hibays/gdupt-thesis-typ",
+  "original_author": "hibays",
+  "stars": 3,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-hibays-gdupt-thesis-typ-fmt-req-1/fmt-req.typ",
+  "relative_path": "raw/github-typst/gh-hibays-gdupt-thesis-typ-fmt-req-1/fmt-req.typ",
+  "main_doc": "fmt-req.typ",
+  "sha256": "3b66bcc3a44b61c954b11ebc4c8ac38ae31bd7e6bd88235a5ec4fc9b71c3bb69",
+  "size_bytes": 34161,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "fmt-req.typ",
+  "downloaded_at": "2026-08-02T14:09:24.123Z"
+}

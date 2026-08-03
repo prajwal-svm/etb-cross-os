@@ -1,0 +1,22 @@
+{
+  "id": "ctan/ctan-glossaries-sampletree",
+  "source": "ctan",
+  "format": "latex",
+  "category": "package-example",
+  "license": "LPPL-1.3c",
+  "source_url": "https://ctan.org/pkg/glossaries",
+  "original_author": "CTAN package: glossaries",
+  "package": "glossaries",
+  "original_path": "/usr/local/texlive/2025/texmf-dist/doc/latex/glossaries/samples/sampletree.tex",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/ctan/ctan-glossaries-sampletree/sampletree.tex",
+  "relative_path": "raw/ctan/ctan-glossaries-sampletree/sampletree.tex",
+  "main_doc": "sampletree.tex",
+  "sha256": "654e6c738adef52f241afa4ca9b47a891d5653dd4da51cc4dbdf0785136f7017",
+  "size_bytes": 2134,
+  "document_class": "report",
+  "uses_packages": [
+    "glossaries",
+    "hyperref"
+  ],
+  "downloaded_at": "2026-08-02T13:04:56.428Z"
+}

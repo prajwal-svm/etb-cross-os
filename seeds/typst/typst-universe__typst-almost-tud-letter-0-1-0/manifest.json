@@ -1,0 +1,23 @@
+{
+  "id": "typst-universe/typst-almost-tud-letter-0-1-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "business",
+  "license": "MIT",
+  "source_url": "https://github.com/hugoledoux/almost-tud-letter",
+  "original_author": "Hugo Ledoux",
+  "package_name": "almost-tud-letter",
+  "package_version": "0.1.0",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/typst-universe/typst-almost-tud-letter-0-1-0/letter.typ",
+  "relative_path": "raw/typst-universe/typst-almost-tud-letter-0-1-0/letter.typ",
+  "main_doc": "letter.typ",
+  "sha256": "744ec52392bcb5dbeaa08bc787b645379c533f8b04048b98cb72a2c9d6786d74",
+  "size_bytes": 781,
+  "document_class": null,
+  "uses_packages": [],
+  "downloaded_at": "2026-08-02T13:05:42.215Z",
+  "categories": [
+    "office"
+  ],
+  "description": "A template that (almost!) replicates the TUDelft letter"
+}

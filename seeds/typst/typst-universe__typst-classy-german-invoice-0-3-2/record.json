@@ -1,0 +1,26 @@
+{
+  "id": "typst-universe/typst-classy-german-invoice-0-3-2",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "business",
+  "license": "MIT-0",
+  "source_url": "https://github.com/erictapen/typst-invoice",
+  "original_author": "Kerstin Humm",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/typst-universe__typst-classy-german-invoice-0-3-2/main.typ",
+  "relative_path": "processed/typst/typst-universe__typst-classy-german-invoice-0-3-2/main.typ",
+  "sha256": "3de7c32a5dc32c628361b31166d3300c1035b7dbe47bcb2fae069ca75bc1e651",
+  "size_bytes": 1192,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 1365,
+  "downloaded_at": "2026-08-02T13:06:54.598Z",
+  "filtered_at": "2026-08-02T17:34:43.708Z"
+}

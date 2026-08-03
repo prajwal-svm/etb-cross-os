@@ -1,0 +1,30 @@
+{
+  "id": "overleaf/ol-hcc-sample-test-gdjfhrfqfxrx",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "misc",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/hcc-sample-test/gdjfhrfqfxrx",
+  "original_author": "Navin and Mehrez",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/overleaf__ol-hcc-sample-test-gdjfhrfqfxrx/main.tex",
+  "relative_path": "processed/latex/cross-engine/overleaf__ol-hcc-sample-test-gdjfhrfqfxrx/main.tex",
+  "sha256": "554f9b8ff79f99c9feff8fa852d4e678d7506d2fc5b23ae57af9cdbe87968b08",
+  "size_bytes": 478,
+  "document_class": "article",
+  "uses_packages": [
+    "geometry",
+    "graphicx",
+    "mathexam"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 231,
+  "downloaded_at": "2026-08-02T13:46:03.681Z",
+  "filtered_at": "2026-08-02T17:34:41.205Z"
+}

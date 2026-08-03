@@ -1,0 +1,40 @@
+{
+  "id": "github-latex/gh-rutatto-brick-f19-629-hw3",
+  "source": "github-latex",
+  "format": "latex",
+  "category": "coursework",
+  "license": "MIT",
+  "source_url": "https://github.com/Rutatto/brick",
+  "original_author": "Rutatto",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/github-latex__gh-rutatto-brick-f19-629-hw3/f19_629_hw3.tex",
+  "relative_path": "processed/latex/cross-engine/github-latex__gh-rutatto-brick-f19-629-hw3/f19_629_hw3.tex",
+  "sha256": "127d546bf99cbc1d8db234a5bebf6ca306daad3c593ce18bd68887fae11f7ec7",
+  "size_bytes": 5568,
+  "document_class": "exam",
+  "uses_packages": [
+    "amsfonts",
+    "amsmath",
+    "amssymb",
+    "amsthm",
+    "enumitem",
+    "fullpage",
+    "geometry",
+    "hyperref",
+    "mathpazo",
+    "mathtools",
+    "microtype",
+    "xcolor",
+    "xspace"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 724,
+  "downloaded_at": "2026-08-02T13:49:23.582Z",
+  "filtered_at": "2026-08-02T17:34:43.306Z"
+}

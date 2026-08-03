@@ -1,0 +1,25 @@
+{
+  "id": "github-latex/gh-stevenglasford-math451sdsmt-main",
+  "source": "github-latex",
+  "format": "latex",
+  "category": "coursework",
+  "license": "Apache-2.0",
+  "source_url": "https://github.com/stevenglasford/MATH451SDSMT",
+  "original_author": "stevenglasford",
+  "stars": 0,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-latex/gh-stevenglasford-math451sdsmt-main/main.tex",
+  "relative_path": "raw/github-latex/gh-stevenglasford-math451sdsmt-main/main.tex",
+  "main_doc": "main.tex",
+  "sha256": "6d0831d6e95f4eadd427202eb848234a85c2dab8e7801a83f492feb07723bad1",
+  "size_bytes": 4346,
+  "document_class": "article",
+  "uses_packages": [
+    "caption",
+    "float",
+    "graphicx",
+    "inputenc",
+    "xcolor"
+  ],
+  "repo_path": "FireHouse/main.tex",
+  "downloaded_at": "2026-08-02T13:49:30.396Z"
+}

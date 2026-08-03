@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-bowentan-unofficial-cityuhk-thesis-front-page-1",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "thesis",
+  "license": "MIT",
+  "source_url": "https://github.com/bowentan/unofficial-cityuhk-thesis",
+  "original_author": "bowentan",
+  "stars": 0,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-bowentan-unofficial-cityuhk-thesis-front-page-1/front-page.typ",
+  "relative_path": "raw/github-typst/gh-bowentan-unofficial-cityuhk-thesis-front-page-1/front-page.typ",
+  "main_doc": "front-page.typ",
+  "sha256": "dc2e64124d604cd0243b6f18f35c335a07085b4ca799769f2337aee91a139612",
+  "size_bytes": 7268,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "src/front-page.typ",
+  "downloaded_at": "2026-08-02T14:19:27.354Z"
+}

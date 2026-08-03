@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-christopherkenny-ctk-memo-typst-template",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "business",
+  "license": "MIT",
+  "source_url": "https://github.com/christopherkenny/ctk-memo",
+  "original_author": "christopherkenny",
+  "stars": 1,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-christopherkenny-ctk-memo-typst-template/typst-template.typ",
+  "relative_path": "raw/github-typst/gh-christopherkenny-ctk-memo-typst-template/typst-template.typ",
+  "main_doc": "typst-template.typ",
+  "sha256": "5c2e4f9fcb54950272b066c6f10c58a5b4ac2a5105e4ed0900512b7f9057dfb3",
+  "size_bytes": 2269,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "_extensions/ctk-memo/typst-template.typ",
+  "downloaded_at": "2026-08-02T14:12:49.756Z"
+}

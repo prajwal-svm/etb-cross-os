@@ -1,0 +1,26 @@
+{
+  "id": "typst-universe/typst-toffee-tufte-0-1-1",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "report",
+  "license": "MIT",
+  "source_url": "https://codeberg.org/jianweicheong/toffee-tufte",
+  "original_author": "Jian Wei Cheong",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/typst-universe__typst-toffee-tufte-0-1-1/main.typ",
+  "relative_path": "processed/typst/typst-universe__typst-toffee-tufte-0-1-1/main.typ",
+  "sha256": "9e7a17a6c0777c6b6b87e89541e2d3fd548dcb5765f13ed8f08416abc981a3b0",
+  "size_bytes": 9711,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 288,
+  "downloaded_at": "2026-08-02T13:13:57.411Z",
+  "filtered_at": "2026-08-02T17:34:44.267Z"
+}

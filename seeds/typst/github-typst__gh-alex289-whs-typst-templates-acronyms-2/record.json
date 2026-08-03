@@ -1,0 +1,26 @@
+{
+  "id": "github-typst/gh-alex289-whs-typst-templates-acronyms-2",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "misc",
+  "license": "MIT",
+  "source_url": "https://github.com/alex289/whs-typst-templates",
+  "original_author": "alex289",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/github-typst__gh-alex289-whs-typst-templates-acronyms-2/acronyms.typ",
+  "relative_path": "processed/typst/github-typst__gh-alex289-whs-typst-templates-acronyms-2/acronyms.typ",
+  "sha256": "35d097cec45bda3a782a1da2d859e333e5c28043ea2331adeda49ac1360e2ecd",
+  "size_bytes": 289,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 13,
+  "downloaded_at": "2026-08-02T14:06:32.428Z",
+  "filtered_at": "2026-08-02T17:34:44.480Z"
+}

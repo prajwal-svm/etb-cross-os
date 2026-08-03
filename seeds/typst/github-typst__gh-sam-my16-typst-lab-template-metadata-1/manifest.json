@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-sam-my16-typst-lab-template-metadata-1",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "report",
+  "license": "MIT",
+  "source_url": "https://github.com/Sam-my16/typst-lab-template",
+  "original_author": "Sam-my16",
+  "stars": 0,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-sam-my16-typst-lab-template-metadata-1/metadata.typ",
+  "relative_path": "raw/github-typst/gh-sam-my16-typst-lab-template-metadata-1/metadata.typ",
+  "main_doc": "metadata.typ",
+  "sha256": "3e8299bc81556c11b983706c04d96d3a5ca749e85657c648a21c628ccf29f450",
+  "size_bytes": 670,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "config/metadata.typ",
+  "downloaded_at": "2026-08-02T14:15:24.954Z"
+}

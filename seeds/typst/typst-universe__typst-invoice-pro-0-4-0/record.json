@@ -1,0 +1,26 @@
+{
+  "id": "typst-universe/typst-invoice-pro-0-4-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "business",
+  "license": "MIT",
+  "source_url": "https://github.com/leonieziechmann/invoice-pro",
+  "original_author": "Leonie Ziechmann",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/typst-universe__typst-invoice-pro-0-4-0/invoice.typ",
+  "relative_path": "processed/typst/typst-universe__typst-invoice-pro-0-4-0/invoice.typ",
+  "sha256": "b8012ef0c330a0e026a1b92c8889dc2aaf1488555f54ed3a4c51d445e47ebcc9",
+  "size_bytes": 2684,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 537,
+  "downloaded_at": "2026-08-02T13:09:25.030Z",
+  "filtered_at": "2026-08-02T17:34:43.908Z"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "typst-universe/typst-touying-matcha-0-1-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "beamer",
+  "license": "MIT",
+  "source_url": "https://codeberg.org/songwupei/touying-matcha",
+  "original_author": "songwupei",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/typst-universe__typst-touying-matcha-0-1-0/main.typ",
+  "relative_path": "processed/typst/typst-universe__typst-touying-matcha-0-1-0/main.typ",
+  "sha256": "bf4faebeb39025eb651cd8d42bc76df4f71215631f7891d144a4a08ce4c5e5f6",
+  "size_bytes": 386,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 263,
+  "downloaded_at": "2026-08-02T13:14:09.392Z",
+  "filtered_at": "2026-08-02T17:34:44.288Z"
+}

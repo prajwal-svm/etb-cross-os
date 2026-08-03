@@ -1,0 +1,31 @@
+{
+  "id": "overleaf/ol-carleton-college-comps-template-a-rpzsvffwkxdt",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "misc",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/carleton-college-comps-template-a/rpzsvffwkxdt",
+  "original_author": "Marty Baylor",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/overleaf__ol-carleton-college-comps-template-a-rpzsvffwkxdt/main.tex",
+  "relative_path": "processed/latex/cross-engine/overleaf__ol-carleton-college-comps-template-a-rpzsvffwkxdt/main.tex",
+  "sha256": "68b6eb68a2c9f55b11fde68c20918334eab8fe9552714588c829c70d453d9f05",
+  "size_bytes": 571,
+  "document_class": "article",
+  "uses_packages": [
+    "amsmath",
+    "fullpage",
+    "mathtools",
+    "setspace"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 237,
+  "downloaded_at": "2026-08-02T14:12:57.626Z",
+  "filtered_at": "2026-08-02T17:34:40.992Z"
+}

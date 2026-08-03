@@ -1,0 +1,26 @@
+{
+  "id": "github-latex/gh-dwysocki-beamer-themes-demo",
+  "source": "github-latex",
+  "format": "latex",
+  "category": "beamer",
+  "license": "MIT",
+  "source_url": "https://github.com/dwysocki/beamer-themes",
+  "original_author": "dwysocki",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/github-latex__gh-dwysocki-beamer-themes-demo/demo.tex",
+  "relative_path": "processed/latex/cross-engine/github-latex__gh-dwysocki-beamer-themes-demo/demo.tex",
+  "sha256": "c7a2439f2ca9838cda90e69faa6d99d86f0487c321389f6c7b9d8d1112baddde",
+  "size_bytes": 318,
+  "document_class": "beamer",
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 796,
+  "downloaded_at": "2026-08-02T13:51:54.683Z",
+  "filtered_at": "2026-08-02T17:34:42.695Z"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "typst-universe/typst-ilm-2-1-1",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "book",
+  "license": "MIT-0",
+  "source_url": "https://github.com/talal/ilm",
+  "original_author": "Muhammad Talal Anwar",
+  "package_name": "ilm",
+  "package_version": "2.1.1",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/typst-universe/typst-ilm-2-1-1/main.typ",
+  "relative_path": "raw/typst-universe/typst-ilm-2-1-1/main.typ",
+  "main_doc": "main.typ",
+  "sha256": "f62778449f45e4ea59786912ec99e0d6132c40d596d6e4f5e9ad29da37729da3",
+  "size_bytes": 13204,
+  "document_class": null,
+  "uses_packages": [],
+  "downloaded_at": "2026-08-02T13:09:15.074Z",
+  "categories": [
+    "book",
+    "report"
+  ],
+  "description": "Versatile and minimal template for non-fiction writing. Ideal for class notes, reports, and books"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "overleaf/ol-xjtlu-poster-template-jftxgnqrpxps",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "beamer",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/xjtlu-poster-template/jftxgnqrpxps",
+  "original_author": "Shanliang Yao",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/overleaf__ol-xjtlu-poster-template-jftxgnqrpxps/HeaderGradient.tex",
+  "relative_path": "processed/latex/cross-engine/overleaf__ol-xjtlu-poster-template-jftxgnqrpxps/HeaderGradient.tex",
+  "sha256": "343dc70a14de52b370f5f5d61c84abbb417137e5bc2dcb86d0fa1a2abbc69f30",
+  "size_bytes": 731,
+  "document_class": "article",
+  "uses_packages": [
+    "geometry",
+    "tikz",
+    "xcolor"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 393,
+  "downloaded_at": "2026-08-02T15:09:22.200Z",
+  "filtered_at": "2026-08-02T17:34:42.172Z"
+}

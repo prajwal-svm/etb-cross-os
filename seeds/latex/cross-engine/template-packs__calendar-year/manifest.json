@@ -1,0 +1,25 @@
+{
+  "id": "template-packs/calendar-year",
+  "source": "template-packs",
+  "format": "latex",
+  "category": "creative",
+  "category_raw": "Calendars",
+  "license": "CC0-1.0",
+  "source_url": "https://github.com/Oleafly/template-packs",
+  "original_author": "Oleafly",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/template-packs/calendar-year/main.tex",
+  "relative_path": "raw/template-packs/calendar-year/main.tex",
+  "main_doc": "main.tex",
+  "sha256": "fb557c039cafb6f8dae3a62a1916e67847566319c2c207c9bb68e225a8992681",
+  "size_bytes": 6525,
+  "document_class": "article",
+  "uses_packages": [
+    "array",
+    "booktabs",
+    "geometry",
+    "sourcesanspro",
+    "xcolor"
+  ],
+  "engine_hint": "xetex",
+  "downloaded_at": "2026-08-02T13:05:15.830Z"
+}

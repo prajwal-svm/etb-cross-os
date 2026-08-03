@@ -1,0 +1,26 @@
+{
+  "id": "typst-universe/typst-awesome-mff-cuni-0-1-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "thesis",
+  "license": "MIT",
+  "source_url": "https://git.brloh.is/petrvel/awesome-mff-cuni",
+  "original_author": "Petr Velyčko",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/typst-universe__typst-awesome-mff-cuni-0-1-0/main.typ",
+  "relative_path": "processed/typst/typst-universe__typst-awesome-mff-cuni-0-1-0/main.typ",
+  "sha256": "bccc92ee2b053200f792ef52dcf24932b05c78f72354f08edf90ccd0516cf685",
+  "size_bytes": 663,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 275,
+  "downloaded_at": "2026-08-02T13:05:55.031Z",
+  "filtered_at": "2026-08-02T17:34:43.622Z"
+}

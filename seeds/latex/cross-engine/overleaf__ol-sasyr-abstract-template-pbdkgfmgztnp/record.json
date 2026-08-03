@@ -1,0 +1,29 @@
+{
+  "id": "overleaf/ol-sasyr-abstract-template-pbdkgfmgztnp",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "misc",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/sasyr-abstract-template/pbdkgfmgztnp",
+  "original_author": "IPVC, IPB, IPCA",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/overleaf__ol-sasyr-abstract-template-pbdkgfmgztnp/main.tex",
+  "relative_path": "processed/latex/cross-engine/overleaf__ol-sasyr-abstract-template-pbdkgfmgztnp/main.tex",
+  "sha256": "be8e23c40d34b7c85cff641c5acd22ad3b8f07ad16014a8a111e4486aaa975dd",
+  "size_bytes": 2526,
+  "document_class": "llncs",
+  "uses_packages": [
+    "graphicx",
+    "lipsum"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 258,
+  "downloaded_at": "2026-08-02T14:53:42.282Z",
+  "filtered_at": "2026-08-02T17:34:41.798Z"
+}

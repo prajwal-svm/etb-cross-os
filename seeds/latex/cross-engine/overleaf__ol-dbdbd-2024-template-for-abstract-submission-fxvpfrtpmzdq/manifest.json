@@ -1,0 +1,27 @@
+{
+  "id": "overleaf/ol-dbdbd-2024-template-for-abstract-submission-fxvpfrtpmzdq",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "misc",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/dbdbd-2024-template-for-abstract-submission/fxvpfrtpmzdq",
+  "original_author": "Ilaria Battiston",
+  "title": "DBDBD 2024 - Template for Abstract Submission",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/overleaf/ol-dbdbd-2024-template-for-abstract-submission-fxvpfrtpmzdq/main.tex",
+  "relative_path": "raw/overleaf/ol-dbdbd-2024-template-for-abstract-submission-fxvpfrtpmzdq/main.tex",
+  "main_doc": "main.tex",
+  "sha256": "26afad31d6b42306c2314999eb2ef97475d82bab0e4a0cb17773acbefe3fe0f9",
+  "size_bytes": 1819,
+  "document_class": "article",
+  "uses_packages": [
+    "amsfonts",
+    "amsmath",
+    "amssymb",
+    "geometry",
+    "graphicx",
+    "latexsym"
+  ],
+  "download_method": "view-source-modal",
+  "github_url": null,
+  "downloaded_at": "2026-08-02T16:18:40.287Z"
+}

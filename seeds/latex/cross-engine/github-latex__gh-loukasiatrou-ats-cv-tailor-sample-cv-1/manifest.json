@@ -1,0 +1,23 @@
+{
+  "id": "github-latex/gh-loukasiatrou-ats-cv-tailor-sample-cv-1",
+  "source": "github-latex",
+  "format": "latex",
+  "category": "cv",
+  "license": "MIT",
+  "source_url": "https://github.com/LoukasIatrou/ats-cv-tailor",
+  "original_author": "LoukasIatrou",
+  "stars": 1,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-latex/gh-loukasiatrou-ats-cv-tailor-sample-cv-1/sample-cv.tex",
+  "relative_path": "raw/github-latex/gh-loukasiatrou-ats-cv-tailor-sample-cv-1/sample-cv.tex",
+  "main_doc": "sample-cv.tex",
+  "sha256": "037a24fbcd7219aac9dbd076dd2b144fa63f457551b1b94a6c0a05d482e0877a",
+  "size_bytes": 1592,
+  "document_class": "article",
+  "uses_packages": [
+    "enumitem",
+    "geometry",
+    "hyperref"
+  ],
+  "repo_path": "examples/sample-cv.tex",
+  "downloaded_at": "2026-08-02T13:39:15.401Z"
+}

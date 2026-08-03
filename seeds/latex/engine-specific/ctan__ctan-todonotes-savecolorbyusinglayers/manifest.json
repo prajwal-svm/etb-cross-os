@@ -1,0 +1,22 @@
+{
+  "id": "ctan/ctan-todonotes-savecolorbyusinglayers",
+  "source": "ctan",
+  "format": "latex",
+  "category": "package-example",
+  "license": "LPPL-1.3c",
+  "source_url": "https://ctan.org/pkg/todonotes",
+  "original_author": "CTAN package: todonotes",
+  "package": "todonotes",
+  "original_path": "/usr/local/texlive/2025/texmf-dist/doc/latex/todonotes/examples/saveColorByUsingLayers.tex",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/ctan/ctan-todonotes-savecolorbyusinglayers/saveColorByUsingLayers.tex",
+  "relative_path": "raw/ctan/ctan-todonotes-savecolorbyusinglayers/saveColorByUsingLayers.tex",
+  "main_doc": "saveColorByUsingLayers.tex",
+  "sha256": "f6c7d70a69ab928ffcb946b133fa313e11580d14515609f1b4e695da9e5ea7e9",
+  "size_bytes": 668,
+  "document_class": "article",
+  "uses_packages": [
+    "ocg-p",
+    "todonotes"
+  ],
+  "downloaded_at": "2026-08-02T13:04:56.870Z"
+}

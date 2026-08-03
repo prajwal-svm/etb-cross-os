@@ -1,0 +1,27 @@
+{
+  "id": "overleaf/ol-uac-abstract-qxsbjdbhvwyc",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "misc",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/uac-abstract/qxsbjdbhvwyc",
+  "original_author": "UAC Organizing Committee",
+  "title": "UAC Abstract",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/overleaf/ol-uac-abstract-qxsbjdbhvwyc/main.tex",
+  "relative_path": "raw/overleaf/ol-uac-abstract-qxsbjdbhvwyc/main.tex",
+  "main_doc": "main.tex",
+  "sha256": "ecd256859f301e6021448ad3150c11ca02f0e9bee1e38547fe6c826b562ac651",
+  "size_bytes": 1482,
+  "document_class": "article",
+  "uses_packages": [
+    "amsfonts",
+    "amsmath",
+    "amssymb",
+    "amsthm",
+    "euscript",
+    "mathrsfs"
+  ],
+  "download_method": "view-source-modal",
+  "github_url": null,
+  "downloaded_at": "2026-08-02T15:23:51.819Z"
+}

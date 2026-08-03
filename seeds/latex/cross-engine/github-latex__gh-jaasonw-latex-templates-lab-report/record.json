@@ -1,0 +1,33 @@
+{
+  "id": "github-latex/gh-jaasonw-latex-templates-lab-report",
+  "source": "github-latex",
+  "format": "latex",
+  "category": "coursework",
+  "license": "MIT",
+  "source_url": "https://github.com/jaasonw/latex-templates",
+  "original_author": "jaasonw",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/github-latex__gh-jaasonw-latex-templates-lab-report/lab_report.tex",
+  "relative_path": "processed/latex/cross-engine/github-latex__gh-jaasonw-latex-templates-lab-report/lab_report.tex",
+  "sha256": "33354481f707a9fd0c0af56b2b548249cfba2e91fa6c4e74515986d8d3f1140a",
+  "size_bytes": 1650,
+  "document_class": "article",
+  "uses_packages": [
+    "amsmath",
+    "amssymb",
+    "fancyhdr",
+    "geometry",
+    "graphicx",
+    "setspace"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 264,
+  "downloaded_at": "2026-08-02T13:48:54.257Z",
+  "filtered_at": "2026-08-02T17:34:42.915Z"
+}

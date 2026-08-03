@@ -1,0 +1,26 @@
+{
+  "id": "typst-universe/typst-simple-bupt-report-0-1-1",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "report",
+  "license": "MIT",
+  "source_url": "https://github.com/zhao-leo/BUPT-Report-Typst",
+  "original_author": "April",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/typst-universe__typst-simple-bupt-report-0-1-1/main.typ",
+  "relative_path": "processed/typst/typst-universe__typst-simple-bupt-report-0-1-1/main.typ",
+  "sha256": "40eaa93f96c8f879244e3ede1fcf8132f0a34c3dda3ffe96bf986e0a0e592dc0",
+  "size_bytes": 1377,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 356,
+  "downloaded_at": "2026-08-02T13:12:55.716Z",
+  "filtered_at": "2026-08-02T17:34:44.180Z"
+}

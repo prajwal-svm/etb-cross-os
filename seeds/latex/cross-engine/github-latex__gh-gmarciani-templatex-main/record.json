@@ -1,0 +1,33 @@
+{
+  "id": "github-latex/gh-gmarciani-templatex-main",
+  "source": "github-latex",
+  "format": "latex",
+  "category": "letter",
+  "license": "MIT",
+  "source_url": "https://github.com/gmarciani/templatex",
+  "original_author": "gmarciani",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/github-latex__gh-gmarciani-templatex-main/main.tex",
+  "relative_path": "processed/latex/cross-engine/github-latex__gh-gmarciani-templatex-main/main.tex",
+  "sha256": "6e774474defbe4c68b75eff6736506533bb7bb541d4860e4b01e08f4e964213b",
+  "size_bytes": 4608,
+  "document_class": "moderncv",
+  "uses_packages": [
+    "CJKutf8",
+    "footmisc",
+    "geometry",
+    "inputenc",
+    "lipsum",
+    "multibib"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 1487,
+  "downloaded_at": "2026-08-02T13:20:52.792Z",
+  "filtered_at": "2026-08-02T17:34:42.818Z"
+}

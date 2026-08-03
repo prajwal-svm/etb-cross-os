@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-reckerp-fontys-thesis-template-abstract",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "thesis",
+  "license": "MIT",
+  "source_url": "https://github.com/reckerp/fontys-thesis-template",
+  "original_author": "reckerp",
+  "stars": 3,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-reckerp-fontys-thesis-template-abstract/abstract.typ",
+  "relative_path": "raw/github-typst/gh-reckerp-fontys-thesis-template-abstract/abstract.typ",
+  "main_doc": "abstract.typ",
+  "sha256": "1bd50c93db2cf068f3b9dc52d2a260353aa2466af45e134b79c7ed2e668150e8",
+  "size_bytes": 295,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "src/pages/abstract.typ",
+  "downloaded_at": "2026-08-02T14:09:09.545Z"
+}

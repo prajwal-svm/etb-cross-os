@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-dicarbene-note-typst-template",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "misc",
+  "license": "MIT",
+  "source_url": "https://github.com/Dicarbene/note-typst",
+  "original_author": "Dicarbene",
+  "stars": 0,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-dicarbene-note-typst-template/template.typ",
+  "relative_path": "raw/github-typst/gh-dicarbene-note-typst-template/template.typ",
+  "main_doc": "template.typ",
+  "sha256": "b93bf47e631a19bcf7817ab0e3d05ad0d3ae45b9cf57e2f8dc65fb51d48278fd",
+  "size_bytes": 6329,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "templates/ams/template.typ",
+  "downloaded_at": "2026-08-02T14:16:55.902Z"
+}

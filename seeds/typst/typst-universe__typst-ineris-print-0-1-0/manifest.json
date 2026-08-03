@@ -1,0 +1,24 @@
+{
+  "id": "typst-universe/typst-ineris-print-0-1-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "business",
+  "license": "MIT-0",
+  "source_url": "https://github.com/frodonh/typst-packages",
+  "original_author": "François Hissel",
+  "package_name": "ineris-print",
+  "package_version": "0.1.0",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/typst-universe/typst-ineris-print-0-1-0/main.typ",
+  "relative_path": "raw/typst-universe/typst-ineris-print-0-1-0/main.typ",
+  "main_doc": "main.typ",
+  "sha256": "9b55d1643206d77cc763caa9ce62fe5195cff667067edb1893ce7af8647af37e",
+  "size_bytes": 4281,
+  "document_class": null,
+  "uses_packages": [],
+  "downloaded_at": "2026-08-02T13:09:20.905Z",
+  "categories": [
+    "office",
+    "report"
+  ],
+  "description": "A document template using the design guidelines of French national institute for industrial environment and risks"
+}

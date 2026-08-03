@@ -1,0 +1,30 @@
+{
+  "id": "template-packs/jakes-style-resume",
+  "source": "template-packs",
+  "format": "latex",
+  "category": "cv",
+  "license": "CC0-1.0",
+  "source_url": "https://github.com/Oleafly/template-packs",
+  "original_author": "Oleafly",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/template-packs__jakes-style-resume/main.tex",
+  "relative_path": "processed/latex/cross-engine/template-packs__jakes-style-resume/main.tex",
+  "sha256": "6bbabdf01af3e7725e3f78a485cda7e4588471d5dfa6888c8d9843d672be1336",
+  "size_bytes": 2303,
+  "document_class": "article",
+  "uses_packages": [
+    "enumitem",
+    "geometry",
+    "hyperref"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 409,
+  "downloaded_at": "2026-08-02T13:05:15.845Z",
+  "filtered_at": "2026-08-02T17:34:40.802Z"
+}

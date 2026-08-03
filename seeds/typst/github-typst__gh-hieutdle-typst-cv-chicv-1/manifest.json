@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-hieutdle-typst-cv-chicv-1",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "cv",
+  "license": "MIT",
+  "source_url": "https://github.com/hieutdle/typst-cv",
+  "original_author": "hieutdle",
+  "stars": 0,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-hieutdle-typst-cv-chicv-1/chicv.typ",
+  "relative_path": "raw/github-typst/gh-hieutdle-typst-cv-chicv-1/chicv.typ",
+  "main_doc": "chicv.typ",
+  "sha256": "536c829386d150a7635003d352be2365ea4545788b494c18a252c47873a40d0b",
+  "size_bytes": 5482,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "src/chicv.typ",
+  "downloaded_at": "2026-08-02T14:21:28.994Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-howardlau1999-sysu-thesis-typst-custom-2",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "thesis",
+  "license": "MIT",
+  "source_url": "https://github.com/howardlau1999/sysu-thesis-typst",
+  "original_author": "howardlau1999",
+  "stars": 56,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-howardlau1999-sysu-thesis-typst-custom-2/custom.typ",
+  "relative_path": "raw/github-typst/gh-howardlau1999-sysu-thesis-typst-custom-2/custom.typ",
+  "main_doc": "custom.typ",
+  "sha256": "63904255c1f34698e8408138edcf9e4524e37a6ed7f337712e9db1ce411fd0ac",
+  "size_bytes": 420,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "custom.typ",
+  "downloaded_at": "2026-08-02T14:03:49.595Z"
+}

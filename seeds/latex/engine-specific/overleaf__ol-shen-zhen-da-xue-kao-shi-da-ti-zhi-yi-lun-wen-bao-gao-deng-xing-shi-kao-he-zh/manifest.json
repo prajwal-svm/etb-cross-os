@@ -1,0 +1,26 @@
+{
+  "id": "overleaf/ol-shen-zhen-da-xue-kao-shi-da-ti-zhi-yi-lun-wen-bao-gao-deng-xing-shi-kao-he-zh",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "misc",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/shen-zhen-da-xue-kao-shi-da-ti-zhi-yi-lun-wen-bao-gao-deng-xing-shi-kao-he-zhuan-yong/cbpbxffvfpsd",
+  "original_author": "Misaka10875",
+  "title": "深圳大学考试答题纸(以论文、报告等形式考核专用)",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/overleaf/ol-shen-zhen-da-xue-kao-shi-da-ti-zhi-yi-lun-wen-bao-gao-deng-xing-shi-kao-he-zh/main.tex",
+  "relative_path": "raw/overleaf/ol-shen-zhen-da-xue-kao-shi-da-ti-zhi-yi-lun-wen-bao-gao-deng-xing-shi-kao-he-zh/main.tex",
+  "main_doc": "main.tex",
+  "sha256": "293e05d5dbe2adaffe30d60e097f2a6c3f0d35876171e8874c11c636aba37456",
+  "size_bytes": 1097,
+  "document_class": "article",
+  "uses_packages": [
+    "ctex",
+    "geometry",
+    "graphicx",
+    "setspace",
+    "tikz"
+  ],
+  "download_method": "view-source-modal",
+  "github_url": null,
+  "downloaded_at": "2026-08-02T15:11:24.407Z"
+}

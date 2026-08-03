@@ -1,0 +1,26 @@
+{
+  "id": "typst-universe/typst-conforming-uio-master-1-0-1",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "thesis",
+  "license": "MIT-0",
+  "source_url": "https://typst.app/universe/package/conforming-uio-master",
+  "original_author": "Åsmund Olai Sand-Larsen",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/typst-universe__typst-conforming-uio-master-1-0-1/main.typ",
+  "relative_path": "processed/typst/typst-universe__typst-conforming-uio-master-1-0-1/main.typ",
+  "sha256": "d5f34facf9af11c8c0b6668fa135f6fc0db71c5d8b11e3bf7f45221d7dadb5d6",
+  "size_bytes": 624,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 200,
+  "downloaded_at": "2026-08-02T13:07:28.140Z",
+  "filtered_at": "2026-08-02T17:34:43.754Z"
+}

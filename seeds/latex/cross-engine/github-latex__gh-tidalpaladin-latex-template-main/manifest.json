@@ -1,0 +1,30 @@
+{
+  "id": "github-latex/gh-tidalpaladin-latex-template-main",
+  "source": "github-latex",
+  "format": "latex",
+  "category": "misc",
+  "license": "Apache-2.0",
+  "source_url": "https://github.com/TidalPaladin/latex-template",
+  "original_author": "TidalPaladin",
+  "stars": 0,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-latex/gh-tidalpaladin-latex-template-main/main.tex",
+  "relative_path": "raw/github-latex/gh-tidalpaladin-latex-template-main/main.tex",
+  "main_doc": "main.tex",
+  "sha256": "255008e5e37544d202d5a2f046cb9aa55e5083cca042d16df10cef4d080c3693",
+  "size_bytes": 1035,
+  "document_class": "article",
+  "uses_packages": [
+    "amsfonts",
+    "booktabs",
+    "doi",
+    "graphicx",
+    "hyperref",
+    "lipsum",
+    "microtype",
+    "nicefrac",
+    "svg",
+    "url"
+  ],
+  "repo_path": "main.tex",
+  "downloaded_at": "2026-08-02T13:43:28.000Z"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "overleaf/ol-phd-application-cv-template-mrvjhycbdytr",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "cv",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/phd-application-cv-template/mrvjhycbdytr",
+  "original_author": "Mohammad Amir Lotfi",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/overleaf__ol-phd-application-cv-template-mrvjhycbdytr/main.tex",
+  "relative_path": "processed/latex/cross-engine/overleaf__ol-phd-application-cv-template-mrvjhycbdytr/main.tex",
+  "sha256": "1a601261819c8df61b168a0d2d1a1cf2283153b850ce2cd0a7ae939d2281ebef",
+  "size_bytes": 8726,
+  "document_class": "extarticle",
+  "uses_packages": [
+    "enumitem",
+    "fancyhdr",
+    "geometry",
+    "hyperref",
+    "inputenc",
+    "tabularx",
+    "titlesec"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 490,
+  "downloaded_at": "2026-08-02T15:32:30.164Z",
+  "filtered_at": "2026-08-02T17:34:41.614Z"
+}

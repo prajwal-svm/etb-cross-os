@@ -1,0 +1,26 @@
+{
+  "id": "typst-universe/typst-touying-aqua-0-7-4",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "beamer",
+  "license": "MIT",
+  "source_url": "https://github.com/touying-typ/touying",
+  "original_author": "OrangeX4",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/typst-universe__typst-touying-aqua-0-7-4/main.typ",
+  "relative_path": "processed/typst/typst-universe__typst-touying-aqua-0-7-4/main.typ",
+  "sha256": "fec6382d76425a84fdd0636e1bb74cb9ea24e8cbc9735fc543c87e04d9523f23",
+  "size_bytes": 363,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 227,
+  "downloaded_at": "2026-08-02T13:13:59.137Z",
+  "filtered_at": "2026-08-02T17:34:44.272Z"
+}

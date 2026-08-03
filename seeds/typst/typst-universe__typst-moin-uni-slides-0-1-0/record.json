@@ -1,0 +1,26 @@
+{
+  "id": "typst-universe/typst-moin-uni-slides-0-1-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "beamer",
+  "license": "MIT",
+  "source_url": "https://github.com/Universitaet-Bremen/typst-template-slides",
+  "original_author": "SimonIT",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/typst-universe__typst-moin-uni-slides-0-1-0/main.typ",
+  "relative_path": "processed/typst/typst-universe__typst-moin-uni-slides-0-1-0/main.typ",
+  "sha256": "229f1893489ba5bbed528217dd68299f0f7438da149381c22a18eb8b8d8bc6e0",
+  "size_bytes": 1247,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 412,
+  "downloaded_at": "2026-08-02T13:11:21.939Z",
+  "filtered_at": "2026-08-02T17:34:44.049Z"
+}

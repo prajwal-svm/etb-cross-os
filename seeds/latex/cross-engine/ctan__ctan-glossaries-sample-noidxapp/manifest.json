@@ -1,0 +1,23 @@
+{
+  "id": "ctan/ctan-glossaries-sample-noidxapp",
+  "source": "ctan",
+  "format": "latex",
+  "category": "package-example",
+  "license": "LPPL-1.3c",
+  "source_url": "https://ctan.org/pkg/glossaries",
+  "original_author": "CTAN package: glossaries",
+  "package": "glossaries",
+  "original_path": "/usr/local/texlive/2025/texmf-dist/doc/latex/glossaries/samples/sample-noidxapp.tex",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/ctan/ctan-glossaries-sample-noidxapp/sample-noidxapp.tex",
+  "relative_path": "raw/ctan/ctan-glossaries-sample-noidxapp/sample-noidxapp.tex",
+  "main_doc": "sample-noidxapp.tex",
+  "sha256": "af335fe687096e550368169159afcfcdfc5d692c9c2e2f39ab0aad127a63ac73",
+  "size_bytes": 3525,
+  "document_class": "report",
+  "uses_packages": [
+    "glossaries",
+    "glossary-mcols",
+    "hyperref"
+  ],
+  "downloaded_at": "2026-08-02T13:04:56.447Z"
+}

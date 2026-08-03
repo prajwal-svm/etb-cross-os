@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-chunyufen-simple-typst-article-template-with-distributed-folders-appendix-1-1",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "venue",
+  "license": "MIT",
+  "source_url": "https://github.com/chunyufen/Simple_typst_article_template_with_distributed_folders",
+  "original_author": "chunyufen",
+  "stars": 0,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-chunyufen-simple-typst-article-template-with-distributed-folders-appendix-1-1/appendix_1.typ",
+  "relative_path": "raw/github-typst/gh-chunyufen-simple-typst-article-template-with-distributed-folders-appendix-1-1/appendix_1.typ",
+  "main_doc": "appendix_1.typ",
+  "sha256": "f0e2486921115afb4129ef942aac4c33c6d8fd00f2c7de5e9988b077f2ef813e",
+  "size_bytes": 276,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "appendix/appendix_1.typ",
+  "downloaded_at": "2026-08-02T14:18:23.909Z"
+}

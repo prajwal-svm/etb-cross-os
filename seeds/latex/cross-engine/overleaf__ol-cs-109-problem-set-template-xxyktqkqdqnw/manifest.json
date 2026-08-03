@@ -1,0 +1,28 @@
+{
+  "id": "overleaf/ol-cs-109-problem-set-template-xxyktqkqdqnw",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "misc",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/cs-109-problem-set-template/xxyktqkqdqnw",
+  "original_author": null,
+  "title": "CS 109 Problem Set Template",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/overleaf/ol-cs-109-problem-set-template-xxyktqkqdqnw/main.tex",
+  "relative_path": "raw/overleaf/ol-cs-109-problem-set-template-xxyktqkqdqnw/main.tex",
+  "main_doc": "main.tex",
+  "sha256": "9b0f97bd1c4ea0d8fc4bb2c3c4b425a13f0ecd99abfc3eeb5f20bad80a9b1b04",
+  "size_bytes": 3894,
+  "document_class": "article",
+  "uses_packages": [
+    "amsmath",
+    "enumerate",
+    "fullpage",
+    "geometry",
+    "listings",
+    "multicol",
+    "wrapfig"
+  ],
+  "download_method": "view-source-modal",
+  "github_url": null,
+  "downloaded_at": "2026-08-02T14:32:08.570Z"
+}

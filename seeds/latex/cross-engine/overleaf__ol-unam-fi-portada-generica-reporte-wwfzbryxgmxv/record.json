@@ -1,0 +1,30 @@
+{
+  "id": "overleaf/ol-unam-fi-portada-generica-reporte-wwfzbryxgmxv",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "report",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/unam-fi-portada-generica-reporte/wwfzbryxgmxv",
+  "original_author": "ACO",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/overleaf__ol-unam-fi-portada-generica-reporte-wwfzbryxgmxv/main.tex",
+  "relative_path": "processed/latex/cross-engine/overleaf__ol-unam-fi-portada-generica-reporte-wwfzbryxgmxv/main.tex",
+  "sha256": "2b77662582b7ec5bf75330fa11492d80e697dd2967f8f20991d07fc1bb62ccd0",
+  "size_bytes": 591,
+  "document_class": "report",
+  "uses_packages": [
+    "amsmath",
+    "graphicx",
+    "verbatim"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 235,
+  "downloaded_at": "2026-08-02T15:36:39.892Z",
+  "filtered_at": "2026-08-02T17:34:42.068Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-christopherkenny-ctk-article-typst-template",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "venue",
+  "license": "MIT",
+  "source_url": "https://github.com/christopherkenny/ctk-article",
+  "original_author": "christopherkenny",
+  "stars": 9,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-christopherkenny-ctk-article-typst-template/typst-template.typ",
+  "relative_path": "raw/github-typst/gh-christopherkenny-ctk-article-typst-template/typst-template.typ",
+  "main_doc": "typst-template.typ",
+  "sha256": "76a857deff35762eb8015e63383f386123b8fb609f8b50bb11e09dcebbf4e000",
+  "size_bytes": 8528,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "_extensions/ctk-article/typst-template.typ",
+  "downloaded_at": "2026-08-02T14:06:18.811Z"
+}

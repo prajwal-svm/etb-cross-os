@@ -1,0 +1,25 @@
+{
+  "id": "typst-universe/typst-tieffiction-0-2-1",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "book",
+  "license": "MIT",
+  "source_url": "https://github.com/Tiefseetauchner/TiefFiction",
+  "original_author": "Lena Tauchner",
+  "package_name": "tieffiction",
+  "package_version": "0.2.1",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/typst-universe/typst-tieffiction-0-2-1/main.typ",
+  "relative_path": "raw/typst-universe/typst-tieffiction-0-2-1/main.typ",
+  "main_doc": "main.typ",
+  "sha256": "28aaad25e64e06f0fecfe3515ff4b2742a486b957b2915b6572a120a38a29e5a",
+  "size_bytes": 775,
+  "document_class": null,
+  "uses_packages": [],
+  "downloaded_at": "2026-08-02T13:13:51.688Z",
+  "categories": [
+    "layout",
+    "fun",
+    "book"
+  ],
+  "description": "A simple book template for fiction."
+}

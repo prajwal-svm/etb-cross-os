@@ -1,0 +1,30 @@
+{
+  "id": "ctan/ctan-eso-pic-eso-memoir-test",
+  "source": "ctan",
+  "format": "latex",
+  "category": "business",
+  "license": "LPPL-1.3c",
+  "source_url": "https://ctan.org/pkg/eso-pic",
+  "original_author": "CTAN package: eso-pic",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/ctan__ctan-eso-pic-eso-memoir-test/eso-memoir-test.tex",
+  "relative_path": "processed/latex/cross-engine/ctan__ctan-eso-pic-eso-memoir-test/eso-memoir-test.tex",
+  "sha256": "2c87bc70df0ddbd5ce727040c11eb972bb5aa00603a531473a45799abd2d1aa2",
+  "size_bytes": 970,
+  "document_class": "memoir",
+  "uses_packages": [
+    "eso-pic",
+    "pict2e",
+    "showframe"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 326,
+  "downloaded_at": "2026-08-02T13:05:02.381Z",
+  "filtered_at": "2026-08-02T17:34:42.249Z"
+}

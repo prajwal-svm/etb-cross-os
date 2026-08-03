@@ -1,0 +1,26 @@
+{
+  "id": "github-typst/gh-henryzhang-zhy-typst-cv-resume-r-2",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "cv",
+  "license": "MIT",
+  "source_url": "https://github.com/HenryZhang-ZHY/typst-cv-resume",
+  "original_author": "HenryZhang-ZHY",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/github-typst__gh-henryzhang-zhy-typst-cv-resume-r-2/r.typ",
+  "relative_path": "processed/typst/github-typst__gh-henryzhang-zhy-typst-cv-resume-r-2/r.typ",
+  "sha256": "584e3c6202036e67f1a02eb984667fa80e11c26c350137429d01d7f854335430",
+  "size_bytes": 1888,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 8,
+  "downloaded_at": "2026-08-02T14:17:56.484Z",
+  "filtered_at": "2026-08-02T17:34:44.947Z"
+}

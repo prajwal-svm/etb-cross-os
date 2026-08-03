@@ -1,0 +1,23 @@
+{
+  "id": "typst-universe/typst-touying-simpl-cau-0-2-1",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "beamer",
+  "license": "MIT",
+  "source_url": "https://github.com/maxchang3/touying-simpl-cau",
+  "original_author": "Yip Coekjan",
+  "package_name": "touying-simpl-cau",
+  "package_version": "0.2.1",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/typst-universe/typst-touying-simpl-cau-0-2-1/main.typ",
+  "relative_path": "raw/typst-universe/typst-touying-simpl-cau-0-2-1/main.typ",
+  "main_doc": "main.typ",
+  "sha256": "155a09870225b06e3533ee7bd7eca3dc1b932269627c874fc51a7497bedd7950",
+  "size_bytes": 778,
+  "document_class": null,
+  "uses_packages": [],
+  "downloaded_at": "2026-08-02T13:14:15.772Z",
+  "categories": [
+    "presentation"
+  ],
+  "description": "Touying Slide Theme for China Agricultural University"
+}

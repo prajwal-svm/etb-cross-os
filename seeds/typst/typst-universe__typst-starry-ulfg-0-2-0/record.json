@@ -1,0 +1,26 @@
+{
+  "id": "typst-universe/typst-starry-ulfg-0-2-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "report",
+  "license": "MIT-0",
+  "source_url": "https://github.com/Sydiepus/starry-ulfg",
+  "original_author": "Charbel Assaad",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/typst-universe__typst-starry-ulfg-0-2-0/main.typ",
+  "relative_path": "processed/typst/typst-universe__typst-starry-ulfg-0-2-0/main.typ",
+  "sha256": "b94c804787fbbb6e7cab98693b655f20f5cbcc80f6d020040fa3dc7a0fb507d5",
+  "size_bytes": 455,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 186,
+  "downloaded_at": "2026-08-02T13:13:16.012Z",
+  "filtered_at": "2026-08-02T17:34:44.212Z"
+}

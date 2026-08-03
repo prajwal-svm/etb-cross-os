@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-bigsaltyfishes-gzhu-typst-thesis-preface-1",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "thesis",
+  "license": "MIT",
+  "source_url": "https://github.com/bigsaltyfishes/gzhu-typst-thesis",
+  "original_author": "bigsaltyfishes",
+  "stars": 5,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-bigsaltyfishes-gzhu-typst-thesis-preface-1/preface.typ",
+  "relative_path": "raw/github-typst/gh-bigsaltyfishes-gzhu-typst-thesis-preface-1/preface.typ",
+  "main_doc": "preface.typ",
+  "sha256": "fd7e1cfb11f82abe1ed576b3d18e9f50216f5edd7800212e749e3a036ebad837",
+  "size_bytes": 357,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "layouts/preface.typ",
+  "downloaded_at": "2026-08-02T14:07:51.492Z"
+}

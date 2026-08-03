@@ -1,0 +1,32 @@
+{
+  "id": "overleaf/ol-cs221-fall-2017-homework-hsntbfcsvtmn",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "coursework",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/cs221-fall-2017-homework/hsntbfcsvtmn",
+  "original_author": "Lexi",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/overleaf__ol-cs221-fall-2017-homework-hsntbfcsvtmn/main.tex",
+  "relative_path": "processed/latex/cross-engine/overleaf__ol-cs221-fall-2017-homework-hsntbfcsvtmn/main.tex",
+  "sha256": "c82a2ccac19ef8ba87ae6ba458744aa362f8f6db1969f186146119171cd5d917",
+  "size_bytes": 664,
+  "document_class": "article",
+  "uses_packages": [
+    "amsmath",
+    "amssymb",
+    "enumitem",
+    "fullpage",
+    "graphicx"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 257,
+  "downloaded_at": "2026-08-02T13:45:11.397Z",
+  "filtered_at": "2026-08-02T17:34:41.039Z"
+}

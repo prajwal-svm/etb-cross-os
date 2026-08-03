@@ -1,0 +1,22 @@
+{
+  "id": "overleaf/ol-using-open-xits-fonts-with-xelatex-ghfbsvzrrgps",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "misc",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/using-open-xits-fonts-with-xelatex/ghfbsvzrrgps",
+  "original_author": "Overleaf",
+  "title": "Using Open XITS Fonts with XeLaTeX",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/overleaf/ol-using-open-xits-fonts-with-xelatex-ghfbsvzrrgps/main.tex",
+  "relative_path": "raw/overleaf/ol-using-open-xits-fonts-with-xelatex-ghfbsvzrrgps/main.tex",
+  "main_doc": "main.tex",
+  "sha256": "75c3dcefc3b93d50235d8541beed88c891fe94227540d0569774a2c87aaa70be",
+  "size_bytes": 1105,
+  "document_class": "article",
+  "uses_packages": [
+    "unicode-math"
+  ],
+  "download_method": "view-source-modal",
+  "github_url": null,
+  "downloaded_at": "2026-08-02T15:14:03.892Z"
+}

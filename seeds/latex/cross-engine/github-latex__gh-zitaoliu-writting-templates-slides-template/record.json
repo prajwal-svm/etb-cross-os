@@ -1,0 +1,32 @@
+{
+  "id": "github-latex/gh-zitaoliu-writting-templates-slides-template",
+  "source": "github-latex",
+  "format": "latex",
+  "category": "beamer",
+  "license": "MIT",
+  "source_url": "https://github.com/zitaoliu/writting_templates",
+  "original_author": "zitaoliu",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/github-latex__gh-zitaoliu-writting-templates-slides-template/slides_template.tex",
+  "relative_path": "processed/latex/cross-engine/github-latex__gh-zitaoliu-writting-templates-slides-template/slides_template.tex",
+  "sha256": "5d66b3f56fd731ce6b34d9b26db59ceb1de3745b39de88ffd3d7db31af5dae65",
+  "size_bytes": 8824,
+  "document_class": "beamer",
+  "uses_packages": [
+    "booktabs",
+    "graphicx",
+    "soul",
+    "subfigure",
+    "xcolor"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 1718,
+  "downloaded_at": "2026-08-02T13:30:33.191Z",
+  "filtered_at": "2026-08-02T17:34:43.577Z"
+}

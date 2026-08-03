@@ -1,0 +1,22 @@
+{
+  "id": "overleaf/ol-academic-paper-summary-rcxkskkzdyzy",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "venue",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/academic-paper-summary/rcxkskkzdyzy",
+  "original_author": "Colin Fitzsimons",
+  "title": "Academic Paper Summary",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/overleaf/ol-academic-paper-summary-rcxkskkzdyzy/main.tex",
+  "relative_path": "raw/overleaf/ol-academic-paper-summary-rcxkskkzdyzy/main.tex",
+  "main_doc": "main.tex",
+  "sha256": "62827cdf2bf1d752f59c9e834191e3455b943328b6e5830e340788a5df23955f",
+  "size_bytes": 393,
+  "document_class": "article",
+  "uses_packages": [
+    "inputenc"
+  ],
+  "download_method": "view-source-modal",
+  "github_url": null,
+  "downloaded_at": "2026-08-02T14:59:05.495Z"
+}

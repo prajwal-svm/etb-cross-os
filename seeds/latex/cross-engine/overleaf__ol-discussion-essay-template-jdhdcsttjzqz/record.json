@@ -1,0 +1,32 @@
+{
+  "id": "overleaf/ol-discussion-essay-template-jdhdcsttjzqz",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "misc",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/discussion-essay-template/jdhdcsttjzqz",
+  "original_author": "AA",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/overleaf__ol-discussion-essay-template-jdhdcsttjzqz/main.tex",
+  "relative_path": "processed/latex/cross-engine/overleaf__ol-discussion-essay-template-jdhdcsttjzqz/main.tex",
+  "sha256": "5cdcdf9d3d9e6ef989d0f6e1d27f1c9d299eb1a129b77f66aae46810363926e2",
+  "size_bytes": 1495,
+  "document_class": "article",
+  "uses_packages": [
+    "comment",
+    "fullpage",
+    "graphicx",
+    "lipsum",
+    "natbib"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 278,
+  "downloaded_at": "2026-08-02T16:51:36.657Z",
+  "filtered_at": "2026-08-02T17:34:41.088Z"
+}

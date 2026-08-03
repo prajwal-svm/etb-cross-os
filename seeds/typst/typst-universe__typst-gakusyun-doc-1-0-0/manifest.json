@@ -1,0 +1,23 @@
+{
+  "id": "typst-universe/typst-gakusyun-doc-1-0-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "report",
+  "license": "MIT",
+  "source_url": "https://github.com/gakusyun/gakusyun-doc",
+  "original_author": "Gakusyun",
+  "package_name": "gakusyun-doc",
+  "package_version": "1.0.0",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/typst-universe/typst-gakusyun-doc-1-0-0/main.typ",
+  "relative_path": "raw/typst-universe/typst-gakusyun-doc-1-0-0/main.typ",
+  "main_doc": "main.typ",
+  "sha256": "700a3aa59b3f6fbe13562edc913bba0b39149be211f6f2000d1ffeb268301b90",
+  "size_bytes": 2202,
+  "document_class": null,
+  "uses_packages": [],
+  "downloaded_at": "2026-08-02T13:08:38.785Z",
+  "categories": [
+    "report"
+  ],
+  "description": "A Typst document template designed specifically for Chinese typography, suitable for quick start recording and providing highly customizable parameter settings."
+}

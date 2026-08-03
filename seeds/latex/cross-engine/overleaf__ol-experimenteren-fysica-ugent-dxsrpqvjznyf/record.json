@@ -1,0 +1,37 @@
+{
+  "id": "overleaf/ol-experimenteren-fysica-ugent-dxsrpqvjznyf",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "misc",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/experimenteren-fysica-ugent/dxsrpqvjznyf",
+  "original_author": "Bjorge Meulemeester",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/overleaf__ol-experimenteren-fysica-ugent-dxsrpqvjznyf/main.tex",
+  "relative_path": "processed/latex/cross-engine/overleaf__ol-experimenteren-fysica-ugent-dxsrpqvjznyf/main.tex",
+  "sha256": "1b4ff936d19c01b73c1cec6f8d0a9d304dc37d5b271c7f2bd3af34ef957e0b25",
+  "size_bytes": 2940,
+  "document_class": "article",
+  "uses_packages": [
+    "amsfonts",
+    "amsmath",
+    "amssymb",
+    "babel",
+    "flafter",
+    "float",
+    "graphicx",
+    "hyperref",
+    "inputenc",
+    "textcomp"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 430,
+  "downloaded_at": "2026-08-02T14:58:50.456Z",
+  "filtered_at": "2026-08-02T17:34:41.139Z"
+}

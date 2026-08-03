@@ -1,0 +1,23 @@
+{
+  "id": "overleaf/ol-ctqs-fcdjyzbgpmfs",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "misc",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/ctqs/fcdjyzbgpmfs",
+  "original_author": null,
+  "title": "CTQs",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/overleaf/ol-ctqs-fcdjyzbgpmfs/main.tex",
+  "relative_path": "raw/overleaf/ol-ctqs-fcdjyzbgpmfs/main.tex",
+  "main_doc": "main.tex",
+  "sha256": "f6156c77f91f0fcf5db83df38b6240caf5019705a946e8b57f1005140d260221",
+  "size_bytes": 288,
+  "document_class": "article",
+  "uses_packages": [
+    "amsmath",
+    "graphicx"
+  ],
+  "download_method": "view-source-modal",
+  "github_url": null,
+  "downloaded_at": "2026-08-02T15:53:28.799Z"
+}

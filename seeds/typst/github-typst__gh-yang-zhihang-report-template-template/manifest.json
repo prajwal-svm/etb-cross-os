@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-yang-zhihang-report-template-template",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "report",
+  "license": "MIT",
+  "source_url": "https://github.com/Yang-ZhiHang/report-template",
+  "original_author": "Yang-ZhiHang",
+  "stars": 5,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-yang-zhihang-report-template-template/template.typ",
+  "relative_path": "raw/github-typst/gh-yang-zhihang-report-template-template/template.typ",
+  "main_doc": "template.typ",
+  "sha256": "c167f1f56a1237bb2404464e2fead91da0a3a9c39f4c8184ad84662a7934cc83",
+  "size_bytes": 6072,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "template.typ",
+  "downloaded_at": "2026-08-02T14:07:40.205Z"
+}

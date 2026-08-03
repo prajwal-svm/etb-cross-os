@@ -1,0 +1,28 @@
+{
+  "id": "overleaf/ol-mathematics-proofs-template-pnsyjzbmcggf",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "misc",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/mathematics-proofs-template/pnsyjzbmcggf",
+  "original_author": "Amanda Leigh",
+  "title": "Mathematics Proofs Template",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/overleaf/ol-mathematics-proofs-template-pnsyjzbmcggf/main.tex",
+  "relative_path": "raw/overleaf/ol-mathematics-proofs-template-pnsyjzbmcggf/main.tex",
+  "main_doc": "main.tex",
+  "sha256": "1b041affc8dbc79b5b747672b2cca0b940ebfddbc7837c21c7f9ad5f3602c11c",
+  "size_bytes": 582,
+  "document_class": "article",
+  "uses_packages": [
+    "amsmath",
+    "amssymb",
+    "geometry",
+    "graphicx",
+    "inputenc",
+    "parskip",
+    "xcolor"
+  ],
+  "download_method": "view-source-modal",
+  "github_url": null,
+  "downloaded_at": "2026-08-02T14:14:30.689Z"
+}

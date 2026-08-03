@@ -1,0 +1,29 @@
+{
+  "id": "github-latex/gh-callumq-resume-template-resume",
+  "source": "github-latex",
+  "format": "latex",
+  "category": "cv",
+  "license": "MIT",
+  "source_url": "https://github.com/CallumQ/Resume-Template",
+  "original_author": "CallumQ",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/github-latex__gh-callumq-resume-template-resume/resume.tex",
+  "relative_path": "processed/latex/cross-engine/github-latex__gh-callumq-resume-template-resume/resume.tex",
+  "sha256": "ba177e40b962941e02cd0eadd09ad13d3d40051589ffa5da21b65c6ee21d44a0",
+  "size_bytes": 3455,
+  "document_class": "article",
+  "uses_packages": [
+    "geometry",
+    "xcolor"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 212,
+  "downloaded_at": "2026-08-02T13:49:38.042Z",
+  "filtered_at": "2026-08-02T17:34:42.554Z"
+}

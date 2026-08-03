@@ -1,0 +1,20 @@
+{
+  "id": "overleaf/ol-iith-beamer-theme-xjnqtnfwwbyc",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "beamer",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/iith-beamer-theme/xjnqtnfwwbyc",
+  "original_author": "Mohammad Nair Aalam",
+  "title": "IITH Beamer Theme",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/overleaf/ol-iith-beamer-theme-xjnqtnfwwbyc/main.tex",
+  "relative_path": "raw/overleaf/ol-iith-beamer-theme-xjnqtnfwwbyc/main.tex",
+  "main_doc": "main.tex",
+  "sha256": "c8659f296fd7fffb83d405d9a4d442bedc59447f9ed5d35041d669f7bbfa0144",
+  "size_bytes": 1804,
+  "document_class": "beamer",
+  "uses_packages": [],
+  "download_method": "view-source-modal",
+  "github_url": null,
+  "downloaded_at": "2026-08-02T14:53:26.013Z"
+}

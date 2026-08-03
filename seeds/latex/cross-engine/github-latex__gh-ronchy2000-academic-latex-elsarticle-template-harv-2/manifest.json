@@ -1,0 +1,25 @@
+{
+  "id": "github-latex/gh-ronchy2000-academic-latex-elsarticle-template-harv-2",
+  "source": "github-latex",
+  "format": "latex",
+  "category": "venue",
+  "license": "MIT",
+  "source_url": "https://github.com/Ronchy2000/Academic-LaTeX",
+  "original_author": "Ronchy2000",
+  "stars": 6,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-latex/gh-ronchy2000-academic-latex-elsarticle-template-harv-2/elsarticle-template-harv.tex",
+  "relative_path": "raw/github-latex/gh-ronchy2000-academic-latex-elsarticle-template-harv-2/elsarticle-template-harv.tex",
+  "main_doc": "elsarticle-template-harv.tex",
+  "sha256": "f38d90a86c045a026c29e0fc08dc630447047475db9f43157feb84afab17b5be",
+  "size_bytes": 8518,
+  "document_class": "elsarticle",
+  "uses_packages": [
+    "amsmath",
+    "amssymb",
+    "amsthm",
+    "epsfig",
+    "lineno"
+  ],
+  "repo_path": "journals/Elsevier-Neurocomputing/elsarticle-template-harv.tex",
+  "downloaded_at": "2026-08-02T13:25:40.522Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-sam-my16-typst-lab-template-caratula-2",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "report",
+  "license": "MIT",
+  "source_url": "https://github.com/Sam-my16/typst-lab-template",
+  "original_author": "Sam-my16",
+  "stars": 0,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-sam-my16-typst-lab-template-caratula-2/caratula.typ",
+  "relative_path": "raw/github-typst/gh-sam-my16-typst-lab-template-caratula-2/caratula.typ",
+  "main_doc": "caratula.typ",
+  "sha256": "43baec8e4b03770716905aef47a42e0605f7853beab0b82dfafaac2b2551662a",
+  "size_bytes": 1606,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "secciones/caratula.typ",
+  "downloaded_at": "2026-08-02T14:15:25.146Z"
+}

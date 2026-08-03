@@ -1,0 +1,31 @@
+{
+  "id": "overleaf/ol-abstract-template-ycxrbvwvfvxk",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "misc",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/abstract-template/ycxrbvwvfvxk",
+  "original_author": "Mizanur Rahman",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/overleaf__ol-abstract-template-ycxrbvwvfvxk/main.tex",
+  "relative_path": "processed/latex/cross-engine/overleaf__ol-abstract-template-ycxrbvwvfvxk/main.tex",
+  "sha256": "6772401c37446919f984250cd1ea35bc7d2a699f70202497fe2eef19af2fe329",
+  "size_bytes": 1632,
+  "document_class": "article",
+  "uses_packages": [
+    "geometry",
+    "inputenc",
+    "times",
+    "titling"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 227,
+  "downloaded_at": "2026-08-02T16:34:49.997Z",
+  "filtered_at": "2026-08-02T17:34:40.903Z"
+}

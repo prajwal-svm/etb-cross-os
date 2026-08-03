@@ -1,0 +1,37 @@
+{
+  "id": "github-latex/gh-arguellesm-latex-templates-cloud",
+  "source": "github-latex",
+  "format": "latex",
+  "category": "misc",
+  "license": "MIT",
+  "source_url": "https://github.com/arguellesm/latex-templates",
+  "original_author": "arguellesm",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/engine-specific/github-latex__gh-arguellesm-latex-templates-cloud/cloud.tex",
+  "relative_path": "processed/latex/engine-specific/github-latex__gh-arguellesm-latex-templates-cloud/cloud.tex",
+  "sha256": "b6e1155eee68d679a9e0128ac2013750771c6b12f0917edcc42a5adb644ca9a7",
+  "size_bytes": 2593,
+  "document_class": "article",
+  "uses_packages": [
+    "babel",
+    "caption",
+    "fontenc",
+    "graphicx",
+    "helvet",
+    "lipsum",
+    "listings",
+    "tcolorbox",
+    "titlesec",
+    "xcolor"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": false
+  },
+  "engine_class": "engine-specific",
+  "compile_time_ms": 617,
+  "downloaded_at": "2026-08-02T13:22:46.765Z",
+  "filtered_at": "2026-08-02T17:34:42.476Z"
+}

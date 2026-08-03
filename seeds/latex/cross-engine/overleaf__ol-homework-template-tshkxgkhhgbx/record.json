@@ -1,0 +1,31 @@
+{
+  "id": "overleaf/ol-homework-template-tshkxgkhhgbx",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "coursework",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/homework-template/tshkxgkhhgbx",
+  "original_author": "Sayri Suarez",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/overleaf__ol-homework-template-tshkxgkhhgbx/main.tex",
+  "relative_path": "processed/latex/cross-engine/overleaf__ol-homework-template-tshkxgkhhgbx/main.tex",
+  "sha256": "c1095f4d3b80dde3f008f82617b996679cdf403cbdbcc3c53d22163864d410df",
+  "size_bytes": 1139,
+  "document_class": "article",
+  "uses_packages": [
+    "amsmath",
+    "amssymb",
+    "geometry",
+    "textpos"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 233,
+  "downloaded_at": "2026-08-02T14:58:31.083Z",
+  "filtered_at": "2026-08-02T17:34:41.223Z"
+}

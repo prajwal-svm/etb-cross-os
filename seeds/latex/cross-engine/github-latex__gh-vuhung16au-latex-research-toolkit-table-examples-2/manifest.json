@@ -1,0 +1,32 @@
+{
+  "id": "github-latex/gh-vuhung16au-latex-research-toolkit-table-examples-2",
+  "source": "github-latex",
+  "format": "latex",
+  "category": "coursework",
+  "license": "MIT",
+  "source_url": "https://github.com/vuhung16au/LaTeX-Research-Toolkit",
+  "original_author": "vuhung16au",
+  "stars": 6,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-latex/gh-vuhung16au-latex-research-toolkit-table-examples-2/table-examples.tex",
+  "relative_path": "raw/github-latex/gh-vuhung16au-latex-research-toolkit-table-examples-2/table-examples.tex",
+  "main_doc": "table-examples.tex",
+  "sha256": "91149e5943d8e75d661ed20d0d7bddcc38eaee71858492ead84a178060a33d4d",
+  "size_bytes": 7708,
+  "document_class": "article",
+  "uses_packages": [
+    "array",
+    "booktabs",
+    "colortbl",
+    "csvsimple",
+    "filecontents",
+    "graphicx",
+    "inputenc",
+    "longtable",
+    "makecell",
+    "multirow",
+    "tabularx",
+    "xcolor"
+  ],
+  "repo_path": "examples/basic/table-examples.tex",
+  "downloaded_at": "2026-08-02T13:25:55.027Z"
+}

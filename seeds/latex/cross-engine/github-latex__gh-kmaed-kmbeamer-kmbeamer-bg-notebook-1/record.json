@@ -1,0 +1,29 @@
+{
+  "id": "github-latex/gh-kmaed-kmbeamer-kmbeamer-bg-notebook-1",
+  "source": "github-latex",
+  "format": "latex",
+  "category": "beamer",
+  "license": "MIT",
+  "source_url": "https://github.com/kmaed/kmbeamer",
+  "original_author": "kmaed",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/github-latex__gh-kmaed-kmbeamer-kmbeamer-bg-notebook-1/kmbeamer_bg_Notebook.tex",
+  "relative_path": "processed/latex/cross-engine/github-latex__gh-kmaed-kmbeamer-kmbeamer-bg-notebook-1/kmbeamer_bg_Notebook.tex",
+  "sha256": "a93c436649e1128a2354302e9ea99af342a6f6eae61c888809f19fd9dcaa9113",
+  "size_bytes": 1710,
+  "document_class": "beamer",
+  "uses_packages": [
+    "svgcolor",
+    "tikz"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 865,
+  "downloaded_at": "2026-08-02T13:12:32.603Z",
+  "filtered_at": "2026-08-02T17:34:43.015Z"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "overleaf/ol-the-standard-answer-sheet-for-cpho-semi-final-and-final-8-problems-pvrfwwqgkx",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "misc",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/the-standard-answer-sheet-for-cpho-semi-final-and-final-8-problems/pvrfwwqgkxdw",
+  "original_author": "Hao Geng",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/engine-specific/overleaf__ol-the-standard-answer-sheet-for-cpho-semi-final-and-final-8-problems-pvrfwwqgkx/main.tex",
+  "relative_path": "processed/latex/engine-specific/overleaf__ol-the-standard-answer-sheet-for-cpho-semi-final-and-final-8-problems-pvrfwwqgkx/main.tex",
+  "sha256": "3e6965eeceed7b614193db83d41a088b7498dd45ee008afcfd5224b1a71f092b",
+  "size_bytes": 431,
+  "document_class": "ctexart",
+  "uses_packages": [
+    "geometry",
+    "graphicx"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": false,
+    "xelatex": true,
+    "lualatex": false,
+    "typst": false
+  },
+  "engine_class": "engine-specific",
+  "compile_time_ms": 2167,
+  "downloaded_at": "2026-08-02T16:39:37.051Z",
+  "filtered_at": "2026-08-02T17:34:41.986Z"
+}

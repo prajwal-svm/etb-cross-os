@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-reckerp-fontys-thesis-template-acknowledgements-1",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "thesis",
+  "license": "MIT",
+  "source_url": "https://github.com/reckerp/fontys-thesis-template",
+  "original_author": "reckerp",
+  "stars": 3,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-reckerp-fontys-thesis-template-acknowledgements-1/acknowledgements.typ",
+  "relative_path": "raw/github-typst/gh-reckerp-fontys-thesis-template-acknowledgements-1/acknowledgements.typ",
+  "main_doc": "acknowledgements.typ",
+  "sha256": "c81290dd222078d973035953138350f1bb8dacbfb8c253e5e66ad1cc0f741ea1",
+  "size_bytes": 324,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "src/pages/acknowledgements.typ",
+  "downloaded_at": "2026-08-02T14:09:09.765Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-a-kkiri-cumcm-typst-template-lib-1",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "misc",
+  "license": "Apache-2.0",
+  "source_url": "https://github.com/a-kkiri/CUMCM-typst-template",
+  "original_author": "a-kkiri",
+  "stars": 32,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-a-kkiri-cumcm-typst-template-lib-1/lib.typ",
+  "relative_path": "raw/github-typst/gh-a-kkiri-cumcm-typst-template-lib-1/lib.typ",
+  "main_doc": "lib.typ",
+  "sha256": "64f13f10ab2969d9e476bde977f99b156cbd165d9bd300761cca2eb0ce3a4529",
+  "size_bytes": 9550,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "lib.typ",
+  "downloaded_at": "2026-08-02T14:04:21.705Z"
+}

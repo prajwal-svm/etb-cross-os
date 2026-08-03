@@ -1,0 +1,26 @@
+{
+  "id": "typst-universe/typst-abiding-ifacconf-0-2-1",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "venue",
+  "license": "MIT-0",
+  "source_url": "https://github.com/avonmoll/ifacconf-typst",
+  "original_author": "Alexander Von Moll",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/typst-universe__typst-abiding-ifacconf-0-2-1/main.typ",
+  "relative_path": "processed/typst/typst-universe__typst-abiding-ifacconf-0-2-1/main.typ",
+  "sha256": "091ff490efd8d01200126477769da071df1ab9669a55e13c0c76de06c894feb4",
+  "size_bytes": 10557,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 710,
+  "downloaded_at": "2026-08-02T13:05:27.765Z",
+  "filtered_at": "2026-08-02T17:34:43.586Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "template-packs/molecular-biology-notes",
+  "source": "template-packs",
+  "format": "latex",
+  "category": "report",
+  "category_raw": "Theses & Reports",
+  "license": "CC0-1.0",
+  "source_url": "https://github.com/Oleafly/template-packs",
+  "original_author": "Oleafly",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/template-packs/molecular-biology-notes/main.tex",
+  "relative_path": "raw/template-packs/molecular-biology-notes/main.tex",
+  "main_doc": "main.tex",
+  "sha256": "5ce286ba8ecc01397cd205c5d2f2bf86638e5ab00bbcabbd7c38233f9dbbd98a",
+  "size_bytes": 4099,
+  "document_class": "article",
+  "uses_packages": [
+    "amsmath",
+    "enumitem",
+    "geometry",
+    "libertine",
+    "mhchem",
+    "tikz",
+    "xcolor"
+  ],
+  "engine_hint": "xetex",
+  "downloaded_at": "2026-08-02T13:05:15.834Z"
+}

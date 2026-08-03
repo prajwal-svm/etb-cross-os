@@ -1,0 +1,24 @@
+{
+  "id": "typst-universe/typst-govern-0-2-1",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "business",
+  "license": "MIT",
+  "source_url": "https://github.com/Carbophile/govern-typ",
+  "original_author": "Borna Punda",
+  "package_name": "govern",
+  "package_version": "0.2.1",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/typst-universe/typst-govern-0-2-1/main.typ",
+  "relative_path": "raw/typst-universe/typst-govern-0-2-1/main.typ",
+  "main_doc": "main.typ",
+  "sha256": "812375ff88a86986bba6eb542fb51360090b5214588f345dbb864d0b55041b03",
+  "size_bytes": 1240,
+  "document_class": null,
+  "uses_packages": [],
+  "downloaded_at": "2026-08-02T13:08:44.027Z",
+  "categories": [
+    "layout",
+    "office"
+  ],
+  "description": "A clean, traditional template for formal governance documents, bylaws, and articles."
+}

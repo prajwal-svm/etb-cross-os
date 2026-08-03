@@ -1,0 +1,31 @@
+{
+  "id": "github-latex/gh-jaasonw-latex-templates-math-1",
+  "source": "github-latex",
+  "format": "latex",
+  "category": "coursework",
+  "license": "MIT",
+  "source_url": "https://github.com/jaasonw/latex-templates",
+  "original_author": "jaasonw",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/github-latex__gh-jaasonw-latex-templates-math-1/math.tex",
+  "relative_path": "processed/latex/cross-engine/github-latex__gh-jaasonw-latex-templates-math-1/math.tex",
+  "sha256": "1e0306e43de9bbdc98bdd5c9e617b00cbe15ab261fa933026ee4d45b24acca15",
+  "size_bytes": 980,
+  "document_class": "article",
+  "uses_packages": [
+    "amsmath",
+    "amssymb",
+    "fancyhdr",
+    "geometry"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 230,
+  "downloaded_at": "2026-08-02T13:48:54.439Z",
+  "filtered_at": "2026-08-02T17:34:42.917Z"
+}

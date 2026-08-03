@@ -1,0 +1,29 @@
+{
+  "id": "ctan/ctan-glossaries-sample-entryfmt",
+  "source": "ctan",
+  "format": "latex",
+  "category": "package-example",
+  "license": "LPPL-1.3c",
+  "source_url": "https://ctan.org/pkg/glossaries",
+  "original_author": "CTAN package: glossaries",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/ctan__ctan-glossaries-sample-entryfmt/sample-entryfmt.tex",
+  "relative_path": "processed/latex/cross-engine/ctan__ctan-glossaries-sample-entryfmt/sample-entryfmt.tex",
+  "sha256": "44cc65c2380e14f921a2fe8c4cbbf0f1ebf750647fb9edbaa74da7d45c30da15",
+  "size_bytes": 718,
+  "document_class": "article",
+  "uses_packages": [
+    "glossaries",
+    "hyperref"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 491,
+  "downloaded_at": "2026-08-02T13:04:56.452Z",
+  "filtered_at": "2026-08-02T17:34:42.296Z"
+}

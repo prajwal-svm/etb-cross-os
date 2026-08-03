@@ -1,0 +1,29 @@
+{
+  "id": "overleaf/ol-international-journal-of-digital-curation-ijdc-template-vzdvszjyshby",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "venue",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/international-journal-of-digital-curation-ijdc-template/vzdvszjyshby",
+  "original_author": "Alex Ball, University of Bath",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/overleaf__ol-international-journal-of-digital-curation-ijdc-template-vzdvszjyshby/main.tex",
+  "relative_path": "processed/latex/cross-engine/overleaf__ol-international-journal-of-digital-curation-ijdc-template-vzdvszjyshby/main.tex",
+  "sha256": "1ba346b5c60a1bc3d88cb90406c520d883e8e037c3dcc3d21001cf13dc225eb9",
+  "size_bytes": 381,
+  "document_class": "ijdc-v9",
+  "uses_packages": [
+    "datetime",
+    "natbib"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 2746,
+  "downloaded_at": "2026-08-02T15:51:58.755Z",
+  "filtered_at": "2026-08-02T17:34:41.270Z"
+}

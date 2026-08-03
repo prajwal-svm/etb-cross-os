@@ -1,0 +1,28 @@
+{
+  "id": "overleaf/ol-template-for-aomart-class-fzpbmyqcctjn",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "misc",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/template-for-aomart-class/fzpbmyqcctjn",
+  "original_author": "Filippo Alberto Edoardo Nuccio",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/overleaf__ol-template-for-aomart-class-fzpbmyqcctjn/main.tex",
+  "relative_path": "processed/latex/cross-engine/overleaf__ol-template-for-aomart-class-fzpbmyqcctjn/main.tex",
+  "sha256": "01b833cb4c3ba122fcd89207fff2e944b842760152d3590af0407e1b41c8e982",
+  "size_bytes": 2245,
+  "document_class": "aomart",
+  "uses_packages": [
+    "babel"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 1391,
+  "downloaded_at": "2026-08-02T15:02:00.175Z",
+  "filtered_at": "2026-08-02T17:34:41.904Z"
+}

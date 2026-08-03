@@ -1,0 +1,26 @@
+{
+  "id": "typst-universe/typst-ineris-slide-0-1-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "beamer",
+  "license": "MIT",
+  "source_url": "https://typst.app/universe/package/ineris-slide",
+  "original_author": "François Hissel",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/typst-universe__typst-ineris-slide-0-1-0/main.typ",
+  "relative_path": "processed/typst/typst-universe__typst-ineris-slide-0-1-0/main.typ",
+  "sha256": "8a48a61d9028b1e41b5634d169b3baac401a8f241112e41db8b89dacb4f1f792",
+  "size_bytes": 1030,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 741,
+  "downloaded_at": "2026-08-02T13:09:21.886Z",
+  "filtered_at": "2026-08-02T17:34:43.901Z"
+}

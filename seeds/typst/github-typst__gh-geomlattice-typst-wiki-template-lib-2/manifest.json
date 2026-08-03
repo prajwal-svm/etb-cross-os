@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-geomlattice-typst-wiki-template-lib-2",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "misc",
+  "license": "MIT",
+  "source_url": "https://github.com/geomlattice/typst-wiki-template",
+  "original_author": "geomlattice",
+  "stars": 0,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-geomlattice-typst-wiki-template-lib-2/lib.typ",
+  "relative_path": "raw/github-typst/gh-geomlattice-typst-wiki-template-lib-2/lib.typ",
+  "main_doc": "lib.typ",
+  "sha256": "c676341eeebc6799fbc109d372831ddd293db5d3742c6724bbc00f5d22e57c77",
+  "size_bytes": 2021,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "src/mathematicians/lib.typ",
+  "downloaded_at": "2026-08-02T14:15:14.348Z"
+}

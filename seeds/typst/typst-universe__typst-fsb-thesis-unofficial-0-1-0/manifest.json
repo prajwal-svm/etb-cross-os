@@ -1,0 +1,24 @@
+{
+  "id": "typst-universe/typst-fsb-thesis-unofficial-0-1-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "thesis",
+  "license": "MIT",
+  "source_url": "https://github.com/HSGamer/fsb-thesis-template",
+  "original_author": "HSGamer",
+  "package_name": "fsb-thesis-unofficial",
+  "package_version": "0.1.0",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/typst-universe/typst-fsb-thesis-unofficial-0-1-0/main.typ",
+  "relative_path": "raw/typst-universe/typst-fsb-thesis-unofficial-0-1-0/main.typ",
+  "main_doc": "main.typ",
+  "sha256": "2c9f30a282658812938716126bf74ae6e82ff03634ba6372b6a294a43756912b",
+  "size_bytes": 417,
+  "document_class": null,
+  "uses_packages": [],
+  "downloaded_at": "2026-08-02T13:08:34.782Z",
+  "categories": [
+    "thesis",
+    "report"
+  ],
+  "description": "An Unofficial thesis template for FSB (FPT School of Business and Technology) students."
+}

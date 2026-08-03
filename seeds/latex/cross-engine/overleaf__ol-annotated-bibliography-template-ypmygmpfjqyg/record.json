@@ -1,0 +1,26 @@
+{
+  "id": "overleaf/ol-annotated-bibliography-template-ypmygmpfjqyg",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "misc",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/annotated-bibliography-template/ypmygmpfjqyg",
+  "original_author": "Carlos Miguel Ferreira Marinho",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/overleaf__ol-annotated-bibliography-template-ypmygmpfjqyg/main.tex",
+  "relative_path": "processed/latex/cross-engine/overleaf__ol-annotated-bibliography-template-ypmygmpfjqyg/main.tex",
+  "sha256": "dd29bfbff4e54daa5a0d273a7e5beeb12c840243e98671c0d44e56f3dbaad602",
+  "size_bytes": 541,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 200,
+  "downloaded_at": "2026-08-02T14:35:22.185Z",
+  "filtered_at": "2026-08-02T17:34:40.931Z"
+}

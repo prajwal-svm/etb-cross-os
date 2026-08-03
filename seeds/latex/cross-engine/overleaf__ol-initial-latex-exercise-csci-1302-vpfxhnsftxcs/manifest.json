@@ -1,0 +1,27 @@
+{
+  "id": "overleaf/ol-initial-latex-exercise-csci-1302-vpfxhnsftxcs",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "misc",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/initial-latex-exercise-csci-1302/vpfxhnsftxcs",
+  "original_author": "Nic McPhee",
+  "title": "Initial LaTeX exercise, CSci 1302",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/overleaf/ol-initial-latex-exercise-csci-1302-vpfxhnsftxcs/main.tex",
+  "relative_path": "raw/overleaf/ol-initial-latex-exercise-csci-1302-vpfxhnsftxcs/main.tex",
+  "main_doc": "main.tex",
+  "sha256": "4fc63e7d7e77a9ef40483c8c6f55a3569d918df29446a6d90577be8fd542bbc3",
+  "size_bytes": 2087,
+  "document_class": "article",
+  "uses_packages": [
+    "amsmath",
+    "amsthm",
+    "babel",
+    "graphicx",
+    "inputenc",
+    "todonotes"
+  ],
+  "download_method": "view-source-modal",
+  "github_url": null,
+  "downloaded_at": "2026-08-02T15:51:17.954Z"
+}

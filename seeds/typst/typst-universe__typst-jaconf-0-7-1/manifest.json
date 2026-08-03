@@ -1,0 +1,23 @@
+{
+  "id": "typst-universe/typst-jaconf-0-7-1",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "venue",
+  "license": "MIT-0",
+  "source_url": "https://github.com/kimushun1101/typst-jaconf",
+  "original_author": "Shunsuke Kimura",
+  "package_name": "jaconf",
+  "package_version": "0.7.1",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/typst-universe/typst-jaconf-0-7-1/main.typ",
+  "relative_path": "raw/typst-universe/typst-jaconf-0-7-1/main.typ",
+  "main_doc": "main.typ",
+  "sha256": "8a83a0ba12ffa2de48519ccd44b94ad1b98b15b3e8675a3c844eafe9456e9668",
+  "size_bytes": 11497,
+  "document_class": null,
+  "uses_packages": [],
+  "downloaded_at": "2026-08-02T13:09:35.969Z",
+  "categories": [
+    "paper"
+  ],
+  "description": "Template for Japanese academic conference papers. 日本語の学会論文テンプレート"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "github-latex/gh-deercoder-exp-code-template",
+  "source": "github-latex",
+  "format": "latex",
+  "category": "coursework",
+  "license": "MIT",
+  "source_url": "https://github.com/deercoder/exp-code",
+  "original_author": "deercoder",
+  "stars": 0,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-latex/gh-deercoder-exp-code-template/template.tex",
+  "relative_path": "raw/github-latex/gh-deercoder-exp-code-template/template.tex",
+  "main_doc": "template.tex",
+  "sha256": "e7fb3059f3aff7c3b7d8608afc0543e1db4c6274d4dee29a2f4557f023bbed47",
+  "size_bytes": 385,
+  "document_class": "article",
+  "uses_packages": [
+    "titlesec",
+    "totalcount"
+  ],
+  "repo_path": "latex/practice/template.tex",
+  "downloaded_at": "2026-08-02T13:49:21.154Z"
+}

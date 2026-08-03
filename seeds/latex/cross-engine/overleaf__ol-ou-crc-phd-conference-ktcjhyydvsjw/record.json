@@ -1,0 +1,42 @@
+{
+  "id": "overleaf/ol-ou-crc-phd-conference-ktcjhyydvsjw",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "thesis",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/ou-crc-phd-conference/ktcjhyydvsjw",
+  "original_author": "Andrea Franceschini and Theo Georgiou",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/overleaf__ol-ou-crc-phd-conference-ktcjhyydvsjw/main.tex",
+  "relative_path": "processed/latex/cross-engine/overleaf__ol-ou-crc-phd-conference-ktcjhyydvsjw/main.tex",
+  "sha256": "436bb5dfde84fd1fa9107354eb3e5b8f174c191bdd9fbdc8c990236f03741283",
+  "size_bytes": 19689,
+  "document_class": "IEEEtran",
+  "uses_packages": [
+    "algorithmic",
+    "amsmath",
+    "array",
+    "caption",
+    "cite",
+    "eqparbox",
+    "fixltx2e",
+    "graphicx",
+    "ifpdf",
+    "mdwmath",
+    "mdwtab",
+    "stfloats",
+    "subfig",
+    "subfigure",
+    "url"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 273,
+  "downloaded_at": "2026-08-02T14:38:41.285Z",
+  "filtered_at": "2026-08-02T17:34:41.592Z"
+}

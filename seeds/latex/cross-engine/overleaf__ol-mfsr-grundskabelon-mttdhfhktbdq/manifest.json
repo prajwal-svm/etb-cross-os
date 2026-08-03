@@ -1,0 +1,27 @@
+{
+  "id": "overleaf/ol-mfsr-grundskabelon-mttdhfhktbdq",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "misc",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/mfsr-grundskabelon/mttdhfhktbdq",
+  "original_author": "Jakob Lysgaard Rørsted",
+  "title": "MFSR Grundskabelon",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/overleaf/ol-mfsr-grundskabelon-mttdhfhktbdq/main.tex",
+  "relative_path": "raw/overleaf/ol-mfsr-grundskabelon-mttdhfhktbdq/main.tex",
+  "main_doc": "main.tex",
+  "sha256": "1ab1e9b030e45c051d7edc11b6fc1e0366a9395d7b764a2538f877eeafb5a313",
+  "size_bytes": 795,
+  "document_class": "memoir",
+  "uses_packages": [
+    "amsmath",
+    "babel",
+    "fontenc",
+    "graphicx",
+    "inputenc",
+    "microtype"
+  ],
+  "download_method": "view-source-modal",
+  "github_url": null,
+  "downloaded_at": "2026-08-02T14:39:58.856Z"
+}

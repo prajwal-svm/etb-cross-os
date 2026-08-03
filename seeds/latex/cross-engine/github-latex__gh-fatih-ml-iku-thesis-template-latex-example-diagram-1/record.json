@@ -1,0 +1,26 @@
+{
+  "id": "github-latex/gh-fatih-ml-iku-thesis-template-latex-example-diagram-1",
+  "source": "github-latex",
+  "format": "latex",
+  "category": "thesis",
+  "license": "MIT",
+  "source_url": "https://github.com/fatih-ml/iku-thesis-template-latex",
+  "original_author": "fatih-ml",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/github-latex__gh-fatih-ml-iku-thesis-template-latex-example-diagram-1/example-diagram.tex",
+  "relative_path": "processed/latex/cross-engine/github-latex__gh-fatih-ml-iku-thesis-template-latex-example-diagram-1/example-diagram.tex",
+  "sha256": "37738e3ab5f7612ba377020eb61f5dc520f8f4d4ca1328b4bd18f28675654f33",
+  "size_bytes": 663,
+  "document_class": "standalone",
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 438,
+  "downloaded_at": "2026-08-02T13:54:00.302Z",
+  "filtered_at": "2026-08-02T17:34:42.755Z"
+}

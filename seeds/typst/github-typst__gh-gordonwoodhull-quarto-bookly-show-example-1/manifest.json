@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-gordonwoodhull-quarto-bookly-show-example-1",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "coursework",
+  "license": "MIT",
+  "source_url": "https://github.com/gordonwoodhull/quarto-bookly",
+  "original_author": "gordonwoodhull",
+  "stars": 1,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-gordonwoodhull-quarto-bookly-show-example-1/show-example.typ",
+  "relative_path": "raw/github-typst/gh-gordonwoodhull-quarto-bookly-show-example-1/show-example.typ",
+  "main_doc": "show-example.typ",
+  "sha256": "fba3fc807304c0e79091f182d4e4273473da8eb9315f46a9375186455411a45b",
+  "size_bytes": 6808,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "_extensions/bookly/typst/packages/preview/tidy/0.4.3/src/show-example.typ",
+  "downloaded_at": "2026-08-02T14:12:31.139Z"
+}

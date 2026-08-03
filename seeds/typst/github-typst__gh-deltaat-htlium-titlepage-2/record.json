@@ -1,0 +1,26 @@
+{
+  "id": "github-typst/gh-deltaat-htlium-titlepage-2",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "misc",
+  "license": "MIT",
+  "source_url": "https://github.com/DeltaAT/HTLium",
+  "original_author": "DeltaAT",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/github-typst__gh-deltaat-htlium-titlepage-2/titlepage.typ",
+  "relative_path": "processed/typst/github-typst__gh-deltaat-htlium-titlepage-2/titlepage.typ",
+  "sha256": "f17d21de009f06494f6e480d125714bb1d597cefda271e79224a7ced72c02a99",
+  "size_bytes": 5537,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 10,
+  "downloaded_at": "2026-08-02T14:10:04.463Z",
+  "filtered_at": "2026-08-02T17:34:44.747Z"
+}

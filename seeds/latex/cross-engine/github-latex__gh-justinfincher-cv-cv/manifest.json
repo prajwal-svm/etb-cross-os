@@ -1,0 +1,31 @@
+{
+  "id": "github-latex/gh-justinfincher-cv-cv",
+  "source": "github-latex",
+  "format": "latex",
+  "category": "cv",
+  "license": "MIT",
+  "source_url": "https://github.com/JustinFincher/CV",
+  "original_author": "JustinFincher",
+  "stars": 8,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-latex/gh-justinfincher-cv-cv/CV.tex",
+  "relative_path": "raw/github-latex/gh-justinfincher-cv-cv/CV.tex",
+  "main_doc": "CV.tex",
+  "sha256": "d3a25304a90b8598ffd77966ef749c30f4da07de05e2fb6e5729f108d5492492",
+  "size_bytes": 10633,
+  "document_class": "article",
+  "uses_packages": [
+    "babel",
+    "color",
+    "enumitem",
+    "fancyhdr",
+    "fullpage",
+    "hyperref",
+    "latexsym",
+    "marvosym",
+    "mdframed",
+    "titlesec",
+    "verbatim"
+  ],
+  "repo_path": "LaTeX/CV.tex",
+  "downloaded_at": "2026-08-02T13:23:23.290Z"
+}

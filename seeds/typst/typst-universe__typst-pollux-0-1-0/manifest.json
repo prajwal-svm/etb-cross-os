@@ -1,0 +1,23 @@
+{
+  "id": "typst-universe/typst-pollux-0-1-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "beamer",
+  "license": "MIT",
+  "source_url": "https://github.com/taka255/pollux",
+  "original_author": "Kaito Takanami",
+  "package_name": "pollux",
+  "package_version": "0.1.0",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/typst-universe/typst-pollux-0-1-0/main.typ",
+  "relative_path": "raw/typst-universe/typst-pollux-0-1-0/main.typ",
+  "main_doc": "main.typ",
+  "sha256": "29bf1e483f73bae5852af3113e0771fe7d3f046a864fadfa73d0d674ac8f05e8",
+  "size_bytes": 2297,
+  "document_class": null,
+  "uses_packages": [],
+  "downloaded_at": "2026-08-02T13:12:08.520Z",
+  "categories": [
+    "poster"
+  ],
+  "description": "A clean and minimal academic poster template inspired by gemini."
+}

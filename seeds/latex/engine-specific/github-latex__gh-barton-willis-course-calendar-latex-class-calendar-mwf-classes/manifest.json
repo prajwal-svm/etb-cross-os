@@ -1,0 +1,32 @@
+{
+  "id": "github-latex/gh-barton-willis-course-calendar-latex-class-calendar-mwf-classes",
+  "source": "github-latex",
+  "format": "latex",
+  "category": "creative",
+  "license": "CC0-1.0",
+  "source_url": "https://github.com/barton-willis/course-calendar-latex",
+  "original_author": "barton-willis",
+  "stars": 0,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-latex/gh-barton-willis-course-calendar-latex-class-calendar-mwf-classes/class-calendar-mwf-classes.tex",
+  "relative_path": "raw/github-latex/gh-barton-willis-course-calendar-latex-class-calendar-mwf-classes/class-calendar-mwf-classes.tex",
+  "main_doc": "class-calendar-mwf-classes.tex",
+  "sha256": "1806c08b51abdf026faece6103c98980560d52b9d31828793aca07bd9a5e36fe",
+  "size_bytes": 17252,
+  "document_class": "article",
+  "uses_packages": [
+    "advdate",
+    "babel",
+    "calc",
+    "colortbl",
+    "datetime",
+    "fontenc",
+    "fourier",
+    "geometry",
+    "ifthen",
+    "microtype",
+    "upgreek",
+    "xcolor"
+  ],
+  "repo_path": "class-calendar-mwf-classes.tex",
+  "downloaded_at": "2026-08-02T13:48:03.904Z"
+}

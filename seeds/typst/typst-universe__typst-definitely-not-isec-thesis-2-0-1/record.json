@@ -1,0 +1,26 @@
+{
+  "id": "typst-universe/typst-definitely-not-isec-thesis-2-0-1",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "thesis",
+  "license": "MIT",
+  "source_url": "https://github.com/ecomaikgolf/typst-isec-master-thesis-template/",
+  "original_author": "Ernesto Martínez",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/typst-universe__typst-definitely-not-isec-thesis-2-0-1/thesis.typ",
+  "relative_path": "processed/typst/typst-universe__typst-definitely-not-isec-thesis-2-0-1/thesis.typ",
+  "sha256": "07e50220b9a0797ad59e0a3919e67df4a9b8efa386d239a35bc96b9388e3bb5b",
+  "size_bytes": 6431,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 365,
+  "downloaded_at": "2026-08-02T13:07:40.411Z",
+  "filtered_at": "2026-08-02T17:34:43.773Z"
+}

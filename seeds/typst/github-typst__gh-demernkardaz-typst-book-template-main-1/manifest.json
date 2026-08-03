@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-demernkardaz-typst-book-template-main-1",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "book",
+  "license": "MIT",
+  "source_url": "https://github.com/DemerNkardaz/Typst-Book-Template",
+  "original_author": "DemerNkardaz",
+  "stars": 1,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-demernkardaz-typst-book-template-main-1/main.typ",
+  "relative_path": "raw/github-typst/gh-demernkardaz-typst-book-template-main-1/main.typ",
+  "main_doc": "main.typ",
+  "sha256": "d5f25c50b2f126018cdb306acf8c23cee482a97cd9bb98c42d01af0e5711453e",
+  "size_bytes": 444,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "code/plugin/chapter/main.typ",
+  "downloaded_at": "2026-08-02T14:11:25.597Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "github-latex/gh-jshiohaha-math-classes-homework-3-answers",
+  "source": "github-latex",
+  "format": "latex",
+  "category": "coursework",
+  "license": "MIT",
+  "source_url": "https://github.com/jshiohaha/math-classes",
+  "original_author": "jshiohaha",
+  "stars": 1,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-latex/gh-jshiohaha-math-classes-homework-3-answers/Homework 3 Answers.tex",
+  "relative_path": "raw/github-latex/gh-jshiohaha-math-classes-homework-3-answers/Homework 3 Answers.tex",
+  "main_doc": "Homework 3 Answers.tex",
+  "sha256": "0d05e0b84e0ac4ff7293eb3409d055704d94f9d362b32c77f40f9b73b2427da0",
+  "size_bytes": 17019,
+  "document_class": "article",
+  "uses_packages": [
+    "amsfonts",
+    "amsmath",
+    "amssymb",
+    "amsthm",
+    "enumitem",
+    "geometry",
+    "tabu"
+  ],
+  "repo_path": "abstract-algebra/homework-3/Homework 3 Answers.tex",
+  "downloaded_at": "2026-08-02T13:38:34.499Z"
+}

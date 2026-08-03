@@ -1,0 +1,26 @@
+{
+  "id": "typst-universe/typst-hanzi-calligraphy-0-2-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "misc",
+  "license": "MIT",
+  "source_url": "https://github.com/yuegeao/hanzi-calligraphy",
+  "original_author": "yuegeao",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/typst-universe__typst-hanzi-calligraphy-0-2-0/template.typ",
+  "relative_path": "processed/typst/typst-universe__typst-hanzi-calligraphy-0-2-0/template.typ",
+  "sha256": "49e2d65118913c688e568869a3b80bc1f14c949ae80493099829967acbd562aa",
+  "size_bytes": 1763,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 426,
+  "downloaded_at": "2026-08-02T13:08:54.050Z",
+  "filtered_at": "2026-08-02T17:34:43.865Z"
+}

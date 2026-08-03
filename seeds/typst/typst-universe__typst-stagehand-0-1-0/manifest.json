@@ -1,0 +1,23 @@
+{
+  "id": "typst-universe/typst-stagehand-0-1-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "book",
+  "license": "MIT",
+  "source_url": "https://github.com/aarquelle/stagehand",
+  "original_author": "Aaron Prott",
+  "package_name": "stagehand",
+  "package_version": "0.1.0",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/typst-universe/typst-stagehand-0-1-0/main.typ",
+  "relative_path": "raw/typst-universe/typst-stagehand-0-1-0/main.typ",
+  "main_doc": "main.typ",
+  "sha256": "9158cf625b71503573030d072afc009a5d2cfb0c4ad26b910890442751bcaaf7",
+  "size_bytes": 3176,
+  "document_class": null,
+  "uses_packages": [],
+  "downloaded_at": "2026-08-02T13:13:13.849Z",
+  "categories": [
+    "book"
+  ],
+  "description": "Easily create beautiful stageplays."
+}

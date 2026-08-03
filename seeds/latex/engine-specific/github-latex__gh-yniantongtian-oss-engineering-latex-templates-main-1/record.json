@@ -1,0 +1,32 @@
+{
+  "id": "github-latex/gh-yniantongtian-oss-engineering-latex-templates-main-1",
+  "source": "github-latex",
+  "format": "latex",
+  "category": "beamer",
+  "license": "MIT",
+  "source_url": "https://github.com/yniantongtian-oss/engineering-latex-templates",
+  "original_author": "yniantongtian-oss",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/engine-specific/github-latex__gh-yniantongtian-oss-engineering-latex-templates-main-1/main.tex",
+  "relative_path": "processed/latex/engine-specific/github-latex__gh-yniantongtian-oss-engineering-latex-templates-main-1/main.tex",
+  "sha256": "2cc464fb2cce34e7c4165621f3285759810dd9f0e466263aa85f0a19e9c4d2cf",
+  "size_bytes": 5323,
+  "document_class": "beamer",
+  "uses_packages": [
+    "amsmath",
+    "booktabs",
+    "ctex",
+    "siunitx",
+    "tikz"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": false,
+    "xelatex": true,
+    "lualatex": false,
+    "typst": false
+  },
+  "engine_class": "engine-specific",
+  "compile_time_ms": 3837,
+  "downloaded_at": "2026-08-02T13:59:42.309Z",
+  "filtered_at": "2026-08-02T17:34:43.565Z"
+}

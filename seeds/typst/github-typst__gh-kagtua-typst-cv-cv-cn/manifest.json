@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-kagtua-typst-cv-cv-cn",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "cv",
+  "license": "MIT",
+  "source_url": "https://github.com/kagtua/typst-cv",
+  "original_author": "kagtua",
+  "stars": 0,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-kagtua-typst-cv-cv-cn/cv-cn.typ",
+  "relative_path": "raw/github-typst/gh-kagtua-typst-cv-cv-cn/cv-cn.typ",
+  "main_doc": "cv-cn.typ",
+  "sha256": "7fd93637f320db68c9f05ba5ecec01a68f106f4d41b0907875a9aab74674e521",
+  "size_bytes": 3676,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "cv-cn.typ",
+  "downloaded_at": "2026-08-02T14:21:29.623Z"
+}

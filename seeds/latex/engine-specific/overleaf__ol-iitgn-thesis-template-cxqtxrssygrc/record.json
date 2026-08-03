@@ -1,0 +1,33 @@
+{
+  "id": "overleaf/ol-iitgn-thesis-template-cxqtxrssygrc",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "thesis",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/iitgn-thesis-template/cxqtxrssygrc",
+  "original_author": "Shivam Chaudhary",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/engine-specific/overleaf__ol-iitgn-thesis-template-cxqtxrssygrc/main.tex",
+  "relative_path": "processed/latex/engine-specific/overleaf__ol-iitgn-thesis-template-cxqtxrssygrc/main.tex",
+  "sha256": "7788b2aeec8d79fc43a1c67c567a3611f2fe0994183743695e684ecd59a633d8",
+  "size_bytes": 1475,
+  "document_class": "report",
+  "uses_packages": [
+    "geometry",
+    "graphicx",
+    "hyperref",
+    "lipsum",
+    "setspace",
+    "titlesec"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": false
+  },
+  "engine_class": "engine-specific",
+  "compile_time_ms": 1032,
+  "downloaded_at": "2026-08-02T14:45:08.773Z",
+  "filtered_at": "2026-08-02T17:34:41.251Z"
+}

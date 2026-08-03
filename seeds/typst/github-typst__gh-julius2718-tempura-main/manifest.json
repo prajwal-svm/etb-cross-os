@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-julius2718-tempura-main",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "misc",
+  "license": "MIT",
+  "source_url": "https://github.com/julius2718/tempura",
+  "original_author": "julius2718",
+  "stars": 0,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-julius2718-tempura-main/main.typ",
+  "relative_path": "raw/github-typst/gh-julius2718-tempura-main/main.typ",
+  "main_doc": "main.typ",
+  "sha256": "8d688ad3b7928bdba5e9c0ce72082d74517bfbbf04787ff44a0404e37eea082d",
+  "size_bytes": 3165,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "0.0.1/main.typ",
+  "downloaded_at": "2026-08-02T14:17:41.961Z"
+}

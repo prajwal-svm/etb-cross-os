@@ -1,0 +1,33 @@
+{
+  "id": "github-latex/gh-karami-mehdi-cv-cv",
+  "source": "github-latex",
+  "format": "latex",
+  "category": "cv",
+  "license": "MIT",
+  "source_url": "https://github.com/karami-mehdi/CV",
+  "original_author": "karami-mehdi",
+  "stars": 2,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-latex/gh-karami-mehdi-cv-cv/CV.tex",
+  "relative_path": "raw/github-latex/gh-karami-mehdi-cv-cv/CV.tex",
+  "main_doc": "CV.tex",
+  "sha256": "e462df7fdcb82e7ac208bb0b2126d2eb5824c7dd5c572910d8fdf5c8ac48755e",
+  "size_bytes": 13177,
+  "document_class": "article",
+  "uses_packages": [
+    "amssymb",
+    "enumitem",
+    "fontawesome5",
+    "geometry",
+    "graphicx",
+    "hyperref",
+    "marvosym",
+    "microtype",
+    "newtxmath",
+    "newtxtext",
+    "tabularx",
+    "titlesec",
+    "xcolor"
+  ],
+  "repo_path": "CV.tex",
+  "downloaded_at": "2026-08-02T13:35:19.311Z"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "github-latex/gh-ma-ro-dev-code-latex-cv-and-cover-letter-template-cover-letter-template",
+  "source": "github-latex",
+  "format": "latex",
+  "category": "cv",
+  "license": "MIT",
+  "source_url": "https://github.com/ma-ro-dev-code/latex-cv-and-cover_letter-template",
+  "original_author": "ma-ro-dev-code",
+  "stars": 0,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-latex/gh-ma-ro-dev-code-latex-cv-and-cover-letter-template-cover-letter-template/cover_letter_template.tex",
+  "relative_path": "raw/github-latex/gh-ma-ro-dev-code-latex-cv-and-cover-letter-template-cover-letter-template/cover_letter_template.tex",
+  "main_doc": "cover_letter_template.tex",
+  "sha256": "9d4587539911e25aefaef0a2a0a15af7c6d92cc8a0a077230e9d3215f465a9e5",
+  "size_bytes": 1242,
+  "document_class": "scrlttr2",
+  "uses_packages": [
+    "babel",
+    "fontenc",
+    "hyperref",
+    "inputenc",
+    "lmodern"
+  ],
+  "repo_path": "cover_letter_template.tex",
+  "downloaded_at": "2026-08-02T14:00:34.686Z"
+}

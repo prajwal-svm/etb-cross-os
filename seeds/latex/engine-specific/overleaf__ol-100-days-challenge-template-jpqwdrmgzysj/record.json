@@ -1,0 +1,29 @@
+{
+  "id": "overleaf/ol-100-days-challenge-template-jpqwdrmgzysj",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "misc",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/100-days-challenge-template/jpqwdrmgzysj",
+  "original_author": "Sarah Lang",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/engine-specific/overleaf__ol-100-days-challenge-template-jpqwdrmgzysj/main.tex",
+  "relative_path": "processed/latex/engine-specific/overleaf__ol-100-days-challenge-template-jpqwdrmgzysj/main.tex",
+  "sha256": "fb536717cf5d74f83f04c458f677942ca2ec363ddef34cc5155386cf08e4ee30",
+  "size_bytes": 1239,
+  "document_class": "article",
+  "uses_packages": [
+    "geometry",
+    "inputenc"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": false,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "engine-specific",
+  "compile_time_ms": 1950,
+  "downloaded_at": "2026-08-02T15:49:01.015Z",
+  "filtered_at": "2026-08-02T17:34:40.879Z"
+}

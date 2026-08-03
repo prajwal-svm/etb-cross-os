@@ -1,0 +1,34 @@
+{
+  "id": "overleaf/ol-zadania-domowe-wzor-ztjjgvctmvxw",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "misc",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/zadania-domowe-wzor/ztjjgvctmvxw",
+  "original_author": "Mateusz Trubiłowicz",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/overleaf__ol-zadania-domowe-wzor-ztjjgvctmvxw/main.tex",
+  "relative_path": "processed/latex/cross-engine/overleaf__ol-zadania-domowe-wzor-ztjjgvctmvxw/main.tex",
+  "sha256": "7b3983886765c2bc0162d42723f7f4e81555ca539ed718f3f38791c25bca9964",
+  "size_bytes": 2443,
+  "document_class": "article",
+  "uses_packages": [
+    "amsmath",
+    "amssymb",
+    "babel",
+    "fontenc",
+    "geometry",
+    "graphicx",
+    "natbib"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 304,
+  "downloaded_at": "2026-08-02T15:10:00.515Z",
+  "filtered_at": "2026-08-02T17:34:42.181Z"
+}

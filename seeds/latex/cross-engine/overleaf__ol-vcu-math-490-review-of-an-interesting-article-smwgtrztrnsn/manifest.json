@@ -1,0 +1,25 @@
+{
+  "id": "overleaf/ol-vcu-math-490-review-of-an-interesting-article-smwgtrztrnsn",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "venue",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/vcu-math-490-review-of-an-interesting-article/smwgtrztrnsn",
+  "original_author": "Brent Cody",
+  "title": "VCU - MATH 490 - Review of an interesting article",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/overleaf/ol-vcu-math-490-review-of-an-interesting-article-smwgtrztrnsn/main.tex",
+  "relative_path": "raw/overleaf/ol-vcu-math-490-review-of-an-interesting-article-smwgtrztrnsn/main.tex",
+  "main_doc": "main.tex",
+  "sha256": "129bece4c823123126e381c76f4510de0d41e0da76c545d9aa4537849328cfec",
+  "size_bytes": 4656,
+  "document_class": "article",
+  "uses_packages": [
+    "amsmath",
+    "amssymb",
+    "amsthm",
+    "hyperref"
+  ],
+  "download_method": "view-source-modal",
+  "github_url": null,
+  "downloaded_at": "2026-08-02T14:12:22.396Z"
+}

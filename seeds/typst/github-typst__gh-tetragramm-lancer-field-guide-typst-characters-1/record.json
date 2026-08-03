@@ -1,0 +1,26 @@
+{
+  "id": "github-typst/gh-tetragramm-lancer-field-guide-typst-characters-1",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "book",
+  "license": "MIT",
+  "source_url": "https://github.com/Tetragramm/lancer-field-guide-typst",
+  "original_author": "Tetragramm",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/github-typst__gh-tetragramm-lancer-field-guide-typst-characters-1/Characters.typ",
+  "relative_path": "processed/typst/github-typst__gh-tetragramm-lancer-field-guide-typst-characters-1/Characters.typ",
+  "sha256": "339b94d1623751789f3459329319f62cae603c43ebb4462b836aee8b3feb7560",
+  "size_bytes": 15446,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 244,
+  "downloaded_at": "2026-08-02T14:12:12.641Z",
+  "filtered_at": "2026-08-02T17:34:45.743Z"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "typst-universe/typst-may-0-1-2",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "business",
+  "license": "MIT",
+  "source_url": "https://github.com/Carlos-Mero/may",
+  "original_author": "Carlos-Mero",
+  "package_name": "may",
+  "package_version": "0.1.2",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/typst-universe/typst-may-0-1-2/main.typ",
+  "relative_path": "raw/typst-universe/typst-may-0-1-2/main.typ",
+  "main_doc": "main.typ",
+  "sha256": "7bec6bfb2cb64e1207f5aeb1c0b7d6d17699da6a304e953275601bd6ef284da0",
+  "size_bytes": 1495,
+  "document_class": null,
+  "uses_packages": [],
+  "downloaded_at": "2026-08-02T13:10:13.699Z",
+  "categories": [
+    "office",
+    "report",
+    "presentation"
+  ],
+  "description": "A simple and elegant document template for multiple daily tasks."
+}

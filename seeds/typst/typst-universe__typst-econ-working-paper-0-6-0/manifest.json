@@ -1,0 +1,23 @@
+{
+  "id": "typst-universe/typst-econ-working-paper-0-6-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "venue",
+  "license": "MIT",
+  "source_url": "https://github.com/statzhero/econ-working-paper",
+  "original_author": "Ulrich Atz",
+  "package_name": "econ-working-paper",
+  "package_version": "0.6.0",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/typst-universe/typst-econ-working-paper-0-6-0/main.typ",
+  "relative_path": "raw/typst-universe/typst-econ-working-paper-0-6-0/main.typ",
+  "main_doc": "main.typ",
+  "sha256": "04b520a20cb4ee99a288155f0e3959133079d436885cb00b60ee83fd034dbe62",
+  "size_bytes": 2100,
+  "document_class": null,
+  "uses_packages": [],
+  "downloaded_at": "2026-08-02T13:07:56.945Z",
+  "categories": [
+    "paper"
+  ],
+  "description": "Working-paper template for SSRN and social science manuscripts"
+}

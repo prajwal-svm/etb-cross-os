@@ -1,0 +1,31 @@
+{
+  "id": "overleaf/ol-logic-and-cognition-paper-mcmyfqgqyrry",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "venue",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/logic-and-cognition-paper/mcmyfqgqyrry",
+  "original_author": "L&amp;C",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/overleaf__ol-logic-and-cognition-paper-mcmyfqgqyrry/main.tex",
+  "relative_path": "processed/latex/cross-engine/overleaf__ol-logic-and-cognition-paper-mcmyfqgqyrry/main.tex",
+  "sha256": "884936e0d52b411b9c68988f85bac32310655ac88e134cda284710ad5217c00b",
+  "size_bytes": 634,
+  "document_class": "article",
+  "uses_packages": [
+    "apacite",
+    "inputenc",
+    "natbib",
+    "polski"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 727,
+  "downloaded_at": "2026-08-02T14:48:36.879Z",
+  "filtered_at": "2026-08-02T17:34:41.336Z"
+}

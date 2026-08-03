@@ -1,0 +1,38 @@
+{
+  "id": "overleaf/ol-ieee-transactions-latex2e-templates-and-instructions-xwkxgycbtjqr",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "venue",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/ieee-transactions-latex2e-templates-and-instructions/xwkxgycbtjqr",
+  "original_author": "D. Amendola",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/overleaf__ol-ieee-transactions-latex2e-templates-and-instructions-xwkxgycbtjqr/main.tex",
+  "relative_path": "processed/latex/cross-engine/overleaf__ol-ieee-transactions-latex2e-templates-and-instructions-xwkxgycbtjqr/main.tex",
+  "sha256": "e5b503ede2db4d0f615b91ba82b648d30f4070d257c52c624e4ed04dba7edf4e",
+  "size_bytes": 20925,
+  "document_class": "IEEEtran",
+  "uses_packages": [
+    "algorithmic",
+    "amsmath",
+    "array",
+    "cite",
+    "dblfloatfix",
+    "fixltx2e",
+    "graphicx",
+    "ifpdf",
+    "stfloats",
+    "subfig",
+    "url"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 265,
+  "downloaded_at": "2026-08-02T13:44:39.062Z",
+  "filtered_at": "2026-08-02T17:34:41.239Z"
+}

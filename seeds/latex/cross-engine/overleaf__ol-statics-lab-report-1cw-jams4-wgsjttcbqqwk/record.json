@@ -1,0 +1,32 @@
+{
+  "id": "overleaf/ol-statics-lab-report-1cw-jams4-wgsjttcbqqwk",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "report",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/statics-lab-report-1cw-jams4/wgsjttcbqqwk",
+  "original_author": "Jenni Sidey",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/overleaf__ol-statics-lab-report-1cw-jams4-wgsjttcbqqwk/main.tex",
+  "relative_path": "processed/latex/cross-engine/overleaf__ol-statics-lab-report-1cw-jams4-wgsjttcbqqwk/main.tex",
+  "sha256": "2b013abbbebe9adff4c41efcab1c40848a06f3c6618bef262f256db4766d8a1b",
+  "size_bytes": 1585,
+  "document_class": "report",
+  "uses_packages": [
+    "amsmath",
+    "graphics",
+    "inputenc",
+    "mdframed",
+    "xspace"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 316,
+  "downloaded_at": "2026-08-02T14:12:44.000Z",
+  "filtered_at": "2026-08-02T17:34:41.847Z"
+}

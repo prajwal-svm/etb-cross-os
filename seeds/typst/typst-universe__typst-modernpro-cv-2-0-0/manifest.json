@@ -1,0 +1,23 @@
+{
+  "id": "typst-universe/typst-modernpro-cv-2-0-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "cv",
+  "license": "MIT",
+  "source_url": "https://typst.app/universe/package/modernpro-cv",
+  "original_author": "Academic Template Collective",
+  "package_name": "modernpro-cv",
+  "package_version": "2.0.0",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/typst-universe/typst-modernpro-cv-2-0-0/cv-single.typ",
+  "relative_path": "raw/typst-universe/typst-modernpro-cv-2-0-0/cv-single.typ",
+  "main_doc": "cv-single.typ",
+  "sha256": "b1892ef1a455f94bbccb8a367a6596ba44463f6bbf8a561e9fe19c84aa392d8c",
+  "size_bytes": 2514,
+  "document_class": null,
+  "uses_packages": [],
+  "downloaded_at": "2026-08-02T13:11:21.556Z",
+  "categories": [
+    "cv"
+  ],
+  "description": "A clean, modern CV template for academic and professional applications."
+}

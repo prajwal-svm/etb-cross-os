@@ -1,0 +1,27 @@
+{
+  "id": "template-packs/research-proposal",
+  "source": "template-packs",
+  "format": "latex",
+  "category": "report",
+  "category_raw": "Theses & Reports",
+  "license": "CC0-1.0",
+  "source_url": "https://github.com/Oleafly/template-packs",
+  "original_author": "Oleafly",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/template-packs/research-proposal/main.tex",
+  "relative_path": "raw/template-packs/research-proposal/main.tex",
+  "main_doc": "main.tex",
+  "sha256": "b08e1d894952e9cdb9106848c5fca0eef175021db368dc622e8a7f078e553588",
+  "size_bytes": 3549,
+  "document_class": "article",
+  "uses_packages": [
+    "booktabs",
+    "enumitem",
+    "geometry",
+    "hyperref",
+    "tabularx",
+    "titlesec",
+    "xcolor"
+  ],
+  "engine_hint": "xetex",
+  "downloaded_at": "2026-08-02T13:05:15.757Z"
+}

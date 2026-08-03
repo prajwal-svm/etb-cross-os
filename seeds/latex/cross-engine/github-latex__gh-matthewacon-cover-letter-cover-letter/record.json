@@ -1,0 +1,36 @@
+{
+  "id": "github-latex/gh-matthewacon-cover-letter-cover-letter",
+  "source": "github-latex",
+  "format": "latex",
+  "category": "letter",
+  "license": "MIT",
+  "source_url": "https://github.com/Matthewacon/cover-letter",
+  "original_author": "Matthewacon",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/github-latex__gh-matthewacon-cover-letter-cover-letter/Cover Letter.tex",
+  "relative_path": "processed/latex/cross-engine/github-latex__gh-matthewacon-cover-letter-cover-letter/Cover Letter.tex",
+  "sha256": "180768acb8a4d02fba73e40b666359206871804d659beed0950ee9645ea8516b",
+  "size_bytes": 1539,
+  "document_class": "article",
+  "uses_packages": [
+    "amstext",
+    "color",
+    "geometry",
+    "hyperref",
+    "lipsum",
+    "longtable",
+    "ragged2e",
+    "scrextend",
+    "xcolor"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 399,
+  "downloaded_at": "2026-08-02T14:00:31.207Z",
+  "filtered_at": "2026-08-02T17:34:43.134Z"
+}

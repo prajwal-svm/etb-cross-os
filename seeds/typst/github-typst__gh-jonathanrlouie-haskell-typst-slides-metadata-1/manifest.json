@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-jonathanrlouie-haskell-typst-slides-metadata-1",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "beamer",
+  "license": "MIT",
+  "source_url": "https://github.com/jonathanrlouie/haskell-typst-slides",
+  "original_author": "jonathanrlouie",
+  "stars": 0,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-jonathanrlouie-haskell-typst-slides-metadata-1/metadata.typ",
+  "relative_path": "raw/github-typst/gh-jonathanrlouie-haskell-typst-slides-metadata-1/metadata.typ",
+  "main_doc": "metadata.typ",
+  "sha256": "f0f8ffd5509da350585833313cd7ef7d82c39214c5c3525bd52a369d42e34d83",
+  "size_bytes": 290,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "metadata.typ",
+  "downloaded_at": "2026-08-02T14:16:45.912Z"
+}

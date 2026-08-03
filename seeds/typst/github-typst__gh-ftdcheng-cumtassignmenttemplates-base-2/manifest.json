@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-ftdcheng-cumtassignmenttemplates-base-2",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "coursework",
+  "license": "MIT",
+  "source_url": "https://github.com/Ftdcheng/CUMTAssignmentTemplates",
+  "original_author": "Ftdcheng",
+  "stars": 7,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-ftdcheng-cumtassignmenttemplates-base-2/base.typ",
+  "relative_path": "raw/github-typst/gh-ftdcheng-cumtassignmenttemplates-base-2/base.typ",
+  "main_doc": "base.typ",
+  "sha256": "eabe0bc8fcd706116a0f5dd340f07fa0c1b616eb668a6140e87924226c9f07a0",
+  "size_bytes": 2766,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "exam/base.typ",
+  "downloaded_at": "2026-08-02T14:06:46.933Z"
+}

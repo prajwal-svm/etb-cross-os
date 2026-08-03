@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-chhc-l-ciapo-template",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "beamer",
+  "license": "MIT",
+  "source_url": "https://github.com/CHHC-L/ciapo",
+  "original_author": "CHHC-L",
+  "stars": 0,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-chhc-l-ciapo-template/template.typ",
+  "relative_path": "raw/github-typst/gh-chhc-l-ciapo-template/template.typ",
+  "main_doc": "template.typ",
+  "sha256": "e4e72336c25db9f45a6f0db0216fb064fc7ad36685776f6fabb8cb22eb30ae39",
+  "size_bytes": 5616,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "template.typ",
+  "downloaded_at": "2026-08-02T14:18:15.888Z"
+}

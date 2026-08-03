@@ -1,0 +1,26 @@
+{
+  "id": "typst-universe/typst-jsume-0-1-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "cv",
+  "license": "MIT",
+  "source_url": "https://github.com/jsume/jsume-typst",
+  "original_author": "Moozon Wei",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/typst-universe__typst-jsume-0-1-0/main.typ",
+  "relative_path": "processed/typst/typst-universe__typst-jsume-0-1-0/main.typ",
+  "sha256": "1abd8a6b1f20ee1e219b12f15c3b7046a0d3a2ae87b807dee3fa5cc994be01c1",
+  "size_bytes": 299,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 371,
+  "downloaded_at": "2026-08-02T13:09:40.960Z",
+  "filtered_at": "2026-08-02T17:34:43.932Z"
+}

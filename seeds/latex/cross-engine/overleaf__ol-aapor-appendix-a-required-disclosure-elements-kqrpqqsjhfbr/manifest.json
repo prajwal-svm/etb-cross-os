@@ -1,0 +1,23 @@
+{
+  "id": "overleaf/ol-aapor-appendix-a-required-disclosure-elements-kqrpqqsjhfbr",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "misc",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/aapor-appendix-a-required-disclosure-elements/kqrpqqsjhfbr",
+  "original_author": "gb based on AAPOR (American Association for Public Opinion Research)",
+  "title": "AAPOR Appendix A (Required Disclosure Elements)",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/overleaf/ol-aapor-appendix-a-required-disclosure-elements-kqrpqqsjhfbr/main.tex",
+  "relative_path": "raw/overleaf/ol-aapor-appendix-a-required-disclosure-elements-kqrpqqsjhfbr/main.tex",
+  "main_doc": "main.tex",
+  "sha256": "4d7a391625b168d5758f3013f70124460354a10e61461ccf17babc36513e1f1f",
+  "size_bytes": 11578,
+  "document_class": "article",
+  "uses_packages": [
+    "hyperref",
+    "xcolor"
+  ],
+  "download_method": "view-source-modal",
+  "github_url": null,
+  "downloaded_at": "2026-08-02T13:28:08.736Z"
+}

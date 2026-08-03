@@ -1,0 +1,27 @@
+{
+  "id": "github-latex/gh-tlmoore-unina-texgineering-notebook-engineeringpaper",
+  "source": "github-latex",
+  "format": "latex",
+  "category": "report",
+  "license": "CC0-1.0",
+  "source_url": "https://github.com/tlmoore-UniNA/TeXgineering_Notebook",
+  "original_author": "tlmoore-UniNA",
+  "stars": 1,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-latex/gh-tlmoore-unina-texgineering-notebook-engineeringpaper/engineeringPaper.tex",
+  "relative_path": "raw/github-latex/gh-tlmoore-unina-texgineering-notebook-engineeringpaper/engineeringPaper.tex",
+  "main_doc": "engineeringPaper.tex",
+  "sha256": "c726c012ee292a4d6da0f69ce8660102c75e9bfe8dafedd7f68845084a6bd572",
+  "size_bytes": 2076,
+  "document_class": "article",
+  "uses_packages": [
+    "background",
+    "geometry",
+    "setspace",
+    "tabu",
+    "tikz",
+    "titling",
+    "xparse"
+  ],
+  "repo_path": "engineeringPaper.tex",
+  "downloaded_at": "2026-08-02T13:38:22.775Z"
+}

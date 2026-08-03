@@ -1,0 +1,24 @@
+{
+  "id": "typst-universe/typst-swe-cv-1-0-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "cv",
+  "license": "MIT",
+  "source_url": "https://github.com/sardorml/swe-cv",
+  "original_author": "Sardor",
+  "package_name": "swe-cv",
+  "package_version": "1.0.0",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/typst-universe/typst-swe-cv-1-0-0/main.typ",
+  "relative_path": "raw/typst-universe/typst-swe-cv-1-0-0/main.typ",
+  "main_doc": "main.typ",
+  "sha256": "c31869f45be33753c3f8cc499dbb018e8d25abeaed3fb8f607fc499b6e5dd7d7",
+  "size_bytes": 1575,
+  "document_class": null,
+  "uses_packages": [],
+  "downloaded_at": "2026-08-02T13:13:37.821Z",
+  "categories": [
+    "cv",
+    "layout"
+  ],
+  "description": "Engineering oriented cv template"
+}

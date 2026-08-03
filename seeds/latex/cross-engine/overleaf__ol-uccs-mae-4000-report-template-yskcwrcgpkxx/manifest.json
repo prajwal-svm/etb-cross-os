@@ -1,0 +1,23 @@
+{
+  "id": "overleaf/ol-uccs-mae-4000-report-template-yskcwrcgpkxx",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "report",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/uccs-mae-4000-report-template/yskcwrcgpkxx",
+  "original_author": "Brandon Runnels",
+  "title": "UCCS MAE 4000 Report Template",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/overleaf/ol-uccs-mae-4000-report-template-yskcwrcgpkxx/main.tex",
+  "relative_path": "raw/overleaf/ol-uccs-mae-4000-report-template-yskcwrcgpkxx/main.tex",
+  "main_doc": "main.tex",
+  "sha256": "395e9c9292708a48289033e430106e27431d7a26b52e46114c9855da743b8659",
+  "size_bytes": 370,
+  "document_class": "article",
+  "uses_packages": [
+    "amsmath",
+    "geometry"
+  ],
+  "download_method": "view-source-modal",
+  "github_url": null,
+  "downloaded_at": "2026-08-02T14:23:52.900Z"
+}

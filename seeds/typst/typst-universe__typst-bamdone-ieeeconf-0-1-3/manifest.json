@@ -1,0 +1,23 @@
+{
+  "id": "typst-universe/typst-bamdone-ieeeconf-0-1-3",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "venue",
+  "license": "MIT-0",
+  "source_url": "https://github.com/typst/templates",
+  "original_author": "Isaac Weintraub",
+  "package_name": "bamdone-ieeeconf",
+  "package_version": "0.1.3",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/typst-universe/typst-bamdone-ieeeconf-0-1-3/main.typ",
+  "relative_path": "raw/typst-universe/typst-bamdone-ieeeconf-0-1-3/main.typ",
+  "main_doc": "main.typ",
+  "sha256": "bfa66c6476ea12fbb6a186e5f24e668ffef433e274c7e3e7b6b466bd958ae33e",
+  "size_bytes": 12073,
+  "document_class": null,
+  "uses_packages": [],
+  "downloaded_at": "2026-08-02T13:05:58.187Z",
+  "categories": [
+    "paper"
+  ],
+  "description": "An IEEE-style paper template to publish at conferences and journals for Electrical Engineering, Computer Science, and Computer Engineering"
+}

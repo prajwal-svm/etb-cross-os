@@ -1,0 +1,37 @@
+{
+  "id": "overleaf/ol-evaluations-type-xntsgbmykgqq",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "misc",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/evaluations-type/xntsgbmykgqq",
+  "original_author": "Vincent Bigot",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/overleaf__ol-evaluations-type-xntsgbmykgqq/main.tex",
+  "relative_path": "processed/latex/cross-engine/overleaf__ol-evaluations-type-xntsgbmykgqq/main.tex",
+  "sha256": "f8f6f560b2d68afbf0f743418e1bb10bdf7eae331f9495c1f59966618071f7bd",
+  "size_bytes": 4746,
+  "document_class": "article",
+  "uses_packages": [
+    "array",
+    "fontenc",
+    "geometry",
+    "graphicx",
+    "inputenc",
+    "lipsum",
+    "pifont",
+    "tabularx",
+    "tcolorbox",
+    "tikz"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 515,
+  "downloaded_at": "2026-08-02T13:31:30.763Z",
+  "filtered_at": "2026-08-02T17:34:41.131Z"
+}

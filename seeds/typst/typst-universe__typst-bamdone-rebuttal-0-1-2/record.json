@@ -1,0 +1,26 @@
+{
+  "id": "typst-universe/typst-bamdone-rebuttal-0-1-2",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "business",
+  "license": "MIT-0",
+  "source_url": "https://github.com/avonmoll/bamdone-rebuttal",
+  "original_author": "Alexander Von Moll",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/typst-universe__typst-bamdone-rebuttal-0-1-2/main.typ",
+  "relative_path": "processed/typst/typst-universe__typst-bamdone-rebuttal-0-1-2/main.typ",
+  "sha256": "298baa69319f960e1a5823acff57968e8db62205994090c30fca5e58dbe9e9bb",
+  "size_bytes": 1019,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 216,
+  "downloaded_at": "2026-08-02T13:05:58.894Z",
+  "filtered_at": "2026-08-02T17:34:43.631Z"
+}

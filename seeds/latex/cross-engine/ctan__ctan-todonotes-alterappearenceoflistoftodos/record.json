@@ -1,0 +1,29 @@
+{
+  "id": "ctan/ctan-todonotes-alterappearenceoflistoftodos",
+  "source": "ctan",
+  "format": "latex",
+  "category": "package-example",
+  "license": "LPPL-1.3c",
+  "source_url": "https://ctan.org/pkg/todonotes",
+  "original_author": "CTAN package: todonotes",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/ctan__ctan-todonotes-alterappearenceoflistoftodos/alterAppearenceOfListOfTodos.tex",
+  "relative_path": "processed/latex/cross-engine/ctan__ctan-todonotes-alterappearenceoflistoftodos/alterAppearenceOfListOfTodos.tex",
+  "sha256": "aa4062b4d87e22c0cbb143fc8afe6379677f9edd850e6427c344ed8815abf3c2",
+  "size_bytes": 1034,
+  "document_class": "book",
+  "uses_packages": [
+    "lipsum",
+    "todonotes"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 439,
+  "downloaded_at": "2026-08-02T13:04:56.872Z",
+  "filtered_at": "2026-08-02T17:34:42.363Z"
+}

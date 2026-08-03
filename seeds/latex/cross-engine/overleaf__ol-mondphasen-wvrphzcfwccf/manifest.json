@@ -1,0 +1,27 @@
+{
+  "id": "overleaf/ol-mondphasen-wvrphzcfwccf",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "misc",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/mondphasen/wvrphzcfwccf",
+  "original_author": "Andreas Kelbel",
+  "title": "Mondphasen",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/overleaf/ol-mondphasen-wvrphzcfwccf/main.tex",
+  "relative_path": "raw/overleaf/ol-mondphasen-wvrphzcfwccf/main.tex",
+  "main_doc": "main.tex",
+  "sha256": "c6057ebedfbe16df47d050483622ee2bef27da9db75188d84b2816f1627060c1",
+  "size_bytes": 1342,
+  "document_class": "standalone",
+  "uses_packages": [
+    "babel",
+    "cmbright",
+    "fontenc",
+    "inputenc",
+    "lmodern",
+    "tikz"
+  ],
+  "download_method": "view-source-modal",
+  "github_url": null,
+  "downloaded_at": "2026-08-02T14:34:40.251Z"
+}

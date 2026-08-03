@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-clvnkhr-diffst-data-2",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "report",
+  "license": "Apache-2.0",
+  "source_url": "https://github.com/clvnkhr/diffst",
+  "original_author": "clvnkhr",
+  "stars": 0,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-clvnkhr-diffst-data-2/data.typ",
+  "relative_path": "raw/github-typst/gh-clvnkhr-diffst-data-2/data.typ",
+  "main_doc": "data.typ",
+  "sha256": "b00f04e90a1abc0df6b2b0daa7bf98aea9ad80c02ac8be487b1d5a54e20c046c",
+  "size_bytes": 4577,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "typst/data.typ",
+  "downloaded_at": "2026-08-02T14:21:12.912Z"
+}

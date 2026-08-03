@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-universitaet-bremen-typst-template-slides-theme-1",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "beamer",
+  "license": "MIT",
+  "source_url": "https://github.com/Universitaet-Bremen/typst-template-slides",
+  "original_author": "Universitaet-Bremen",
+  "stars": 2,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-universitaet-bremen-typst-template-slides-theme-1/theme.typ",
+  "relative_path": "raw/github-typst/gh-universitaet-bremen-typst-template-slides-theme-1/theme.typ",
+  "main_doc": "theme.typ",
+  "sha256": "86d6b2c9a95933a7b06e32e09816fc14fcf3e724f50e1f2057790087ec3be29e",
+  "size_bytes": 2068,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "theme.typ",
+  "downloaded_at": "2026-08-02T14:09:47.031Z"
+}

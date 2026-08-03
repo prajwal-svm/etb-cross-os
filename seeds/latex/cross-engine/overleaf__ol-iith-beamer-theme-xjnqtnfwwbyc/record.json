@@ -1,0 +1,26 @@
+{
+  "id": "overleaf/ol-iith-beamer-theme-xjnqtnfwwbyc",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "beamer",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/iith-beamer-theme/xjnqtnfwwbyc",
+  "original_author": "Mohammad Nair Aalam",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/overleaf__ol-iith-beamer-theme-xjnqtnfwwbyc/main.tex",
+  "relative_path": "processed/latex/cross-engine/overleaf__ol-iith-beamer-theme-xjnqtnfwwbyc/main.tex",
+  "sha256": "c8659f296fd7fffb83d405d9a4d442bedc59447f9ed5d35041d669f7bbfa0144",
+  "size_bytes": 1804,
+  "document_class": "beamer",
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 1225,
+  "downloaded_at": "2026-08-02T14:53:26.013Z",
+  "filtered_at": "2026-08-02T17:34:41.253Z"
+}

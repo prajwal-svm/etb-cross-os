@@ -1,0 +1,26 @@
+{
+  "id": "ctan/ctan-amsmath-technote",
+  "source": "ctan",
+  "format": "latex",
+  "category": "package-example",
+  "license": "LPPL-1.3c",
+  "source_url": "https://ctan.org/pkg/amsmath",
+  "original_author": "CTAN package: amsmath",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/ctan__ctan-amsmath-technote/technote.tex",
+  "relative_path": "processed/latex/cross-engine/ctan__ctan-amsmath-technote/technote.tex",
+  "sha256": "b6d7a71a0df4ecf0bb0a503e5442bcf9dd0715ee5999bc835bad5c31f79efddf",
+  "size_bytes": 12005,
+  "document_class": "amsdtx",
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 281,
+  "downloaded_at": "2026-08-02T13:04:41.044Z",
+  "filtered_at": "2026-08-02T17:34:42.195Z"
+}

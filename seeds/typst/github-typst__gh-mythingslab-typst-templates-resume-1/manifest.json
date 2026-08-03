@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-mythingslab-typst-templates-resume-1",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "beamer",
+  "license": "MIT",
+  "source_url": "https://github.com/MyThingsLab/typst-templates",
+  "original_author": "MyThingsLab",
+  "stars": 0,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-mythingslab-typst-templates-resume-1/resume.typ",
+  "relative_path": "raw/github-typst/gh-mythingslab-typst-templates-resume-1/resume.typ",
+  "main_doc": "resume.typ",
+  "sha256": "d4ecc610ab8ba1da10beee2b9bb573aaa5d331189e44a3ad2b52700928ce2881",
+  "size_bytes": 340,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "templates/resume.typ",
+  "downloaded_at": "2026-08-02T14:14:28.159Z"
+}

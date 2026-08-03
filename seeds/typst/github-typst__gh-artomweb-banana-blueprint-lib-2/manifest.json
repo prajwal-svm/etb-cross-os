@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-artomweb-banana-blueprint-lib-2",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "creative",
+  "license": "MIT",
+  "source_url": "https://github.com/artomweb/Banana-Blueprint",
+  "original_author": "artomweb",
+  "stars": 0,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-artomweb-banana-blueprint-lib-2/lib.typ",
+  "relative_path": "raw/github-typst/gh-artomweb-banana-blueprint-lib-2/lib.typ",
+  "main_doc": "lib.typ",
+  "sha256": "5401ff58bc6a18b00995b0248deddf138d0f165cbb20d6183607e33a2dd56842",
+  "size_bytes": 1866,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "lib.typ",
+  "downloaded_at": "2026-08-02T14:17:09.668Z"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "typst-universe/typst-charged-ieee-0-1-4",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "venue",
+  "license": "MIT-0",
+  "source_url": "https://github.com/typst/templates",
+  "original_author": "Typst GmbH",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/typst-universe__typst-charged-ieee-0-1-4/main.typ",
+  "relative_path": "processed/typst/typst-universe__typst-charged-ieee-0-1-4/main.typ",
+  "sha256": "c0395f2e8d69382e2534e84aaceed04adefb2ce0e1b6ada922cebf10539fa5e8",
+  "size_bytes": 4482,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 262,
+  "downloaded_at": "2026-08-02T13:06:34.008Z",
+  "filtered_at": "2026-08-02T17:34:43.683Z"
+}

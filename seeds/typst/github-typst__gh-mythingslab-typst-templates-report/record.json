@@ -1,0 +1,26 @@
+{
+  "id": "github-typst/gh-mythingslab-typst-templates-report",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "beamer",
+  "license": "MIT",
+  "source_url": "https://github.com/MyThingsLab/typst-templates",
+  "original_author": "MyThingsLab",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/github-typst__gh-mythingslab-typst-templates-report/report.typ",
+  "relative_path": "processed/typst/github-typst__gh-mythingslab-typst-templates-report/report.typ",
+  "sha256": "fd83362696d7419978c02e9036c66494232af6e332023be8c272c12105e27eb6",
+  "size_bytes": 333,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 186,
+  "downloaded_at": "2026-08-02T14:14:27.989Z",
+  "filtered_at": "2026-08-02T17:34:45.348Z"
+}

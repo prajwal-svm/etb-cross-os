@@ -1,0 +1,24 @@
+{
+  "id": "template-packs/manuscript-submission",
+  "source": "template-packs",
+  "format": "latex",
+  "category": "venue",
+  "category_raw": "Journals & Conferences",
+  "license": "CC0-1.0",
+  "source_url": "https://github.com/Oleafly/template-packs",
+  "original_author": "Oleafly",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/template-packs/manuscript-submission/main.tex",
+  "relative_path": "raw/template-packs/manuscript-submission/main.tex",
+  "main_doc": "main.tex",
+  "sha256": "90fc01ca7306f8ae5f354da2a78cda2ceb6b05f660f09b22a9c4411691f387f7",
+  "size_bytes": 2941,
+  "document_class": "article",
+  "uses_packages": [
+    "geometry",
+    "hyperref",
+    "lineno",
+    "setspace"
+  ],
+  "engine_hint": "xetex",
+  "downloaded_at": "2026-08-02T13:05:15.750Z"
+}

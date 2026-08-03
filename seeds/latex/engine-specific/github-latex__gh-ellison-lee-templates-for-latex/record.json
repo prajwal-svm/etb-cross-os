@@ -1,0 +1,35 @@
+{
+  "id": "github-latex/gh-ellison-lee-templates-for-latex",
+  "source": "github-latex",
+  "format": "latex",
+  "category": "beamer",
+  "license": "MIT",
+  "source_url": "https://github.com/Ellison-Lee/Templates-for-Latex",
+  "original_author": "Ellison-Lee",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/engine-specific/github-latex__gh-ellison-lee-templates-for-latex/中文作业.tex",
+  "relative_path": "processed/latex/engine-specific/github-latex__gh-ellison-lee-templates-for-latex/中文作业.tex",
+  "sha256": "68c280a03fda5ed04b4b7425b21fa640b8d84c8539ae609a5a09955c3a5c9ac1",
+  "size_bytes": 810,
+  "document_class": "ctexart",
+  "uses_packages": [
+    "amsmath",
+    "amssymb",
+    "amsthm",
+    "bm",
+    "geometry",
+    "graphicx",
+    "hyperref",
+    "mathrsfs"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": false,
+    "xelatex": true,
+    "lualatex": false,
+    "typst": false
+  },
+  "engine_class": "engine-specific",
+  "compile_time_ms": 2732,
+  "downloaded_at": "2026-08-02T13:26:51.099Z",
+  "filtered_at": "2026-08-02T17:34:42.718Z"
+}

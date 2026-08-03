@@ -1,0 +1,19 @@
+{
+  "id": "template-packs/beamer-frankfurt",
+  "source": "template-packs",
+  "format": "latex",
+  "category": "beamer",
+  "category_raw": "Presentations",
+  "license": "CC0-1.0",
+  "source_url": "https://github.com/Oleafly/template-packs",
+  "original_author": "Oleafly",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/template-packs/beamer-frankfurt/main.tex",
+  "relative_path": "raw/template-packs/beamer-frankfurt/main.tex",
+  "main_doc": "main.tex",
+  "sha256": "729d4fcf3880d155b7c08acf6570512354c7ff69ddac579546be32885dbe03eb",
+  "size_bytes": 1847,
+  "document_class": "beamer",
+  "uses_packages": [],
+  "engine_hint": "xetex",
+  "downloaded_at": "2026-08-02T13:05:15.772Z"
+}

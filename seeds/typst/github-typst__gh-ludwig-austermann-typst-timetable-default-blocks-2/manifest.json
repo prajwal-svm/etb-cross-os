@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-ludwig-austermann-typst-timetable-default-blocks-2",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "misc",
+  "license": "MIT",
+  "source_url": "https://github.com/ludwig-austermann/typst-timetable",
+  "original_author": "ludwig-austermann",
+  "stars": 113,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-ludwig-austermann-typst-timetable-default-blocks-2/default-blocks.typ",
+  "relative_path": "raw/github-typst/gh-ludwig-austermann-typst-timetable-default-blocks-2/default-blocks.typ",
+  "main_doc": "default-blocks.typ",
+  "sha256": "7c32d5b0f59d0c2e3e84f854d670712da6d76ae0e84966cc0b4251edf55e81fd",
+  "size_bytes": 1063,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "lib/default-blocks.typ",
+  "downloaded_at": "2026-08-02T14:03:27.331Z"
+}

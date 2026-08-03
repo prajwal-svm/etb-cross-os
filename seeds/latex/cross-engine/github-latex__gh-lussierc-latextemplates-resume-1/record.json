@@ -1,0 +1,30 @@
+{
+  "id": "github-latex/gh-lussierc-latextemplates-resume-1",
+  "source": "github-latex",
+  "format": "latex",
+  "category": "cv",
+  "license": "MIT",
+  "source_url": "https://github.com/lussierc/latexTemplates",
+  "original_author": "lussierc",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/github-latex__gh-lussierc-latextemplates-resume-1/resume.tex",
+  "relative_path": "processed/latex/cross-engine/github-latex__gh-lussierc-latextemplates-resume-1/resume.tex",
+  "sha256": "34be922d4bed319f586de2f34f0407d46c89a9e1eed12d944e6ca494c803786f",
+  "size_bytes": 3169,
+  "document_class": "moderncv",
+  "uses_packages": [
+    "geometry",
+    "import",
+    "inputenc"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 1549,
+  "downloaded_at": "2026-08-02T13:30:46.199Z",
+  "filtered_at": "2026-08-02T17:34:43.105Z"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "typst-universe/typst-simple-inria-touying-theme-0-1-2",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "beamer",
+  "license": "MIT",
+  "source_url": "https://gitlab.inria.fr/soliman/inria-touying-theme",
+  "original_author": "Sylvain Soliman",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/typst-universe__typst-simple-inria-touying-theme-0-1-2/main.typ",
+  "relative_path": "processed/typst/typst-universe__typst-simple-inria-touying-theme-0-1-2/main.typ",
+  "sha256": "bf77f71b18f8210f05fa0fe44c71e7d18dce642cb74fd6a68d13b9b89453596d",
+  "size_bytes": 541,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 244,
+  "downloaded_at": "2026-08-02T13:12:59.091Z",
+  "filtered_at": "2026-08-02T17:34:44.185Z"
+}

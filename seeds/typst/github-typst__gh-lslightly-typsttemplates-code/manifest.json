@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-lslightly-typsttemplates-code",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "misc",
+  "license": "MIT",
+  "source_url": "https://github.com/Lslightly/TypstTemplates",
+  "original_author": "Lslightly",
+  "stars": 0,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-lslightly-typsttemplates-code/code.typ",
+  "relative_path": "raw/github-typst/gh-lslightly-typsttemplates-code/code.typ",
+  "main_doc": "code.typ",
+  "sha256": "1c7035cd87d63b488aa31611843f397a22633e922dedfedc75a25fd485cdd2fa",
+  "size_bytes": 322,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "templates/code.typ",
+  "downloaded_at": "2026-08-02T14:14:09.202Z"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "overleaf/ol-pastel-cv-ygmdxppqvdyx",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "cv",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/pastel-cv/ygmdxppqvdyx",
+  "original_author": "Sarah Lang",
+  "title": "Pastel CV",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/overleaf/ol-pastel-cv-ygmdxppqvdyx/main.tex",
+  "relative_path": "raw/overleaf/ol-pastel-cv-ygmdxppqvdyx/main.tex",
+  "main_doc": "main.tex",
+  "sha256": "b81d70b8050e6e894c34c631c84936d04f5ad5e662ea8d2deb8aa7f361d0ef06",
+  "size_bytes": 5150,
+  "document_class": "pastelcv",
+  "uses_packages": [
+    "Chivo",
+    "fontenc",
+    "inputenc",
+    "raleway"
+  ],
+  "download_method": "github:https://github.com/latex-ninja/pastel-cv",
+  "github_url": "https://github.com/latex-ninja/pastel-cv",
+  "downloaded_at": "2026-08-02T16:05:04.455Z"
+}

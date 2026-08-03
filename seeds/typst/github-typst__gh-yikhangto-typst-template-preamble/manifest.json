@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-yikhangto-typst-template-preamble",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "misc",
+  "license": "MIT",
+  "source_url": "https://github.com/YikHangTo/typst-template",
+  "original_author": "YikHangTo",
+  "stars": 0,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-yikhangto-typst-template-preamble/preamble.typ",
+  "relative_path": "raw/github-typst/gh-yikhangto-typst-template-preamble/preamble.typ",
+  "main_doc": "preamble.typ",
+  "sha256": "358565ea7d673def8f5b5aad19b7b90e50a3177b5c08a19c9cb7e8ab391dc9d6",
+  "size_bytes": 280,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "dissertation/main/sections/preamble.typ",
+  "downloaded_at": "2026-08-02T14:14:31.133Z"
+}

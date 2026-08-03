@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-bastyje-typst-wut-thesis-template-title-2",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "thesis",
+  "license": "MIT",
+  "source_url": "https://github.com/bastyje/typst-wut-thesis-template",
+  "original_author": "bastyje",
+  "stars": 0,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-bastyje-typst-wut-thesis-template-title-2/title.typ",
+  "relative_path": "raw/github-typst/gh-bastyje-typst-wut-thesis-template-title-2/title.typ",
+  "main_doc": "title.typ",
+  "sha256": "219c742cc9a8cba92915c95152bd959377eba6a029c95bf1c24f3827948a7809",
+  "size_bytes": 1855,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "title.typ",
+  "downloaded_at": "2026-08-02T14:16:37.167Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-itesserakt-typst-bmstu-report-preamble-2",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "report",
+  "license": "MIT",
+  "source_url": "https://github.com/ITesserakt/typst-bmstu-report",
+  "original_author": "ITesserakt",
+  "stars": 0,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-itesserakt-typst-bmstu-report-preamble-2/preamble.typ",
+  "relative_path": "raw/github-typst/gh-itesserakt-typst-bmstu-report-preamble-2/preamble.typ",
+  "main_doc": "preamble.typ",
+  "sha256": "a6a2a23d6e90e8b04555f82cd184733dc52a7be83d8388a392a64ea1e5aefdb5",
+  "size_bytes": 2876,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "src/preamble.typ",
+  "downloaded_at": "2026-08-02T14:17:15.970Z"
+}

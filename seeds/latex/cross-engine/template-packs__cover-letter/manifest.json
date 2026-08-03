@@ -1,0 +1,22 @@
+{
+  "id": "template-packs/cover-letter",
+  "source": "template-packs",
+  "format": "latex",
+  "category": "letter",
+  "category_raw": "Letters",
+  "license": "CC0-1.0",
+  "source_url": "https://github.com/Oleafly/template-packs",
+  "original_author": "Oleafly",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/template-packs/cover-letter/main.tex",
+  "relative_path": "raw/template-packs/cover-letter/main.tex",
+  "main_doc": "main.tex",
+  "sha256": "184c33458f28af4998b410f5fab961559083e20696f71c363883d7aeb12c0ea6",
+  "size_bytes": 904,
+  "document_class": "article",
+  "uses_packages": [
+    "geometry",
+    "hyperref"
+  ],
+  "engine_hint": "xetex",
+  "downloaded_at": "2026-08-02T13:05:15.858Z"
+}

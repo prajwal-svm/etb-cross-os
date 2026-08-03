@@ -1,0 +1,23 @@
+{
+  "id": "typst-universe/typst-moin-uni-slides-0-1-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "beamer",
+  "license": "MIT",
+  "source_url": "https://github.com/Universitaet-Bremen/typst-template-slides",
+  "original_author": "SimonIT",
+  "package_name": "moin-uni-slides",
+  "package_version": "0.1.0",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/typst-universe/typst-moin-uni-slides-0-1-0/main.typ",
+  "relative_path": "raw/typst-universe/typst-moin-uni-slides-0-1-0/main.typ",
+  "main_doc": "main.typ",
+  "sha256": "229f1893489ba5bbed528217dd68299f0f7438da149381c22a18eb8b8d8bc6e0",
+  "size_bytes": 1247,
+  "document_class": null,
+  "uses_packages": [],
+  "downloaded_at": "2026-08-02T13:11:21.939Z",
+  "categories": [
+    "presentation"
+  ],
+  "description": "Slides in the style of the University of Bremen for polylux."
+}

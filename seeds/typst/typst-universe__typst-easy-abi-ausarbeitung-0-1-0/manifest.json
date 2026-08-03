@@ -1,0 +1,23 @@
+{
+  "id": "typst-universe/typst-easy-abi-ausarbeitung-0-1-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "report",
+  "license": "MIT",
+  "source_url": "https://github.com/kn0kh/easy-abi-ausarbeitung",
+  "original_author": "Philipp Knoch",
+  "package_name": "easy-abi-ausarbeitung",
+  "package_version": "0.1.0",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/typst-universe/typst-easy-abi-ausarbeitung-0-1-0/main.typ",
+  "relative_path": "raw/typst-universe/typst-easy-abi-ausarbeitung-0-1-0/main.typ",
+  "main_doc": "main.typ",
+  "sha256": "5a7df13f07c33bd806d405c72c7779c61e9528c4cf1df2498ddda3fbb1176a7d",
+  "size_bytes": 5530,
+  "document_class": null,
+  "uses_packages": [],
+  "downloaded_at": "2026-08-02T13:07:51.783Z",
+  "categories": [
+    "report"
+  ],
+  "description": "Exposé template for the 5th component of the German Abitur in Berlin."
+}

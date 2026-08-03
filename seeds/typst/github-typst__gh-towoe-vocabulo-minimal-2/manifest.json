@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-towoe-vocabulo-minimal-2",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "misc",
+  "license": "MIT",
+  "source_url": "https://github.com/towoe/vocabulo",
+  "original_author": "towoe",
+  "stars": 0,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-towoe-vocabulo-minimal-2/minimal.typ",
+  "relative_path": "raw/github-typst/gh-towoe-vocabulo-minimal-2/minimal.typ",
+  "main_doc": "minimal.typ",
+  "sha256": "fe6a3c6517cd08af5cb7c969765ecd3b456a67f1a2166df264ac72c39575c774",
+  "size_bytes": 208,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "examples/minimal.typ",
+  "downloaded_at": "2026-08-02T14:17:02.179Z"
+}

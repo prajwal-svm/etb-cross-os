@@ -1,0 +1,31 @@
+{
+  "id": "template-packs/trifold-brochure",
+  "source": "template-packs",
+  "format": "latex",
+  "category": "business",
+  "license": "CC0-1.0",
+  "source_url": "https://github.com/Oleafly/template-packs",
+  "original_author": "Oleafly",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/template-packs__trifold-brochure/main.tex",
+  "relative_path": "processed/latex/cross-engine/template-packs__trifold-brochure/main.tex",
+  "sha256": "0725e0ebaec21682be2d59c342414e1cbb8d14067c6f437a02d6593242d6b5f1",
+  "size_bytes": 4190,
+  "document_class": "article",
+  "uses_packages": [
+    "geometry",
+    "sourcesanspro",
+    "tikz",
+    "xcolor"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 654,
+  "downloaded_at": "2026-08-02T13:05:15.794Z",
+  "filtered_at": "2026-08-02T17:34:40.863Z"
+}

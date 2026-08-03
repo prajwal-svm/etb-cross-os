@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-floriandelage-unofficial-eirb-report-listes-2",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "report",
+  "license": "MIT",
+  "source_url": "https://github.com/floriandelage/unofficial-eirb-report",
+  "original_author": "floriandelage",
+  "stars": 0,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-floriandelage-unofficial-eirb-report-listes-2/listes.typ",
+  "relative_path": "raw/github-typst/gh-floriandelage-unofficial-eirb-report-listes-2/listes.typ",
+  "main_doc": "listes.typ",
+  "sha256": "33c0aefbac8eb934616d348e526eada1b9ce8162eac20fd42fca15a3208cd72a",
+  "size_bytes": 1225,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "template/typst-basic/listes.typ",
+  "downloaded_at": "2026-08-02T14:18:47.924Z"
+}

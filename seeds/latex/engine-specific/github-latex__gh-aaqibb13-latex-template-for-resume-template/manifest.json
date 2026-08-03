@@ -1,0 +1,32 @@
+{
+  "id": "github-latex/gh-aaqibb13-latex-template-for-resume-template",
+  "source": "github-latex",
+  "format": "latex",
+  "category": "cv",
+  "license": "MIT",
+  "source_url": "https://github.com/aaqibb13/LaTeX-Template-for-Resume",
+  "original_author": "aaqibb13",
+  "stars": 3,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-latex/gh-aaqibb13-latex-template-for-resume-template/template.tex",
+  "relative_path": "raw/github-latex/gh-aaqibb13-latex-template-for-resume-template/template.tex",
+  "main_doc": "template.tex",
+  "sha256": "44e92a9ed3f456c82d37893d47c25f23b36002e28e8b7bfeb0b931f60d3c385e",
+  "size_bytes": 9186,
+  "document_class": "article",
+  "uses_packages": [
+    "FiraSans",
+    "anyfontsize",
+    "enumitem",
+    "fontawesome",
+    "fontenc",
+    "fontspec",
+    "fullpage",
+    "hyperref",
+    "ifxetex",
+    "inputenc",
+    "tabularx",
+    "xcolor"
+  ],
+  "repo_path": "template.tex",
+  "downloaded_at": "2026-08-02T13:31:45.724Z"
+}

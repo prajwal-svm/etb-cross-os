@@ -1,0 +1,24 @@
+{
+  "id": "typst-universe/typst-gh-minimal-slides-0-1-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "beamer",
+  "license": "MIT",
+  "source_url": "https://github.com/xingjian-zhang/gh-minimal-slides",
+  "original_author": "Jimmy Zhang",
+  "package_name": "gh-minimal-slides",
+  "package_version": "0.1.0",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/typst-universe/typst-gh-minimal-slides-0-1-0/main.typ",
+  "relative_path": "raw/typst-universe/typst-gh-minimal-slides-0-1-0/main.typ",
+  "main_doc": "main.typ",
+  "sha256": "96c1e5db168d10001f0c14229dc677353e69f4669c910600c3c22b1b6d64c9d3",
+  "size_bytes": 1177,
+  "document_class": null,
+  "uses_packages": [],
+  "downloaded_at": "2026-08-02T13:08:42.181Z",
+  "categories": [
+    "presentation",
+    "components"
+  ],
+  "description": "Style slides as a rendered GitHub README."
+}

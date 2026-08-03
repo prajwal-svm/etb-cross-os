@@ -1,0 +1,23 @@
+{
+  "id": "typst-universe/typst-red-agora-0-2-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "report",
+  "license": "MIT",
+  "source_url": "https://github.com/essmehdi/ensias-report-template",
+  "original_author": "Mehdi Essalehi",
+  "package_name": "red-agora",
+  "package_version": "0.2.0",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/typst-universe/typst-red-agora-0-2-0/main.typ",
+  "relative_path": "raw/typst-universe/typst-red-agora-0-2-0/main.typ",
+  "main_doc": "main.typ",
+  "sha256": "6b59515faa6a12811acb5e16b0809b0790c179dc21838d0c3fef767f77db4c5c",
+  "size_bytes": 535,
+  "document_class": null,
+  "uses_packages": [],
+  "downloaded_at": "2026-08-02T13:12:26.476Z",
+  "categories": [
+    "report"
+  ],
+  "description": "A Typst template to quickly scaffold a report for your projects and internships at ENSIAS"
+}

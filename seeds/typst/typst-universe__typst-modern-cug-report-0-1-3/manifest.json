@@ -1,0 +1,24 @@
+{
+  "id": "typst-universe/typst-modern-cug-report-0-1-3",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "report",
+  "license": "MIT",
+  "source_url": "https://github.com/CUG-hydro/modern-cug-report.typ",
+  "original_author": "Dongdong Kong",
+  "package_name": "modern-cug-report",
+  "package_version": "0.1.3",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/typst-universe/typst-modern-cug-report-0-1-3/main.typ",
+  "relative_path": "raw/typst-universe/typst-modern-cug-report-0-1-3/main.typ",
+  "main_doc": "main.typ",
+  "sha256": "21bd2acbb3006e43768ee02196d6623ab1635cd756551f53d040c023b496ebb9",
+  "size_bytes": 1969,
+  "document_class": null,
+  "uses_packages": [],
+  "downloaded_at": "2026-08-02T13:10:39.706Z",
+  "categories": [
+    "layout",
+    "report"
+  ],
+  "description": "Chinese Technical report writing standards."
+}

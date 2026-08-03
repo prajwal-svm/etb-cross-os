@@ -1,0 +1,26 @@
+{
+  "id": "template-packs/plos-one-style-article",
+  "source": "template-packs",
+  "format": "latex",
+  "category": "venue",
+  "category_raw": "Journals & Conferences",
+  "license": "CC0-1.0",
+  "source_url": "https://github.com/Oleafly/template-packs",
+  "original_author": "Oleafly",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/template-packs/plos-one-style-article/main.tex",
+  "relative_path": "raw/template-packs/plos-one-style-article/main.tex",
+  "main_doc": "main.tex",
+  "sha256": "2bd7358a97aabbb72dc45a2c9633e69352ea900bfac3cd445bc6290acbcee49d",
+  "size_bytes": 3381,
+  "document_class": "article",
+  "uses_packages": [
+    "amsmath",
+    "booktabs",
+    "geometry",
+    "hyperref",
+    "lineno",
+    "setspace"
+  ],
+  "engine_hint": "xetex",
+  "downloaded_at": "2026-08-02T13:05:15.810Z"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "github-latex/gh-ravenlite-compactchineselatexresume-resume-template",
+  "source": "github-latex",
+  "format": "latex",
+  "category": "cv",
+  "license": "MIT",
+  "source_url": "https://github.com/RavenLite/CompactChineseLaTeXResume",
+  "original_author": "RavenLite",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/engine-specific/github-latex__gh-ravenlite-compactchineselatexresume-resume-template/resume-template.tex",
+  "relative_path": "processed/latex/engine-specific/github-latex__gh-ravenlite-compactchineselatexresume-resume-template/resume-template.tex",
+  "sha256": "5a8790051a0624b18fa647706d6d2f2ad7ea9c95c963bb9e6e722c4a6d20c3f1",
+  "size_bytes": 6657,
+  "document_class": "article",
+  "uses_packages": [
+    "babel",
+    "color",
+    "ctex",
+    "enumitem",
+    "fancyhdr",
+    "fullpage",
+    "hyperref",
+    "latexsym",
+    "marvosym",
+    "tabularx",
+    "titlesec",
+    "verbatim"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": false,
+    "xelatex": true,
+    "lualatex": false,
+    "typst": false
+  },
+  "engine_class": "engine-specific",
+  "compile_time_ms": 3092,
+  "downloaded_at": "2026-08-02T13:14:40.844Z",
+  "filtered_at": "2026-08-02T17:34:43.269Z"
+}

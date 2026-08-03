@@ -1,0 +1,23 @@
+{
+  "id": "typst-universe/typst-ethz-iis-thesis-1-0-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "thesis",
+  "license": "Apache-2.0",
+  "source_url": "https://github.com/pulp-platform/iis-typst",
+  "original_author": "Tim Fischer",
+  "package_name": "ethz-iis-thesis",
+  "package_version": "1.0.0",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/typst-universe/typst-ethz-iis-thesis-1-0-0/main.typ",
+  "relative_path": "raw/typst-universe/typst-ethz-iis-thesis-1-0-0/main.typ",
+  "main_doc": "main.typ",
+  "sha256": "28aaaa8bf29c2bcdb2de433fbd06627936a7183e9c3f81ef5b20e073c6c288d8",
+  "size_bytes": 6539,
+  "document_class": null,
+  "uses_packages": [],
+  "downloaded_at": "2026-08-02T13:08:15.226Z",
+  "categories": [
+    "thesis"
+  ],
+  "description": "ETH Zurich IIS thesis/semester project report template"
+}

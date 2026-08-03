@@ -1,0 +1,40 @@
+{
+  "id": "overleaf/ol-mau-de-thi-tu-luan-ket-thuc-hoc-phan-hcmue-kdhwnxxhbsnv",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "misc",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/mau-de-thi-tu-luan-ket-thuc-hoc-phan-hcmue/kdhwnxxhbsnv",
+  "original_author": "Nguyen Le Anh",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/overleaf__ol-mau-de-thi-tu-luan-ket-thuc-hoc-phan-hcmue-kdhwnxxhbsnv/main.tex",
+  "relative_path": "processed/latex/cross-engine/overleaf__ol-mau-de-thi-tu-luan-ket-thuc-hoc-phan-hcmue-kdhwnxxhbsnv/main.tex",
+  "sha256": "4208d8ade268f170ac61afc122e26e16865fce28adb4c6ef379c97386a15cf10",
+  "size_bytes": 5359,
+  "document_class": "exam",
+  "uses_packages": [
+    "amsfonts",
+    "amsmath",
+    "amssymb",
+    "enumitem",
+    "graphicx",
+    "indentfirst",
+    "longtable",
+    "mathptmx",
+    "mathrsfs",
+    "multirow",
+    "tabularx",
+    "times",
+    "vietnam"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 1904,
+  "downloaded_at": "2026-08-02T15:35:16.624Z",
+  "filtered_at": "2026-08-02T17:34:41.385Z"
+}

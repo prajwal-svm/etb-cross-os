@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-lai-es-typst-thesis-template-03-abstract-2",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "thesis",
+  "license": "MIT",
+  "source_url": "https://github.com/Lai-es/typst-thesis-template",
+  "original_author": "Lai-es",
+  "stars": 0,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-lai-es-typst-thesis-template-03-abstract-2/03 abstract.typ",
+  "relative_path": "raw/github-typst/gh-lai-es-typst-thesis-template-03-abstract-2/03 abstract.typ",
+  "main_doc": "03 abstract.typ",
+  "sha256": "22272e9ae25e6908a1532f4a342c54ca5d0de2601df5ed56d677d0bbcedd8047",
+  "size_bytes": 588,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "template/chapters/03 abstract.typ",
+  "downloaded_at": "2026-08-02T14:15:23.443Z"
+}

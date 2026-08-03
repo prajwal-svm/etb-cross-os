@@ -1,0 +1,21 @@
+{
+  "id": "ctan/ctan-eso-pic-eso-ex1",
+  "source": "ctan",
+  "format": "latex",
+  "category": "package-example",
+  "license": "LPPL-1.3c",
+  "source_url": "https://ctan.org/pkg/eso-pic",
+  "original_author": "CTAN package: eso-pic",
+  "package": "eso-pic",
+  "original_path": "/usr/local/texlive/2025/texmf-dist/doc/latex/eso-pic/eso-ex1.tex",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/ctan/ctan-eso-pic-eso-ex1/eso-ex1.tex",
+  "relative_path": "raw/ctan/ctan-eso-pic-eso-ex1/eso-ex1.tex",
+  "main_doc": "eso-ex1.tex",
+  "sha256": "6578d673ba7e503eaabcb292efdf4c1752137d62f128dc89067be0355fc7e57b",
+  "size_bytes": 770,
+  "document_class": "article",
+  "uses_packages": [
+    "eso-pic"
+  ],
+  "downloaded_at": "2026-08-02T13:05:02.380Z"
+}

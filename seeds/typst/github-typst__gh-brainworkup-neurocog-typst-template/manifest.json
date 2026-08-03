@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-brainworkup-neurocog-typst-template",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "coursework",
+  "license": "MIT",
+  "source_url": "https://github.com/brainworkup/neurocog",
+  "original_author": "brainworkup",
+  "stars": 0,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-brainworkup-neurocog-typst-template/typst-template.typ",
+  "relative_path": "raw/github-typst/gh-brainworkup-neurocog-typst-template/typst-template.typ",
+  "main_doc": "typst-template.typ",
+  "sha256": "f0e914375060068e89f5c09e37460cfb7eece1eefcd8da42234edab9c0df5a97",
+  "size_bytes": 2128,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "_extensions/neurocog/typst-template.typ",
+  "downloaded_at": "2026-08-02T14:19:10.097Z"
+}

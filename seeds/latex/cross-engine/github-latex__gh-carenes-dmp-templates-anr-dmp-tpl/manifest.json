@@ -1,0 +1,21 @@
+{
+  "id": "github-latex/gh-carenes-dmp-templates-anr-dmp-tpl",
+  "source": "github-latex",
+  "format": "latex",
+  "category": "misc",
+  "license": "CC0-1.0",
+  "source_url": "https://github.com/carenes/DMP_templates",
+  "original_author": "carenes",
+  "stars": 2,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-latex/gh-carenes-dmp-templates-anr-dmp-tpl/ANR-DMP-tpl.tex",
+  "relative_path": "raw/github-latex/gh-carenes-dmp-templates-anr-dmp-tpl/ANR-DMP-tpl.tex",
+  "main_doc": "ANR-DMP-tpl.tex",
+  "sha256": "4db53296681f952caa85f1af08a181a69fafd102bddb48ff9f4ef194715ec3ec",
+  "size_bytes": 18467,
+  "document_class": "article",
+  "uses_packages": [
+    "inputenc"
+  ],
+  "repo_path": "ANR-DMP-tpl.tex",
+  "downloaded_at": "2026-08-02T13:34:53.418Z"
+}

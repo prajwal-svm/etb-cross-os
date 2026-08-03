@@ -1,0 +1,43 @@
+{
+  "id": "overleaf/ol-template-pfc-eng-controle-e-automacao-ufmg-hnnrndrygzdy",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "misc",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/template-pfc-eng-controle-e-automacao-ufmg/hnnrndrygzdy",
+  "original_author": "Colegiado Controle e Automação",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/engine-specific/overleaf__ol-template-pfc-eng-controle-e-automacao-ufmg-hnnrndrygzdy/main.tex",
+  "relative_path": "processed/latex/engine-specific/overleaf__ol-template-pfc-eng-controle-e-automacao-ufmg-hnnrndrygzdy/main.tex",
+  "sha256": "da1738d1bebbb7a436e4666939ff2dd07daf700e837e0bb4d77c0f4bce1e1729",
+  "size_bytes": 1513,
+  "document_class": "book",
+  "uses_packages": [
+    "abntex2abrev",
+    "amsfonts",
+    "amsmath",
+    "amsthm",
+    "babel",
+    "color",
+    "epsfig",
+    "float",
+    "fontenc",
+    "geometry",
+    "graphicx",
+    "hyperref",
+    "inputenc",
+    "latexsym",
+    "quotes",
+    "times"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": false
+  },
+  "engine_class": "engine-specific",
+  "compile_time_ms": 639,
+  "downloaded_at": "2026-08-02T13:52:55.504Z",
+  "filtered_at": "2026-08-02T17:34:41.945Z"
+}

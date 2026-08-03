@@ -1,0 +1,29 @@
+{
+  "id": "overleaf/ol-uccs-mae-4000-report-template-yskcwrcgpkxx",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "report",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/uccs-mae-4000-report-template/yskcwrcgpkxx",
+  "original_author": "Brandon Runnels",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/overleaf__ol-uccs-mae-4000-report-template-yskcwrcgpkxx/main.tex",
+  "relative_path": "processed/latex/cross-engine/overleaf__ol-uccs-mae-4000-report-template-yskcwrcgpkxx/main.tex",
+  "sha256": "395e9c9292708a48289033e430106e27431d7a26b52e46114c9855da743b8659",
+  "size_bytes": 370,
+  "document_class": "article",
+  "uses_packages": [
+    "amsmath",
+    "geometry"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 250,
+  "downloaded_at": "2026-08-02T14:23:52.900Z",
+  "filtered_at": "2026-08-02T17:34:42.037Z"
+}

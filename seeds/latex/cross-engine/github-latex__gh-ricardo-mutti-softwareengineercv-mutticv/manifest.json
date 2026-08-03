@@ -1,0 +1,23 @@
+{
+  "id": "github-latex/gh-ricardo-mutti-softwareengineercv-mutticv",
+  "source": "github-latex",
+  "format": "latex",
+  "category": "cv",
+  "license": "MIT",
+  "source_url": "https://github.com/Ricardo-Mutti/SoftwareEngineerCV",
+  "original_author": "Ricardo-Mutti",
+  "stars": 3,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-latex/gh-ricardo-mutti-softwareengineercv-mutticv/MuttiCV.tex",
+  "relative_path": "raw/github-latex/gh-ricardo-mutti-softwareengineercv-mutticv/MuttiCV.tex",
+  "main_doc": "MuttiCV.tex",
+  "sha256": "eca1da1b0719aa140fd9ffb0c5fa98453fdda976d38f2f2a2737c56e8d5bb1da",
+  "size_bytes": 7145,
+  "document_class": "moderncv",
+  "uses_packages": [
+    "geometry",
+    "import",
+    "inputenc"
+  ],
+  "repo_path": "MuttiCV.tex",
+  "downloaded_at": "2026-08-02T13:30:43.159Z"
+}

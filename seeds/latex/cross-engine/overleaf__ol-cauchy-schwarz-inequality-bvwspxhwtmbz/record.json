@@ -1,0 +1,33 @@
+{
+  "id": "overleaf/ol-cauchy-schwarz-inequality-bvwspxhwtmbz",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "misc",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/cauchy-schwarz-inequality/bvwspxhwtmbz",
+  "original_author": "Russell Howell",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/overleaf__ol-cauchy-schwarz-inequality-bvwspxhwtmbz/main.tex",
+  "relative_path": "processed/latex/cross-engine/overleaf__ol-cauchy-schwarz-inequality-bvwspxhwtmbz/main.tex",
+  "sha256": "50a4f25cb25f8fdbdc7514c9ff5324b726513d3a04e3b77ec5a9c2badf916cbc",
+  "size_bytes": 2950,
+  "document_class": "article",
+  "uses_packages": [
+    "amsmath",
+    "amssymb",
+    "amsthm",
+    "geometry",
+    "graphicx",
+    "latexsym"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 266,
+  "downloaded_at": "2026-08-02T14:58:55.713Z",
+  "filtered_at": "2026-08-02T17:34:40.995Z"
+}

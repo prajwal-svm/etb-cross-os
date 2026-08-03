@@ -1,0 +1,26 @@
+{
+  "id": "template-packs/grading-rubric",
+  "source": "template-packs",
+  "format": "latex",
+  "category": "coursework",
+  "category_raw": "Assignments",
+  "license": "CC0-1.0",
+  "source_url": "https://github.com/Oleafly/template-packs",
+  "original_author": "Oleafly",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/template-packs/grading-rubric/main.tex",
+  "relative_path": "raw/template-packs/grading-rubric/main.tex",
+  "main_doc": "main.tex",
+  "sha256": "24a817028097d29f72c5cf0c1eb7219690fe1f3f3ebd1bf8a0256642cef88b51",
+  "size_bytes": 2516,
+  "document_class": "article",
+  "uses_packages": [
+    "array",
+    "booktabs",
+    "geometry",
+    "lmodern",
+    "tabularx",
+    "xcolor"
+  ],
+  "engine_hint": "xetex",
+  "downloaded_at": "2026-08-02T13:05:15.820Z"
+}

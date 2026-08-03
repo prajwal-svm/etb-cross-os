@@ -1,0 +1,22 @@
+{
+  "id": "overleaf/ol-research-proposal-vckyfbqkxmwr",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "misc",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/research-proposal/vckyfbqkxmwr",
+  "original_author": "ALON MUHAME",
+  "title": "Research Proposal",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/overleaf/ol-research-proposal-vckyfbqkxmwr/main.tex",
+  "relative_path": "raw/overleaf/ol-research-proposal-vckyfbqkxmwr/main.tex",
+  "main_doc": "main.tex",
+  "sha256": "d4b6adcdc9e7620222ab548a8041197cdb083d718e4331f4621ed5b46c9376df",
+  "size_bytes": 2689,
+  "document_class": "article",
+  "uses_packages": [
+    "inputenc"
+  ],
+  "download_method": "view-source-modal",
+  "github_url": null,
+  "downloaded_at": "2026-08-02T14:24:13.085Z"
+}

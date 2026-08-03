@@ -1,0 +1,26 @@
+{
+  "id": "typst-universe/typst-pioneering-rlj-0-7-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "venue",
+  "license": "MIT",
+  "source_url": "https://github.com/daskol/typst-templates",
+  "original_author": "Daniel Bershatsky",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/typst-universe__typst-pioneering-rlj-0-7-0/main.typ",
+  "relative_path": "processed/typst/typst-universe__typst-pioneering-rlj-0-7-0/main.typ",
+  "sha256": "26dbe60580a51496b0a3ce9f02a8ae35735742095507ae8ef860cc300e211992",
+  "size_bytes": 16029,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 317,
+  "downloaded_at": "2026-08-02T13:12:02.728Z",
+  "filtered_at": "2026-08-02T17:34:44.110Z"
+}

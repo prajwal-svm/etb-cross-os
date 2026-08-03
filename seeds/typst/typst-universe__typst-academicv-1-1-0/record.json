@@ -1,0 +1,26 @@
+{
+  "id": "typst-universe/typst-academicv-1-1-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "cv",
+  "license": "Apache-2.0",
+  "source_url": "https://github.com/roaldarbol/academicv",
+  "original_author": "Mikkel Roald-Arbøl",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/typst-universe__typst-academicv-1-1-0/template.typ",
+  "relative_path": "processed/typst/typst-universe__typst-academicv-1-1-0/template.typ",
+  "sha256": "f56446fcfa56d3bdee3fd9613135a06a5ce2bbc7fdb60075d5bf05276517d654",
+  "size_bytes": 5169,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 190,
+  "downloaded_at": "2026-08-02T13:05:33.152Z",
+  "filtered_at": "2026-08-02T17:34:43.592Z"
+}

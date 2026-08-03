@@ -1,0 +1,25 @@
+{
+  "id": "typst-universe/typst-invoice-pro-0-4-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "business",
+  "license": "MIT",
+  "source_url": "https://github.com/leonieziechmann/invoice-pro",
+  "original_author": "Leonie Ziechmann",
+  "package_name": "invoice-pro",
+  "package_version": "0.4.0",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/typst-universe/typst-invoice-pro-0-4-0/invoice.typ",
+  "relative_path": "raw/typst-universe/typst-invoice-pro-0-4-0/invoice.typ",
+  "main_doc": "invoice.typ",
+  "sha256": "b8012ef0c330a0e026a1b92c8889dc2aaf1488555f54ed3a4c51d445e47ebcc9",
+  "size_bytes": 2684,
+  "document_class": null,
+  "uses_packages": [],
+  "downloaded_at": "2026-08-02T13:09:25.030Z",
+  "categories": [
+    "layout",
+    "office",
+    "integration"
+  ],
+  "description": "A professional, DIN 5008 compliant invoice template with automatic calculations, EPC-QR-Code (GiroCode), and ZUGFeRD e-invoicing support."
+}

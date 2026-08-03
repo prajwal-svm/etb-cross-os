@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-payne1778-technical-resume-template-resume-1",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "cv",
+  "license": "MIT",
+  "source_url": "https://github.com/payne1778/technical-resume-template",
+  "original_author": "payne1778",
+  "stars": 0,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-payne1778-technical-resume-template-resume-1/resume.typ",
+  "relative_path": "raw/github-typst/gh-payne1778-technical-resume-template-resume-1/resume.typ",
+  "main_doc": "resume.typ",
+  "sha256": "9ba83ebd3115c030e177b794c06db53644a70dc9869b7787b07020dd07af5df0",
+  "size_bytes": 5168,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "src/resume.typ",
+  "downloaded_at": "2026-08-02T14:15:58.680Z"
+}

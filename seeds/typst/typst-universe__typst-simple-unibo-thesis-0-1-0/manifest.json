@@ -1,0 +1,24 @@
+{
+  "id": "typst-universe/typst-simple-unibo-thesis-0-1-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "thesis",
+  "license": "MIT",
+  "source_url": "https://github.com/soliprem/unibo-thesis-template",
+  "original_author": "Francesco Prem Solidoro",
+  "package_name": "simple-unibo-thesis",
+  "package_version": "0.1.0",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/typst-universe/typst-simple-unibo-thesis-0-1-0/main.typ",
+  "relative_path": "raw/typst-universe/typst-simple-unibo-thesis-0-1-0/main.typ",
+  "main_doc": "main.typ",
+  "sha256": "5e67f64ab974d663e433bb92af93a05c0eb8dc437d8e815317055d12d39c8dcb",
+  "size_bytes": 852,
+  "document_class": null,
+  "uses_packages": [],
+  "downloaded_at": "2026-08-02T13:13:05.362Z",
+  "categories": [
+    "thesis",
+    "paper"
+  ],
+  "description": "Unofficial Thesis cover and document template for the University of Bologna"
+}

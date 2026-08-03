@@ -1,0 +1,21 @@
+{
+  "id": "github-latex/gh-ckuenzle-din5008-letter-main",
+  "source": "github-latex",
+  "format": "latex",
+  "category": "letter",
+  "license": "MIT",
+  "source_url": "https://github.com/ckuenzle/din5008-letter",
+  "original_author": "ckuenzle",
+  "stars": 16,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-latex/gh-ckuenzle-din5008-letter-main/main.tex",
+  "relative_path": "raw/github-latex/gh-ckuenzle-din5008-letter-main/main.tex",
+  "main_doc": "main.tex",
+  "sha256": "8890480f66a3c49ec6275851430d8c554e6ec840c581ccd4579f4197e9d20942",
+  "size_bytes": 627,
+  "document_class": "scrlttr2",
+  "uses_packages": [
+    "lipsum"
+  ],
+  "repo_path": "project/main.tex",
+  "downloaded_at": "2026-08-02T13:18:44.084Z"
+}

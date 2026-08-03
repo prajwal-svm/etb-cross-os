@@ -1,0 +1,23 @@
+{
+  "id": "overleaf/ol-tutorium-pryqqzgqrncx",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "misc",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/tutorium/pryqqzgqrncx",
+  "original_author": "Sona Baghdasaryan",
+  "title": "Tutorium ",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/overleaf/ol-tutorium-pryqqzgqrncx/main.tex",
+  "relative_path": "raw/overleaf/ol-tutorium-pryqqzgqrncx/main.tex",
+  "main_doc": "main.tex",
+  "sha256": "99e6d6ce01186e8e2a86c1739cc7b3f9b43a41d98cb2a6e7e99453ab6eecc5df",
+  "size_bytes": 2470,
+  "document_class": "beamer",
+  "uses_packages": [
+    "babel",
+    "inputenc"
+  ],
+  "download_method": "view-source-modal",
+  "github_url": null,
+  "downloaded_at": "2026-08-02T13:38:35.968Z"
+}

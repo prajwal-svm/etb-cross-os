@@ -1,0 +1,26 @@
+{
+  "id": "github-typst/gh-dawnever-mcm-icm-typst-template-template",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "misc",
+  "license": "MIT",
+  "source_url": "https://github.com/DawnEver/mcm-icm-typst-template",
+  "original_author": "DawnEver",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/github-typst__gh-dawnever-mcm-icm-typst-template-template/template.typ",
+  "relative_path": "processed/typst/github-typst__gh-dawnever-mcm-icm-typst-template-template/template.typ",
+  "sha256": "a0de90cae5edc6155688c02a8f1696fc9736216e7c04cffd037434bf8e64f1b1",
+  "size_bytes": 4320,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 10,
+  "downloaded_at": "2026-08-02T14:06:02.253Z",
+  "filtered_at": "2026-08-02T17:34:44.736Z"
+}

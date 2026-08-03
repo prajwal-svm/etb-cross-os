@@ -1,0 +1,19 @@
+{
+  "id": "github-latex/gh-bamos-latex-templates-cheatsheet-1",
+  "source": "github-latex",
+  "format": "latex",
+  "category": "misc",
+  "license": "MIT",
+  "source_url": "https://github.com/bamos/latex-templates",
+  "original_author": "bamos",
+  "stars": 368,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-latex/gh-bamos-latex-templates-cheatsheet-1/cheatsheet.tex",
+  "relative_path": "raw/github-latex/gh-bamos-latex-templates-cheatsheet-1/cheatsheet.tex",
+  "main_doc": "cheatsheet.tex",
+  "sha256": "dd23803986d1cc23ce839e9eb831478b50c50bd28898d314c3fc2efaf9f8ba1c",
+  "size_bytes": 842,
+  "document_class": "cheatsheet",
+  "uses_packages": [],
+  "repo_path": "latex-templates/cheatsheet/cheatsheet.tex",
+  "downloaded_at": "2026-08-02T13:11:54.718Z"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "typst-universe/typst-classy-german-invoice-0-3-2",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "business",
+  "license": "MIT-0",
+  "source_url": "https://github.com/erictapen/typst-invoice",
+  "original_author": "Kerstin Humm",
+  "package_name": "classy-german-invoice",
+  "package_version": "0.3.2",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/typst-universe/typst-classy-german-invoice-0-3-2/main.typ",
+  "relative_path": "raw/typst-universe/typst-classy-german-invoice-0-3-2/main.typ",
+  "main_doc": "main.typ",
+  "sha256": "3de7c32a5dc32c628361b31166d3300c1035b7dbe47bcb2fae069ca75bc1e651",
+  "size_bytes": 1192,
+  "document_class": null,
+  "uses_packages": [],
+  "downloaded_at": "2026-08-02T13:06:54.598Z",
+  "categories": [
+    "layout",
+    "office"
+  ],
+  "description": "Minimalistic invoice for germany based freelancers"
+}

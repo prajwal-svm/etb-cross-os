@@ -1,0 +1,24 @@
+{
+  "id": "typst-universe/typst-unofficial-whu-lab-report-0-1-1",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "report",
+  "license": "MIT",
+  "source_url": "https://github.com/zoomy14112/report-theme-whu",
+  "original_author": "Shouzhuo Yi",
+  "package_name": "unofficial-whu-lab-report",
+  "package_version": "0.1.1",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/typst-universe/typst-unofficial-whu-lab-report-0-1-1/main.typ",
+  "relative_path": "raw/typst-universe/typst-unofficial-whu-lab-report-0-1-1/main.typ",
+  "main_doc": "main.typ",
+  "sha256": "18427b91a812685d20694b84896f04080358b50171e39237c0762067e863a075",
+  "size_bytes": 1664,
+  "document_class": null,
+  "uses_packages": [],
+  "downloaded_at": "2026-08-02T13:15:35.183Z",
+  "categories": [
+    "report",
+    "thesis"
+  ],
+  "description": "An unofficial course lab report template for Wuhan University (WHU). 武汉大学计算机学院本科生课程设计报告模板(非官方)"
+}

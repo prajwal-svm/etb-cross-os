@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-itkzn-ma-template-translations-2",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "misc",
+  "license": "MIT",
+  "source_url": "https://github.com/itkzn/ma-template",
+  "original_author": "itkzn",
+  "stars": 0,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-itkzn-ma-template-translations-2/translations.typ",
+  "relative_path": "raw/github-typst/gh-itkzn-ma-template-translations-2/translations.typ",
+  "main_doc": "translations.typ",
+  "sha256": "bd74df8d4399fc0827d0d1f4419f286264a5e1be9f790ba955e4a479bc612277",
+  "size_bytes": 5636,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "translations.typ",
+  "downloaded_at": "2026-08-02T14:16:08.638Z"
+}

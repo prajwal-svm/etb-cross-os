@@ -1,0 +1,22 @@
+{
+  "id": "ctan/ctan-datatool-datatool-user-example188",
+  "source": "ctan",
+  "format": "latex",
+  "category": "coursework",
+  "license": "LPPL-1.3c",
+  "source_url": "https://ctan.org/pkg/datatool",
+  "original_author": "CTAN package: datatool",
+  "package": "datatool",
+  "original_path": "/usr/local/texlive/2025/texmf-dist/doc/latex/datatool/datatool-user-examples/datatool-user-example188.tex",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/ctan/ctan-datatool-datatool-user-example188/datatool-user-example188.tex",
+  "relative_path": "raw/ctan/ctan-datatool-datatool-user-example188/datatool-user-example188.tex",
+  "main_doc": "datatool-user-example188.tex",
+  "sha256": "3abcf7c2c43c86daec30586f5ef6edf7104f4c47d136bc21c36c53419b04649f",
+  "size_bytes": 1077,
+  "document_class": "article",
+  "uses_packages": [
+    "datagidx",
+    "hyperref"
+  ],
+  "downloaded_at": "2026-08-02T13:05:04.441Z"
+}

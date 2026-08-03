@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-kotatsuyaki-canonical-nthu-thesis-body-2",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "thesis",
+  "license": "MIT",
+  "source_url": "https://github.com/kotatsuyaki/canonical-nthu-thesis",
+  "original_author": "kotatsuyaki",
+  "stars": 2,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-kotatsuyaki-canonical-nthu-thesis-body-2/body.typ",
+  "relative_path": "raw/github-typst/gh-kotatsuyaki-canonical-nthu-thesis-body-2/body.typ",
+  "main_doc": "body.typ",
+  "sha256": "84065b45b8f54b8d6168c1ea409119b8152a2c7a72e9da3891cd932763f6fe59",
+  "size_bytes": 4231,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "layouts/body.typ",
+  "downloaded_at": "2026-08-02T14:10:42.550Z"
+}

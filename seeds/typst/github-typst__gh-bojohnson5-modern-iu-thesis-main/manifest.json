@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-bojohnson5-modern-iu-thesis-main",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "thesis",
+  "license": "MIT",
+  "source_url": "https://github.com/bojohnson5/modern-iu-thesis",
+  "original_author": "bojohnson5",
+  "stars": 1,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-bojohnson5-modern-iu-thesis-main/main.typ",
+  "relative_path": "raw/github-typst/gh-bojohnson5-modern-iu-thesis-main/main.typ",
+  "main_doc": "main.typ",
+  "sha256": "40a83a6ad2a8ab8b5e7a641bc35ec696867d1d5841b9e37fd030f4fc5c650b19",
+  "size_bytes": 1003,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "template/main.typ",
+  "downloaded_at": "2026-08-02T14:11:58.899Z"
+}

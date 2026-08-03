@@ -1,0 +1,28 @@
+{
+  "id": "github-latex/gh-lorenzosaino-simpletexcv-cv",
+  "source": "github-latex",
+  "format": "latex",
+  "category": "cv",
+  "license": "MIT",
+  "source_url": "https://github.com/lorenzosaino/simpletexcv",
+  "original_author": "lorenzosaino",
+  "stars": 22,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-latex/gh-lorenzosaino-simpletexcv-cv/cv.tex",
+  "relative_path": "raw/github-latex/gh-lorenzosaino-simpletexcv-cv/cv.tex",
+  "main_doc": "cv.tex",
+  "sha256": "0431765106f903d31095eab9e50b578e1706c983057da5668c6296b3477382ac",
+  "size_bytes": 9568,
+  "document_class": "letter",
+  "uses_packages": [
+    "changepage",
+    "enumitem",
+    "geometry",
+    "hyperref",
+    "ifthen",
+    "scrextend",
+    "ulem",
+    "url"
+  ],
+  "repo_path": "cv.tex",
+  "downloaded_at": "2026-08-02T13:17:03.676Z"
+}

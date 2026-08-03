@@ -1,0 +1,26 @@
+{
+  "id": "github-typst/gh-wybxc-typst-nix-handout-2",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "beamer",
+  "license": "Apache-2.0",
+  "source_url": "https://github.com/Wybxc/typst-nix",
+  "original_author": "Wybxc",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/github-typst__gh-wybxc-typst-nix-handout-2/handout.typ",
+  "relative_path": "processed/typst/github-typst__gh-wybxc-typst-nix-handout-2/handout.typ",
+  "sha256": "ac8fe1b53a88d1574e5c970ec6a93da107640d421415a66f45348f2b2370fdff",
+  "size_bytes": 1768,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 7,
+  "downloaded_at": "2026-08-02T14:10:48.464Z",
+  "filtered_at": "2026-08-02T17:34:45.943Z"
+}

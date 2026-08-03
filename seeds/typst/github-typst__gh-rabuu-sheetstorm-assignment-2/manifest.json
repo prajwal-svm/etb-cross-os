@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-rabuu-sheetstorm-assignment-2",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "coursework",
+  "license": "MIT",
+  "source_url": "https://github.com/rabuu/sheetstorm",
+  "original_author": "rabuu",
+  "stars": 24,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-rabuu-sheetstorm-assignment-2/assignment.typ",
+  "relative_path": "raw/github-typst/gh-rabuu-sheetstorm-assignment-2/assignment.typ",
+  "main_doc": "assignment.typ",
+  "sha256": "d25461c296c65f4c1ee49b012a9bf3d848c17df81ee2cf877077d5775e43e78f",
+  "size_bytes": 2030,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "examples/assignment.typ",
+  "downloaded_at": "2026-08-02T14:04:39.837Z"
+}

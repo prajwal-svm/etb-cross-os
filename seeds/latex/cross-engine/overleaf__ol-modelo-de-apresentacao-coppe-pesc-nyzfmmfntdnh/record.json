@@ -1,0 +1,32 @@
+{
+  "id": "overleaf/ol-modelo-de-apresentacao-coppe-pesc-nyzfmmfntdnh",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "misc",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/modelo-de-apresentacao-coppe-pesc/nyzfmmfntdnh",
+  "original_author": "Eduardo Mangeli",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/overleaf__ol-modelo-de-apresentacao-coppe-pesc-nyzfmmfntdnh/demo.tex",
+  "relative_path": "processed/latex/cross-engine/overleaf__ol-modelo-de-apresentacao-coppe-pesc-nyzfmmfntdnh/demo.tex",
+  "sha256": "6e7a98ba3d402c4e660f71111abdbdbb07ebb38e0e0e1d56ef471d04570be553",
+  "size_bytes": 9175,
+  "document_class": "beamer",
+  "uses_packages": [
+    "appendixnumberbeamer",
+    "booktabs",
+    "ccicons",
+    "pgfplots",
+    "xspace"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 3709,
+  "downloaded_at": "2026-08-02T14:12:31.770Z",
+  "filtered_at": "2026-08-02T17:34:41.435Z"
+}

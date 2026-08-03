@@ -1,0 +1,28 @@
+{
+  "id": "ctan/ctan-glossaries-sample-dot-abbr",
+  "source": "ctan",
+  "format": "latex",
+  "category": "package-example",
+  "license": "LPPL-1.3c",
+  "source_url": "https://ctan.org/pkg/glossaries",
+  "original_author": "CTAN package: glossaries",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/ctan__ctan-glossaries-sample-dot-abbr/sample-dot-abbr.tex",
+  "relative_path": "processed/latex/cross-engine/ctan__ctan-glossaries-sample-dot-abbr/sample-dot-abbr.tex",
+  "sha256": "563450299848cf41350fc7fb948a9da7de2d1b6c1f38948e251090a6e6dbe3a3",
+  "size_bytes": 2190,
+  "document_class": "article",
+  "uses_packages": [
+    "glossaries"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 344,
+  "downloaded_at": "2026-08-02T13:04:56.453Z",
+  "filtered_at": "2026-08-02T17:34:42.291Z"
+}

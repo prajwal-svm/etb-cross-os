@@ -1,0 +1,28 @@
+{
+  "id": "overleaf/ol-national-cheng-kung-university-thesis-and-dissertation-template-xelatex-kzgwj",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "thesis",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/national-cheng-kung-university-thesis-and-dissertation-template-xelatex/kzgwjvvptktn",
+  "original_author": "Wen-Gan Li",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/overleaf__ol-national-cheng-kung-university-thesis-and-dissertation-template-xelatex-kzgwj/921-reference-page-orientation-pdflscape.tex",
+  "relative_path": "processed/latex/cross-engine/overleaf__ol-national-cheng-kung-university-thesis-and-dissertation-template-xelatex-kzgwj/921-reference-page-orientation-pdflscape.tex",
+  "sha256": "63d3fc74bc48b65f517218b26a8d2953c4300c2d08917230fb2449c7ca2adb53",
+  "size_bytes": 483,
+  "document_class": "article",
+  "uses_packages": [
+    "pdflscape"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 222,
+  "downloaded_at": "2026-08-02T13:05:48.014Z",
+  "filtered_at": "2026-08-02T17:34:41.526Z"
+}

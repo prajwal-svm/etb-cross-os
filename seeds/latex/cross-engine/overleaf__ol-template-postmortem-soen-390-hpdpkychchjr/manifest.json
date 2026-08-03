@@ -1,0 +1,22 @@
+{
+  "id": "overleaf/ol-template-postmortem-soen-390-hpdpkychchjr",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "misc",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/template-postmortem-soen-390/hpdpkychchjr",
+  "original_author": "TAs",
+  "title": "[template] Postmortem (soen 390)",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/overleaf/ol-template-postmortem-soen-390-hpdpkychchjr/main.tex",
+  "relative_path": "raw/overleaf/ol-template-postmortem-soen-390-hpdpkychchjr/main.tex",
+  "main_doc": "main.tex",
+  "sha256": "ebfb36c5a59843af05a4b9e0be89f4ead39a14643e2ac8939c586d9351c221c4",
+  "size_bytes": 468,
+  "document_class": "article",
+  "uses_packages": [
+    "inputenc"
+  ],
+  "download_method": "view-source-modal",
+  "github_url": null,
+  "downloaded_at": "2026-08-02T16:00:02.280Z"
+}

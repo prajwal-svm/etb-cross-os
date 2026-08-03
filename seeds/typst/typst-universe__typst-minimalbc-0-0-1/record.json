@@ -1,0 +1,26 @@
+{
+  "id": "typst-universe/typst-minimalbc-0-0-1",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "business",
+  "license": "MIT",
+  "source_url": "https://github.com/sevehub/minimalbc",
+  "original_author": "S. Tessarin",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/typst-universe__typst-minimalbc-0-0-1/main.typ",
+  "relative_path": "processed/typst/typst-universe__typst-minimalbc-0-0-1/main.typ",
+  "sha256": "e6e77921e43355cd2425b39765867514606703a3f19d3ef67e28a9574319bd50",
+  "size_bytes": 412,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 311,
+  "downloaded_at": "2026-08-02T13:10:30.527Z",
+  "filtered_at": "2026-08-02T17:34:43.989Z"
+}

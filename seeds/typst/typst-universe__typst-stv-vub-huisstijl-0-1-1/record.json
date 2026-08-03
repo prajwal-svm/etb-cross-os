@@ -1,0 +1,26 @@
+{
+  "id": "typst-universe/typst-stv-vub-huisstijl-0-1-1",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "thesis",
+  "license": "MIT",
+  "source_url": "https://github.com/WannesMalfait/vub-huisstijl-typst/",
+  "original_author": "Wannes Malfait",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/typst-universe__typst-stv-vub-huisstijl-0-1-1/main.typ",
+  "relative_path": "processed/typst/typst-universe__typst-stv-vub-huisstijl-0-1-1/main.typ",
+  "sha256": "dffb9f0cfb9001473b45f68f932059a8498f28dad7d7081398e77bcf9335dd18",
+  "size_bytes": 505,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 187,
+  "downloaded_at": "2026-08-02T13:13:33.437Z",
+  "filtered_at": "2026-08-02T17:34:44.232Z"
+}

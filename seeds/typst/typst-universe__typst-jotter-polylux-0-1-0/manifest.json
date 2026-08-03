@@ -1,0 +1,23 @@
+{
+  "id": "typst-universe/typst-jotter-polylux-0-1-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "beamer",
+  "license": "MIT",
+  "source_url": "https://github.com/polylux-typ/jotter",
+  "original_author": "Andreas Kröpelin",
+  "package_name": "jotter-polylux",
+  "package_version": "0.1.0",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/typst-universe/typst-jotter-polylux-0-1-0/slides.typ",
+  "relative_path": "raw/typst-universe/typst-jotter-polylux-0-1-0/slides.typ",
+  "main_doc": "slides.typ",
+  "sha256": "9d0aedde733d125ffb12db33061bdd610481edfd48fbc199199b109c1a542c4d",
+  "size_bytes": 1729,
+  "document_class": null,
+  "uses_packages": [],
+  "downloaded_at": "2026-08-02T13:09:39.634Z",
+  "categories": [
+    "presentation"
+  ],
+  "description": "Handwritten notebook style template for Polylux"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "overleaf/ol-resume-template-by-kajal-gada-nsqrvpmrdtqx",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "cv",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/resume-template-by-kajal-gada/nsqrvpmrdtqx",
+  "original_author": "Kajal Gada",
+  "title": "Resume Template by Kajal Gada",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/overleaf/ol-resume-template-by-kajal-gada-nsqrvpmrdtqx/main.tex",
+  "relative_path": "raw/overleaf/ol-resume-template-by-kajal-gada-nsqrvpmrdtqx/main.tex",
+  "main_doc": "main.tex",
+  "sha256": "9dd7ba07f7264df817fa57bcc57dbae7754397c386475220dd568aacae4749da",
+  "size_bytes": 5614,
+  "document_class": "article",
+  "uses_packages": [
+    "enumitem",
+    "geometry"
+  ],
+  "download_method": "view-source-modal",
+  "github_url": null,
+  "downloaded_at": "2026-08-02T15:31:25.619Z"
+}

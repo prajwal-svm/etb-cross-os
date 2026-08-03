@@ -1,0 +1,30 @@
+{
+  "id": "overleaf/ol-wpccg-template-para-resumo-versao-final-rkcnwhxtwpqn",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "misc",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/wpccg-template-para-resumo-versao-final/rkcnwhxtwpqn",
+  "original_author": "Sheila Almeida",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/overleaf__ol-wpccg-template-para-resumo-versao-final-rkcnwhxtwpqn/main.tex",
+  "relative_path": "processed/latex/cross-engine/overleaf__ol-wpccg-template-para-resumo-versao-final-rkcnwhxtwpqn/main.tex",
+  "sha256": "ff2a05e88c26be6561a494361a20ac578952f091ecc1a2d6ec7ec71704e47998",
+  "size_bytes": 3327,
+  "document_class": "elsarticle",
+  "uses_packages": [
+    "amssymb",
+    "babel",
+    "geometry"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 296,
+  "downloaded_at": "2026-08-02T14:17:13.505Z",
+  "filtered_at": "2026-08-02T17:34:42.167Z"
+}

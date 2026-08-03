@@ -1,0 +1,22 @@
+{
+  "id": "ctan/ctan-glossaries-sample-crossref",
+  "source": "ctan",
+  "format": "latex",
+  "category": "package-example",
+  "license": "LPPL-1.3c",
+  "source_url": "https://ctan.org/pkg/glossaries",
+  "original_author": "CTAN package: glossaries",
+  "package": "glossaries",
+  "original_path": "/usr/local/texlive/2025/texmf-dist/doc/latex/glossaries/samples/sample-crossref.tex",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/ctan/ctan-glossaries-sample-crossref/sample-crossref.tex",
+  "relative_path": "raw/ctan/ctan-glossaries-sample-crossref/sample-crossref.tex",
+  "main_doc": "sample-crossref.tex",
+  "sha256": "1007971fcc1b664f10959dc44dd662a7a2692fae0bc1f780646397c63de35a16",
+  "size_bytes": 1508,
+  "document_class": "article",
+  "uses_packages": [
+    "glossaries",
+    "hyperref"
+  ],
+  "downloaded_at": "2026-08-02T13:04:56.454Z"
+}

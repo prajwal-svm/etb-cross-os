@@ -1,0 +1,33 @@
+{
+  "id": "overleaf/ol-malmo-university-department-of-computer-science-and-media-technology-latex-te",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "misc",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/malmo-university-department-of-computer-science-and-media-technology-latex-template-1st-semester/pncszgrgwsqq",
+  "original_author": "Steve Dahlskog",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/overleaf__ol-malmo-university-department-of-computer-science-and-media-technology-latex-te/main.tex",
+  "relative_path": "processed/latex/cross-engine/overleaf__ol-malmo-university-department-of-computer-science-and-media-technology-latex-te/main.tex",
+  "sha256": "c91e197fbfa99d07b067d53bd9ebfe212df5995cfaccb3fed1fc5197e5831e4f",
+  "size_bytes": 1571,
+  "document_class": "article",
+  "uses_packages": [
+    "babel",
+    "geometry",
+    "graphicx",
+    "hyperref",
+    "inputenc",
+    "lineno"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 415,
+  "downloaded_at": "2026-08-02T16:19:03.634Z",
+  "filtered_at": "2026-08-02T17:34:41.349Z"
+}

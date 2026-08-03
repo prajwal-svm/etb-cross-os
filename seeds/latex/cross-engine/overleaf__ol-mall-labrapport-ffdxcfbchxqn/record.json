@@ -1,0 +1,36 @@
+{
+  "id": "overleaf/ol-mall-labrapport-ffdxcfbchxqn",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "misc",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/mall-labrapport/ffdxcfbchxqn",
+  "original_author": "Tomas",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/overleaf__ol-mall-labrapport-ffdxcfbchxqn/main.tex",
+  "relative_path": "processed/latex/cross-engine/overleaf__ol-mall-labrapport-ffdxcfbchxqn/main.tex",
+  "sha256": "3d581930bba611b21eef50d9082d6c5d45e6555905aa33ee20c7d150c6086f61",
+  "size_bytes": 886,
+  "document_class": "article",
+  "uses_packages": [
+    "amsmath",
+    "babel",
+    "float",
+    "graphicx",
+    "inputenc",
+    "pmgraph",
+    "tikz",
+    "txfonts",
+    "ulem"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 485,
+  "downloaded_at": "2026-08-02T14:42:58.595Z",
+  "filtered_at": "2026-08-02T17:34:41.347Z"
+}

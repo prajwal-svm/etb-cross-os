@@ -1,0 +1,22 @@
+{
+  "id": "ctan/ctan-glossaries-sample-prefix",
+  "source": "ctan",
+  "format": "latex",
+  "category": "package-example",
+  "license": "LPPL-1.3c",
+  "source_url": "https://ctan.org/pkg/glossaries",
+  "original_author": "CTAN package: glossaries",
+  "package": "glossaries",
+  "original_path": "/usr/local/texlive/2025/texmf-dist/doc/latex/glossaries/samples/sample-prefix.tex",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/ctan/ctan-glossaries-sample-prefix/sample-prefix.tex",
+  "relative_path": "raw/ctan/ctan-glossaries-sample-prefix/sample-prefix.tex",
+  "main_doc": "sample-prefix.tex",
+  "sha256": "6cc7a59f1015b7aafc6f8f1ea984aac7c1cf5559fa752e0fa5c71f99dc98cfec",
+  "size_bytes": 2328,
+  "document_class": "article",
+  "uses_packages": [
+    "glossaries-prefix",
+    "hyperref"
+  ],
+  "downloaded_at": "2026-08-02T13:04:56.445Z"
+}

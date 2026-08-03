@@ -1,0 +1,35 @@
+{
+  "id": "overleaf/ol-template-for-article-penpark-jbtfnpqztmzp",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "venue",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/template-for-article-penpark/jbtfnpqztmzp",
+  "original_author": "Penpark Sirimark",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/overleaf__ol-template-for-article-penpark-jbtfnpqztmzp/main.tex",
+  "relative_path": "processed/latex/cross-engine/overleaf__ol-template-for-article-penpark-jbtfnpqztmzp/main.tex",
+  "sha256": "4a26e720f8e94d64f859af143b28e83f909d64768de8a7fa63e160a5992e7e4c",
+  "size_bytes": 1983,
+  "document_class": "article",
+  "uses_packages": [
+    "babel",
+    "geometry",
+    "graphicx",
+    "inputenc",
+    "multicol",
+    "setspace",
+    "wrapfig",
+    "xcolor"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 272,
+  "downloaded_at": "2026-08-02T16:04:18.672Z",
+  "filtered_at": "2026-08-02T17:34:41.906Z"
+}

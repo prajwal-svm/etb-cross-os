@@ -1,0 +1,26 @@
+{
+  "id": "typst-universe/typst-fireside-1-0-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "business",
+  "license": "MIT",
+  "source_url": "https://typst.app/universe/package/fireside",
+  "original_author": "Edgar Onghena",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/typst-universe__typst-fireside-1-0-0/main.typ",
+  "relative_path": "processed/typst/typst-universe__typst-fireside-1-0-0/main.typ",
+  "sha256": "a5366400fa45ff1ff5788e8239bf3ecad56c9710212d782525be4f2c182e5fe0",
+  "size_bytes": 463,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 203,
+  "downloaded_at": "2026-08-02T13:08:27.095Z",
+  "filtered_at": "2026-08-02T17:34:43.825Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-raghoo2k-uni-rennes-typst-colors",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "beamer",
+  "license": "MIT",
+  "source_url": "https://github.com/raghoo2k/uni-rennes-typst",
+  "original_author": "raghoo2k",
+  "stars": 0,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-raghoo2k-uni-rennes-typst-colors/colors.typ",
+  "relative_path": "raw/github-typst/gh-raghoo2k-uni-rennes-typst-colors/colors.typ",
+  "main_doc": "colors.typ",
+  "sha256": "18bb55fc3e81d11e306fc6e1a1b283ff076d7de2cea43f876629c5440425cb1d",
+  "size_bytes": 520,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "src/colors.typ",
+  "downloaded_at": "2026-08-02T14:18:31.727Z"
+}

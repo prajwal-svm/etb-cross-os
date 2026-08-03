@@ -1,0 +1,28 @@
+{
+  "id": "overleaf/ol-problem-set-write-up-kbgrdsvrphkv",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "misc",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/problem-set-write-up/kbgrdsvrphkv",
+  "original_author": "Verena Kunz &amp; David Weyrauch",
+  "title": "Problem Set Write-Up",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/overleaf/ol-problem-set-write-up-kbgrdsvrphkv/main.tex",
+  "relative_path": "raw/overleaf/ol-problem-set-write-up-kbgrdsvrphkv/main.tex",
+  "main_doc": "main.tex",
+  "sha256": "19dc8249320a2d39e2d4b5155a34a53b1a8207d3db635078f8732153f77d8ef7",
+  "size_bytes": 1591,
+  "document_class": "article",
+  "uses_packages": [
+    "amsmath",
+    "babel",
+    "fancyhdr",
+    "geometry",
+    "graphicx",
+    "inputenc",
+    "setspace"
+  ],
+  "download_method": "view-source-modal",
+  "github_url": null,
+  "downloaded_at": "2026-08-02T14:52:39.886Z"
+}

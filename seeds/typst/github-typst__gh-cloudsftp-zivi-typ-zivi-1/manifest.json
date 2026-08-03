@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-cloudsftp-zivi-typ-zivi-1",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "cv",
+  "license": "Apache-2.0",
+  "source_url": "https://github.com/cloudsftp/zivi.typ",
+  "original_author": "cloudsftp",
+  "stars": 0,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-cloudsftp-zivi-typ-zivi-1/zivi.typ",
+  "relative_path": "raw/github-typst/gh-cloudsftp-zivi-typ-zivi-1/zivi.typ",
+  "main_doc": "zivi.typ",
+  "sha256": "e0b2ee28efda43f03438a11b27a154ed6cc86395a2fcb0857f11fe504dbf83a9",
+  "size_bytes": 7178,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "zivi.typ",
+  "downloaded_at": "2026-08-02T14:20:35.196Z"
+}

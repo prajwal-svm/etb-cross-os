@@ -1,0 +1,23 @@
+{
+  "id": "ctan/ctan-beamer-beamerexample-prosper",
+  "source": "ctan",
+  "format": "latex",
+  "category": "beamer",
+  "license": "LPPL-1.3c",
+  "source_url": "https://ctan.org/pkg/beamer",
+  "original_author": "CTAN package: beamer",
+  "package": "beamer",
+  "original_path": "/usr/local/texlive/2025/texmf-dist/doc/latex/beamer/emulation-examples/beamerexample-prosper.tex",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/ctan/ctan-beamer-beamerexample-prosper/beamerexample-prosper.tex",
+  "relative_path": "raw/ctan/ctan-beamer-beamerexample-prosper/beamerexample-prosper.tex",
+  "main_doc": "beamerexample-prosper.tex",
+  "sha256": "25c1a555c5c83f0a78ff9d49612c14551f26912cc07c2e39d798930d373c2850",
+  "size_bytes": 1837,
+  "document_class": "beamer",
+  "uses_packages": [
+    "beamerbasearticle",
+    "beamerprosper",
+    "hyperref"
+  ],
+  "downloaded_at": "2026-08-02T13:04:46.044Z"
+}

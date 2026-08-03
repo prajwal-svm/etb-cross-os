@@ -1,0 +1,23 @@
+{
+  "id": "typst-universe/typst-unofficial-ukim-thesis-0-1-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "thesis",
+  "license": "MIT",
+  "source_url": "https://github.com/nikkelo/unofficial-ukim-thesis",
+  "original_author": "nikkelo",
+  "package_name": "unofficial-ukim-thesis",
+  "package_version": "0.1.0",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/typst-universe/typst-unofficial-ukim-thesis-0-1-0/main.typ",
+  "relative_path": "raw/typst-universe/typst-unofficial-ukim-thesis-0-1-0/main.typ",
+  "main_doc": "main.typ",
+  "sha256": "313da11380dd00e22c9c7bc04ff098b2907835751e1a2d23e2c07e2ef7a7f345",
+  "size_bytes": 1450,
+  "document_class": null,
+  "uses_packages": [],
+  "downloaded_at": "2026-08-02T13:15:29.843Z",
+  "categories": [
+    "thesis"
+  ],
+  "description": "Unofficial thesis style for the University of St. Cyril and Methodius in Skopje."
+}

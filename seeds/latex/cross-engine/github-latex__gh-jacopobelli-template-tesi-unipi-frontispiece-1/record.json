@@ -1,0 +1,29 @@
+{
+  "id": "github-latex/gh-jacopobelli-template-tesi-unipi-frontispiece-1",
+  "source": "github-latex",
+  "format": "latex",
+  "category": "thesis",
+  "license": "MIT",
+  "source_url": "https://github.com/jacopobelli/Template-Tesi-UniPi",
+  "original_author": "jacopobelli",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/github-latex__gh-jacopobelli-template-tesi-unipi-frontispiece-1/Frontispiece.tex",
+  "relative_path": "processed/latex/cross-engine/github-latex__gh-jacopobelli-template-tesi-unipi-frontispiece-1/Frontispiece.tex",
+  "sha256": "077c45906bba60da010f5f3791d13f470428b8c6a9fd7fad5eb5fbcf3525d7b0",
+  "size_bytes": 1151,
+  "document_class": "book",
+  "uses_packages": [
+    "frontespizio",
+    "inputenc"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 216,
+  "downloaded_at": "2026-08-02T13:30:40.225Z",
+  "filtered_at": "2026-08-02T17:34:42.921Z"
+}

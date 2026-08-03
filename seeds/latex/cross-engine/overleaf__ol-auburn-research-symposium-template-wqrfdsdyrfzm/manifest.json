@@ -1,0 +1,29 @@
+{
+  "id": "overleaf/ol-auburn-research-symposium-template-wqrfdsdyrfzm",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "misc",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/auburn-research-symposium-template/wqrfdsdyrfzm",
+  "original_author": "Michael A. Alcorn",
+  "title": "Auburn Research Symposium Template",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/overleaf/ol-auburn-research-symposium-template-wqrfdsdyrfzm/main.tex",
+  "relative_path": "raw/overleaf/ol-auburn-research-symposium-template-wqrfdsdyrfzm/main.tex",
+  "main_doc": "main.tex",
+  "sha256": "727401120ea7c14f9f4da97334f72e8df6d268b8ab03cdd0460584ccf4f07eb2",
+  "size_bytes": 3593,
+  "document_class": "article",
+  "uses_packages": [
+    "amsfonts",
+    "amsmath",
+    "amssymb",
+    "gensymb",
+    "geometry",
+    "hyperref",
+    "inputenc",
+    "mathptmx"
+  ],
+  "download_method": "view-source-modal",
+  "github_url": null,
+  "downloaded_at": "2026-08-02T14:37:59.470Z"
+}

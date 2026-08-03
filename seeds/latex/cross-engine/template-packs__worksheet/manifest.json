@@ -1,0 +1,26 @@
+{
+  "id": "template-packs/worksheet",
+  "source": "template-packs",
+  "format": "latex",
+  "category": "coursework",
+  "category_raw": "Assignments",
+  "license": "CC0-1.0",
+  "source_url": "https://github.com/Oleafly/template-packs",
+  "original_author": "Oleafly",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/template-packs/worksheet/main.tex",
+  "relative_path": "raw/template-packs/worksheet/main.tex",
+  "main_doc": "main.tex",
+  "sha256": "d65c7be1aab577fcacee5e60ee01510373800c00e58570f3f2831fa4dd2fe904",
+  "size_bytes": 1508,
+  "document_class": "article",
+  "uses_packages": [
+    "amsmath",
+    "amssymb",
+    "enumitem",
+    "geometry",
+    "lmodern",
+    "xcolor"
+  ],
+  "engine_hint": "xetex",
+  "downloaded_at": "2026-08-02T13:05:15.829Z"
+}

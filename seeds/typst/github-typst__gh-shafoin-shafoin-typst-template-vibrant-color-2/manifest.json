@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-shafoin-shafoin-typst-template-vibrant-color-2",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "report",
+  "license": "MIT",
+  "source_url": "https://github.com/SHAfoin/shafoin-typst-template",
+  "original_author": "SHAfoin",
+  "stars": 23,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-shafoin-shafoin-typst-template-vibrant-color-2/vibrant-color.typ",
+  "relative_path": "raw/github-typst/gh-shafoin-shafoin-typst-template-vibrant-color-2/vibrant-color.typ",
+  "main_doc": "vibrant-color.typ",
+  "sha256": "751ea418c2c20b68f2380a4f8ea5c6a445283c60c387af4f6fd1ea9ac1afc3fd",
+  "size_bytes": 14902,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "vibrant-color.typ",
+  "downloaded_at": "2026-08-02T14:04:43.552Z"
+}

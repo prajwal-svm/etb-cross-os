@@ -1,0 +1,26 @@
+{
+  "id": "typst-universe/typst-infodoc-unr10-0-1-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "business",
+  "license": "MIT-0",
+  "source_url": "https://github.com/woodleader/infodoc-unr10",
+  "original_author": "Gregor",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/typst-universe__typst-infodoc-unr10-0-1-0/main.typ",
+  "relative_path": "processed/typst/typst-universe__typst-infodoc-unr10-0-1-0/main.typ",
+  "sha256": "76202075a098f55d6c162e6109e122fc100af1c488031ca0be57e89817505770",
+  "size_bytes": 2806,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 239,
+  "downloaded_at": "2026-08-02T13:09:21.937Z",
+  "filtered_at": "2026-08-02T17:34:43.904Z"
+}

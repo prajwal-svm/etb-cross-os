@@ -1,0 +1,28 @@
+{
+  "id": "overleaf/ol-shang-hai-da-xue-ke-cheng-lun-wen-mo-ban-cdjvxnynrgzh",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "misc",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/shang-hai-da-xue-ke-cheng-lun-wen-mo-ban/cdjvxnynrgzh",
+  "original_author": "Sheng Li",
+  "title": "上海大学课程论文模板",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/overleaf/ol-shang-hai-da-xue-ke-cheng-lun-wen-mo-ban-cdjvxnynrgzh/课程笔记.tex",
+  "relative_path": "raw/overleaf/ol-shang-hai-da-xue-ke-cheng-lun-wen-mo-ban-cdjvxnynrgzh/课程笔记.tex",
+  "main_doc": "课程笔记.tex",
+  "sha256": "25dc066c1cb451e86f5b7df7a0ed94eb68188dd74b00ff6aba229986d2148f28",
+  "size_bytes": 1057,
+  "document_class": "ctexbook",
+  "uses_packages": [
+    "amsmath",
+    "amssymb",
+    "amsthm",
+    "bm",
+    "graphicx",
+    "hyperref",
+    "mathrsfs"
+  ],
+  "download_method": "github:https://github.com/Ellison-Lee/Templates-for-Latex",
+  "github_url": "https://github.com/Ellison-Lee/Templates-for-Latex",
+  "downloaded_at": "2026-08-02T15:15:41.484Z"
+}

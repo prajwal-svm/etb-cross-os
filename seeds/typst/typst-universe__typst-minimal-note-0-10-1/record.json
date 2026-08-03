@@ -1,0 +1,26 @@
+{
+  "id": "typst-universe/typst-minimal-note-0-10-1",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "book",
+  "license": "MIT-0",
+  "source_url": "https://github.com/Michel-Liao/minimal-note",
+  "original_author": "Michel Liao",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/typst-universe__typst-minimal-note-0-10-1/main.typ",
+  "relative_path": "processed/typst/typst-universe__typst-minimal-note-0-10-1/main.typ",
+  "sha256": "31aa4ab6d2d0dac68d47d45e622f7375d4907aa407c34e2cc5a44e795d7c5280",
+  "size_bytes": 1532,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 278,
+  "downloaded_at": "2026-08-02T13:10:25.739Z",
+  "filtered_at": "2026-08-02T17:34:43.986Z"
+}

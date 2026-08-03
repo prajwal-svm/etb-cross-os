@@ -1,0 +1,30 @@
+{
+  "id": "overleaf/ol-math-exam-cfvkynmmqvjb",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "coursework",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/math-exam/cfvkynmmqvjb",
+  "original_author": "robotliu",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/overleaf__ol-math-exam-cfvkynmmqvjb/main.tex",
+  "relative_path": "processed/latex/cross-engine/overleaf__ol-math-exam-cfvkynmmqvjb/main.tex",
+  "sha256": "2200615fdbadff14a5236b7adb2b09b076771c56f8fbbd8316b1aa3783a4d658",
+  "size_bytes": 1700,
+  "document_class": "article",
+  "uses_packages": [
+    "amsmath",
+    "geometry",
+    "mathexam"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 271,
+  "downloaded_at": "2026-08-02T14:15:10.900Z",
+  "filtered_at": "2026-08-02T17:34:41.373Z"
+}

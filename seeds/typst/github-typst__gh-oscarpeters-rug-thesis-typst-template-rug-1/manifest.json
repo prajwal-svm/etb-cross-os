@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-oscarpeters-rug-thesis-typst-template-rug-1",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "thesis",
+  "license": "MIT",
+  "source_url": "https://github.com/oscarpeters/RUG-Thesis_Typst_template",
+  "original_author": "oscarpeters",
+  "stars": 1,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-oscarpeters-rug-thesis-typst-template-rug-1/RUG.typ",
+  "relative_path": "raw/github-typst/gh-oscarpeters-rug-thesis-typst-template-rug-1/RUG.typ",
+  "main_doc": "RUG.typ",
+  "sha256": "984a1d2f4f2ff940d9a1cd8bea8718e5c7c8a5cbfcff3f4467eece8309b67e4e",
+  "size_bytes": 6284,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "template/RUG.typ",
+  "downloaded_at": "2026-08-02T14:11:52.155Z"
+}

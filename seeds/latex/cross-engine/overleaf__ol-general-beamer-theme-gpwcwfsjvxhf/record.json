@@ -1,0 +1,30 @@
+{
+  "id": "overleaf/ol-general-beamer-theme-gpwcwfsjvxhf",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "beamer",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/general-beamer-theme/gpwcwfsjvxhf",
+  "original_author": "Pin-Yen Huang",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/overleaf__ol-general-beamer-theme-gpwcwfsjvxhf/sample.tex",
+  "relative_path": "processed/latex/cross-engine/overleaf__ol-general-beamer-theme-gpwcwfsjvxhf/sample.tex",
+  "sha256": "24507b70d12d57b2d2d9e7dc032a0b644433af06cb025c391211168395cffc8c",
+  "size_bytes": 5447,
+  "document_class": "beamer",
+  "uses_packages": [
+    "booktabs",
+    "graphicx",
+    "hyperref"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 1005,
+  "downloaded_at": "2026-08-02T14:40:35.714Z",
+  "filtered_at": "2026-08-02T17:34:41.190Z"
+}

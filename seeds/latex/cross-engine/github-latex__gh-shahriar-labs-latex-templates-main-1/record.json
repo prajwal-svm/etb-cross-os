@@ -1,0 +1,40 @@
+{
+  "id": "github-latex/gh-shahriar-labs-latex-templates-main-1",
+  "source": "github-latex",
+  "format": "latex",
+  "category": "beamer",
+  "license": "MIT",
+  "source_url": "https://github.com/Shahriar-Labs/latex-templates",
+  "original_author": "Shahriar-Labs",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/github-latex__gh-shahriar-labs-latex-templates-main-1/main.tex",
+  "relative_path": "processed/latex/cross-engine/github-latex__gh-shahriar-labs-latex-templates-main-1/main.tex",
+  "sha256": "ffca6d3900fa867fc967b3c76b802765f8a787638d8b72b90315711b32094b3f",
+  "size_bytes": 7530,
+  "document_class": "article",
+  "uses_packages": [
+    "enumitem",
+    "fancyhdr",
+    "fontenc",
+    "geometry",
+    "hyperref",
+    "inputenc",
+    "microtype",
+    "parskip",
+    "setspace",
+    "sourcesanspro",
+    "tgpagella",
+    "titlesec",
+    "xcolor"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 783,
+  "downloaded_at": "2026-08-02T13:42:39.028Z",
+  "filtered_at": "2026-08-02T17:34:43.383Z"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "github-latex/gh-alexeyqu-latex-cv-stamp-example",
+  "source": "github-latex",
+  "format": "latex",
+  "category": "cv",
+  "license": "MIT",
+  "source_url": "https://github.com/alexeyqu/latex-cv-stamp",
+  "original_author": "alexeyqu",
+  "stars": 5,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-latex/gh-alexeyqu-latex-cv-stamp-example/example.tex",
+  "relative_path": "raw/github-latex/gh-alexeyqu-latex-cv-stamp-example/example.tex",
+  "main_doc": "example.tex",
+  "sha256": "7b8b4e6187e91be6593abd3311ab200ae04e005c1c5feef6ce41fe6da6c26b66",
+  "size_bytes": 1071,
+  "document_class": "article",
+  "uses_packages": [
+    "fontspec",
+    "geometry",
+    "hyperref",
+    "textpos",
+    "xcolor"
+  ],
+  "repo_path": "example.tex",
+  "downloaded_at": "2026-08-02T13:28:16.629Z"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "typst-universe/typst-dudi-colorful-slides-0-1-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "beamer",
+  "license": "MIT-0",
+  "source_url": "https://github.com/dudi0D/dudi-colorful-template",
+  "original_author": "Dmitry Egorychev",
+  "package_name": "dudi-colorful-slides",
+  "package_version": "0.1.0",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/typst-universe/typst-dudi-colorful-slides-0-1-0/main.typ",
+  "relative_path": "raw/typst-universe/typst-dudi-colorful-slides-0-1-0/main.typ",
+  "main_doc": "main.typ",
+  "sha256": "bc5753dd077984e0f26de65ba3e70d3b78569c999a92d6c882ccedff574baa28",
+  "size_bytes": 2301,
+  "document_class": null,
+  "uses_packages": [],
+  "downloaded_at": "2026-08-02T13:07:50.177Z",
+  "categories": [
+    "visualization",
+    "presentation"
+  ],
+  "description": "Presentation (16:9 slides) with triangle patterns as decoration"
+}

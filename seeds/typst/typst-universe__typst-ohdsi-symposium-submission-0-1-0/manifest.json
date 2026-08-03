@@ -1,0 +1,24 @@
+{
+  "id": "typst-universe/typst-ohdsi-symposium-submission-0-1-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "venue",
+  "license": "MIT",
+  "source_url": "https://github.com/huanhe4096/packages",
+  "original_author": "Huan He",
+  "package_name": "ohdsi-symposium-submission",
+  "package_version": "0.1.0",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/typst-universe/typst-ohdsi-symposium-submission-0-1-0/main.typ",
+  "relative_path": "raw/typst-universe/typst-ohdsi-symposium-submission-0-1-0/main.typ",
+  "main_doc": "main.typ",
+  "sha256": "d7d4288dce438a386689a5de807cb64f04987a01f27678a3c5f3534cd1699034",
+  "size_bytes": 1965,
+  "document_class": null,
+  "uses_packages": [],
+  "downloaded_at": "2026-08-02T13:11:46.768Z",
+  "categories": [
+    "paper",
+    "report"
+  ],
+  "description": "Brief reports for the OHDSI symposium."
+}

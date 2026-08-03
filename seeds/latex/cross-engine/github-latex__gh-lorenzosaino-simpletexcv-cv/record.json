@@ -1,0 +1,35 @@
+{
+  "id": "github-latex/gh-lorenzosaino-simpletexcv-cv",
+  "source": "github-latex",
+  "format": "latex",
+  "category": "cv",
+  "license": "MIT",
+  "source_url": "https://github.com/lorenzosaino/simpletexcv",
+  "original_author": "lorenzosaino",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/github-latex__gh-lorenzosaino-simpletexcv-cv/cv.tex",
+  "relative_path": "processed/latex/cross-engine/github-latex__gh-lorenzosaino-simpletexcv-cv/cv.tex",
+  "sha256": "0431765106f903d31095eab9e50b578e1706c983057da5668c6296b3477382ac",
+  "size_bytes": 9568,
+  "document_class": "letter",
+  "uses_packages": [
+    "changepage",
+    "enumitem",
+    "geometry",
+    "hyperref",
+    "ifthen",
+    "scrextend",
+    "ulem",
+    "url"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 363,
+  "downloaded_at": "2026-08-02T13:17:03.676Z",
+  "filtered_at": "2026-08-02T17:34:43.083Z"
+}

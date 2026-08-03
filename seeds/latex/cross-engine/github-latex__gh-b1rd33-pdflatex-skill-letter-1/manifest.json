@@ -1,0 +1,27 @@
+{
+  "id": "github-latex/gh-b1rd33-pdflatex-skill-letter-1",
+  "source": "github-latex",
+  "format": "latex",
+  "category": "beamer",
+  "license": "MIT",
+  "source_url": "https://github.com/b1rd33/pdflatex-skill",
+  "original_author": "b1rd33",
+  "stars": 1,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-latex/gh-b1rd33-pdflatex-skill-letter-1/letter.tex",
+  "relative_path": "raw/github-latex/gh-b1rd33-pdflatex-skill-letter-1/letter.tex",
+  "main_doc": "letter.tex",
+  "sha256": "04846d8a253e6bfa7282a5a7f54a9df26a2822180993133ae69d34394e5346c1",
+  "size_bytes": 3144,
+  "document_class": "letter",
+  "uses_packages": [
+    "fontenc",
+    "geometry",
+    "hyperref",
+    "inputenc",
+    "lmodern",
+    "microtype",
+    "xcolor"
+  ],
+  "repo_path": "examples/letter.tex",
+  "downloaded_at": "2026-08-02T13:42:59.595Z"
+}

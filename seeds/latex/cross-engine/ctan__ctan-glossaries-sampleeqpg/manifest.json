@@ -1,0 +1,23 @@
+{
+  "id": "ctan/ctan-glossaries-sampleeqpg",
+  "source": "ctan",
+  "format": "latex",
+  "category": "package-example",
+  "license": "LPPL-1.3c",
+  "source_url": "https://ctan.org/pkg/glossaries",
+  "original_author": "CTAN package: glossaries",
+  "package": "glossaries",
+  "original_path": "/usr/local/texlive/2025/texmf-dist/doc/latex/glossaries/samples/sampleEqPg.tex",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/ctan/ctan-glossaries-sampleeqpg/sampleEqPg.tex",
+  "relative_path": "raw/ctan/ctan-glossaries-sampleeqpg/sampleEqPg.tex",
+  "main_doc": "sampleEqPg.tex",
+  "sha256": "78b3259acd69ea2893e83b8d8b6fc725a54c3f5ca1788094dca9ef33c64842f6",
+  "size_bytes": 7935,
+  "document_class": "report",
+  "uses_packages": [
+    "amsmath",
+    "glossaries",
+    "hyperref"
+  ],
+  "downloaded_at": "2026-08-02T13:04:56.435Z"
+}

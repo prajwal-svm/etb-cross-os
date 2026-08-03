@@ -1,0 +1,25 @@
+{
+  "id": "typst-universe/typst-grape-suite-4-0-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "venue",
+  "license": "MIT",
+  "source_url": "https://github.com/piepert/grape-suite",
+  "original_author": "Tristan Pieper",
+  "package_name": "grape-suite",
+  "package_version": "4.0.0",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/typst-universe/typst-grape-suite-4-0-0/main.typ",
+  "relative_path": "raw/typst-universe/typst-grape-suite-4-0-0/main.typ",
+  "main_doc": "main.typ",
+  "sha256": "e88e4ab3901b6394db6ba2bcf9925b5f571055a5af3353e60f135e38519ef1fa",
+  "size_bytes": 857,
+  "document_class": null,
+  "uses_packages": [],
+  "downloaded_at": "2026-08-02T13:08:44.863Z",
+  "categories": [
+    "layout",
+    "paper",
+    "presentation"
+  ],
+  "description": "Library of templates for exams, seminar papers, homeworks, etc."
+}

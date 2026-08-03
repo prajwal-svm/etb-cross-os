@@ -1,0 +1,26 @@
+{
+  "id": "typst-universe/typst-hetvid-0-2-1",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "report",
+  "license": "MIT-0",
+  "source_url": "https://typst.app/universe/package/hetvid",
+  "original_author": "itpyi",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/typst-universe__typst-hetvid-0-2-1/main.typ",
+  "relative_path": "processed/typst/typst-universe__typst-hetvid-0-2-1/main.typ",
+  "sha256": "60ecf58530cc382fe994704a2e7664bedd1f06ad33ebb0efcd564d1a710c6e62",
+  "size_bytes": 422,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 238,
+  "downloaded_at": "2026-08-02T13:09:02.036Z",
+  "filtered_at": "2026-08-02T17:34:43.872Z"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "typst-universe/typst-sheetstorm-0-5-1",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "report",
+  "license": "MIT",
+  "source_url": "https://github.com/rabuu/sheetstorm",
+  "original_author": "Rasmus Buurman",
+  "package_name": "sheetstorm",
+  "package_version": "0.5.1",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/typst-universe/typst-sheetstorm-0-5-1/assignment.typ",
+  "relative_path": "raw/typst-universe/typst-sheetstorm-0-5-1/assignment.typ",
+  "main_doc": "assignment.typ",
+  "sha256": "302e1120d40e528f2ca9b66e81921faa297d254e7f6f2ee7e7bbe7228049fa8f",
+  "size_bytes": 249,
+  "document_class": null,
+  "uses_packages": [],
+  "downloaded_at": "2026-08-02T13:12:44.331Z",
+  "categories": [
+    "layout",
+    "report"
+  ],
+  "description": "A template for assignment sheets."
+}

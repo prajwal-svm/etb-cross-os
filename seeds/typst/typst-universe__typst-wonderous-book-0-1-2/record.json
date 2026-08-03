@@ -1,0 +1,26 @@
+{
+  "id": "typst-universe/typst-wonderous-book-0-1-2",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "book",
+  "license": "MIT-0",
+  "source_url": "https://github.com/typst/templates",
+  "original_author": "Typst GmbH",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/typst-universe__typst-wonderous-book-0-1-2/main.typ",
+  "relative_path": "processed/typst/typst-universe__typst-wonderous-book-0-1-2/main.typ",
+  "sha256": "cf339e87d72ac7274c3fd7293c61f6a27fa4c8849f0deb0156c3132dc77eda29",
+  "size_bytes": 2455,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 301,
+  "downloaded_at": "2026-08-02T13:15:54.272Z",
+  "filtered_at": "2026-08-02T17:34:44.413Z"
+}

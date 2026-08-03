@@ -1,0 +1,23 @@
+{
+  "id": "template-packs/motivation-letter",
+  "source": "template-packs",
+  "format": "latex",
+  "category": "letter",
+  "category_raw": "Letters",
+  "license": "CC0-1.0",
+  "source_url": "https://github.com/Oleafly/template-packs",
+  "original_author": "Oleafly",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/template-packs/motivation-letter/main.tex",
+  "relative_path": "raw/template-packs/motivation-letter/main.tex",
+  "main_doc": "main.tex",
+  "sha256": "48b239c3c181b17aec9b3b8abebc66af46716a7d3de626ec10d8db79894d678d",
+  "size_bytes": 2117,
+  "document_class": "article",
+  "uses_packages": [
+    "geometry",
+    "hyperref",
+    "xcolor"
+  ],
+  "engine_hint": "xetex",
+  "downloaded_at": "2026-08-02T13:05:15.753Z"
+}

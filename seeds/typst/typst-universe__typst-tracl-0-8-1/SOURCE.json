@@ -1,0 +1,11 @@
+{
+  "source": "Typst Universe",
+  "source_url": "https://github.com/coli-saar/tracl",
+  "original_author": "Alexander Koller",
+  "license": "Apache-2.0",
+  "license_url": "https://www.apache.org/licenses/LICENSE-2.0",
+  "downloaded_at": "2026-08-02T13:14:30.284Z",
+  "package": "tracl",
+  "version": "0.8.1",
+  "universe_url": "https://typst.app/universe/package/tracl"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "overleaf/ol-wildlife-management-and-tourism-conference-2024-wmtc24-xnqhhghgzfkn",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "venue",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/wildlife-management-and-tourism-conference-2024-wmtc24/xnqhhghgzfkn",
+  "original_author": "Kudakwashe Hove",
+  "title": "Wildlife Management and Tourism Conference 2024 (WMTC24)",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/overleaf/ol-wildlife-management-and-tourism-conference-2024-wmtc24-xnqhhghgzfkn/main.tex",
+  "relative_path": "raw/overleaf/ol-wildlife-management-and-tourism-conference-2024-wmtc24-xnqhhghgzfkn/main.tex",
+  "main_doc": "main.tex",
+  "sha256": "c2c451d0d1f5c7aadd93ab0c4fa1740dc80004dff9f537ad8f7a0007d1c1d6bf",
+  "size_bytes": 3477,
+  "document_class": "article",
+  "uses_packages": [
+    "geometry",
+    "inputenc",
+    "setspace",
+    "times"
+  ],
+  "download_method": "view-source-modal",
+  "github_url": null,
+  "downloaded_at": "2026-08-02T16:23:56.993Z"
+}

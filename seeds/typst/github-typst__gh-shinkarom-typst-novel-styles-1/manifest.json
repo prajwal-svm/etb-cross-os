@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-shinkarom-typst-novel-styles-1",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "misc",
+  "license": "MIT",
+  "source_url": "https://github.com/shinkarom/typst-novel",
+  "original_author": "shinkarom",
+  "stars": 0,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-shinkarom-typst-novel-styles-1/styles.typ",
+  "relative_path": "raw/github-typst/gh-shinkarom-typst-novel-styles-1/styles.typ",
+  "main_doc": "styles.typ",
+  "sha256": "cfa10a19da51be537fe46718914aea371421113a43953e124f33f7ee2412fdf5",
+  "size_bytes": 274,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "styles.typ",
+  "downloaded_at": "2026-08-02T14:14:20.988Z"
+}

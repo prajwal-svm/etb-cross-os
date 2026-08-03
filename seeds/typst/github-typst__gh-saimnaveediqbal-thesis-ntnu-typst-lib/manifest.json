@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-saimnaveediqbal-thesis-ntnu-typst-lib",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "thesis",
+  "license": "MIT",
+  "source_url": "https://github.com/saimnaveediqbal/thesis-NTNU-typst",
+  "original_author": "saimnaveediqbal",
+  "stars": 8,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-saimnaveediqbal-thesis-ntnu-typst-lib/lib.typ",
+  "relative_path": "raw/github-typst/gh-saimnaveediqbal-thesis-ntnu-typst-lib/lib.typ",
+  "main_doc": "lib.typ",
+  "sha256": "6931f6795308fa282d280c984615187ff94471661e3f1fba4be1a018fb6cf0b7",
+  "size_bytes": 8978,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "lib.typ",
+  "downloaded_at": "2026-08-02T14:06:28.900Z"
+}

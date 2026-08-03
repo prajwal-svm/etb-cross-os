@@ -1,0 +1,26 @@
+{
+  "id": "typst-universe/typst-stagehand-0-1-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "book",
+  "license": "MIT",
+  "source_url": "https://github.com/aarquelle/stagehand",
+  "original_author": "Aaron Prott",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/typst-universe__typst-stagehand-0-1-0/main.typ",
+  "relative_path": "processed/typst/typst-universe__typst-stagehand-0-1-0/main.typ",
+  "sha256": "9158cf625b71503573030d072afc009a5d2cfb0c4ad26b910890442751bcaaf7",
+  "size_bytes": 3176,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 229,
+  "downloaded_at": "2026-08-02T13:13:13.849Z",
+  "filtered_at": "2026-08-02T17:34:44.210Z"
+}

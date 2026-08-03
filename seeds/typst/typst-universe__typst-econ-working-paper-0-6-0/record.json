@@ -1,0 +1,26 @@
+{
+  "id": "typst-universe/typst-econ-working-paper-0-6-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "venue",
+  "license": "MIT",
+  "source_url": "https://github.com/statzhero/econ-working-paper",
+  "original_author": "Ulrich Atz",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/typst-universe__typst-econ-working-paper-0-6-0/main.typ",
+  "relative_path": "processed/typst/typst-universe__typst-econ-working-paper-0-6-0/main.typ",
+  "sha256": "04b520a20cb4ee99a288155f0e3959133079d436885cb00b60ee83fd034dbe62",
+  "size_bytes": 2100,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 263,
+  "downloaded_at": "2026-08-02T13:07:56.945Z",
+  "filtered_at": "2026-08-02T17:34:43.786Z"
+}

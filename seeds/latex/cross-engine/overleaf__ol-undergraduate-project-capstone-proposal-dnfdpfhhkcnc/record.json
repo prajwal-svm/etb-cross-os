@@ -1,0 +1,29 @@
+{
+  "id": "overleaf/ol-undergraduate-project-capstone-proposal-dnfdpfhhkcnc",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "misc",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/undergraduate-project-capstone-proposal/dnfdpfhhkcnc",
+  "original_author": "Joseph Eppich",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/overleaf__ol-undergraduate-project-capstone-proposal-dnfdpfhhkcnc/main.tex",
+  "relative_path": "processed/latex/cross-engine/overleaf__ol-undergraduate-project-capstone-proposal-dnfdpfhhkcnc/main.tex",
+  "sha256": "6e85b4473e04561747f46074a8ba589f4b65fcee7f57ad97005abd1955f97ef7",
+  "size_bytes": 2834,
+  "document_class": "article",
+  "uses_packages": [
+    "geometry",
+    "inputenc"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 246,
+  "downloaded_at": "2026-08-02T14:37:42.964Z",
+  "filtered_at": "2026-08-02T17:34:42.082Z"
+}

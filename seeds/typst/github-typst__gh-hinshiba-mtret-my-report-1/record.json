@@ -1,0 +1,26 @@
+{
+  "id": "github-typst/gh-hinshiba-mtret-my-report-1",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "report",
+  "license": "MIT",
+  "source_url": "https://github.com/hinshiba/MTReT",
+  "original_author": "hinshiba",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/github-typst__gh-hinshiba-mtret-my-report-1/my_report.typ",
+  "relative_path": "processed/typst/github-typst__gh-hinshiba-mtret-my-report-1/my_report.typ",
+  "sha256": "1c9662608185f92503a0354e730aa86af967716c4f45b16c9ebe44dda25bdbc9",
+  "size_bytes": 7990,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 431,
+  "downloaded_at": "2026-08-02T14:08:06.639Z",
+  "filtered_at": "2026-08-02T17:34:44.969Z"
+}

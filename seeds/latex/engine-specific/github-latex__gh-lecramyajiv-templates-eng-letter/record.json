@@ -1,0 +1,37 @@
+{
+  "id": "github-latex/gh-lecramyajiv-templates-eng-letter",
+  "source": "github-latex",
+  "format": "latex",
+  "category": "letter",
+  "license": "Apache-2.0",
+  "source_url": "https://github.com/lecramyajiv/Templates",
+  "original_author": "lecramyajiv",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/engine-specific/github-latex__gh-lecramyajiv-templates-eng-letter/eng-letter.tex",
+  "relative_path": "processed/latex/engine-specific/github-latex__gh-lecramyajiv-templates-eng-letter/eng-letter.tex",
+  "sha256": "317f097d744d80b78652a7a5f20f682630534e1eaabbc8e46e86b3c3cd5035f7",
+  "size_bytes": 1706,
+  "document_class": "article",
+  "uses_packages": [
+    "blindtext",
+    "datetime",
+    "fontspec",
+    "geometry",
+    "hyphenat",
+    "lipsum",
+    "microtype",
+    "seqsplit",
+    "setspace",
+    "textpos"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": false,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "engine-specific",
+  "compile_time_ms": 560,
+  "downloaded_at": "2026-08-02T13:43:28.738Z",
+  "filtered_at": "2026-08-02T17:34:43.041Z"
+}

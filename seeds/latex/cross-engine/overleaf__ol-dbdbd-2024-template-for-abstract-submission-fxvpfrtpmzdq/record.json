@@ -1,0 +1,33 @@
+{
+  "id": "overleaf/ol-dbdbd-2024-template-for-abstract-submission-fxvpfrtpmzdq",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "misc",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/dbdbd-2024-template-for-abstract-submission/fxvpfrtpmzdq",
+  "original_author": "Ilaria Battiston",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/overleaf__ol-dbdbd-2024-template-for-abstract-submission-fxvpfrtpmzdq/main.tex",
+  "relative_path": "processed/latex/cross-engine/overleaf__ol-dbdbd-2024-template-for-abstract-submission-fxvpfrtpmzdq/main.tex",
+  "sha256": "26afad31d6b42306c2314999eb2ef97475d82bab0e4a0cb17773acbefe3fe0f9",
+  "size_bytes": 1819,
+  "document_class": "article",
+  "uses_packages": [
+    "amsfonts",
+    "amsmath",
+    "amssymb",
+    "geometry",
+    "graphicx",
+    "latexsym"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 270,
+  "downloaded_at": "2026-08-02T16:18:40.287Z",
+  "filtered_at": "2026-08-02T17:34:41.068Z"
+}

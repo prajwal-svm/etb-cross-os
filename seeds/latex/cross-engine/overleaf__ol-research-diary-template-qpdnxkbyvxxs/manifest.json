@@ -1,0 +1,30 @@
+{
+  "id": "overleaf/ol-research-diary-template-qpdnxkbyvxxs",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "misc",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/research-diary-template/qpdnxkbyvxxs",
+  "original_author": "Simon Haastert",
+  "title": "Research Diary Template",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/overleaf/ol-research-diary-template-qpdnxkbyvxxs/template_en.tex",
+  "relative_path": "raw/overleaf/ol-research-diary-template-qpdnxkbyvxxs/template_en.tex",
+  "main_doc": "template_en.tex",
+  "sha256": "38937412b6a3dfc01ed0f35072c478b65dab2b9b4ae0ab649bd789b2ac8839a4",
+  "size_bytes": 3990,
+  "document_class": "article",
+  "uses_packages": [
+    "amsfonts",
+    "amsmath",
+    "booktabs",
+    "color",
+    "enumitem",
+    "geometry",
+    "hyperref",
+    "inputenc",
+    "titlesec"
+  ],
+  "download_method": "github:https://github.com/SimonHashtag/research_diary_latex_template",
+  "github_url": "https://github.com/SimonHashtag/research_diary_latex_template",
+  "downloaded_at": "2026-08-02T13:45:51.352Z"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "github-typst/gh-kilpkonn-typst-thesis-template",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "thesis",
+  "license": "MIT",
+  "source_url": "https://github.com/kilpkonn/typst-thesis",
+  "original_author": "kilpkonn",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/github-typst__gh-kilpkonn-typst-thesis-template/template.typ",
+  "relative_path": "processed/typst/github-typst__gh-kilpkonn-typst-thesis-template/template.typ",
+  "sha256": "8da152a270de835b816beeca70e4d5f8544fa50f59991718a53e8043f5f497ca",
+  "size_bytes": 5817,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 11,
+  "downloaded_at": "2026-08-02T14:13:50.786Z",
+  "filtered_at": "2026-08-02T17:34:45.141Z"
+}

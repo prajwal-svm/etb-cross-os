@@ -1,0 +1,19 @@
+{
+  "id": "github-latex/gh-baptistep31-latex-template-main",
+  "source": "github-latex",
+  "format": "latex",
+  "category": "report",
+  "license": "MIT",
+  "source_url": "https://github.com/BaptisteP31/latex-template",
+  "original_author": "BaptisteP31",
+  "stars": 0,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-latex/gh-baptistep31-latex-template-main/main.tex",
+  "relative_path": "raw/github-latex/gh-baptistep31-latex-template-main/main.tex",
+  "main_doc": "main.tex",
+  "sha256": "db7d607d6eb525f60895a812cb26006f1cab7f0619294f6be692f8a8a7a7ad65",
+  "size_bytes": 9721,
+  "document_class": "article",
+  "uses_packages": [],
+  "repo_path": "main.tex",
+  "downloaded_at": "2026-08-02T13:58:34.416Z"
+}

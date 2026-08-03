@@ -1,0 +1,34 @@
+{
+  "id": "overleaf/ol-mathematics-proofs-template-pnsyjzbmcggf",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "misc",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/mathematics-proofs-template/pnsyjzbmcggf",
+  "original_author": "Amanda Leigh",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/overleaf__ol-mathematics-proofs-template-pnsyjzbmcggf/main.tex",
+  "relative_path": "processed/latex/cross-engine/overleaf__ol-mathematics-proofs-template-pnsyjzbmcggf/main.tex",
+  "sha256": "1b041affc8dbc79b5b747672b2cca0b940ebfddbc7837c21c7f9ad5f3602c11c",
+  "size_bytes": 582,
+  "document_class": "article",
+  "uses_packages": [
+    "amsmath",
+    "amssymb",
+    "geometry",
+    "graphicx",
+    "inputenc",
+    "parskip",
+    "xcolor"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 300,
+  "downloaded_at": "2026-08-02T14:14:30.689Z",
+  "filtered_at": "2026-08-02T17:34:41.377Z"
+}

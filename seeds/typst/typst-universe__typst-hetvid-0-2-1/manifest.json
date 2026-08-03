@@ -1,0 +1,23 @@
+{
+  "id": "typst-universe/typst-hetvid-0-2-1",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "report",
+  "license": "MIT-0",
+  "source_url": "https://typst.app/universe/package/hetvid",
+  "original_author": "itpyi",
+  "package_name": "hetvid",
+  "package_version": "0.2.1",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/typst-universe/typst-hetvid-0-2-1/main.typ",
+  "relative_path": "raw/typst-universe/typst-hetvid-0-2-1/main.typ",
+  "main_doc": "main.typ",
+  "sha256": "60ecf58530cc382fe994704a2e7664bedd1f06ad33ebb0efcd564d1a710c6e62",
+  "size_bytes": 422,
+  "document_class": null,
+  "uses_packages": [],
+  "downloaded_at": "2026-08-02T13:09:02.036Z",
+  "categories": [
+    "report"
+  ],
+  "description": "A template for light notes"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "typst-universe/typst-jaconf-0-7-1",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "venue",
+  "license": "MIT-0",
+  "source_url": "https://github.com/kimushun1101/typst-jaconf",
+  "original_author": "Shunsuke Kimura",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/typst-universe__typst-jaconf-0-7-1/main.typ",
+  "relative_path": "processed/typst/typst-universe__typst-jaconf-0-7-1/main.typ",
+  "sha256": "8a83a0ba12ffa2de48519ccd44b94ad1b98b15b3e8675a3c844eafe9456e9668",
+  "size_bytes": 11497,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 735,
+  "downloaded_at": "2026-08-02T13:09:35.969Z",
+  "filtered_at": "2026-08-02T17:34:43.918Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-vwwvvw-shuxuejuan-env-2",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "coursework",
+  "license": "MIT",
+  "source_url": "https://github.com/VWWVVW/shuxuejuan",
+  "original_author": "VWWVVW",
+  "stars": 3,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-vwwvvw-shuxuejuan-env-2/env.typ",
+  "relative_path": "raw/github-typst/gh-vwwvvw-shuxuejuan-env-2/env.typ",
+  "main_doc": "env.typ",
+  "sha256": "38a4bd78f9c521f7c85448f796f3025071a29e0ff238e5a5135e80a1b2581091",
+  "size_bytes": 2767,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "src/env.typ",
+  "downloaded_at": "2026-08-02T14:09:12.851Z"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "template-packs/motivation-letter",
+  "source": "template-packs",
+  "format": "latex",
+  "category": "letter",
+  "license": "CC0-1.0",
+  "source_url": "https://github.com/Oleafly/template-packs",
+  "original_author": "Oleafly",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/template-packs__motivation-letter/main.tex",
+  "relative_path": "processed/latex/cross-engine/template-packs__motivation-letter/main.tex",
+  "sha256": "48b239c3c181b17aec9b3b8abebc66af46716a7d3de626ec10d8db79894d678d",
+  "size_bytes": 2117,
+  "document_class": "article",
+  "uses_packages": [
+    "geometry",
+    "hyperref",
+    "xcolor"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 346,
+  "downloaded_at": "2026-08-02T13:05:15.753Z",
+  "filtered_at": "2026-08-02T17:34:40.824Z"
+}

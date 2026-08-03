@@ -1,0 +1,23 @@
+{
+  "id": "typst-universe/typst-pesha-0-4-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "cv",
+  "license": "MIT-0",
+  "source_url": "https://github.com/talal/pesha",
+  "original_author": "Muhammad Talal Anwar",
+  "package_name": "pesha",
+  "package_version": "0.4.0",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/typst-universe/typst-pesha-0-4-0/main.typ",
+  "relative_path": "raw/typst-universe/typst-pesha-0-4-0/main.typ",
+  "main_doc": "main.typ",
+  "sha256": "95d48cba03107c6f1854c73b1f808598856b3c3a294122089692fec0dcff1951",
+  "size_bytes": 1585,
+  "document_class": null,
+  "uses_packages": [],
+  "downloaded_at": "2026-08-02T13:12:01.984Z",
+  "categories": [
+    "cv"
+  ],
+  "description": "A clean and minimal template for your résumé or CV"
+}

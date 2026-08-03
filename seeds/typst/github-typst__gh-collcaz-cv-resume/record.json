@@ -1,0 +1,26 @@
+{
+  "id": "github-typst/gh-collcaz-cv-resume",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "cv",
+  "license": "MIT",
+  "source_url": "https://github.com/CollCaz/cv",
+  "original_author": "CollCaz",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/github-typst__gh-collcaz-cv-resume/resume.typ",
+  "relative_path": "processed/typst/github-typst__gh-collcaz-cv-resume/resume.typ",
+  "sha256": "118509ce54284c5588d261b55a4cf9f2f73fd2a50638705e31f5ba01f0c8ecb8",
+  "size_bytes": 4287,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 211,
+  "downloaded_at": "2026-08-02T14:21:20.149Z",
+  "filtered_at": "2026-08-02T17:34:44.680Z"
+}

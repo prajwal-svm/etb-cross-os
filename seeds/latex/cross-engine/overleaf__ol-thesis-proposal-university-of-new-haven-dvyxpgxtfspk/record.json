@@ -1,0 +1,33 @@
+{
+  "id": "overleaf/ol-thesis-proposal-university-of-new-haven-dvyxpgxtfspk",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "thesis",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/thesis-proposal-university-of-new-haven/dvyxpgxtfspk",
+  "original_author": null,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/overleaf__ol-thesis-proposal-university-of-new-haven-dvyxpgxtfspk/main.tex",
+  "relative_path": "processed/latex/cross-engine/overleaf__ol-thesis-proposal-university-of-new-haven-dvyxpgxtfspk/main.tex",
+  "sha256": "d67cf85240309115512b6611754cd0f8971cbe15ba4b03afe65733c956a1836c",
+  "size_bytes": 3713,
+  "document_class": "article",
+  "uses_packages": [
+    "geometry",
+    "hyperref",
+    "inputenc",
+    "mathabx",
+    "ragged2e",
+    "setspace"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 418,
+  "downloaded_at": "2026-08-02T14:11:01.227Z",
+  "filtered_at": "2026-08-02T17:34:41.995Z"
+}

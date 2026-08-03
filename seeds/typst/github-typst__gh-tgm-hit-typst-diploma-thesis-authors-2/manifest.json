@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-tgm-hit-typst-diploma-thesis-authors-2",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "thesis",
+  "license": "MIT",
+  "source_url": "https://github.com/TGM-HIT/typst-diploma-thesis",
+  "original_author": "TGM-HIT",
+  "stars": 5,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-tgm-hit-typst-diploma-thesis-authors-2/authors.typ",
+  "relative_path": "raw/github-typst/gh-tgm-hit-typst-diploma-thesis-authors-2/authors.typ",
+  "main_doc": "authors.typ",
+  "sha256": "e2211bd44867287cc1a36e7b1c6760109ff777ad7a8de69c6f71ed34f1ee0433",
+  "size_bytes": 1826,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "src/authors.typ",
+  "downloaded_at": "2026-08-02T14:07:27.016Z"
+}

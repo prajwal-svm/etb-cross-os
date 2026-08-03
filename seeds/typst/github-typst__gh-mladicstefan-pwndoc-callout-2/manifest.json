@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-mladicstefan-pwndoc-callout-2",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "report",
+  "license": "MIT",
+  "source_url": "https://github.com/mladicstefan/pwndoc",
+  "original_author": "mladicstefan",
+  "stars": 7,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-mladicstefan-pwndoc-callout-2/callout.typ",
+  "relative_path": "raw/github-typst/gh-mladicstefan-pwndoc-callout-2/callout.typ",
+  "main_doc": "callout.typ",
+  "sha256": "1583af414f753032dee5092cf6d710bdb9024a5d8280e2f2b601312cc3589c20",
+  "size_bytes": 620,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "components/callout.typ",
+  "downloaded_at": "2026-08-02T14:06:50.761Z"
+}

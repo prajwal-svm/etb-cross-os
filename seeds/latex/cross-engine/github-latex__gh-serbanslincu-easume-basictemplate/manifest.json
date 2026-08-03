@@ -1,0 +1,25 @@
+{
+  "id": "github-latex/gh-serbanslincu-easume-basictemplate",
+  "source": "github-latex",
+  "format": "latex",
+  "category": "cv",
+  "license": "MIT",
+  "source_url": "https://github.com/SerbanSlincu/easume",
+  "original_author": "SerbanSlincu",
+  "stars": 1,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-latex/gh-serbanslincu-easume-basictemplate/BasicTemplate.tex",
+  "relative_path": "raw/github-latex/gh-serbanslincu-easume-basictemplate/BasicTemplate.tex",
+  "main_doc": "BasicTemplate.tex",
+  "sha256": "4044d499fc6fca2a9149f6b0c3ccef63f4b5ce2ef7057cebe56deb9dc66b9e1a",
+  "size_bytes": 991,
+  "document_class": "article",
+  "uses_packages": [
+    "fontenc",
+    "geometry",
+    "mathptmx",
+    "tabularx",
+    "titlesec"
+  ],
+  "repo_path": "Template/src/BasicTemplate.tex",
+  "downloaded_at": "2026-08-02T13:39:23.784Z"
+}

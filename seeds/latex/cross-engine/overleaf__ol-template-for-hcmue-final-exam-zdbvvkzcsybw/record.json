@@ -1,0 +1,37 @@
+{
+  "id": "overleaf/ol-template-for-hcmue-final-exam-zdbvvkzcsybw",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "coursework",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/template-for-hcmue-final-exam/zdbvvkzcsybw",
+  "original_author": "N.L. Anh &amp; L.L. Hai",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/cross-engine/overleaf__ol-template-for-hcmue-final-exam-zdbvvkzcsybw/main.tex",
+  "relative_path": "processed/latex/cross-engine/overleaf__ol-template-for-hcmue-final-exam-zdbvvkzcsybw/main.tex",
+  "sha256": "bca180bd90fcab3a3fdaea4990f6e17657c7ea24c274c523271976f27c779275",
+  "size_bytes": 4857,
+  "document_class": "article",
+  "uses_packages": [
+    "amsfonts",
+    "amsmath",
+    "amssymb",
+    "enumitem",
+    "graphicx",
+    "indentfirst",
+    "longtable",
+    "mathrsfs",
+    "multirow",
+    "vietnam"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": true,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "cross-engine",
+  "compile_time_ms": 866,
+  "downloaded_at": "2026-08-02T14:23:39.376Z",
+  "filtered_at": "2026-08-02T17:34:41.915Z"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "github-latex/gh-martinstereo-cv-template-in-latex-cv-template",
+  "source": "github-latex",
+  "format": "latex",
+  "category": "cv",
+  "license": "Apache-2.0",
+  "source_url": "https://github.com/martinstereo/CV-Template-in-LaTeX",
+  "original_author": "martinstereo",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/engine-specific/github-latex__gh-martinstereo-cv-template-in-latex-cv-template/CV_template.tex",
+  "relative_path": "processed/latex/engine-specific/github-latex__gh-martinstereo-cv-template-in-latex-cv-template/CV_template.tex",
+  "sha256": "383cdcca64e1f222a2db2d761b691b451dba63eb5b185412541abcd93e1a0377",
+  "size_bytes": 3368,
+  "document_class": "article",
+  "uses_packages": [
+    "enumitem",
+    "fontawesome",
+    "geometry",
+    "hyperref",
+    "inputenc",
+    "multicol"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": true,
+    "xelatex": false,
+    "lualatex": true,
+    "typst": false
+  },
+  "engine_class": "engine-specific",
+  "compile_time_ms": 559,
+  "downloaded_at": "2026-08-02T13:44:53.434Z",
+  "filtered_at": "2026-08-02T17:34:43.129Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-wagaaa-hzau-typst-figures-2",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "thesis",
+  "license": "MIT",
+  "source_url": "https://github.com/wagaaa/HZAU_Typst",
+  "original_author": "wagaaa",
+  "stars": 0,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-wagaaa-hzau-typst-figures-2/figures.typ",
+  "relative_path": "raw/github-typst/gh-wagaaa-hzau-typst-figures-2/figures.typ",
+  "main_doc": "figures.typ",
+  "sha256": "14d3a7680dfe2ac15a7697fd50ec53e9723e2ef72751291e2dc4f6bbf27f80b3",
+  "size_bytes": 1796,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "dependents/figures.typ",
+  "downloaded_at": "2026-08-02T14:16:01.525Z"
+}

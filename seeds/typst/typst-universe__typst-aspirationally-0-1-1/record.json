@@ -1,0 +1,26 @@
+{
+  "id": "typst-universe/typst-aspirationally-0-1-1",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "cv",
+  "license": "MIT-0",
+  "source_url": "https://github.com/breezykermo/aspirationally",
+  "original_author": "Lachlan Kermode",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/typst-universe__typst-aspirationally-0-1-1/main.typ",
+  "relative_path": "processed/typst/typst-universe__typst-aspirationally-0-1-1/main.typ",
+  "sha256": "f29542c744fc845039f6ca9d63caded1b40a5db6fbc76be41e0a80b16ab12d84",
+  "size_bytes": 8034,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 157,
+  "downloaded_at": "2026-08-02T13:05:51.927Z",
+  "filtered_at": "2026-08-02T17:34:43.618Z"
+}

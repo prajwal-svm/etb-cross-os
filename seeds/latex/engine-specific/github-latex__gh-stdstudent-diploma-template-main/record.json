@@ -1,0 +1,31 @@
+{
+  "id": "github-latex/gh-stdstudent-diploma-template-main",
+  "source": "github-latex",
+  "format": "latex",
+  "category": "venue",
+  "license": "CC0-1.0",
+  "source_url": "https://github.com/stdStudent/diploma-template",
+  "original_author": "stdStudent",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/latex/engine-specific/github-latex__gh-stdstudent-diploma-template-main/main.tex",
+  "relative_path": "processed/latex/engine-specific/github-latex__gh-stdstudent-diploma-template-main/main.tex",
+  "sha256": "0d8a488bd44d243021170219b92ecaddac0cfa2334c6f3e9392c9dccd3294fe0",
+  "size_bytes": 795,
+  "document_class": "extarticle",
+  "uses_packages": [
+    "comment",
+    "hyperref",
+    "lipsum",
+    "tabularx"
+  ],
+  "compiled_engines": {
+    "tectonic": true,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": false
+  },
+  "engine_class": "engine-specific",
+  "compile_time_ms": 342,
+  "downloaded_at": "2026-08-02T13:47:56.550Z",
+  "filtered_at": "2026-08-02T17:34:43.418Z"
+}

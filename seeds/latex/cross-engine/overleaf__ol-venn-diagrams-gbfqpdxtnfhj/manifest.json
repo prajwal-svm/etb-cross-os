@@ -1,0 +1,22 @@
+{
+  "id": "overleaf/ol-venn-diagrams-gbfqpdxtnfhj",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "misc",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/venn-diagrams/gbfqpdxtnfhj",
+  "original_author": "stanley",
+  "title": "Venn Diagrams",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/overleaf/ol-venn-diagrams-gbfqpdxtnfhj/main.tex",
+  "relative_path": "raw/overleaf/ol-venn-diagrams-gbfqpdxtnfhj/main.tex",
+  "main_doc": "main.tex",
+  "sha256": "596eaa242e84c0132eff3f1b869f31b6233fe43f8e5d41e0986b6ac0e77de6ae",
+  "size_bytes": 1960,
+  "document_class": "article",
+  "uses_packages": [
+    "tikz"
+  ],
+  "download_method": "view-source-modal",
+  "github_url": null,
+  "downloaded_at": "2026-08-02T13:45:19.637Z"
+}

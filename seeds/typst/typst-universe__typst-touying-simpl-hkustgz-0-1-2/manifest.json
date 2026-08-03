@@ -1,0 +1,23 @@
+{
+  "id": "typst-universe/typst-touying-simpl-hkustgz-0-1-2",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "beamer",
+  "license": "MIT",
+  "source_url": "https://github.com/exAClior/touying-simpl-hkustgz",
+  "original_author": "Yusheng Zhao",
+  "package_name": "touying-simpl-hkustgz",
+  "package_version": "0.1.2",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/typst-universe/typst-touying-simpl-hkustgz-0-1-2/main.typ",
+  "relative_path": "raw/typst-universe/typst-touying-simpl-hkustgz-0-1-2/main.typ",
+  "main_doc": "main.typ",
+  "sha256": "30fe120e2f01252e4129c376cd13dc2c8d729cec888bd1c3f7d5b15725f20fe0",
+  "size_bytes": 777,
+  "document_class": null,
+  "uses_packages": [],
+  "downloaded_at": "2026-08-02T13:14:17.206Z",
+  "categories": [
+    "presentation"
+  ],
+  "description": "Touying Slide Theme for HKUST(GZ)"
+}

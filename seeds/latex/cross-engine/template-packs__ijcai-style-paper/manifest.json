@@ -1,0 +1,25 @@
+{
+  "id": "template-packs/ijcai-style-paper",
+  "source": "template-packs",
+  "format": "latex",
+  "category": "venue",
+  "category_raw": "Journals & Conferences",
+  "license": "CC0-1.0",
+  "source_url": "https://github.com/Oleafly/template-packs",
+  "original_author": "Oleafly",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/template-packs/ijcai-style-paper/main.tex",
+  "relative_path": "raw/template-packs/ijcai-style-paper/main.tex",
+  "main_doc": "main.tex",
+  "sha256": "f230fd4525e1f2db2b2c4abf647c9763019e89e2846427cac15f8a23f1967b8e",
+  "size_bytes": 3878,
+  "document_class": "article",
+  "uses_packages": [
+    "amsmath",
+    "amssymb",
+    "geometry",
+    "mathptmx",
+    "titlesec"
+  ],
+  "engine_hint": "xetex",
+  "downloaded_at": "2026-08-02T13:05:15.804Z"
+}

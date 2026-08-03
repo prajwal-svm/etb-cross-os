@@ -1,0 +1,30 @@
+{
+  "id": "overleaf/ol-ats-compatible-arabic-cv-template-wszkstpvzhgg",
+  "source": "overleaf",
+  "format": "latex",
+  "category": "cv",
+  "license": "CC-BY-4.0",
+  "source_url": "https://www.overleaf.com/latex/templates/ats-compatible-arabic-cv-template/wszkstpvzhgg",
+  "original_author": "Samr Al-Hawsawi",
+  "title": "ATS-Compatible Arabic CV Template",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/overleaf/ol-ats-compatible-arabic-cv-template-wszkstpvzhgg/main.tex",
+  "relative_path": "raw/overleaf/ol-ats-compatible-arabic-cv-template-wszkstpvzhgg/main.tex",
+  "main_doc": "main.tex",
+  "sha256": "8f39e974ea08e73a49f071cc6dec0db94d814627cddf6957c113e5d9129277c6",
+  "size_bytes": 6056,
+  "document_class": "article",
+  "uses_packages": [
+    "bidi",
+    "enumitem",
+    "fontawesome",
+    "fontspec",
+    "geometry",
+    "graphicx",
+    "hyperref",
+    "multicol",
+    "setspace"
+  ],
+  "download_method": "view-source-modal",
+  "github_url": null,
+  "downloaded_at": "2026-08-02T16:21:44.868Z"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "typst-universe/typst-starter-journal-article-0-5-1",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "venue",
+  "license": "MIT",
+  "source_url": "https://github.com/HPDell/typst-starter-journal-article",
+  "original_author": "HPDell",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/typst-universe__typst-starter-journal-article-0-5-1/main.typ",
+  "relative_path": "processed/typst/typst-universe__typst-starter-journal-article-0-5-1/main.typ",
+  "sha256": "8cbc92662879e127f3884c83bcceab7a9ba27b128d206e11a8b18c4e5ee56676",
+  "size_bytes": 767,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 241,
+  "downloaded_at": "2026-08-02T13:13:16.694Z",
+  "filtered_at": "2026-08-02T17:34:44.215Z"
+}

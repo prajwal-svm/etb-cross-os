@@ -1,0 +1,24 @@
+{
+  "id": "typst-universe/typst-german-fx-invoice-0-2-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "business",
+  "license": "MIT-0",
+  "source_url": "https://github.com/2color/typst-german-invoice",
+  "original_author": "Daniel Norman",
+  "package_name": "german-fx-invoice",
+  "package_version": "0.2.0",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/typst-universe/typst-german-fx-invoice-0-2-0/main.typ",
+  "relative_path": "raw/typst-universe/typst-german-fx-invoice-0-2-0/main.typ",
+  "main_doc": "main.typ",
+  "sha256": "66e28db9eb29e005133897628c90cc3946647a26a71cb4a74be6ee68bbeb35c4",
+  "size_bytes": 1752,
+  "document_class": null,
+  "uses_packages": [],
+  "downloaded_at": "2026-08-02T13:08:41.950Z",
+  "categories": [
+    "layout",
+    "office"
+  ],
+  "description": "Minimalistic invoice for freelancers based in Germany working with international customers with support for FX"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "typst-universe/typst-unofficial-cityu-phd-thesis-1-0-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "thesis",
+  "license": "MIT",
+  "source_url": "https://github.com/Lucas-Wye/typst-CityUHK-thesis",
+  "original_author": "Lucas-Wye",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/typst-universe__typst-unofficial-cityu-phd-thesis-1-0-0/cityu_thesis.typ",
+  "relative_path": "processed/typst/typst-universe__typst-unofficial-cityu-phd-thesis-1-0-0/cityu_thesis.typ",
+  "sha256": "fdbd66d799e20dc635890902f2511426f0b4d22cc8f39faba6915bdba99849ba",
+  "size_bytes": 1719,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 429,
+  "downloaded_at": "2026-08-02T13:15:08.877Z",
+  "filtered_at": "2026-08-02T17:34:44.361Z"
+}

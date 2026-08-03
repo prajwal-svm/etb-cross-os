@@ -1,0 +1,26 @@
+{
+  "id": "github-typst/gh-itesserakt-typst-bmstu-thesis-abstract-1",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "thesis",
+  "license": "MIT",
+  "source_url": "https://github.com/ITesserakt/typst-bmstu-thesis",
+  "original_author": "ITesserakt",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/processed/typst/github-typst__gh-itesserakt-typst-bmstu-thesis-abstract-1/abstract.typ",
+  "relative_path": "processed/typst/github-typst__gh-itesserakt-typst-bmstu-thesis-abstract-1/abstract.typ",
+  "sha256": "29f8293c622697514e84117ff5d0d54aff0cd5bda76cc09a36df7c19bb92f179",
+  "size_bytes": 2012,
+  "document_class": null,
+  "uses_packages": [],
+  "compiled_engines": {
+    "tectonic": false,
+    "pdflatex": false,
+    "xelatex": false,
+    "lualatex": false,
+    "typst": true
+  },
+  "engine_class": null,
+  "compile_time_ms": 8,
+  "downloaded_at": "2026-08-02T14:17:05.106Z",
+  "filtered_at": "2026-08-02T17:34:45.018Z"
+}

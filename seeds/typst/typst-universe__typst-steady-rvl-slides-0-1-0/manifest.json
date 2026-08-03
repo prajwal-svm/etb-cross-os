@@ -1,0 +1,23 @@
+{
+  "id": "typst-universe/typst-steady-rvl-slides-0-1-0",
+  "source": "typst-universe",
+  "format": "typst",
+  "category": "beamer",
+  "license": "MIT",
+  "source_url": "https://github.com/chiwei085/RVL-Typst-Template",
+  "original_author": "Chi Wei Yeh",
+  "package_name": "steady-rvl-slides",
+  "package_version": "0.1.0",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/typst-universe/typst-steady-rvl-slides-0-1-0/main.typ",
+  "relative_path": "raw/typst-universe/typst-steady-rvl-slides-0-1-0/main.typ",
+  "main_doc": "main.typ",
+  "sha256": "c99613376f82d745cbb426838f8057a47b090d079c43e28732d97fdef8a0a5d2",
+  "size_bytes": 886,
+  "document_class": null,
+  "uses_packages": [],
+  "downloaded_at": "2026-08-02T13:13:25.215Z",
+  "categories": [
+    "presentation"
+  ],
+  "description": "RVL group meeting slides built on Touying."
+}

@@ -1,0 +1,19 @@
+{
+  "id": "github-typst/gh-hexwars-resume-resume-1",
+  "source": "github-typst",
+  "format": "typst",
+  "category": "cv",
+  "license": "MIT",
+  "source_url": "https://github.com/hexWars/resume",
+  "original_author": "hexWars",
+  "stars": 17,
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/github-typst/gh-hexwars-resume-resume-1/resume.typ",
+  "relative_path": "raw/github-typst/gh-hexwars-resume-resume-1/resume.typ",
+  "main_doc": "resume.typ",
+  "sha256": "0e816542eff4d5e8d3a9125a6cfb88f72d640d790045986c6f2f6f491c3b8b1e",
+  "size_bytes": 867,
+  "document_class": null,
+  "uses_packages": [],
+  "repo_path": "typst/resume.typ",
+  "downloaded_at": "2026-08-02T14:05:15.009Z"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "ctan/ctan-pgfplots-pgfplotsexample",
+  "source": "ctan",
+  "format": "latex",
+  "category": "coursework",
+  "license": "LPPL-1.3c",
+  "source_url": "https://ctan.org/pkg/pgfplots",
+  "original_author": "CTAN package: pgfplots",
+  "package": "pgfplots",
+  "original_path": "/usr/local/texlive/2025/texmf-dist/doc/latex/pgfplots/pgfplotsexample.tex",
+  "file_path": "/Users/prajwalsvenkatesh/Codespace/Oleafly/oleafly-desktop/.private/papers/texfix-bench/dataset/raw/ctan/ctan-pgfplots-pgfplotsexample/pgfplotsexample.tex",
+  "relative_path": "raw/ctan/ctan-pgfplots-pgfplotsexample/pgfplotsexample.tex",
+  "main_doc": "pgfplotsexample.tex",
+  "sha256": "ac87129384da28c4c23cb806f95bfbb07b3d0024c6f289c1a18fa9aa968cdf2e",
+  "size_bytes": 1195,
+  "document_class": "article",
+  "uses_packages": [
+    "pgfplots"
+  ],
+  "downloaded_at": "2026-08-02T13:04:42.530Z"
+}
