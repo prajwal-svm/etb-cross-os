@@ -7,6 +7,7 @@ Public harness for **Engine-Transfer-Bench** multi-platform validation.
 | macOS arm64 | Collected in private paper repo |
 | **ubuntu-latest** | GitHub Actions (this repo) |
 | **windows-latest** | GitHub Actions (this repo) |
+| **macos-latest** (GHA) | GitHub Actions audit run (compare to local) |
 
 ## What this measures
 
@@ -41,6 +42,8 @@ node harness/compile-all.mjs \
 
 Actions → **Cross-OS Compilation** → **Run workflow**  
 Optional `limit` input: `5` for smoke, `0` for full corpus.
+
+`target_os`: `all` | `ubuntu` | `windows` | `macos` | `both` (ubuntu+windows).
 
 Artifacts: `etb-results-ubuntu-x64` and `etb-results-windows-x64` JSONL files.
 

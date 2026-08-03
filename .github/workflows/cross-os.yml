@@ -16,22 +16,25 @@ on:
         required: false
         default: 'false'
       target_os:
-        description: 'Which OS matrix jobs to run'
+        description: 'Which OS matrix jobs to run (macos = GHA macos-latest for audit vs local)'
         required: false
-        default: 'both'
+        default: 'all'
         type: choice
         options:
-          - both
+          - all
           - ubuntu
           - windows
+          - macos
+          - both
 
 jobs:
   compile:
     strategy:
       fail-fast: false
-      # Dynamic matrix so we can re-run Windows alone without redoing Ubuntu.
+      # Dynamic matrix: re-run a single OS without redoing the others.
+      # "both" kept as alias for ubuntu+windows (legacy). "all" = ubuntu+windows+macos.
       matrix:
-        include: ${{ fromJSON(inputs.target_os == 'ubuntu' && '[{"os":"ubuntu-latest","label":"ubuntu-x64"}]' || (inputs.target_os == 'windows' && '[{"os":"windows-latest","label":"windows-x64"}]' || '[{"os":"ubuntu-latest","label":"ubuntu-x64"},{"os":"windows-latest","label":"windows-x64"}]')) }}
+        include: ${{ fromJSON(inputs.target_os == 'ubuntu' && '[{"os":"ubuntu-latest","label":"ubuntu-x64"}]' || (inputs.target_os == 'windows' && '[{"os":"windows-latest","label":"windows-x64"}]' || (inputs.target_os == 'macos' && '[{"os":"macos-latest","label":"macos-arm64"}]' || (inputs.target_os == 'both' && '[{"os":"ubuntu-latest","label":"ubuntu-x64"},{"os":"windows-latest","label":"windows-x64"}]' || '[{"os":"ubuntu-latest","label":"ubuntu-x64"},{"os":"windows-latest","label":"windows-x64"},{"os":"macos-latest","label":"macos-arm64"}]')))) }}
     runs-on: ${{ matrix.os }}
     timeout-minutes: 360
 
@@ -79,6 +82,30 @@ jobs:
           }
           & "$env:USERPROFILE\.local\bin\tectonic.exe" --version
 
+      - name: Install Tectonic (macOS)
+        if: runner.os == 'macOS'
+        run: |
+          set -e
+          # Prefer Homebrew (handles arm64/x64); fall back to release binary.
+          if command -v brew >/dev/null 2>&1; then
+            brew install tectonic || true
+          fi
+          if ! command -v tectonic >/dev/null 2>&1; then
+            ARCH=$(uname -m)
+            if [ "$ARCH" = "arm64" ]; then
+              ASSET="tectonic-0.15.0-aarch64-apple-darwin.tar.gz"
+            else
+              ASSET="tectonic-0.15.0-x86_64-apple-darwin.tar.gz"
+            fi
+            curl -fsSL -o tectonic.tar.gz \
+              "https://github.com/tectonic-typesetting/tectonic/releases/download/tectonic%400.15.0/${ASSET}"
+            tar -xzf tectonic.tar.gz
+            mkdir -p "$HOME/.local/bin"
+            mv tectonic "$HOME/.local/bin/" || mv tectonic-*/tectonic "$HOME/.local/bin/"
+            echo "$HOME/.local/bin" >> "$GITHUB_PATH"
+          fi
+          tectonic --version
+
       # ---------- Typst ----------
       - name: Install Typst (Linux)
         if: runner.os == 'Linux' && inputs.skip_typst != 'true'
@@ -109,6 +136,31 @@ jobs:
           Copy-Item $bin.FullName "$env:USERPROFILE\.local\bin\typst.exe" -Force
           Add-Content $env:GITHUB_PATH "$env:USERPROFILE\.local\bin"
           & "$env:USERPROFILE\.local\bin\typst.exe" --version
+
+      - name: Install Typst (macOS)
+        if: runner.os == 'macOS' && inputs.skip_typst != 'true'
+        run: |
+          set -e
+          if command -v brew >/dev/null 2>&1; then
+            brew install typst || true
+          fi
+          if ! command -v typst >/dev/null 2>&1; then
+            ARCH=$(uname -m)
+            if [ "$ARCH" = "arm64" ]; then
+              ASSET="typst-aarch64-apple-darwin.tar.xz"
+            else
+              ASSET="typst-x86_64-apple-darwin.tar.xz"
+            fi
+            curl -fsSL -o typst.tar.xz \
+              "https://github.com/typst/typst/releases/download/v0.13.1/${ASSET}" \
+              || curl -fsSL -o typst.tar.xz \
+              "https://github.com/typst/typst/releases/latest/download/${ASSET}"
+            tar -xf typst.tar.xz
+            mkdir -p "$HOME/.local/bin"
+            install -m 755 typst-*/typst "$HOME/.local/bin/typst"
+            echo "$HOME/.local/bin" >> "$GITHUB_PATH"
+          fi
+          typst --version
 
       # ---------- TeX engines ----------
       - name: Install TeX Live subset (Linux)
@@ -210,6 +262,44 @@ jobs:
           # poppler for pdftotext (optional; non-fatal)
           choco install poppler -y --no-progress 2>$null
           if ($LASTEXITCODE -ne 0) { Write-Host "WARN: poppler choco install failed (non-fatal)" }
+
+      # BasicTeX + collections (smaller than full MacTeX). CI Mac is often slower
+      # than a developer laptop — useful for audit / reproducibility, not timing.
+      - name: Install BasicTeX (macOS)
+        if: runner.os == 'macOS'
+        run: |
+          set -e
+          brew install --cask basictex
+          # Make tlmgr / engines visible in this job
+          echo "/Library/TeX/texbin" >> "$GITHUB_PATH"
+          export PATH="/Library/TeX/texbin:$PATH"
+          # tlmgr needs elevated path after fresh BasicTeX install
+          sudo /Library/TeX/texbin/tlmgr update --self --all || \
+            sudo tlmgr update --self || true
+          # Core packages used by ETB latex seeds (mirrors Ubuntu apt subset intent)
+          sudo /Library/TeX/texbin/tlmgr install \
+            collection-latex \
+            collection-latexrecommended \
+            collection-latexextra \
+            collection-fontsrecommended \
+            collection-fontsextra \
+            collection-mathscience \
+            collection-pictures \
+            collection-publishers \
+            collection-bibtexextra \
+            collection-xetex \
+            collection-luatex \
+            lm \
+            || sudo tlmgr install collection-latexextra collection-fontsrecommended collection-xetex collection-luatex
+          brew install poppler || true
+          which pdflatex xelatex lualatex pdftotext || true
+          pdflatex --version | head -1
+          xelatex --version | head -1
+          lualatex --version | head -1
+          # Record runner identity for audit
+          uname -a
+          sysctl -n machdep.cpu.brand_string 2>/dev/null || true
+          echo "HOST_LABEL will be: ${{ matrix.label }}"
 
       - name: Pre-warm Tectonic
         shell: bash
