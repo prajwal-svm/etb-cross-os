@@ -15,6 +15,15 @@ on:
         description: 'LaTeX only (true/false)'
         required: false
         default: 'false'
+      target_os:
+        description: 'Which OS matrix jobs to run'
+        required: false
+        default: 'both'
+        type: choice
+        options:
+          - both
+          - ubuntu
+          - windows
 
 jobs:
   compile:
@@ -24,8 +33,14 @@ jobs:
         include:
           - os: ubuntu-latest
             label: ubuntu-x64
+            key: ubuntu
           - os: windows-latest
             label: windows-x64
+            key: windows
+    # target_os lets us re-run Windows without redoing Ubuntu
+    if: >-
+      inputs.target_os == 'both' ||
+      inputs.target_os == matrix.key
     runs-on: ${{ matrix.os }}
     timeout-minutes: 360
 
@@ -130,23 +145,80 @@ jobs:
           xelatex --version | head -1
           lualatex --version | head -1
 
+      # Chocolatey miktex.install is flaky on GHA (package-set download often fails).
+      # Use the official Basic MiKTeX silent installer instead.
       - name: Install MiKTeX (Windows)
         if: runner.os == 'Windows'
         shell: pwsh
         run: |
-          choco install miktex -y --no-progress
-          $miktex = "C:\Program Files\MiKTeX\miktex\bin\x64"
-          if (-not (Test-Path $miktex)) {
-            $miktex = "C:\Program Files\MiKTeX\miktex\bin"
+          $ErrorActionPreference = "Stop"
+          $urls = @(
+            "https://miktex.org/download/ctan/systems/win32/miktex/setup/windows-x64/basic-miktex-25.12-x64.exe",
+            "https://mirror.ctan.org/systems/win32/miktex/setup/windows-x64/basic-miktex-25.12-x64.exe",
+            "https://mirrors.mit.edu/CTAN/systems/win32/miktex/setup/windows-x64/basic-miktex-25.12-x64.exe"
+          )
+          $installer = Join-Path $env:RUNNER_TEMP "basic-miktex.exe"
+          $downloaded = $false
+          foreach ($url in $urls) {
+            try {
+              Write-Host "Downloading MiKTeX from $url"
+              Invoke-WebRequest -Uri $url -OutFile $installer -UseBasicParsing
+              if ((Get-Item $installer).Length -gt 50MB) { $downloaded = $true; break }
+            } catch {
+              Write-Host "Download failed: $_"
+            }
           }
+          if (-not $downloaded) { throw "Could not download Basic MiKTeX installer from any mirror" }
+
+          Write-Host "Running silent MiKTeX install (~142MB basic set)..."
+          # --unattended: no UI; --auto-install=yes: on-the-fly packages; --shared: Program Files
+          $p = Start-Process -FilePath $installer -ArgumentList @(
+            "--unattended",
+            "--auto-install=yes",
+            "--shared",
+            "--package-set=basic"
+          ) -Wait -PassThru -NoNewWindow
+          Write-Host "Installer exit code: $($p.ExitCode)"
+          if ($p.ExitCode -ne 0) {
+            # retry without package-set flag (some installer builds differ)
+            $p2 = Start-Process -FilePath $installer -ArgumentList @(
+              "--unattended",
+              "--auto-install=yes",
+              "--shared"
+            ) -Wait -PassThru -NoNewWindow
+            Write-Host "Retry exit code: $($p2.ExitCode)"
+            if ($p2.ExitCode -ne 0) { throw "MiKTeX installer failed with exit $($p2.ExitCode)" }
+          }
+
+          $candidates = @(
+            "C:\Program Files\MiKTeX\miktex\bin\x64",
+            "C:\Program Files\MiKTeX\miktex\bin",
+            "C:\Program Files (x86)\MiKTeX\miktex\bin\x64",
+            "$env:LOCALAPPDATA\Programs\MiKTeX\miktex\bin\x64",
+            "$env:APPDATA\MiKTeX\miktex\bin\x64"
+          )
+          $miktex = $candidates | Where-Object { Test-Path (Join-Path $_ "pdflatex.exe") } | Select-Object -First 1
+          if (-not $miktex) {
+            Write-Host "Searching for pdflatex.exe..."
+            $found = Get-ChildItem -Path "C:\Program Files","C:\Program Files (x86)",$env:LOCALAPPDATA -Filter pdflatex.exe -Recurse -ErrorAction SilentlyContinue | Select-Object -First 1
+            if ($found) { $miktex = $found.DirectoryName }
+          }
+          if (-not $miktex) { throw "MiKTeX installed but pdflatex.exe not found on PATH locations" }
+
+          Write-Host "MiKTeX bin: $miktex"
           Add-Content $env:GITHUB_PATH $miktex
-          # poppler via chocolatey if available
-          choco install poppler -y --no-progress || true
-          # MiKTeX auto-install packages
+          $env:Path = "$miktex;$env:Path"
+
+          # Auto-install missing packages (expected finding vs Ubuntu apt TeX Live)
           & "$miktex\initexmf.exe" --set-config-value=[MPM]AutoInstall=1
+          & "$miktex\initexmf.exe" --update-fndb
           & "$miktex\pdflatex.exe" --version
           & "$miktex\xelatex.exe" --version
           & "$miktex\lualatex.exe" --version
+
+          # poppler for pdftotext (optional; non-fatal)
+          choco install poppler -y --no-progress 2>$null
+          if ($LASTEXITCODE -ne 0) { Write-Host "WARN: poppler choco install failed (non-fatal)" }
 
       - name: Pre-warm Tectonic
         shell: bash
