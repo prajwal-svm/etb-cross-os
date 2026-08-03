@@ -230,7 +230,17 @@ async function main() {
         if (!row.success) failures++;
         if (row.success && row._text != null) engineTexts[engine] = row._text;
 
-        if (compiled % 25 === 0) {
+        // Heartbeat every compile that is slow/timeout so CI never looks "stuck"
+        // for minutes with no log (this is what made the macOS hang look dead).
+        const wall = row.wall_time_ms || 0;
+        if (row.timeout || wall >= 45_000) {
+          log(
+            `slow ${engine} ${doc.id} wall=${(wall / 1000).toFixed(1)}s success=${row.success} timeout=${!!row.timeout} err=${row.error_type || ''}`,
+            logsDir,
+          );
+        }
+
+        if (compiled % 10 === 0 || row.timeout) {
           const elapsed = ((Date.now() - t0) / 1000).toFixed(1);
           log(
             `progress latex ${i + 1}/${latexDocs.length} | ${compiled} compiles | ${failures} fails | ${elapsed}s`,
@@ -243,6 +253,8 @@ async function main() {
             compiled,
             failures,
             elapsed_s: Number(elapsed),
+            last_doc: doc.id,
+            last_engine: engine,
           });
         }
       }

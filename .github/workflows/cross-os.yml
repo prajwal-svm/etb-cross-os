@@ -36,7 +36,9 @@ jobs:
       matrix:
         include: ${{ fromJSON(inputs.target_os == 'ubuntu' && '[{"os":"ubuntu-latest","label":"ubuntu-x64"}]' || (inputs.target_os == 'windows' && '[{"os":"windows-latest","label":"windows-x64"}]' || (inputs.target_os == 'macos' && '[{"os":"macos-latest","label":"macos-arm64"}]' || (inputs.target_os == 'both' && '[{"os":"ubuntu-latest","label":"ubuntu-x64"},{"os":"windows-latest","label":"windows-x64"}]' || '[{"os":"ubuntu-latest","label":"ubuntu-x64"},{"os":"windows-latest","label":"windows-x64"},{"os":"macos-latest","label":"macos-arm64"}]')))) }}
     runs-on: ${{ matrix.os }}
-    timeout-minutes: 360
+    # Full corpus ~4k sequential compiles. Windows MiKTeX + macOS can exceed 4h.
+    # Hard per-compile kill is 60s; job budget is the remaining risk.
+    timeout-minutes: 480
 
     steps:
       - uses: actions/checkout@v4

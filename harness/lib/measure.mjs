@@ -45,59 +45,129 @@ export const ENV_PATH = [
  * @param {string[]} args
  * @param {{ cwd?: string, timeoutMs?: number, env?: Record<string,string> }} [opts]
  */
+/**
+ * Kill a spawned process and its descendants.
+ *
+ * Root cause of the GHA macOS hang: a plain child.kill('SIGKILL') does NOT kill
+ * grandchildren (xetex/fontspec/tectonic workers). Missing CJK fonts (STHeiti,
+ * STFangsong, ctex mac fontset) left engines alive for ~80–100 minutes per
+ * compile even after the 60s "timeout" flag was set — until someone cancelled
+ * the job. Ubuntu/Windows were fine because those font paths fail fast or
+ * MiKTeX aborts quickly.
+ *
+ * Fix: new process group on Unix + process-group SIGKILL; taskkill /T on
+ * Windows; hard deadline that resolves the Promise even if close never fires.
+ */
+function killProcessTree(child) {
+  if (!child || child.killed) {
+    /* still try group kill below */
+  }
+  const pid = child?.pid;
+  if (!pid) return;
+
+  if (process.platform === 'win32') {
+    try {
+      spawn('taskkill', ['/pid', String(pid), '/T', '/F'], {
+        stdio: 'ignore',
+        windowsHide: true,
+      });
+    } catch {
+      try {
+        child.kill();
+      } catch {
+        /* ignore */
+      }
+    }
+    return;
+  }
+
+  // Unix: kill the whole process group (requires detached: true at spawn)
+  try {
+    process.kill(-pid, 'SIGKILL');
+  } catch {
+    /* not a group leader or already dead */
+  }
+  try {
+    child.kill('SIGKILL');
+  } catch {
+    /* ignore */
+  }
+  // Last resort: pkill children by parent pid (macOS / Linux)
+  try {
+    spawn('pkill', ['-9', '-P', String(pid)], { stdio: 'ignore' });
+  } catch {
+    /* ignore */
+  }
+}
+
 export function runCmd(cmd, args, opts = {}) {
   const timeoutMs = opts.timeoutMs ?? COMPILE_TIMEOUT_MS;
+  const hardGraceMs = opts.hardGraceMs ?? 3_000;
   const cwd = opts.cwd || process.cwd();
-  const env = { ...process.env, PATH: ENV_PATH, ...(opts.env || {}) };
+  // Non-interactive TeX / fontconfig: never block on a TTY prompt in CI
+  const env = {
+    ...process.env,
+    PATH: ENV_PATH,
+    CI: process.env.CI || '1',
+    NONINTERACTIVE: '1',
+    // kpathsea / tlmgr style
+    TEXLIVE_INSTALL_ENV_NOCHECK: '1',
+    // Avoid fontconfig cache rebuild storms where possible
+    FC_DEBUG: '0',
+    ...(opts.env || {}),
+  };
 
   return new Promise((resolvePromise) => {
     const start = process.hrtime.bigint();
     const cpuStart = process.cpuUsage();
+    // detached → new process group on Unix so we can SIGKILL the whole tree
     const child = spawn(cmd, args, {
       cwd,
       env,
       stdio: ['ignore', 'pipe', 'pipe'],
+      detached: process.platform !== 'win32',
+      windowsHide: true,
     });
 
     let stdout = '';
     let stderr = '';
     let killed = false;
     let settled = false;
+    let timer = null;
+    let hardTimer = null;
 
     const finish = (payload) => {
       if (settled) return;
       settled = true;
-      clearTimeout(timer);
+      if (timer) clearTimeout(timer);
+      if (hardTimer) clearTimeout(hardTimer);
       const end = process.hrtime.bigint();
       const wall_time_ms = Number(end - start) / 1e6;
-      // process.cpuUsage delta is for the parent Node process, not the child.
-      // Prefer resourceUsage when available (Node may expose it on close in future);
-      // for now wall_time is authoritative; cpu_time_ms may be null.
       const cpuDelta = process.cpuUsage(cpuStart);
       resolvePromise({
         ...payload,
         wall_time_ms,
-        // Approximate: parent overhead only; child CPU not available via spawn Promise API.
-        // Overwritten below if we capture from /usr/bin/time when available.
         cpu_time_ms: null,
         parent_cpu_user_us: cpuDelta.user,
         parent_cpu_system_us: cpuDelta.system,
       });
     };
 
-    const timer = setTimeout(() => {
+    timer = setTimeout(() => {
       killed = true;
-      try {
-        child.kill('SIGKILL');
-      } catch {
-        /* ignore */
-      }
-      // Ensure process group cleanup on unix if child spawned grandchildren
-      try {
-        if (child.pid) process.kill(-child.pid, 'SIGKILL');
-      } catch {
-        /* ignore */
-      }
+      killProcessTree(child);
+      // Never block the harness waiting for a stuck close event.
+      hardTimer = setTimeout(() => {
+        finish({
+          code: 124,
+          stdout,
+          stderr:
+            (stderr || '') +
+            `\n[etb-harness] hard timeout after ${timeoutMs + hardGraceMs}ms (process tree kill)`,
+          timedOut: true,
+          error: `hard timeout after ${timeoutMs + hardGraceMs}ms`,
+        });
+      }, hardGraceMs);
     }, timeoutMs);
 
     child.stdout.on('data', (d) => {
